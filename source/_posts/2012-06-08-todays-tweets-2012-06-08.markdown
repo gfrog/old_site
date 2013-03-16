@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2012-06-08 23:59:00
+layout: post
+slug: todays-tweets-2012-06-08
+title: Today's tweets 2012-06-08
+wordpress_id: 2568
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:01:15, 2012-06-08](http://twitter.com/gfrog/statuses/210899254493970434)
+
+
+
+
+
+  * 水木17年站衫预订中，想去搞一套了。 [10:28:55, 2012-06-08](http://twitter.com/gfrog/statuses/210921318416269314)
+
+
+
+
+
+  * cmake套件看起来很屌的样子哦。 [14:52:36, 2012-06-08](http://twitter.com/gfrog/statuses/210987676789260289)
+
+
+
+
+
+  * 现在用cpp写hello world都不会，竟然要调kde的程序，尼玛封装了一层又一层啊。 还好记得cout是个神马玩意。 [15:12:51, 2012-06-08](http://twitter.com/gfrog/statuses/210992770595307520)
+
+
+
+
+
+  * 郁闷了好几个月的问题终于被我找到原因了，哈哈。从crond里运行的kdialog程序找不到dbus session，所以丫fallback到了KPassivePopup类里面，这个古老的玩意只能在屏幕中心画一个丑了吧唧的框框。 [16:07:44, 2012-06-08](http://twitter.com/gfrog/statuses/211006582308339712)
+
+
+
+
+
+  * 既然知道问题所在了，直接在环境变量里加一个当前dbus的address就成了。 export DBUS_SESSION_BUS_ADDRESS=balabala [16:08:26, 2012-06-08](http://twitter.com/gfrog/statuses/211006758678839296)
+
+
+
+

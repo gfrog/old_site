@@ -1,0 +1,258 @@
+---
+comments: true
+date: 2011-10-10 01:00:00
+layout: post
+slug: todays-tweets-2011-10-10
+title: Today's tweets 2011-10-10
+wordpress_id: 1884
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 订购一套英雄无敌VI的豪华版，卓越上免运费，淘宝上运费20，真够坑爹的。 [00:20:19, 2011-10-10](http://twitter.com/gfrog/statuses/123070296025612288)
+
+
+
+
+
+  * RT [@ouland](http://twitter.com/ouland): 手机访问：http://t.co/0PVZ0XtZ 可能适合你。RT [@coolcfan](http://twitter.com/coolcfan):  233 RT [@gamtin](http://twitter.com/gamtin): Android的Gmail、菜市场已经好几天不能访问了。方校长，我问候你全家女性！ [10:18:04, 2011-10-10](http://twitter.com/gfrog/statuses/123220724302364672)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 我已经无语了，GTK的python binding不给力竟然怪到了python头上。。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/123222170028621824) [10:26:12, 2011-10-10](http://twitter.com/gfrog/statuses/123222769096851456)
+
+
+
+
+
+  * 周末的Fedora Day，有木有人一起去围观哪？ [10:32:35, 2011-10-10](http://twitter.com/gfrog/statuses/123224378929463297)
+
+
+
+
+
+  * 唉，就因为个notify的问题就要重装系统，是不是太折腾了，估计是某些包木有删除干净，但是怎么从将近2k个已安装包里找出这个捣蛋的。。。。 [10:49:51, 2011-10-10](http://twitter.com/gfrog/statuses/123228723016249345)
+
+
+
+
+
+  * 越来越觉得自己土鳖的掉渣，竟然不会搞git检出远程branch竟。。。 [11:28:18, 2011-10-10](http://twitter.com/gfrog/statuses/123238397316829184)
+
+
+
+
+
+  * RT [@GossipSama](http://twitter.com/GossipSama): From 微博 @陆晓逊:那天和父母吃饭，谈起我小学两袖清风去上学，忘带书包的事。但因为家和学校只隔一墙，于是跑到墙遍大喊，父亲就从三楼家里把书包扔过来，说起来这也算是翻墙发数据包的行为吧 [12:29:23, 2011-10-10](http://twitter.com/gfrog/statuses/123253769029947394)
+
+
+
+
+
+  * 艹节？ laf [12:37:38, 2011-10-10](http://twitter.com/gfrog/statuses/123255847894794240)
+
+
+
+
+
+  * chromium现在还有哪里能找到daily build嘛？ ppa上的竟然不更新了。 难道真的逼我找台机器自己编译。。。 [13:35:12, 2011-10-10](http://twitter.com/gfrog/statuses/123270333770899457)
+
+
+
+
+
+  * [@kareguing](http://twitter.com/kareguing) 啧啧，车真多~ [in reply to kareguing](http://twitter.com/kareguing/statuses/123276326646980608) [14:02:07, 2011-10-10](http://twitter.com/gfrog/statuses/123277107601227776)
+
+
+
+
+
+  * [@kareguing](http://twitter.com/kareguing) 真幸福！！！ [in reply to kareguing](http://twitter.com/kareguing/statuses/123279923942141952) [14:17:27, 2011-10-10](http://twitter.com/gfrog/statuses/123280967451426816)
+
+
+
+
+
+  * [@kareguing](http://twitter.com/kareguing) 啧啧，羡慕嫉妒恨 [in reply to kareguing](http://twitter.com/kareguing/statuses/123282123619708928) [14:24:41, 2011-10-10](http://twitter.com/gfrog/statuses/123282786097438720)
+
+
+
+
+
+  * RT [@librevim](http://twitter.com/librevim): [GReader Share]CyanogenMod 7.1正式版发布 包含最新Android系统2.3.7 - [http://t.co/opRVfCpL](http://t.co/opRVfCpL) [15:03:09, 2011-10-10](http://twitter.com/gfrog/statuses/123292465158569985)
+
+
+
+
+
+  * 要不要刷个2.3.7耍耍呢。。。 不知道2.3系统现在耗电情况如何。 [15:03:38, 2011-10-10](http://twitter.com/gfrog/statuses/123292587925831680)
+
+
+
+
+
+  * 另外最近俺总算发现手机内存为神马总是不够用，原来没做data2sd [15:04:05, 2011-10-10](http://twitter.com/gfrog/statuses/123292702434541568)
+
+
+
+
+
+  * 有专门的设备干这个，淘宝上搜。 RT [@gamtin](http://twitter.com/gamtin): 这个不会。扩散一下 RT: [@seere999](http://twitter.com/seere999): [@gamtin](http://twitter.com/gamtin) 请教个事情，你能改鼠标驱动不？我想让鼠标干点别的事。在就是一台PC上接2个鼠标怎么能区分开（一个继续鼠标的作用另一个干点别的互相不干扰）？ 期待回复 [15:07:57, 2011-10-10](http://twitter.com/gfrog/statuses/123293674728722432)
+
+
+
+
+
+  * 昨天 smzdm.com 上面说那个米国眼镜网站上，俺看好了一个钛架，可惜忘了眼睛度数，没下订单。。。 $38一枚带镜片的钛架，好便宜啊 [15:15:04, 2011-10-10](http://twitter.com/gfrog/statuses/123295464278863872)
+
+
+
+
+
+  * [@seere999](http://twitter.com/seere999) [@gamtin](http://twitter.com/gamtin) 原来不用特殊硬件也可以做， [http://t.co/4OJfsnBE](http://t.co/4OJfsnBE) [in reply to seere999](http://twitter.com/seere999/statuses/123295082920148992) [15:18:48, 2011-10-10](http://twitter.com/gfrog/statuses/123296404385972224)
+
+
+
+
+
+  * [@librevim](http://twitter.com/librevim) 之前尝试2.3很杯具，电池掉电极快，不知道现在改的怎么样了。 [in reply to librevim](http://twitter.com/librevim/statuses/123295343092842496) [15:19:16, 2011-10-10](http://twitter.com/gfrog/statuses/123296523353210881)
+
+
+
+
+
+  * [@librevim](http://twitter.com/librevim) 好吧，晚上捣鼓一下 [in reply to librevim](http://twitter.com/librevim/statuses/123297655660093440) [15:26:01, 2011-10-10](http://twitter.com/gfrog/statuses/123298222776127488)
+
+
+
+
+
+  * 哎呀呀，今晚又要捣鼓chromium编译又要捣鼓手机，会有时间出去刷奥园嘛。。。 [15:26:32, 2011-10-10](http://twitter.com/gfrog/statuses/123298351096659968)
+
+
+
+
+
+  * [@seere999](http://twitter.com/seere999) [@gamtin](http://twitter.com/gamtin) 诡异的需求，当然这也能搞，有这种游戏设备，上边带10多个可编程按钮。 [in reply to seere999](http://twitter.com/seere999/statuses/123299541163311104) [15:32:27, 2011-10-10](http://twitter.com/gfrog/statuses/123299839013425152)
+
+
+
+
+
+  * [@ouland](http://twitter.com/ouland) 赶脚如何？ 电池掉了多少？ [in reply to ouland](http://twitter.com/ouland/statuses/123298858259333120) [15:39:31, 2011-10-10](http://twitter.com/gfrog/statuses/123301620900573184)
+
+
+
+
+
+  * [@seere999](http://twitter.com/seere999) [@gamtin](http://twitter.com/gamtin) [http://t.co/WlJuebCP](http://t.co/WlJuebCP) [http://t.co/Yt1gvSRT](http://t.co/Yt1gvSRT) [in reply to seere999](http://twitter.com/seere999/statuses/123299541163311104) [15:40:58, 2011-10-10](http://twitter.com/gfrog/statuses/123301985679179776)
+
+
+
+
+
+  * [@ouland](http://twitter.com/ouland) 似乎还不错，要是比2.2呢？ [in reply to ouland](http://twitter.com/ouland/statuses/123302285722927104) [15:43:59, 2011-10-10](http://twitter.com/gfrog/statuses/123302744240037889)
+
+
+
+
+
+  * [@ouland](http://twitter.com/ouland) 哎呀呀，hold不住了，刷机刷机。顺路开data2sd [in reply to ouland](http://twitter.com/ouland/statuses/123304091295301632) [15:52:49, 2011-10-10](http://twitter.com/gfrog/statuses/123304966080315392)
+
+
+
+
+
+  * oops，公司新主页上线失败。晕，虽然不是搞互联网的，但是也别搞的这么不professional好不好。 [15:57:48, 2011-10-10](http://twitter.com/gfrog/statuses/123306220785373185)
+
+
+
+
+
+  * 奇怪，为咩俺里程碑的recovery不好用了哪，我啥也木有改过啊。 [16:18:33, 2011-10-10](http://twitter.com/gfrog/statuses/123311442626756609)
+
+
+
+
+
+  * 跟中国人用英文交流，这是蛋疼嘛。。。 [17:04:15, 2011-10-10](http://twitter.com/gfrog/statuses/123322941319548928)
+
+
+
+
+
+  * RT [@RegulusW](http://twitter.com/RegulusW): 当我这个路痴出门在外却连用个gmap都要挂vpn的时候，几天来的怨念终于要爆发了… [17:34:10, 2011-10-10](http://twitter.com/gfrog/statuses/123330471202521089)
+
+
+
+
+
+  * 转： 砖家建议：每当老公感到烦心、沮丧、失望、无力的时候，贤惠的妻子便什么也不说，只是默默地跑去把信用卡刷爆，然后把账单偷偷放在他的床头，他便会立刻重新拥有奋斗的勇气和力量。得妻如此，夫复何求啊！ [17:44:17, 2011-10-10](http://twitter.com/gfrog/statuses/123333019217039360)
+
+
+
+
+
+  * RT [@ChineseDancer](http://twitter.com/ChineseDancer): 杭州城下好风光 舞文弄墨卖枣忙 忘情负义小佩郎 娶个空姐回村庄 RT [@wangpei](http://twitter.com/wangpei): 我们的目标是让农民娶得起退役空姐。 [18:34:36, 2011-10-10](http://twitter.com/gfrog/statuses/123345678394073088)
+
+
+
+
+
+  * 我了个去。。。 RT [@ShevonNo](http://twitter.com/ShevonNo): 东北人连说“我去”前面都要加个“哎呀”，什么都要“哎呀哎呀哎呀”…-.-‖ [18:34:58, 2011-10-10](http://twitter.com/gfrog/statuses/123345771344052224)
+
+
+
+
+
+  * 【视频: 1164次列车6节车厢脱轨无人员伤亡】 [http://t.co/HNgqx7Ph](http://t.co/HNgqx7Ph) [18:41:08, 2011-10-10](http://twitter.com/gfrog/statuses/123347322586398721)
+
+
+
+
+
+  * RT [@xqunix](http://twitter.com/xqunix): Google 用于取代 Javascript 的语言 ---- Dart 今天发布了，http://t.co/3d8Ootv2 依然是 C 类语法，很好学，不过感觉还是不如 Coffee Script。 [19:54:54, 2011-10-10](http://twitter.com/gfrog/statuses/123365888396230656)
+
+
+
+
+
+  * RT [@dofine](http://twitter.com/dofine): ThinkPad 的平板的永动机模式。。用usb 线把自己的miniusb口和usb口连起来，会提示”usb已连接，正在充电”。。233 [20:20:46, 2011-10-10](http://twitter.com/gfrog/statuses/123372398274809856)
+
+
+
+
+
+  * gmail竟然没个支持PGP的方案，真弱。 [20:48:41, 2011-10-10](http://twitter.com/gfrog/statuses/123379424270893057)
+
+
+
+
+
+  * 之前生成的GPG key俺把私钥弄丢了，一直没法注销，结果上keyserver上一查，原来去年就已经过期啦，哈哈。 [21:12:35, 2011-10-10](http://twitter.com/gfrog/statuses/123385437732618240)
+
+
+
+
+
+  * 变态的chromium-browser，竟然没法直接找到丫的snapshot！ 一定要用如下地址才行 [http://t.co/7I5bYWUp号/](http://t.co/7I5bYWUp号/) 这玩的是神马… [23:34:39, 2011-10-10](http://twitter.com/gfrog/statuses/123421189908606976)
+
+
+
+
+
+  * 哇哈哈，在艹节里成功新建GPG key一枚。 [23:53:47, 2011-10-10](http://twitter.com/gfrog/statuses/123426007238713344)
+
+
+
+

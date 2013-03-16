@@ -1,0 +1,42 @@
+---
+comments: true
+date: 2011-11-28 01:00:00
+layout: post
+slug: todays-tweets-2011-11-28
+title: Today's tweets 2011-11-28
+wordpress_id: 1968
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 没用明白 [#Instapaper](http://search.twitter.com/search?q=%23Instapaper)，每天给 [#Kindle](http://search.twitter.com/search?q=%23Kindle) 推送的都是些无用的垃圾文章。怎么样能过滤一下 [#twitter](http://search.twitter.com/search?q=%23twitter) 通过 [#ifttt](http://search.twitter.com/search?q=%23ifttt) 发到Instapaper的链接呢，做个黑名单，包含某地址的链接一律pass掉。 [13:11:15, 2011-11-28](http://twitter.com/gfrog/statuses/141021310041071616)
+
+
+
+
+
+  * 哎呀呀，似乎有点发烧呢。。。 头晕。 [15:08:10, 2011-11-28](http://twitter.com/gfrog/statuses/141050733364645888)
+
+
+
+
+
+  * 转播： Red Hat Kernel QE团队招人啦 [http://t.co/VoCE0f8W](http://t.co/VoCE0f8W) [16:08:07, 2011-11-28](http://twitter.com/gfrog/statuses/141065820087398401)
+
+
+
+
+
+  * 恭喜升级 XD RT [@htgyj](http://twitter.com/htgyj): 单身女技能又有所升级，重置路由技能提升。呜呜～～ [19:32:25, 2011-11-28](http://twitter.com/gfrog/statuses/141117235354808320)
+
+
+
+

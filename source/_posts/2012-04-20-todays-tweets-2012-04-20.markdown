@@ -1,0 +1,72 @@
+---
+comments: true
+date: 2012-04-20 23:59:00
+layout: post
+slug: todays-tweets-2012-04-20
+title: Today's tweets 2012-04-20
+wordpress_id: 2509
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:24, 2012-04-20](http://twitter.com/gfrog/statuses/193142038106087424)
+
+
+
+
+
+  * 搞定fetchmail和maildir，现在mutt切换邮箱的速度果然快多了。 [14:50:17, 2012-04-20](http://twitter.com/gfrog/statuses/193230087670333440)
+
+
+
+
+
+  * ifttt只能发推不能收，很不爽。 [18:16:42, 2012-04-20](http://twitter.com/gfrog/statuses/193282031998861312)
+
+
+
+
+
+  * RT [@gybg1989](http://twitter.com/gybg1989): RT @北京人不知道的北京事儿 #北京看事儿#转：【13种8个品牌牛奶横向评测！！！】家乐福现有品牌牛奶全弄回来了，大大小小国内国外一共13种8个品牌，经对比发现国产奶明显比进口奶颜色白，味道香，口感更浓厚，自然光下颜色对比，肉眼观测明显外国奶 ... [21:32:34, 2012-04-20](http://twitter.com/gfrog/statuses/193331325674061825)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 感冒发烧中… 我悲催死了，本来想去平谷，结果盼了一周，昨天开始发烧了。。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/193269302474964992) [21:44:15, 2012-04-20](http://twitter.com/gfrog/statuses/193334265386246144)
+
+
+
+
+
+  * 为神马windows就没有类似于lspci/lsusb这种给力的工具呢。 [21:44:45, 2012-04-20](http://twitter.com/gfrog/statuses/193334390678487041)
+
+
+
+
+
+  * 为神马大半夜的我还要看patch看bug？ 真是自虐啊。 [22:11:50, 2012-04-20](http://twitter.com/gfrog/statuses/193341204908343296)
+
+
+
+
+
+  * 某人在vmware上装Fedora17的时候gnome3有问题，结果问了半天，啥有用的话也没问出来。擦，为神马跟中国人越来越难说明白话… [22:28:52, 2012-04-20](http://twitter.com/gfrog/statuses/193345491872923648)
+
+
+
+
+
+  * 啊呀，彻底傻掉了，把git clone敲成git pull，结果还在那傻乎乎的检查url… [22:38:15, 2012-04-20](http://twitter.com/gfrog/statuses/193347852926337024)
+
+
+
+

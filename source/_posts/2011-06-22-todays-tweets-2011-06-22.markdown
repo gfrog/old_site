@@ -1,0 +1,108 @@
+---
+comments: true
+date: 2011-06-22 01:00:00
+layout: post
+slug: todays-tweets-2011-06-22
+title: Today's tweets 2011-06-22
+wordpress_id: 1756
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@darrenest](http://twitter.com/darrenest): RT [@Fenng](http://twitter.com/Fenng): WordPress.org 部分插件被三聚氰胺污染, 受影响的插件包括: WPtouch 、AddThis、 W3 Total Cache ... 刚好这几天更新过插件的一定要注意一下。 [13:09:39, 2011-06-22](http://twitter.com/gfrog/statuses/83401237386629120)
+
+
+
+
+
+  * 变态交行，发神马多刷卡1000块免费洗车，刺激我是嘛？！俺木有车，自行车给洗嘛？ [13:46:00, 2011-06-22](http://twitter.com/gfrog/statuses/83410388590399488)
+
+
+
+
+
+  * 在godaddy上给域名续费，先用支付宝，各种验证，选择，确认，还要借助手机结果还没支付成功。换用paypal，连绑定信用卡带支付，输入两次密码，确认3次，成功。linux系统。不知道是中国的贼太狡猾还是中国的码农太笨。 [14:04:02, 2011-06-22](http://twitter.com/gfrog/statuses/83414924142972928)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 没啥必要吧，手机上处理邮件用得着那么重型的工具嘛。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/83414403281715200) [14:05:36, 2011-06-22](http://twitter.com/gfrog/statuses/83415318168481792)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 其实神马平台就用神马软件，我到现在都不看好firefox便携版，有啥技术优势嘛？firefox桌面版上的插件都能拿来用嘛？这些玩意基本都是完全重新设计了，然后还套用原来的名字，跟专为便携设备设计的软件比毫无优势。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/83415958785503232) [14:12:14, 2011-06-22](http://twitter.com/gfrog/statuses/83416988805890049)
+
+
+
+
+
+  * 刚刚京东的快递来送货，俺深刻体会到前几天图书活动给快递带来的压力，满满一车，几乎都是书，很多人在排队取快递。 [14:52:05, 2011-06-22](http://twitter.com/gfrog/statuses/83427016484986880)
+
+
+
+
+
+  * 看anaconda的源码，有个地方直接用了一句open()创建文件，没有赋值，没有close()，我很好奇这样的语句不会引起资源泄漏嘛？ python的垃圾回收会检测到这种状况嘛？ [15:56:04, 2011-06-22](http://twitter.com/gfrog/statuses/83443120582303744)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) ：） 有感而发而已。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/83436822256033792) [16:02:26, 2011-06-22](http://twitter.com/gfrog/statuses/83444722286329856)
+
+
+
+
+
+  * [@onedow](http://twitter.com/onedow) 快递很忙 [in reply to onedow](http://twitter.com/onedow/statuses/83434675015647232) [16:02:44, 2011-06-22](http://twitter.com/gfrog/statuses/83444796320002048)
+
+
+
+
+
+  * 垃圾回收机制与python性能调优 - [http://t.co/kbFlo0U](http://t.co/kbFlo0U) [16:08:53, 2011-06-22](http://twitter.com/gfrog/statuses/83446342663413760)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 发feature request给twitter。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/83448407871602688) [16:21:00, 2011-06-22](http://twitter.com/gfrog/statuses/83449395084935168)
+
+
+
+
+
+  * RT [@htgyj](http://twitter.com/htgyj): RT [@xie107](http://twitter.com/xie107): 当当网部分图书促销。大量网友表示不满。当当泪流满面：当年人家一分一毛省着钱把实体书店干趴下的时候，你们都陪人家看月亮叫人家小甜甜，现在有了奶大水多的京东热，就嫌人家人老珠黄了不成？ [16:21:43, 2011-06-22](http://twitter.com/gfrog/statuses/83449572264914944)
+
+
+
+
+
+  * 试验了下，直接open()不赋值确实会被gc。 [16:23:57, 2011-06-22](http://twitter.com/gfrog/statuses/83450135425720320)
+
+
+
+
+
+  * 话说那天在清华里看到一个老外大叔穿了一件I ♡ BJ的T恤，当即被雷翻。 [16:39:56, 2011-06-22](http://twitter.com/gfrog/statuses/83454158094598144)
+
+
+
+
+
+  * 奥体西路上坑爹的自行车道啊，跑到五环那里突然没有了，而且还没路口绕开。害得我从绿化带上跳过来的时候把脚趾磕到了，很疼。下次走奥体西路一定注意要走机动车道。 [21:26:50, 2011-06-22](http://twitter.com/gfrog/statuses/83526360127127553)
+
+
+
+

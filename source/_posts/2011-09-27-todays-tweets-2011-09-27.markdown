@@ -1,0 +1,217 @@
+---
+comments: true
+date: 2011-09-27 01:00:00
+layout: post
+slug: todays-tweets-2011-09-27
+title: Today's tweets 2011-09-27
+wordpress_id: 2609
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@Bensaying](http://twitter.com/Bensaying): 如果有个小朋友问你这些问题，你能回答几个？1、为什么胶水不会粘住瓶子的里面呢？2、如果你坐在一辆光速行驶的汽车上，当你打开车前灯的时候会发生什么情况？3、如果今天外面气温是0摄氏度，明天比今天还要冷两倍，那明天会是几度？4、种无籽西瓜要播什么种子呢？ [08:32:43, 2011-09-27](http://twitter.com/gfrog/statuses/118483169333870592)
+
+
+
+
+
+  * 这条推似乎我毕业的时候就见到过了。。 RT [@FuYun14](http://twitter.com/FuYun14): 杯具，RT [@doufuru](http://twitter.com/doufuru): RT [@emituo](http://twitter.com/emituo): 哥我刚毕业的时候，发了一个月简历找工作,没找到，连个回电话的也没有!心灰意冷,粮尽弹绝之时发现简历上电话号码写错了............... [10:31:11, 2011-09-27](http://twitter.com/gfrog/statuses/118512981901447168)
+
+
+
+
+
+  * oops，前台的mm香水喷的也太多了，离着还有4-5米，这味道已经呛鼻子了。 [10:37:30, 2011-09-27](http://twitter.com/gfrog/statuses/118514572113088512)
+
+
+
+
+
+  * RT [@wangpei](http://twitter.com/wangpei): RT [@free_POC](http://twitter.com/free_POC): 让你这么一说还真是。 RT [@ainesmile](http://twitter.com/ainesmile): 圆明园这边写着重点防火单位 好喜感… [12:26:10, 2011-09-27](http://twitter.com/gfrog/statuses/118541918505406466)
+
+
+
+
+
+  * 开源软件卖的是啥？ RT [@mranti](http://twitter.com/mranti): RT [@tualatrix](http://twitter.com/tualatrix): Ubuntu正式推出开发者网站了，http://t.co/eln5RDQt 可以发布你的开源/闭源软件，可以免费或收费，80%收入归你所有。具体的可以参考网站。大家有没有兴趣在上面卖自己的开源软件？ [13:39:48, 2011-09-27](http://twitter.com/gfrog/statuses/118560449867419648)
+
+
+
+
+
+  * 话说ubuntu搞的这个开发者网站还是不错的，期待能有新的高品质软件现身吧。 [13:42:06, 2011-09-27](http://twitter.com/gfrog/statuses/118561028513611776)
+
+
+
+
+
+  * [@freesisx](http://twitter.com/freesisx) 我对个人开发者做服务的能力深表担心。 [in reply to freesisx](http://twitter.com/freesisx/statuses/118560823412146176) [13:42:58, 2011-09-27](http://twitter.com/gfrog/statuses/118561247871500288)
+
+
+
+
+
+  * [@freesisx](http://twitter.com/freesisx) 好吧，去那个网站上看了下，看来又是个抄水果app store的，个人可以挂免费软件然后卖收费功能。 [in reply to freesisx](http://twitter.com/freesisx/statuses/118561730166132736) [13:50:55, 2011-09-27](http://twitter.com/gfrog/statuses/118563248726482944)
+
+
+
+
+
+  * emmm，测试第一版patch，最近思路不错，继续写新功能。 [14:00:32, 2011-09-27](http://twitter.com/gfrog/statuses/118565666197471232)
+
+
+
+
+
+  * RT [@xwbot](http://twitter.com/xwbot): 【烟台七旬老翁晕倒后自掏200元求路人搀扶】9月26日上午8时左右，山东烟台一位73岁老人突然晕倒在街上，许多路人围观却无一人愿伸手扶一把。老人醒来后浑身没劲，发现没人帮助只好掏出200元钱请求路人将其扶起。近20分钟后，一名年轻人扶起老人，没要钱匆匆离开 [14:16:07, 2011-09-27](http://twitter.com/gfrog/statuses/118569590178578432)
+
+
+
+
+
+  * 一群老混蛋彻底把这个社会搅麻木了，路上遇到人摔跤我也不敢扶。 [14:16:50, 2011-09-27](http://twitter.com/gfrog/statuses/118569770319749120)
+
+
+
+
+
+  * RT [@skyier](http://twitter.com/skyier): 微软应该更庆幸没送chrome蛋糕吃吧 RT [@laoyang945](http://twitter.com/laoyang945): 微软IE Team内心独白：你们到底是来搞开发的还是吃蛋糕的？ [15:00:10, 2011-09-27](http://twitter.com/gfrog/statuses/118580672523804672)
+
+
+
+
+
+  * 无责任无调查RT，lol RT [@niubro](http://twitter.com/niubro): @宣克炅：10号线又出事故了！！！有人称两列列车相撞，多人受伤。@上海电视机动新闻部 多路记者已赶赴现场。 [15:01:35, 2011-09-27](http://twitter.com/gfrog/statuses/118581030566379521)
+
+
+
+
+
+  * RT [@jasontj](http://twitter.com/jasontj): 财新网：【独家：上海地铁10号线信号商与动车甬温线为同一家】财新记者独家获悉，今日下午发生事故的上海地铁10号线，为其提供信号系统的，正是甬温线信号系统供货商之一卡斯柯信号有限公司(卡斯柯)。 [http://t.cn/aeJ0JJ](http://t.cn/aeJ0JJ) [16:18:44, 2011-09-27](http://twitter.com/gfrog/statuses/118600447379513344)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): RT [@duck__1984](http://twitter.com/duck__1984): 上海地铁10号线两车追尾，多人受伤，车厢局部变形。伊犁路站至四川北路站区段目前中断，短期内不会恢复正常运营。 [#shmetro](http://search.twitter.com/search?q=%23shmetro) [16:19:24, 2011-09-27](http://twitter.com/gfrog/statuses/118600613683666944)
+
+
+
+
+
+  * 这次也会挖坑埋车嘛？ [16:20:17, 2011-09-27](http://twitter.com/gfrog/statuses/118600835780460544)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 这年头没证好危险哦。 [in reply to Gyteng](http://twitter.com/Gyteng/statuses/118601231907303424) [16:25:09, 2011-09-27](http://twitter.com/gfrog/statuses/118602060370411520)
+
+
+
+
+
+  * 天雷滚滚。。。 RT [@xddcc](http://twitter.com/xddcc): 转：火车相撞是打雷导致，
+地铁相撞就说地雷导致的呗！ [16:25:40, 2011-09-27](http://twitter.com/gfrog/statuses/118602191715053568)
+
+
+
+
+
+  * lanunchpad上的chromium-daily原来从9月4号开始就没有更新了，难怪我这还没有16.*版本。求靠谱chromium-daily源。 [16:32:21, 2011-09-27](http://twitter.com/gfrog/statuses/118603870837538816)
+
+
+
+
+
+  * RT [@avege](http://twitter.com/avege): RT [@redsnow7](http://twitter.com/redsnow7): 新华网上海频道2005稿 ： 上海不会发生地铁追尾事故 [http://t.co/8JHizdxv](http://t.co/8JHizdxv) [16:50:11, 2011-09-27](http://twitter.com/gfrog/statuses/118608362156986368)
+
+
+
+
+
+  * RT [@sfz0126](http://twitter.com/sfz0126): RT [@sulinescape](http://twitter.com/sulinescape): RT [@zkaip](http://twitter.com/zkaip): RT [@clc4214](http://twitter.com/clc4214) 广州地铁6号线，深圳地铁5号线的推友们注意啦，你们所乘的地铁信号系统是和上海地铁10号线一样，都是卡斯柯提供的。请多保重。 [16:50:34, 2011-09-27](http://twitter.com/gfrog/statuses/118608459175432192)
+
+
+
+
+
+  * 俺发现北京地铁2、5、9（这个还没开）、机场线也都用了卡斯柯提供的信号系统，所以帝都的同学们也小心些吧。 [16:56:39, 2011-09-27](http://twitter.com/gfrog/statuses/118609987453992960)
+
+
+
+
+
+  * RT [@yoyicue](http://twitter.com/yoyicue): 你们担心什么, 北京除了4号线大兴线, 应该都是卡斯柯的, 1号线本来是西屋的, 后来都改造成卡斯柯的了.... [16:56:54, 2011-09-27](http://twitter.com/gfrog/statuses/118610050918002688)
+
+
+
+
+
+  * RT [@wangpei](http://twitter.com/wangpei): RT [@geekinmedia](http://twitter.com/geekinmedia): 【受伤224人】上海电视台消息，地铁十号线追尾事故已致224人受伤。跟723差不多级别了吧？ [17:12:10, 2011-09-27](http://twitter.com/gfrog/statuses/118613892892073985)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): RT [@freemoren](http://twitter.com/freemoren): @上海电视机动新闻部 发布消息称伤者人数已上升到260。 [17:13:02, 2011-09-27](http://twitter.com/gfrog/statuses/118614109087477761)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi): 祝贺！RT [@orion_zhang](http://twitter.com/orion_zhang): 昨天晚上14个月大的女儿突然学会走路了.没有任何征兆,就在一瞬间她一个人走了几步,接着她突然明白了什么,完全可以自己走动了. 原来成长是在一瞬间发生的啊,神奇的生命... [17:20:40, 2011-09-27](http://twitter.com/gfrog/statuses/118616032532373504)
+
+
+
+
+
+  * emmm，其实学习很多东西都一样，需要顿悟啊。 [17:21:30, 2011-09-27](http://twitter.com/gfrog/statuses/118616241836535808)
+
+
+
+
+
+  * cnbeta的评论？ RT [@justin7974](http://twitter.com/justin7974): 国内现在有啥中文的互联网和IT的网站值得rss订阅啊？求推荐～～准备推荐ifanr之类的请绕行哦，亲 [17:22:00, 2011-09-27](http://twitter.com/gfrog/statuses/118616369200766976)
+
+
+
+
+
+  * RT [@chnp101](http://twitter.com/chnp101): RT [@NegiLuka](http://twitter.com/NegiLuka): “列车追尾的一刹那我的iPhone4飞了出去，我顾不得摔倒的疼痛爬起来就找，可是地上的iPhone4太多了，眼看救护人员就要拉人上车了，我也只好随手拿了一个，希望有共同遭遇的回帖联系！”//znm蛋疼…… [17:32:17, 2011-09-27](http://twitter.com/gfrog/statuses/118618955786104832)
+
+
+
+
+
+  * 万恶的netperf啊！！ 每次一运行丫的host就重启，郁闷。 [17:54:42, 2011-09-27](http://twitter.com/gfrog/statuses/118624595447250944)
+
+
+
+
+
+  * RT [@Gyteng](http://twitter.com/Gyteng): 233 RT [@iiilii](http://twitter.com/iiilii): iPhone 这么多啊！ RT [@xie107](http://twitter.com/xie107): “在地铁10号线追尾的一刹那我的一个肾飞了出去，我顾不得摔倒的疼痛爬起来就找，可是地上的肾太多了，眼看救护人员就要拉人上车了，我也只好随手拿了一个……“ [18:00:20, 2011-09-27](http://twitter.com/gfrog/statuses/118626016007692288)
+
+
+
+
+
+  * 啊啊啊啊，我要不要败家下收2块tf卡啊。。。 纠结。 [18:30:21, 2011-09-27](http://twitter.com/gfrog/statuses/118633570041470976)
+
+
+
+
+
+  * 饿。。。。 [19:03:28, 2011-09-27](http://twitter.com/gfrog/statuses/118641902231887874)
+
+
+
+

@@ -1,0 +1,90 @@
+---
+comments: true
+date: 2012-03-14 01:00:00
+layout: post
+slug: todays-tweets-2012-03-14
+title: Today's tweets 2012-03-14
+wordpress_id: 2320
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 每日一求：求靠谱人肉 #翻墙 机会。 [09:00:40, 2012-03-14](http://twitter.com/gfrog/statuses/179733752149323776)
+
+
+
+
+
+  * RT [@gnudog](http://twitter.com/gnudog): 【您已经在2012年03月14日成为亚马逊VIP会员。VIP会员在购买符合条件的商品时，在亚马逊价格的基础上最高可享受3％的特殊折扣，具体折扣以亚马逊网站有关商品页面上公布的实际折扣价为准。】以后大家有想在 Amazon 上买的东西，可以找鄙人带下单了。 [10:35:33, 2012-03-14](http://twitter.com/gfrog/statuses/179757629537665024)
+
+
+
+
+
+  * RT [@avb001](http://twitter.com/avb001): 转：纽约时报：73条的通过，中国迈向警察国家。CNN：中国全民96％反对的情况下73条被操纵通过。共同社：73条通过是绑架失踪合法化。明报：73条是一群外国人在表决通过，这是世界上最荒唐的事。人民日报：73条通过，是中国法制的巨大进步。新华社：中国 ... [13:11:22, 2012-03-14](http://twitter.com/gfrog/statuses/179796842849124352)
+
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): 让你看RFC，结果你不看RFC偏偏非得跟一群不懂装懂的混混一起讨论，活该烂泥扶不上墙。 [13:35:20, 2012-03-14](http://twitter.com/gfrog/statuses/179802874094698496)
+
+
+
+
+
+  * 矮油矮油，upstream的maillist里，中国人发的patch靠谱的真不多。 [13:39:32, 2012-03-14](http://twitter.com/gfrog/statuses/179803931432599552)
+
+
+
+
+
+  * [@casparant](http://twitter.com/casparant) 也不是说中国人发的patch就是不靠谱的，只是很多时候遇到国人发的patch都会有些小问题，例如缩进规则之类的，如果注意文档和规范完全可以避免。 [in reply to casparant](http://twitter.com/casparant/statuses/179806307442896896) [13:56:20, 2012-03-14](http://twitter.com/gfrog/statuses/179808158280192000)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) kernel的无算，哈哈，俺看不懂kernel代码，lol [in reply to gnudog](http://twitter.com/gnudog/statuses/179808203612233728) [13:59:45, 2012-03-14](http://twitter.com/gfrog/statuses/179809020171915265)
+
+
+
+
+
+  * 矮油，下午股市跳水果然很严重呀。 [15:47:28, 2012-03-14](http://twitter.com/gfrog/statuses/179836127505686529)
+
+
+
+
+
+  * RT [@raptorz](http://twitter.com/raptorz): 太毒了 RT [@fedsneighbor](http://twitter.com/fedsneighbor): 昨天播客里听到的毒舌段子：Ubuntu的最显著影响是让Windows用户们意识到还可以有其它选择，然后他们探头出去看的时候就找到了Mac。 [18:13:55, 2012-03-14](http://twitter.com/gfrog/statuses/179872981034610688)
+
+
+
+
+
+  * 网易微波的同学们 碉堡了，真的。 [http://t.co/ZFJ03Qso](http://t.co/ZFJ03Qso) [19:30:40, 2012-03-14](http://twitter.com/gfrog/statuses/179892297419325441)
+
+
+
+
+
+  * 矮油，这辆车上的售票员感冒了，鼻音这个重哦。 [20:59:07, 2012-03-14](http://twitter.com/gfrog/statuses/179914556288663553)
+
+
+
+
+
+  * 矮油，月亮湖这个小直为神马木有鼠尾开关呢… 不过这东西DIY起来应该不难吧。 [22:04:27, 2012-03-14](http://twitter.com/gfrog/statuses/179930997457031168)
+
+
+
+

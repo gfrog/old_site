@@ -1,0 +1,120 @@
+---
+comments: true
+date: 2012-06-05 23:59:00
+layout: post
+slug: todays-tweets-2012-06-05
+title: Today's tweets 2012-06-05
+wordpress_id: 2565
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:01:14, 2012-06-05](http://twitter.com/gfrog/statuses/209812087030034432)
+
+
+
+
+
+  * 改Codename，升级到Quantal。 [#ubuntu](http://search.twitter.com/search?q=%23ubuntu) [10:26:33, 2012-06-05](http://twitter.com/gfrog/statuses/209833558238437376)
+
+
+
+
+
+  * RT [@goldengrape](http://twitter.com/goldengrape): 坐过月入上万的出租司机的车。那人巨瞧不起现在广大不认路的京郊农民出租司机。他说自己哪里路都熟，知道哪些点可以拉到活，少跑空，挣的是全北京市的钱。行行皆有蓝血 [10:47:00, 2012-06-05](http://twitter.com/gfrog/statuses/209838704838189056)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 哪个湖？ 青海湖嘛？ [in reply to ImSyls](http://twitter.com/ImSyls/statuses/209838865769443328) [10:48:10, 2012-06-05](http://twitter.com/gfrog/statuses/209838996468137984)
+
+
+
+
+
+  * 难道真的要再搞件骑行服了？ 后悔当时木有收 [@htgyj](http://twitter.com/htgyj) 那套队服啦。 [10:53:27, 2012-06-05](http://twitter.com/gfrog/statuses/209840327631187970)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 肿末回事？ 难道质量有问题？ [in reply to htgyj](http://twitter.com/htgyj/statuses/209842713045118976) [11:09:37, 2012-06-05](http://twitter.com/gfrog/statuses/209844394780672000)
+
+
+
+
+
+  * [@chjuheng](http://twitter.com/chjuheng) 带套袖啊少年… [in reply to chjuheng](http://twitter.com/chjuheng/statuses/209842920545714176) [11:10:13, 2012-06-05](http://twitter.com/gfrog/statuses/209844548791304192)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 好复杂的状态嗷 [@_](http://twitter.com/_)@ 是神马牌子的底衫哪？ [in reply to htgyj](http://twitter.com/htgyj/statuses/209844811421847552) [11:12:50, 2012-06-05](http://twitter.com/gfrog/statuses/209845208052011008)
+
+
+
+
+
+  * 这帮放生的真是祸害啊。 [http://t.co/CqEDfAv4](http://t.co/CqEDfAv4) [12:40:21, 2012-06-05](http://twitter.com/gfrog/statuses/209867232120029184)
+
+
+
+
+
+  * 貌似不小心删掉了神马包，GTK程序的spell checking木有了… [12:49:12, 2012-06-05](http://twitter.com/gfrog/statuses/209869457777115136)
+
+
+
+
+
+  * RT [@wangyooo](http://twitter.com/wangyooo): 炫耀一下。Rolleiflex 2.8F [http://t.co/kIomkLxP](http://t.co/kIomkLxP) [12:49:21, 2012-06-05](http://twitter.com/gfrog/statuses/209869496259842048)
+
+
+
+
+
+  * RT [@BreeStealth](http://twitter.com/BreeStealth): 要不要装扮的如此民国风啊！！ [http://t.co/O5HiuHsY](http://t.co/O5HiuHsY) [13:34:25, 2012-06-05](http://twitter.com/gfrog/statuses/209880834700877824)
+
+
+
+
+
+  * 把一个3k多行，乱成一坨屎一样的文件里把不同的行揪出来找到commit然后cherry-pick。比起这个，神马找别扭之类的游戏都弱爆了。 [13:35:57, 2012-06-05](http://twitter.com/gfrog/statuses/209881223923892224)
+
+
+
+
+
+  * 又发T恤了，这次是因为WED。每年2件T恤，看来以后都不用买T恤了。 [15:19:14, 2012-06-05](http://twitter.com/gfrog/statuses/209907213848948737)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) fedora嘛？ 开了kdump木有？ 如果开了有vmcore可以分析。记得是哪方面的bug不？ [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/209946860322947072) [17:59:31, 2012-06-05](http://twitter.com/gfrog/statuses/209947551540064256)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 那好吧，忘了kernel panic吧，当它没发生过。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/209948004520693760) [19:11:16, 2012-06-05](http://twitter.com/gfrog/statuses/209965608333361152)
+
+
+
+
+
+  * 我勒个去，发了一个pull request收到了50来条comment，明儿有的改了。还好长了心眼把commit扔进了stgit，要不明天会rebase到手残啊。 [22:56:24, 2012-06-05](http://twitter.com/gfrog/statuses/210022265922912258)
+
+
+
+

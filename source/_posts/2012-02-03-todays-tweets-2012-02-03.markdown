@@ -1,0 +1,145 @@
+---
+comments: true
+date: 2012-02-03 01:00:00
+layout: post
+slug: todays-tweets-2012-02-03
+title: Today's tweets 2012-02-03
+wordpress_id: 2080
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@darrenest](http://twitter.com/darrenest): 毛老头 ￥100 元大钞里的秘密：两个疑问「第一，谁设计的？第二，谁发现的？」http://t.co/XaBgoDjJ #我当时就震惊了 [09:49:47, 2012-02-03](http://twitter.com/gfrog/statuses/165250597484888066)
+
+
+
+
+
+  * 尼玛用本子跑虚拟机好慢啊，虽然是i5的cpu，但是仍然比core2的台式机差多了。明显感觉到慢吞吞，大概本子的IO是瓶颈。 [10:05:18, 2012-02-03](http://twitter.com/gfrog/statuses/165254501287202817)
+
+
+
+
+
+  * [@cryous](http://twitter.com/cryous) 是嘛？ 我倒真有上ssd的想法，不过没机会测试真实性能到底是啥样。 [in reply to cryous](http://twitter.com/cryous/statuses/165254730157789184) [10:08:46, 2012-02-03](http://twitter.com/gfrog/statuses/165255374033793025)
+
+
+
+
+
+  * [@cryous](http://twitter.com/cryous) 这个。。。 是啥型号的SSD？ [in reply to cryous](http://twitter.com/cryous/statuses/165256173581385728) [10:18:51, 2012-02-03](http://twitter.com/gfrog/statuses/165257912577572864)
+
+
+
+
+
+  * [@cryous](http://twitter.com/cryous) 哎呀哎呀，听你这么一说我又开始纠结到底有没有必要上ssd了。 [in reply to cryous](http://twitter.com/cryous/statuses/165258532973838336) [10:39:40, 2012-02-03](http://twitter.com/gfrog/statuses/165263150449569792)
+
+
+
+
+
+  * RT [@leemajia](http://twitter.com/leemajia): 遇到同行赶紧撤→_→RT [@Elvasu](http://twitter.com/Elvasu): 233 RT [@wkpub](http://twitter.com/wkpub): 接到一个冒充银行的诈骗电话，对方问我平时上班是开车还是打车多一点，我说我有私人飞机，对方哦了一声挂断。 [10:45:31, 2012-02-03](http://twitter.com/gfrog/statuses/165264623635927042)
+
+
+
+
+
+  * RT [@hamo](http://twitter.com/hamo): 求租北京上地西二旗附近单间，近日入住，求RT，求扩散... [10:47:36, 2012-02-03](http://twitter.com/gfrog/statuses/165265146325901313)
+
+
+
+
+
+  * wow，ssd已经降到可以接受的范围内了，开始考虑要不要收一个做系统盘。 [12:51:08, 2012-02-03](http://twitter.com/gfrog/statuses/165296235098550272)
+
+
+
+
+
+  * RT [@darkma1978](http://twitter.com/darkma1978): 才知道北京-九龙，上海-九龙这两趟列车4人以上可以团购。6折后北京到香港的硬卧才300多，算是去做蝗虫最便宜的选择，也可以用它到深圳。如果没找到足够的人一起买团体票,可以在开始卖票当天早点到，加入别人的组。注意团队签不能买这个折扣票。 [13:07:32, 2012-02-03](http://twitter.com/gfrog/statuses/165300361618391040)
+
+
+
+
+
+  * 擦，忍受不了2.3了，刷回2.2算了，毕竟稳定些。 [13:12:29, 2012-02-03](http://twitter.com/gfrog/statuses/165301610015244288)
+
+
+
+
+
+  * [@jerry_hou](http://twitter.com/jerry_hou) 里程碑，CM7.1 [in reply to jerry_hou](http://twitter.com/jerry_hou/statuses/165303578200776704) [13:24:00, 2012-02-03](http://twitter.com/gfrog/statuses/165304506836459520)
+
+
+
+
+
+  * RT [@Sunng](http://twitter.com/Sunng): 要是bitbucket能向github发pull request的话就好了 [13:42:07, 2012-02-03](http://twitter.com/gfrog/statuses/165309068792180736)
+
+
+
+
+
+  * 我真服啦，报bug的时候就不敢多写几个字嘛。。。 bug里就一句话，谁能猜到这是神马问题啊。。。 [13:58:30, 2012-02-03](http://twitter.com/gfrog/statuses/165313189779738624)
+
+
+
+
+
+  * 手机备份完毕，下载ROM中。。。 [14:19:14, 2012-02-03](http://twitter.com/gfrog/statuses/165318406529228800)
+
+
+
+
+
+  * RT [@ksky](http://twitter.com/ksky): Dropbox 1.3.12Beta 增加照片自动导入功能，第一次导入会送500M空间，之后每上传500MB的照片或影片就会再送500MB空间，最多可以送到4.5GB.
+ [http://t.co/BYg08N6d](http://t.co/BYg08N6d) [14:37:40, 2012-02-03](http://twitter.com/gfrog/statuses/165323044959682560)
+
+
+
+
+
+  * 我擦，yum这个笨蛋，竟然不会用本地缓存。。。 已经安装过一次的包竟然还要再去下载。 [14:53:01, 2012-02-03](http://twitter.com/gfrog/statuses/165326911034245120)
+
+
+
+
+
+  * Swap:  7811068k total,   582356k used 用了不少swap啊，再加条4G的内存是不是效果会好很多。。 [16:05:16, 2012-02-03](http://twitter.com/gfrog/statuses/165345091152642048)
+
+
+
+
+
+  * 刷回2.2，速度果然快多了。老机器还是乖乖忍受老系统吧。 [17:06:27, 2012-02-03](http://twitter.com/gfrog/statuses/165360486962036736)
+
+
+
+
+
+  * 尼玛刷机结束之后菜市场无法访问了，是系统的问题还是我rp太差，刚好赶上今天撞墙。。。 [17:36:29, 2012-02-03](http://twitter.com/gfrog/statuses/165368046867845120)
+
+
+
+
+
+  * 决定了，去买个 #钛备份 这货实在是离不开呀。 [22:57:52, 2012-02-03](http://twitter.com/gfrog/statuses/165448927636750336)
+
+
+
+
+
+  * 在Google Wallet里面把地址改成米国，直接美元付账，购买 #钛备份 成功。 [23:10:35, 2012-02-03](http://twitter.com/gfrog/statuses/165452124405235714)
+
+
+
+

@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2011-03-30 01:00:00
+layout: post
+slug: todays-tweets-2011-03-30
+title: Today's tweets 2011-03-30
+wordpress_id: 1702
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 几天没有看upstream的邮件列表，今天发现越来越多的中国人开始用autotest了，看来国内的云计算潮流已经爆发了。 [09:40:19, 2011-03-30](http://twitter.com/gfrog/statuses/52907978260619264)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Dog Sledding season - coming to a close [http://j.mp/gwgV1T](http://j.mp/gwgV1T) [11:41:26, 2011-03-30](http://twitter.com/gfrog/statuses/52938458599145472)
+
+
+
+
+
+  * RT [@doubleaf](http://twitter.com/doubleaf): 乾三连，坤六断，震仰盂，艮覆碗，离中虚，坎中满，兑上缺，巽下断 [@mudewucifang](http://twitter.com/mudewucifang): 我要是以后都用☯代替RT，...  [@nzinfo](http://twitter.com/nzinfo): RT [@waterside](http://twitter.com/waterside): 易经符号mark备用：☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷ 。太极☯。 [14:58:49, 2011-03-30](http://twitter.com/gfrog/statuses/52988132139876352)
+
+
+
+
+
+  * 版本号写上internal debug? RT [@childream](http://twitter.com/childream): RT [@avege](http://twitter.com/avege): RT [@googollee](http://twitter.com/googollee): 以后我写软件，install时的License就写Marry Me，然后下面选项只有I Agree！ [16:45:42, 2011-03-30](http://twitter.com/gfrog/statuses/53015027648708608)
+
+
+
+
+
+  * 用upsteram版本的表示毫无压力。 RT [@fragroute](http://twitter.com/fragroute): 呃，我在ubuntu上装了一个，右键另存一个文件的时候，直接crash了。只能无语的退回到 Dev 11 RT [@ksky](http://twitter.com/ksky): Chrome Dev 12.0.712.0 for Mac Bug可真多... [16:51:47, 2011-03-30](http://twitter.com/gfrog/statuses/53016558422855680)
+
+
+
+
+
+  * 233 RT [@laogao](http://twitter.com/laogao): alias vim='emacs -nw' [17:00:54, 2011-03-30](http://twitter.com/gfrog/statuses/53018855802544128)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 28 Mar 2011 - Flickr [http://j.mp/fHUXE4](http://j.mp/fHUXE4) [22:11:05, 2011-03-30](http://twitter.com/gfrog/statuses/53096914794713090)
+
+
+
+

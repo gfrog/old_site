@@ -1,0 +1,96 @@
+---
+comments: true
+date: 2011-12-18 01:00:00
+layout: post
+slug: todays-tweets-2011-12-18
+title: Today's tweets 2011-12-18
+wordpress_id: 1990
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 简单修改了俩地方，现在扩展t.co网址已经挺完美了，但是我还想要扩展所有短链接的功能。。。 [00:08:16, 2011-12-18](http://twitter.com/gfrog/statuses/148072024160468992)
+
+
+
+
+
+  * [@iMurMur](http://twitter.com/iMurMur) IT类的书都很贵啊，小说也不便宜。 [in reply to iMurMur](http://twitter.com/iMurMur/statuses/148189262750298112) [13:35:38, 2011-12-18](http://twitter.com/gfrog/statuses/148275206031548416)
+
+
+
+
+
+  * 1626 ****     20   0 2229m 148m  20m R   10  3.9 274:35.53 plasma-desktop 这破玩意怎么吃掉了这么多内存。。 神马情况。。。 [14:00:28, 2011-12-18](http://twitter.com/gfrog/statuses/148281456723099648)
+
+
+
+
+
+  * RT [@coldmontis](http://twitter.com/coldmontis): 对于架设在互联网上提供公共服务的服务器来说，安全性是不可忽视的。仔细看一下，Securing Debian Manual。 [15:02:24, 2011-12-18](http://twitter.com/gfrog/statuses/148297041360076800)
+
+
+
+
+
+  * 突然喜欢听快歌了，俺之前明明是喜欢那种慢悠悠的歌的呀。 难道是最近压力变大生活节奏变快的缘故嘛？ [16:09:54, 2011-12-18](http://twitter.com/gfrog/statuses/148314026944897024)
+
+
+
+
+
+  * [http://t.co/b8KvAMdD](http://t.co/b8KvAMdD) 这脚踏。。。。 [16:48:30, 2011-12-18](http://twitter.com/gfrog/statuses/148323743247249408)
+
+
+
+
+
+  * [http://t.co/Iqky6I7s](http://t.co/Iqky6I7s) 这货终于有货了，速度去买一箱屯着。 [18:18:25, 2011-12-18](http://twitter.com/gfrog/statuses/148346371014004736)
+
+
+
+
+
+  * 哎呀呀，我买网在上地竟然有自提点，不错不错，买牛奶过去自提，哈哈。 [18:24:15, 2011-12-18](http://twitter.com/gfrog/statuses/148347836528988160)
+
+
+
+
+
+  * 啧啧，俺自己做的这个小东东有明显的模仿公司用那套软件的架构的痕迹。看来代码看的还是太少。哪里有靠谱的python程序可以拿来读读？ web用那套玩意不算。 [20:04:50, 2011-12-18](http://twitter.com/gfrog/statuses/148373149354958848)
+
+
+
+
+
+  * 豆瓣电台这个笨蛋，选了华语频道，为神马还使劲给我放粤语歌？！ [20:08:26, 2011-12-18](http://twitter.com/gfrog/statuses/148374055349792769)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) [@raptorz](http://twitter.com/raptorz) 哦，原来是这样。。。 那有普通话频道木有。。。 [in reply to fxlt](http://twitter.com/fxlt/statuses/148374823012274176) [20:32:42, 2011-12-18](http://twitter.com/gfrog/statuses/148380163711832064)
+
+
+
+
+
+  * 马上圣诞假期了，拖几周挺正常。 RT [@pityonline](http://twitter.com/pityonline): 原来 [#TBBT](http://search.twitter.com/search?q=%23TBBT) 这周又停播了，1 月 13 号才回归，怎么感觉要出事儿…… [21:33:37, 2011-12-18](http://twitter.com/gfrog/statuses/148395494257856512)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 老外有圣诞假期放，真好哇。。 人家一放就半个来月。。。 唉。 [in reply to pityonline](http://twitter.com/pityonline/statuses/148395925113548800) [22:36:46, 2011-12-18](http://twitter.com/gfrog/statuses/148411385515212801)
+
+
+
+

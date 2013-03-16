@@ -1,0 +1,84 @@
+---
+comments: true
+date: 2010-12-23 01:00:00
+layout: post
+slug: todays-tweets-2010-12-23
+title: Today's tweets 2010-12-23
+wordpress_id: 1489
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@EvilEver](http://twitter.com/EvilEver): RT [@xie107](http://twitter.com/xie107): 一个q号扔出去的瓶子，竟然被我另一个号捞上来了，牛逼啊，这日子真他妈的孤单和操蛋… ... [09:58:03, 2010-12-23](http://twitter.com/gfrog/statuses/17760816421937153)
+
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): ARIN今天分配了1个B和80个C，回收4个C。根据目前状况估算IPv4中央地址池还剩58天用完，与昨天的估值（59天）一致。 [09:59:58, 2010-12-23](http://twitter.com/gfrog/statuses/17761300985675776)
+
+
+
+
+
+  * RT [@raptorz](http://twitter.com/raptorz): RT [@freemoren](http://twitter.com/freemoren): 各类技术控的可以尝试一下这个新的推系统 RT [@zhaotuiqiang](http://twitter.com/zhaotuiqiang): 众推神，给俺自己开发的推系统给点意见和鼓励。http://is.gd/i1LTG 今天开始提供程序下载，云技术，人人可建一个推系统，欢迎试用。 [10:00:28, 2010-12-23](http://twitter.com/gfrog/statuses/17761424428244992)
+
+
+
+
+
+  * 官方app2sd各种不给力啊，一连接USB就有程序挂掉，而且有些程序没法app2sd，例如gmap，狂占地方又移不走，就是一钉子户。 [14:42:16, 2010-12-23](http://twitter.com/gfrog/statuses/17832343519629312)
+
+
+
+
+
+  * [@zhgc](http://twitter.com/zhgc) [@DroidCN](http://twitter.com/DroidCN) in reply to zhgc [17:06:47, 2010-12-23](http://twitter.com/gfrog/statuses/17868710756745217)
+
+
+
+
+
+  * 为微软开发者能有这样的的聪明智慧欢呼吧。 RT [@rainux](http://twitter.com/rainux): VSS 真不愧是团队协作的版本控制工具：要改什么文件得先人肉通知其他人；要用什么文件也得先人肉跟其他人请求。 [17:28:49, 2010-12-23](http://twitter.com/gfrog/statuses/17874258407464961)
+
+
+
+
+
+  * 我擦，屁民们赶紧移民吧，这不是你自己的国家。 RT [@maoz](http://twitter.com/maoz) 在北京居住的港澳台人员和外国人可以直接参加买车摇号，而一个没有北京户口的中国人则需持暂住证并连续缴税五年才能有同等资格，啧啧啧 [17:30:10, 2010-12-23](http://twitter.com/gfrog/statuses/17874594195050496)
+
+
+
+
+
+  * 只有Intern咩？ RT [@GoogleAmphi](http://twitter.com/GoogleAmphi): [@tianyi](http://twitter.com/tianyi) Google也招Intern呢，帮我散散消息啊，要求保证至少6个月实习期，CS专业，好学校，北京上海。感谢～Email: [amphiwang@google.com](mailto:amphiwang@google.com) [17:32:50, 2010-12-23](http://twitter.com/gfrog/statuses/17875267070459904)
+
+
+
+
+
+  * RT: [@geekinmedia](http://twitter.com/geekinmedia): （转）刚才顺丰的快递员在我司发飙了……“我他妈一个月工资1万5，会为了你这2000块的礼品丢这个饭碗么！” 整个公司，一片寂静…… [17:54:02, 2010-12-23](http://twitter.com/gfrog/statuses/17880602413899776)
+
+
+
+
+
+  * RT [@pipitu](http://twitter.com/pipitu): RT [@virushuo](http://twitter.com/virushuo): 这个必须推：”规避本次北京治堵方案的方法很简单：找个5环以外的地方上班和居住，然后买车上个外地牌照。那么对照到具体的方案就是——到百度上班，住回龙观，上河北牌照“ [17:55:27, 2010-12-23](http://twitter.com/gfrog/statuses/17880957570785280)
+
+
+
+
+
+  * IT民工果然无愧于民工的称谓。 RT [@lucexe](http://twitter.com/lucexe): 这两天看到：顺风快递员工月薪15k，建筑工地工人日新300元的消息，想死的心都有！ [18:08:24, 2010-12-23](http://twitter.com/gfrog/statuses/17884217144778752)
+
+
+
+

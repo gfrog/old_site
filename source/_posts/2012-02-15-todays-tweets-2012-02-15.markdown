@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2012-02-15 01:00:00
+layout: post
+slug: todays-tweets-2012-02-15
+title: Today's tweets 2012-02-15
+wordpress_id: 2111
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 上锁还是不上，这是个问题。 [12:27:21, 2012-02-15](http://twitter.com/gfrog/statuses/169638904964726785)
+
+
+
+

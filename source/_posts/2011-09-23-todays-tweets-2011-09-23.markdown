@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2011-09-23 01:00:00
+layout: post
+slug: todays-tweets-2011-09-23
+title: Today's tweets 2011-09-23
+wordpress_id: 2607
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@dlb2825](http://twitter.com/dlb2825): 乐活北京：【西直门明天启用新换乘通道 换乘时间减半 】北京地铁公司：明天，地铁西直门站将开通新换乘通道，2号线、4号线、13号线之间的换乘方式将改变，非早高峰时段换乘时间将省时一半。ps：每天有21万人在西直... [http://t.cn/agb9CI](http://t.cn/agb9CI) [10:23:17, 2011-09-23](http://twitter.com/gfrog/statuses/117061441349107712)
+
+
+
+
+
+  * [@gamtin](http://twitter.com/gamtin) 贵普对webos还有新想法嘛？我觉得放弃了这么有爱的一个系统实在很可惜。 [in reply to gamtin](http://twitter.com/gamtin/statuses/117064103599685632) [10:35:17, 2011-09-23](http://twitter.com/gfrog/statuses/117064464725061633)
+
+
+
+
+
+  * EMMM，在一个每秒运行一次的循环里嵌入一个os.system()估计会被骂死的。 [11:03:38, 2011-09-23](http://twitter.com/gfrog/statuses/117071596535025666)
+
+
+
+
+
+  * freenode 现在无敌的难连进去，这是肿末了。。 [12:01:30, 2011-09-23](http://twitter.com/gfrog/statuses/117086160769138688)
+
+
+
+
+
+  * RT [@virushuo](http://twitter.com/virushuo) 这让我想起一个笑话，说两个化学家（男）看到一个漂亮MM走过，年轻的那个看呆了，老而持重的那个说：不用看那么起劲，她和我们一样身体有70%是水；年轻的那个答道：我知道，可是你看看人家那表面儿张力。。。 [13:30:34, 2011-09-23](http://twitter.com/gfrog/statuses/117108575469453312)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): 转：“洛阳亲友如相问，就说我在天安门。如若街头不相见，洛阳街头见吾身。”    洛阳亲友如相问，一堆机密在玉壶~    “洛阳亲友如相问，就说奴家在地窖。如若窖头不相见，窖头填土见奴尸” [13:50:00, 2011-09-23](http://twitter.com/gfrog/statuses/117113462768934912)
+
+
+
+
+
+  * 装个Fedora，试验下upstream的kvm。 [14:02:06, 2011-09-23](http://twitter.com/gfrog/statuses/117116509255503872)
+
+
+
+
+
+  * [@lucexe](http://twitter.com/lucexe) 外貌党你好，lol。不过神机D90确实不错。 [in reply to lucexe](http://twitter.com/lucexe/statuses/117158162351652864) [16:49:55, 2011-09-23](http://twitter.com/gfrog/statuses/117158740091867136)
+
+
+
+
+
+  * 这一天就连不上freenode了，神马情况啊。。。 [16:50:27, 2011-09-23](http://twitter.com/gfrog/statuses/117158877065265152)
+
+
+
+
+
+  * 这爱好，啧啧。 RT [@movingtea1982](http://twitter.com/movingtea1982): 某猫和某师太在辽师开心地看着小姑娘 [16:59:41, 2011-09-23](http://twitter.com/gfrog/statuses/117161200445423617)
+
+
+
+

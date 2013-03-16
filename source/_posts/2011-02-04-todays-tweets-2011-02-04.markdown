@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2011-02-04 01:00:00
+layout: post
+slug: todays-tweets-2011-02-04
+title: Today's tweets 2011-02-04
+wordpress_id: 1653
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 新刷了cm原版，感觉网络信号太不稳定了，无论是wifi还是3g都时有时无。球推荐石头一代靠谱rom [09:04:51, 2011-02-04](http://twitter.com/gfrog/statuses/33330105598083072)
+
+
+
+
+
+  * atom，电池会挺多久?RT [@DarkMourn](http://twitter.com/DarkMourn): ... SlashGear泄露了诺基亚将发布的MeeGo旗舰手机的配置情况，这款新产品将采用1.6GHz Atom处理器，854 x 480分辨率的屏幕，支持NFC手机支付技术... [http://bit.ly/dXiTar](http://bit.ly/dXiTar) [09:06:50, 2011-02-04](http://twitter.com/gfrog/statuses/33330605366185984)
+
+
+
+
+
+  * 一直用chromium dev的表示毫无压力。 RT [@chengr28](http://twitter.com/chengr28): Chrome Stable 今天早上升级到9.0了……刚回来就有这等好事……马上升级！ [09:08:34, 2011-02-04](http://twitter.com/gfrog/statuses/33331041938702336)
+
+
+
+

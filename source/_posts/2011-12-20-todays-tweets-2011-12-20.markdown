@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2011-12-20 01:00:00
+layout: post
+slug: todays-tweets-2011-12-20
+title: Today's tweets 2011-12-20
+wordpress_id: 2000
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * kindle fire价格似乎在下降呀，1300竟然都有了。kindle touch依然是坚挺的800块，擦，真暴利。 [00:33:11, 2011-12-20](http://twitter.com/gfrog/statuses/148803071286321152)
+
+
+
+
+
+  * 喝牛奶，睡觉！ [00:38:03, 2011-12-20](http://twitter.com/gfrog/statuses/148804296589312000)
+
+
+
+
+
+  * 这纯是有钱烧的吧，明显不同的两种机器也能纠结 RT [@luzhaohui](http://twitter.com/luzhaohui): 我又开始纠结了：是先上徕卡M6？还是哈苏503CW？各位给点意见 cc  [@sdjkx](http://twitter.com/sdjkx) [@jyman](http://twitter.com/jyman) [@kuroihitomi](http://twitter.com/kuroihitomi) [09:13:27, 2011-12-20](http://twitter.com/gfrog/statuses/148934000906481664)
+
+
+
+
+
+  * RT [@zmt0516](http://twitter.com/zmt0516): 明天就要去浙大了，约了个浙大大一的女网友一起在紫金港吃饭，一切顺利，直到我说我请客的时候，她突然告诉我他的性别填错了。。。 [09:14:58, 2011-12-20](http://twitter.com/gfrog/statuses/148934383540240385)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) [@sdjkx](http://twitter.com/sdjkx) [@jyman](http://twitter.com/jyman) [@kuroihitomi](http://twitter.com/kuroihitomi) 能带身上随时拍的，首选徕卡呀 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/148934615472685056) [09:19:52, 2011-12-20](http://twitter.com/gfrog/statuses/148935616569163776)
+
+
+
+
+
+  * 工作时间听些快歌会对提升工作效率有帮助嘛？ [10:42:47, 2011-12-20](http://twitter.com/gfrog/statuses/148956481780330496)
+
+
+
+
+
+  * sgabios在fedora里竟然还没发布，啧啧。 [16:49:27, 2011-12-20](http://twitter.com/gfrog/statuses/149048754908049408)
+
+
+
+
+
+  * 看upstream的邮件列表真尼玛长知识，可惜没法天天盯着看。 [17:45:14, 2011-12-20](http://twitter.com/gfrog/statuses/149062793516171264)
+
+
+
+

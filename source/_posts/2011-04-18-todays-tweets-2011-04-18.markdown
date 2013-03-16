@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2011-04-18 01:00:00
+layout: post
+slug: todays-tweets-2011-04-18
+title: Today's tweets 2011-04-18
+wordpress_id: 1714
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * grep的B和b参数果然很给力。 [10:33:58, 2011-04-18](http://twitter.com/gfrog/statuses/59806847938473985)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 应该是只能跑一个micro instance，想用多可以多注册几个帐号嘛，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/58760752433078272) [10:49:01, 2011-04-18](http://twitter.com/gfrog/statuses/59810636804268032)
+
+
+
+

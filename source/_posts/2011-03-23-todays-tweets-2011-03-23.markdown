@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2011-03-23 01:00:00
+layout: post
+slug: todays-tweets-2011-03-23
+title: Today's tweets 2011-03-23
+wordpress_id: 1696
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 领导又不看代码，看得是能不能出活。 RT [@sagasw](http://twitter.com/sagasw): code review，短短10来行代码发现3个问题，2个比较严重，还没有testcase，只能送一个“服”字给这位哥，好在终于不用跟他一起同组了。说点牢骚，这种人赚得没比我少多少，可见公司多不公平 [10:05:21, 2011-03-23](http://twitter.com/gfrog/statuses/50377563696140288)
+
+
+
+
+
+  * [@sagasw](http://twitter.com/sagasw) 太不淡定了。。。 [in reply to sagasw](http://twitter.com/sagasw/statuses/50378767469780992) [10:22:55, 2011-03-23](http://twitter.com/gfrog/statuses/50381984152813568)
+
+
+
+
+
+  * 这丫就是一泼妇啊，估计很会骂街，diang怎么找这么一个玩意出去丢人 RT [@dlb2825](http://twitter.com/dlb2825): "对于Google提出的中国干扰Gmail服务的指控，中国外交部发言人姜瑜周二予以否认。她说，中方不接受这一指 控，并表示拒绝进一步置评。http://is.gd/QrdAte [10:23:58, 2011-03-23](http://twitter.com/gfrog/statuses/50382249383825408)
+
+
+
+
+
+  * RT [@maskhy](http://twitter.com/maskhy): 一游人到小镇一旅馆,拿1千元给店主挑了个房间.他上楼时,店主拿1千元给屠户支付了欠的肉钱.屠夫去猪农那还了猪钱.猪农还了饲料款.饲料商去付清召妓的钱.妓女赶紧去旅馆还了房钱.这1千元又到店主手里.这时游客下楼说房间不合适,拿钱走了,但全镇债务都还清了 [12:55:28, 2011-03-23](http://twitter.com/gfrog/statuses/50420375200346112)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 20 Mar 2011 - Flickr [http://j.mp/fTAV3L](http://j.mp/fTAV3L) [16:03:58, 2011-03-23](http://twitter.com/gfrog/statuses/50467809788043264)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 21 Mar 2011 - Flickr [http://j.mp/hpoAa9](http://j.mp/hpoAa9) [16:03:58, 2011-03-23](http://twitter.com/gfrog/statuses/50467812745023488)
+
+
+
+
+
+  * RT [@whentp](http://twitter.com/whentp): 毛太祖抢了天安门前的mayor。。。RT [@mudewucifang](http://twitter.com/mudewucifang) 邵逸夫应该算高端版的签到鼻祖吧？“你们抢Major算啥？哼，爷盖楼～” [18:41:52, 2011-03-23](http://twitter.com/gfrog/statuses/50507546619949056)
+
+
+
+

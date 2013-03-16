@@ -1,0 +1,126 @@
+---
+comments: true
+date: 2011-06-15 01:00:00
+layout: post
+slug: todays-tweets-2011-06-15
+title: Today's tweets 2011-06-15
+wordpress_id: 1749
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 坐车速度果然慢些，坚持骑车的动力之一是比较省时间。 [09:01:51, 2011-06-15](http://twitter.com/gfrog/statuses/80802161465901056)
+
+
+
+
+
+  * [@isSutton](http://twitter.com/isSutton) 真早。。 [in reply to isSutton](http://twitter.com/isSutton/statuses/80760692868775936) [09:02:58, 2011-06-15](http://twitter.com/gfrog/statuses/80802443327315968)
+
+
+
+
+
+  * 坐656该在哪下车来着。。。。忘掉了 [09:03:50, 2011-06-15](http://twitter.com/gfrog/statuses/80802663679279104)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 京东上hp 23的显示器才800多米啦，还收啥二手啊。。。 [in reply to movingtea1982](http://twitter.com/movingtea1982/statuses/80818512867766272) [10:30:29, 2011-06-15](http://twitter.com/gfrog/statuses/80824470104850432)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 果断出手吧。 [in reply to movingtea1982](http://twitter.com/movingtea1982/statuses/80824604599402496) [10:31:45, 2011-06-15](http://twitter.com/gfrog/statuses/80824786594439169)
+
+
+
+
+
+  * 哇，好强大 RT [@diyzh](http://twitter.com/diyzh): 发几个CMCC（EDU也能用）公共wifi的密码：卡号：15821275836密码：159258 卡号：15800449592密码：159258 卡号：15800449954密码：159258 卡号：15800449940密码：159258 [10:47:20, 2011-06-15](http://twitter.com/gfrog/statuses/80828709430509568)
+
+
+
+
+
+  * 把python程序写的像C，我这是还没有python入门嘛？！ [16:28:06, 2011-06-15](http://twitter.com/gfrog/statuses/80914465314455552)
+
+
+
+
+
+  * 也可以烤 XXD RT [@ShevonNo](http://twitter.com/ShevonNo): 肚子饿，想吃蛋糕喝可乐，(ㄒoㄒ)/~~我要下午茶，不行！忍住，不能吃，再胖下去你就得拿去炖了。 [16:46:39, 2011-06-15](http://twitter.com/gfrog/statuses/80919134577233921)
+
+
+
+
+
+  * RT [@Raul_Wong](http://twitter.com/Raul_Wong): RT [@E33](http://twitter.com/E33): 【最热词】  原来大陆居民抵达台湾后可以直接向当地政府部门索要中华民国居民身份证 [17:29:43, 2011-06-15](http://twitter.com/gfrog/statuses/80929970309967872)
+
+
+
+
+
+  * 我擦，我擦，不会用XMLRPC传文件，竟然直接开了个socket传，谁写的代码，这么猥琐！ [17:43:03, 2011-06-15](http://twitter.com/gfrog/statuses/80933326705278976)
+
+
+
+
+
+  * 喂喂，chromium你肿末了，代理不能用啦？ [18:00:17, 2011-06-15](http://twitter.com/gfrog/statuses/80937664647401472)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 貌似这几天升级到14.*搞出来的毛病，我回退到13去。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/80938294883520512) [18:03:41, 2011-06-15](http://twitter.com/gfrog/statuses/80938519282991104)
+
+
+
+
+
+  * RT [@cuddly_v](http://twitter.com/cuddly_v): "233 [@WSongw](http://twitter.com/WSongw): 妹妹让我帮她买情侣装，高中生呀，就知道是什么情侣装，于是，我问她，知道什么是情侣装不，答曰：就两件一样的呗。我给她寄了两件裙子去。。。" [20:14:27, 2011-06-15](http://twitter.com/gfrog/statuses/80971426194145280)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 踹贴身的兜里带着 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/80962147470946304) [20:17:13, 2011-06-15](http://twitter.com/gfrog/statuses/80972126466748417)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 找件大衣服呗。不过我感觉地铁安检其实不太严吧。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/80974616507592704) [20:37:12, 2011-06-15](http://twitter.com/gfrog/statuses/80977152157302784)
+
+
+
+
+
+  * 听了下燕姿最新的专辑，我的天哪，这还是孙燕姿嘛？已经完全没有当年的风采了，唱的是用嗓子硬挤出来的嘛？！ [21:44:52, 2011-06-15](http://twitter.com/gfrog/statuses/80994184315682817)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 有个罐子不会被当成水壶么。。。钳子外形明显，哈哈 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/80978455415631872) [21:51:59, 2011-06-15](http://twitter.com/gfrog/statuses/80995974427844608)
+
+
+
+
+
+  * 特别是下雨天。 RT [@freesisx](http://twitter.com/freesisx): 北京晚上打车真难！！！！！！！！！！！！ [23:12:09, 2011-06-15](http://twitter.com/gfrog/statuses/81016146438012928)
+
+
+
+

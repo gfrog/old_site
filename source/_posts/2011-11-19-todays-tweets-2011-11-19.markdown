@@ -1,0 +1,150 @@
+---
+comments: true
+date: 2011-11-19 01:00:00
+layout: post
+slug: todays-tweets-2011-11-19
+title: Today's tweets 2011-11-19
+wordpress_id: 1959
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) [@jyman](http://twitter.com/jyman) [@hcarrie](http://twitter.com/hcarrie) 我用Kindlereader来的，似乎还没你这界面爽呢。正在自己发明轮子，搞一个自己看着爽的push工具。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/137547997297901568) [00:16:28, 2011-11-19](http://twitter.com/gfrog/statuses/137564839122964480)
+
+
+
+
+
+  * 哎，回家的时候真郁闷，打不到车，不得已还是把折叠车打开骑回家，路上还差点骑到水沟里。帝都的排水系统太差劲了。 [00:17:27, 2011-11-19](http://twitter.com/gfrog/statuses/137565086456872960)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 湿的！ @@ [in reply to yoyicue](http://twitter.com/yoyicue/statuses/137565456973299712) [00:26:44, 2011-11-19](http://twitter.com/gfrog/statuses/137567422927474689)
+
+
+
+
+
+  * 饿！ [00:27:53, 2011-11-19](http://twitter.com/gfrog/statuses/137567714632929280)
+
+
+
+
+
+  * Awesome, I just started to use Buffer. It's a smarter way to share Twitter and Facebook posts [http://t.co/zvcCG2r4](http://t.co/zvcCG2r4) [00:58:10, 2011-11-19](http://twitter.com/gfrog/statuses/137575335846875136)
+
+
+
+
+
+  * 今天空气质量很好呀，要不要出去活动下呢。。。 [12:18:11, 2011-11-19](http://twitter.com/gfrog/statuses/137746465681457152)
+
+
+
+
+
+  * 一直没找到instapaper那种分栏的导航模式， 就是左边是folder名，右边是文章标题的那种文档格式的制作方法，求解。 [14:15:47, 2011-11-19](http://twitter.com/gfrog/statuses/137776060262653953)
+
+
+
+
+
+  * 目前看到的epub定义大部分是基于2.0.1的，当然，这个格式对于转换为kindle格式自然够了，而且epub3.0刚出来不久，不知道各个电子书厂商支持的怎么样。。。 [14:17:06, 2011-11-19](http://twitter.com/gfrog/statuses/137776391788822528)
+
+
+
+
+
+  * RT [@hama](http://twitter.com/hama): 【转】问： 少林寺的和尚个个都那么精壮，他们没需求么？内涵回复：古时，一农民收粪做肥料，寻常人家大粪10个铜板一担。跑到一个和尚庙，和尚说要20个铜板一担。农民不解：为何你家这么贵？和尚说：俺们的都是夯实的。 [14:23:28, 2011-11-19](http://twitter.com/gfrog/statuses/137777996609224704)
+
+
+
+
+
+  * [@nanyan_CCF_TLF](http://twitter.com/nanyan_CCF_TLF) 你是好孩纸，哈哈。 [in reply to nanyan_CCF_TLF](http://twitter.com/nanyan_CCF_TLF/statuses/137795232279437312) [15:40:18, 2011-11-19](http://twitter.com/gfrog/statuses/137797332816236544)
+
+
+
+
+
+  * 总算有时间看完了源代码，我一直好奇美国人民的火车为神马都是倒着开呢。 [18:06:26, 2011-11-19](http://twitter.com/gfrog/statuses/137834106737266689)
+
+
+
+
+
+  * 啊哦，才想起来明天有ubuntu的release party，要不要去凑热闹呢。。 [20:26:05, 2011-11-19](http://twitter.com/gfrog/statuses/137869251624177664)
+
+
+
+
+
+  * 擦，上网本的3D加速打不开，竟然是手贱装了fglrx包。难怪检查内核模块没问题，X配置也没问题，但是就是没法启用。 [22:45:27, 2011-11-19](http://twitter.com/gfrog/statuses/137904324733964289)
+
+
+
+
+
+  * 有没有个对上网本稍友好点的WM啊，有点忍不了KDE这个上网本模式了。要不要折腾下openbox看看。。 [22:57:02, 2011-11-19](http://twitter.com/gfrog/statuses/137907237891997696)
+
+
+
+
+
+  * [@Hanliinter](http://twitter.com/Hanliinter) 哦，似乎也对哈，折腾下awesome看看。 [in reply to Hanliinter](http://twitter.com/Hanliinter/statuses/137907466947137536) [23:06:24, 2011-11-19](http://twitter.com/gfrog/statuses/137909594533015553)
+
+
+
+
+
+  * [@Hanliinter](http://twitter.com/Hanliinter) 哦，这个有神马特点嘛？ [in reply to Hanliinter](http://twitter.com/Hanliinter/statuses/137909959819132928) [23:14:30, 2011-11-19](http://twitter.com/gfrog/statuses/137911632968941568)
+
+
+
+
+
+  * [@Hanliinter](http://twitter.com/Hanliinter) Haskell格式的配置嘛？！ 啧啧，怎么都是这么geek的玩法，话说一直没法上手awesome就是因为丫用lua当配置。 [in reply to Hanliinter](http://twitter.com/Hanliinter/statuses/137911911940493312) [23:17:35, 2011-11-19](http://twitter.com/gfrog/statuses/137912410311897090)
+
+
+
+
+
+  * 明朝那些事儿写的真不错，反复看几遍也不觉得无聊，很适合闲着没事翻翻。 [23:18:37, 2011-11-19](http://twitter.com/gfrog/statuses/137912668450328576)
+
+
+
+
+
+  * [@Hanliinter](http://twitter.com/Hanliinter) 好吧，下决心玩玩这东东去，哈，我是不折腾会死党。 [in reply to Hanliinter](http://twitter.com/Hanliinter/statuses/137912668194476032) [23:19:25, 2011-11-19](http://twitter.com/gfrog/statuses/137912872922644480)
+
+
+
+
+
+  * 杯具发生啦！ 木有带Kindle的数据线回家，结果Kindle木电啦，木电啦！ [23:20:29, 2011-11-19](http://twitter.com/gfrog/statuses/137913140884152320)
+
+
+
+
+
+  * [@hama](http://twitter.com/hama) 也木有，microusb线没多备用的，纠结。。 [in reply to hama](http://twitter.com/hama/statuses/137913401157500928) [23:32:09, 2011-11-19](http://twitter.com/gfrog/statuses/137916076326518784)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 是MicroUSB， 都扔公司了，家里竟然木有备份。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/137913474029330432) [23:32:44, 2011-11-19](http://twitter.com/gfrog/statuses/137916220635746305)
+
+
+
+

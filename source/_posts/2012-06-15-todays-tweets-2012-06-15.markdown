@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2012-06-15 23:59:00
+layout: post
+slug: todays-tweets-2012-06-15
+title: Today's tweets 2012-06-15
+wordpress_id: 2575
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:20, 2012-06-15](http://twitter.com/gfrog/statuses/213435740137328641)
+
+
+
+

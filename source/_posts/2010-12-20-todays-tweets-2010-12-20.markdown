@@ -1,0 +1,102 @@
+---
+comments: true
+date: 2010-12-20 01:00:00
+layout: post
+slug: todays-tweets-2010-12-20
+title: Today's tweets 2010-12-20
+wordpress_id: 1097
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 额，Desire这么复杂。。。 我以为Milestone就够变态了，一定要刷底包。 in reply to pityonline [00:06:23, 2010-12-20](http://twitter.com/gfrog/statuses/16524757486804992)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 额，G4D比纯grub多了啥？ 我一直以为他俩都一样啊。 in reply to Gyteng [00:08:53, 2010-12-20](http://twitter.com/gfrog/statuses/16525386313633792)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) desire 没有root不能用adb连么？找找有没有用adb root的方法 in reply to pityonline [00:15:02, 2010-12-20](http://twitter.com/gfrog/statuses/16526933290389504)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 支付宝吃利息？ - 旁观者 - 博客园 [http://j.mp/etpPuw](http://j.mp/etpPuw) [12:34:59, 2010-12-20](http://twitter.com/gfrog/statuses/16713146693586944)
+
+
+
+
+
+  * 我擦，我又搞挂了一台RHEL6，今天这是怎么了，简直是系统杀手啊。 [13:11:49, 2010-12-20](http://twitter.com/gfrog/statuses/16722416491307008)
+
+
+
+
+
+  * RT [@tjmao](http://twitter.com/tjmao): “这年头硬件多便宜啊，算上显示器才三千来块，跟你手机差不多的” [13:41:13, 2010-12-20](http://twitter.com/gfrog/statuses/16729816413769728)
+
+
+
+
+
+  * RT [@imdingji](http://twitter.com/imdingji): “先生，我能帮你吗？” “开个帐户。” “你的姓名。” “马马马马马马马马马马克里·登登登登登登登登登登维奇·杰杰杰杰杰杰杰杰杰杰杰西”“先生你口吃？” “我不口吃，是我父亲口吃。给我出生登记的出生官TMD是个白痴。” [16:56:13, 2010-12-20](http://twitter.com/gfrog/statuses/16778889082699776)
+
+
+
+
+
+  * 出发，年会。 [16:58:45, 2010-12-20](http://twitter.com/gfrog/statuses/16779526210064384)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): RT [@cuddly_v](http://twitter.com/cuddly_v): 蒋方舟评《让子弹飞》：姜的牛逼之处，在于这片毛粉见毛，美国粉见华盛顿，改良派见改良，革命派见革命，民粹们见民粹，屁民见救世主，广电们见没有某党就没有新中国。各派都喜闻乐见觉得替自己说了话。 [17:00:10, 2010-12-20](http://twitter.com/gfrog/statuses/16779883636072448)
+
+
+
+
+
+  * 显然这是做这套系统的软件公司比较脑残。在前公司的时候遇到这种事都会心里嘀咕，这不是我们公司那帮货做的吧。RT [@gamtin](http://twitter.com/gamtin): 刚刚去电信营业厅，想升级宽带。本来现在宽带是本月31号到期，正好顺便给明年的交钱。结果被告知最好1月1日办理，要不然这个月就会马上生效了。 [17:03:39, 2010-12-20](http://twitter.com/gfrog/statuses/16780757871628288)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 18 Dec 2010 - Flickr [http://j.mp/i07u4a](http://j.mp/i07u4a) [22:09:04, 2010-12-20](http://twitter.com/gfrog/statuses/16857618899275776)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Re: 如何映射才能让d开头的快捷键不是剪切 [http://j.mp/ff1Pf2](http://j.mp/ff1Pf2) [22:20:58, 2010-12-20](http://twitter.com/gfrog/statuses/16860616635453440)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 千万别左拐 警车在偷拍 [http://j.mp/fFhpRb](http://j.mp/fFhpRb) [22:24:30, 2010-12-20](http://twitter.com/gfrog/statuses/16861504573808641)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 官办救助基地 还是奴工地狱 [http://j.mp/g5b5dY](http://j.mp/g5b5dY) [22:44:00, 2010-12-20](http://twitter.com/gfrog/statuses/16866410537943040)
+
+
+
+

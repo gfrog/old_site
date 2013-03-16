@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2012-04-08 23:59:00
+layout: post
+slug: todays-tweets-2012-04-08
+title: Today's tweets 2012-04-08
+wordpress_id: 2487
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@ksky](http://twitter.com/ksky): 多部门：北京市职工月平均工资4672元，看看你是不是扯了帝都的后腿。http://t.co/oLuij65L [11:31:40, 2012-04-08](http://twitter.com/gfrog/statuses/188831451331043328)
+
+
+
+
+
+  * RT [@tixiang](http://twitter.com/tixiang): #译自法语推 ：我女朋友说我不够尊重她的隐私，想要离开我，至少她在日记上是这么写的…… via [@Flootoutcourt](http://twitter.com/Flootoutcourt) [11:33:17, 2012-04-08](http://twitter.com/gfrog/statuses/188831855418675201)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi): 「荣威E50纯电动轿车预计今年下半年上市，荣威550插电强混轿车正在进行16万公里排放耐久试验，预计今年7月底完成并申请公告目录及生产准入。」 [11:34:02, 2012-04-08](http://twitter.com/gfrog/statuses/188832043709382656)
+
+
+
+
+
+  * RT [@UncleClassic](http://twitter.com/UncleClassic): 那天我拎了块电动车电瓶上街，突遭俩警察盘问，我什么也没说只是默默的从兜里掏出了我的android手机，俩警察看了看接着会心一笑挥了挥手目送我消失在美丽的夕阳中～ [11:34:43, 2012-04-08](http://twitter.com/gfrog/statuses/188832218297278465)
+
+
+
+
+
+  * RT [@raptorz](http://twitter.com/raptorz): 233 RT [@laogao](http://twitter.com/laogao): 大哥，能不能请你别VNC到KVM的主机，然后通过管理界面直接打开虚拟机的桌面，全屏，再从里面打开命令行窗口敲命令啊？ [23:57:11, 2012-04-08](http://twitter.com/gfrog/statuses/189019063568183297)
+
+
+
+
+
+  * RT [@cnbaidu](http://twitter.com/cnbaidu): 我哥的厂子是造各种塑料袋批发到市场上去的，生意蛮好。当年什么标准出来严那么一阵的时候，就是要求单个塑料袋重多少克，厚度达到多少的时候，很难赚钱，后来又没人不管了，那种回收的废料颗粒也可以掺进去（这本是禁止的）。中国的事许多都如此，来也汹汹，去也匆匆。 [23:59:29, 2012-04-08](http://twitter.com/gfrog/statuses/189019643837546500)
+
+
+
+

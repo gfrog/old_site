@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2011-01-23 01:00:00
+layout: post
+slug: todays-tweets-2011-01-23
+title: Today's tweets 2011-01-23
+wordpress_id: 1639
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) GDB中获取数据结构成员的偏移 [http://j.mp/fcfqZ2](http://j.mp/fcfqZ2) [00:59:29, 2011-01-23](http://twitter.com/gfrog/statuses/28859307177021441)
+
+
+
+
+
+  * RT [@klerff](http://twitter.com/klerff): [http://desktop.simplecd.org/](http://desktop.simplecd.org/)  verycd资源的桌面本地备份，可离线查询在线更新，而且，包含VeryCD删除或审核不通过的资源 [10:40:41, 2011-01-23](http://twitter.com/gfrog/statuses/29005568240779264)
+
+
+
+

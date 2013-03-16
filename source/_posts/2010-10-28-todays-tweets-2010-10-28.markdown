@@ -1,0 +1,96 @@
+---
+comments: true
+date: 2010-10-28 01:00:00
+layout: post
+slug: todays-tweets-2010-10-28
+title: Today's tweets 2010-10-28
+wordpress_id: 1022
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@raptorqtm](http://twitter.com/raptorqtm): RT [@90202](http://twitter.com/90202): 长者与美女共饮，皆醺。长者凭借酒劲试探：“醉翁之意不在酒。”女微笑拒之：“醉酒之意不在翁。”长者仰天自嘲一笑：“醉酒之翁不在意！” [13:28:04, 2010-10-28](http://twitter.com/gfrog/statuses/28961564568)
+
+
+
+
+
+  * RT [@qihu2011](http://twitter.com/qihu2011): RT [@o_lll](http://twitter.com/o_lll): [#joke](http://search.twitter.com/search?q=%23joke) 作为一个mac用户，我最见不得的事情有5个：在mba上装win，在mb上装win，在mbp上装win，在imac上装win，问ipad上能不能装win [14:16:10, 2010-10-28](http://twitter.com/gfrog/statuses/28963869381)
+
+
+
+
+
+  * 又看到Sun，再次为sun默哀。另外我认为Oracle很不靠谱。 RT [@pipitu](http://twitter.com/pipitu): 其实你就是想去Sun吧承认吧（喂喂Sun已经香消玉殒了你醒醒！ [17:18:34, 2010-10-28](http://twitter.com/gfrog/statuses/28972310252)
+
+
+
+
+
+  * 同郁闷，想找一个靠谱的挎包，找了一个月未果。RT [@rainux](http://twitter.com/rainux): 生为男性真惨，衣服难买，包也难找。玫瑰坊路过了好几家卖包的店不是只有女包就是只有皮质面料公文包、运动包。到底要到哪里去找帆布包啊！ [18:57:03, 2010-10-28](http://twitter.com/gfrog/statuses/28977684375)
+
+
+
+
+
+  * 我了个去，RHEL6太方便了，在nautilus里点一个tgz文件，它会自动挂载成一个目录，直接就能操作tar包里的文件。真赞。 [19:05:19, 2010-10-28](http://twitter.com/gfrog/statuses/28978207282)
+
+
+
+
+
+  * [@zhgc](http://twitter.com/zhgc) beta早出来了啊。都好几个月了吧。 [in reply to zhgc](http://twitter.com/zhgc/statuses/28981337396) [21:50:57, 2010-10-28](http://twitter.com/gfrog/statuses/28990771323)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku) 高亮！ RT [@vikivone](http://twitter.com/vikivone) [http://is.gd/gosTi](http://is.gd/gosTi)    学校的万圣节party的海报！！亮点是【超短裙免票】！！！ [22:16:35, 2010-10-28](http://twitter.com/gfrog/statuses/28993036701)
+
+
+
+
+
+  * 又看中啥毒物了？XD RT [@beasthang](http://twitter.com/beasthang) 万恶的购机欲望啊，器材派都是浮云。 [22:16:59, 2010-10-28](http://twitter.com/gfrog/statuses/28993071904)
+
+
+
+
+
+  * [@beasthang](http://twitter.com/beasthang) 我发现入了折叠机以后，我对其他机器都无爱了。如果能找到一部135的折叠机，我估计就木有欲望了。XD [in reply to beasthang](http://twitter.com/beasthang/statuses/28993580732) [23:11:59, 2010-10-28](http://twitter.com/gfrog/statuses/28997915038)
+
+
+
+
+
+  * 啊啊啊啊啊！考虑把本子上的ubuntu换成rhel6，我是不是疯了。。。 [23:15:58, 2010-10-28](http://twitter.com/gfrog/statuses/28998260431)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 汗，正太同学好。 [in reply to Hc95](http://twitter.com/Hc95/statuses/28998358012) [23:23:46, 2010-10-28](http://twitter.com/gfrog/statuses/28998931863)
+
+
+
+
+
+  * 睡去，光速闪。 [23:38:41, 2010-10-28](http://twitter.com/gfrog/statuses/29000202451)
+
+
+
+
+
+  * wow，求围观。 RT [@Paveo](http://twitter.com/Paveo): 正式组织一下：北京地区，组织lan party，备有咖啡食物和网络接入，大家可带上各种gadget，场地备有千兆交换机和网线，以及d2d设备。。欢迎官方RT报名，并可加入Ggroup [http://bit.ly/aeWx1D](http://bit.ly/aeWx1D) [23:44:20, 2010-10-28](http://twitter.com/gfrog/statuses/29000686901)
+
+
+
+

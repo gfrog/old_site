@@ -1,0 +1,48 @@
+---
+comments: true
+date: 2011-02-28 01:00:00
+layout: post
+slug: todays-tweets-2011-02-28
+title: Today's tweets 2011-02-28
+wordpress_id: 1674
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 球证。 RT [@onedow](http://twitter.com/onedow): RT [@williamlong](http://twitter.com/williamlong): Google Picasa Web 相册无限容量 - 如果你上传的照片在800像素以内，视频在15分钟以内，则全部不计算容量，因此如果你只上传不大于800px的小尺寸照片，你将拥有无线容量的谷歌网络相册。 [13:54:54, 2011-02-28](http://twitter.com/gfrog/statuses/42100408646246400)
+
+
+
+
+
+  * libvirt真变态，如果启用vnc的话，竟然默认禁用了所有guests的声音设备。 [15:29:05, 2011-02-28](http://twitter.com/gfrog/statuses/42124109638942720)
+
+
+
+
+
+  * 确实如此，第三季质量明显下降，光扯淡不讲真东西了。 RT [@Gyteng](http://twitter.com/Gyteng): lie to me貌似越来越不好看了。 [16:22:24, 2011-02-28](http://twitter.com/gfrog/statuses/42137530539323392)
+
+
+
+
+
+  * [@wmcraul](http://twitter.com/wmcraul) 要说经典，那还得看六人行，哈哈，长盛不衰啊。 [in reply to wmcraul](http://twitter.com/wmcraul/statuses/42139196273594368) [16:34:03, 2011-02-28](http://twitter.com/gfrog/statuses/42140461875335168)
+
+
+
+
+
+  * 其实这是因为windows太反人类。 RT [@dongxiaowei](http://twitter.com/dongxiaowei): 真不知道是中国计算机教的烂 还是学到烂 偶大学同学把桌面那图标给删了就等同于删除了软件 更好一点的就把目录给删了。。。 真无语了 [18:11:08, 2011-02-28](http://twitter.com/gfrog/statuses/42164893574631424)
+
+
+
+

@@ -1,0 +1,72 @@
+---
+comments: true
+date: 2011-09-09 01:00:00
+layout: post
+slug: todays-tweets-2011-09-09
+title: Today's tweets 2011-09-09
+wordpress_id: 1839
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@titanzzf](http://twitter.com/titanzzf) lol [in reply to titanzzf](http://twitter.com/titanzzf/statuses/111702046947807232) [11:02:49, 2011-09-09](http://twitter.com/gfrog/statuses/111997960224645120)
+
+
+
+
+
+  * wow，KDE4里窗口最大化之后标题栏会缩小三分之一左右，真是赞叹！细节做的太好了。跟现在的KDE4比起来，gnome3就是一团渣。 [13:11:14, 2011-09-09](http://twitter.com/gfrog/statuses/112030279174074368)
+
+
+
+
+
+  * 不过，谁知道怎么hack KDE4里面字体的DPI嘛？默认只有96和120,我感觉我的本子还是调到90左右比较好。。 [13:12:17, 2011-09-09](http://twitter.com/gfrog/statuses/112030542739931136)
+
+
+
+
+
+  * RT [@717amy](http://twitter.com/717amy): RT [@tifan](http://twitter.com/tifan): 还是在美国比较舒服，想想国内苦逼的研究生连个二手车都买不起。。。 [13:17:51, 2011-09-09](http://twitter.com/gfrog/statuses/112031942614069248)
+
+
+
+
+
+  * RT [@dlb2825](http://twitter.com/dlb2825): 乐活北京：#北京爆料# 谨以此片，向这位为回龙观宣传事业而献身的姐表示致意。 回龙观真是藏龙卧虎啊！ 转自：@回龙观 [http://t.co/ESdh76y](http://t.co/ESdh76y) [13:17:57, 2011-09-09](http://twitter.com/gfrog/statuses/112031968434196481)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 现在也来得及试试嘛，比gnome3万人唾弃的标题栏好多了 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/112030704535224320) [13:18:58, 2011-09-09](http://twitter.com/gfrog/statuses/112032224966213632)
+
+
+
+
+
+  * awesome! KDE4! [14:02:17, 2011-09-09](http://twitter.com/gfrog/statuses/112043125668708352)
+
+
+
+
+
+  * Let's riding! RT [@iMurMur](http://twitter.com/iMurMur): Weekend is coming! [14:41:08, 2011-09-09](http://twitter.com/gfrog/statuses/112052902356459520)
+
+
+
+
+
+  * 啊哦，我发现在terminal里，英文字体比中文字体小了一号，这个问题怎么解决来着。。。 [14:43:49, 2011-09-09](http://twitter.com/gfrog/statuses/112053577199009792)
+
+
+
+

@@ -1,0 +1,114 @@
+---
+comments: true
+date: 2011-10-15 01:00:00
+layout: post
+slug: todays-tweets-2011-10-15
+title: Today's tweets 2011-10-15
+wordpress_id: 1893
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 我发现我真不是个geeker，那些大拿在台上忽悠开源，我竟然一点兴趣都没有。 [11:25:17, 2011-10-15](http://twitter.com/gfrog/statuses/125049579954651138)
+
+
+
+
+
+  * RT [@roamlog](http://twitter.com/roamlog): Google 将关闭 Google Buzz，Jaiku，iGoogle，Code search 和 Google Labs。 [11:26:06, 2011-10-15](http://twitter.com/gfrog/statuses/125049785131606016)
+
+
+
+
+
+  * 北航的wifi没公用密码嘛。。。 屋里没手机信号，我蹲在门口上网呢。。。 [11:50:00, 2011-10-15](http://twitter.com/gfrog/statuses/125055797926428673)
+
+
+
+
+
+  * IBM的忽悠和OW2的风格明显不同，IBM关键字：业务，合作，团队，效率。OW2关键字：人多，好玩，双赢。OW2明显的传销风。 [11:56:41, 2011-10-15](http://twitter.com/gfrog/statuses/125057482153402368)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 但是这次木有了，不给开放wifi太郁闷了，继续蹲门口上网。 [in reply to pityonline](http://twitter.com/pityonline/statuses/125057668305010688) [12:02:34, 2011-10-15](http://twitter.com/gfrog/statuses/125058960641372161)
+
+
+
+
+
+  * [@librevim](http://twitter.com/librevim) 杯具 [in reply to librevim](http://twitter.com/librevim/statuses/125058414173896704) [12:02:58, 2011-10-15](http://twitter.com/gfrog/statuses/125059059962490881)
+
+
+
+
+
+  * [@librevim](http://twitter.com/librevim) [@pityonline](http://twitter.com/pityonline) 难怪，这次组织不力。 [in reply to librevim](http://twitter.com/librevim/statuses/125059162085408768) [12:04:57, 2011-10-15](http://twitter.com/gfrog/statuses/125059559265013760)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) [@librevim](http://twitter.com/librevim) 开源软件周，外加fedora day [in reply to pityonline](http://twitter.com/pityonline/statuses/125059337205981184) [12:17:10, 2011-10-15](http://twitter.com/gfrog/statuses/125062636713943040)
+
+
+
+
+
+  * [@librevim](http://twitter.com/librevim) 多谢，俺跑出来了，没地方放本子了，拿手机对付算了 [in reply to librevim](http://twitter.com/librevim/statuses/125059285318238208) [12:18:37, 2011-10-15](http://twitter.com/gfrog/statuses/125063000238460928)
+
+
+
+
+
+  * [@librevim](http://twitter.com/librevim) 木有试验，本子收起来了，我珍藏，下午试验。 [in reply to librevim](http://twitter.com/librevim/statuses/125063241348038656) [12:22:37, 2011-10-15](http://twitter.com/gfrog/statuses/125064008893087744)
+
+
+
+
+
+  * [@gttnnn](http://twitter.com/gttnnn) 这比喻，好吧，非常恰当。。。 [in reply to gttnnn](http://twitter.com/gttnnn/statuses/125125569615638528) [21:25:50, 2011-10-15](http://twitter.com/gfrog/statuses/125200711863640064)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 淡定淡定，直接装CM原版不就得了。 [in reply to pityonline](http://twitter.com/pityonline/statuses/125202250627940352) [21:38:05, 2011-10-15](http://twitter.com/gfrog/statuses/125203792877723649)
+
+
+
+
+
+  * 无责任转推。 RT [@ksky](http://twitter.com/ksky): 国内类Dropbox产品，坚果铺子绝对算是一个另类。闷声做产品，而且现在的产品也算是挺好用的了，比那些天天喊K盘，T盘的好太多了。如果你没有用过，我建议您试试。附上邀请连接：http://t.co/hloYJ09V [21:38:49, 2011-10-15](http://twitter.com/gfrog/statuses/125203978408574976)
+
+
+
+
+
+  * RT [@virushuo](http://twitter.com/virushuo): . 有其他人用过吗？越看越划算啊，测试了下LA的速度也很好，价格比linode划算啊 RT [@xlandz](http://twitter.com/xlandz): [@virushuo](http://twitter.com/virushuo) 我用的 [http://t.co/VEdb9wav](http://t.co/VEdb9wav) 的vps，当初选择的标准就是freebsd和ipv6，还不错。kvm的 [21:39:48, 2011-10-15](http://twitter.com/gfrog/statuses/125204227856400384)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 木有原版好悲剧。 [in reply to pityonline](http://twitter.com/pityonline/statuses/125204888677392384) [21:47:38, 2011-10-15](http://twitter.com/gfrog/statuses/125206198332039168)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 第三方编译的吧？ [in reply to pityonline](http://twitter.com/pityonline/statuses/125207188233912320) [21:54:49, 2011-10-15](http://twitter.com/gfrog/statuses/125208004961374208)
+
+
+
+

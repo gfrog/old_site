@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2012-03-31 23:59:00
+layout: post
+slug: todays-tweets-2012-03-31
+title: Today's tweets 2012-03-31
+wordpress_id: 2479
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@ripleyyu](http://twitter.com/ripleyyu): 3月15日晚间，大连实德董事长徐明因涉嫌经济案件被相关部门控制。与大连实德有着密切业务关联的中国建设银行(下称建行)，已经开始追缴实德的贷款，并对其全面停贷。 [12:52:30, 2012-03-31](http://twitter.com/gfrog/statuses/185952689597849600)
+
+
+
+
+
+  * RT [@movingtea1982](http://twitter.com/movingtea1982): RT  [@Sh_Hsu](http://twitter.com/Sh_Hsu): 孔明在五丈原，自知天命不长，遂用祈禳之法，于帐内置七星灯，对天祷告，若七日后主灯不灭，可延寿一纪。眼看来到第六日上，忽听帐外吵闹，孔明正惊疑间，忽然魏延闯入，一脚踢灭主灯，叫道：丞相不知道熄灯一小时么？ [13:40:23, 2012-03-31](http://twitter.com/gfrog/statuses/185964738256191488)
+
+
+
+
+
+  * 为神马突然毫无编码的兴致了呢，憋了一天，就憋出俩小函数。这是神马状况。。。 [17:22:03, 2012-03-31](http://twitter.com/gfrog/statuses/186020521656336384)
+
+
+
+

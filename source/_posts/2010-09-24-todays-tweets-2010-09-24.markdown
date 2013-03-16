@@ -1,0 +1,21 @@
+---
+comments: true
+date: 2010-09-24 01:00:00
+layout: post
+slug: todays-tweets-2010-09-24
+title: Today's tweets 2010-09-24
+wordpress_id: 988
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+	
+  * RT [@Clyee_FanQiang](http://twitter.com/Clyee_FanQiang): 『Clyee翻墙v1.0』是有史以来最快的翻墙软件。主要特点：1自动选择最快线路，与本机网速无差异。2有效的防止DNS污染和连接被重置。3可以强制加密任何浏览的网页 [http://clyee.com](http://clyee.com) RT本消息即可获得私信地址。 [08:22:14, 2010-09-24](http://twitter.com/gfrog/statuses/25356649267)
+
+

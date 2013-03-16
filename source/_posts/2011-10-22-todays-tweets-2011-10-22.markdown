@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2011-10-22 01:00:00
+layout: post
+slug: todays-tweets-2011-10-22
+title: Today's tweets 2011-10-22
+wordpress_id: 1928
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@catgrepL](http://twitter.com/catgrepL): "猴子喜欢相机是因为相机能自动变焦（蕉）" [00:26:28, 2011-10-22](http://twitter.com/gfrog/statuses/127420496257105921)
+
+
+
+
+
+  * RT [@smallfishxy](http://twitter.com/smallfishxy): 人类已经不能阻止Github的步伐了！！已经支持SVN客户端！http://t.co/NDvA7B60 [00:27:00, 2011-10-22](http://twitter.com/gfrog/statuses/127420631556964352)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): RT [@qhgy](http://twitter.com/qhgy): 安卓用户有福了 RT [@DOPPELKALT](http://twitter.com/DOPPELKALT): 翻墙 Opera_Mini_Android_6.5 Wuala网盘下载 [http://t.co/NLATxk3D](http://t.co/NLATxk3D) [00:27:51, 2011-10-22](http://twitter.com/gfrog/statuses/127420843058929664)
+
+
+
+

@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2011-06-27 01:00:00
+layout: post
+slug: todays-tweets-2011-06-27
+title: Today's tweets 2011-06-27
+wordpress_id: 1759
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 貌似pidgin在某个地方有个死锁，虽然不太常发生，但是概率也不小。。。 [10:33:41, 2011-06-27](http://twitter.com/gfrog/statuses/85173927957118976)
+
+
+
+
+
+  * RT [@hengdm](http://twitter.com/hengdm): B- RT [@JAYxiaomuzhu](http://twitter.com/JAYxiaomuzhu): 这，是我最牛逼的一张，本来不想发的，怕，但是，你们不会举报的，拜托了！ twitpic.com/5hjksm [15:16:13, 2011-06-27](http://twitter.com/gfrog/statuses/85245030901620736)
+
+
+
+

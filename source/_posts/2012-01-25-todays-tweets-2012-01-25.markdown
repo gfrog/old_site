@@ -1,0 +1,42 @@
+---
+comments: true
+date: 2012-01-25 01:00:00
+layout: post
+slug: todays-tweets-2012-01-25
+title: Today's tweets 2012-01-25
+wordpress_id: 2070
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@terrywang](http://twitter.com/terrywang): 关于旅居海外的中国大陆公民申请中华民国（台湾）护照，驻雪梨（悉尼）台北经济文化办事处（相当于台湾驻澳领事馆）的回复 [http://t.co/S8Yh8Xti](http://t.co/S8Yh8Xti) cc [@linuxcity](http://twitter.com/linuxcity) [@panda_L](http://twitter.com/panda_L) [@winterjane](http://twitter.com/winterjane) 再发一遍，求扩 ... [14:03:22, 2012-01-25](http://twitter.com/gfrog/statuses/162052922207776768)
+
+
+
+
+
+  * RT [@tdtw](http://twitter.com/tdtw): 机场电梯处挂着一个大大的牌子：Watch Out! 于是司马南就悲剧了 [14:08:09, 2012-01-25](http://twitter.com/gfrog/statuses/162054127726231552)
+
+
+
+
+
+  * RT [@ahxxm](http://twitter.com/ahxxm): 有两种方式构建软件设计：一种是把软件做的很简单以至于明显找不到缺陷；另一种是把它做的很复杂以至于找不到明显的缺陷。 —— C.A.R Hoare ，《Python简明教程》 [22:44:02, 2012-01-25](http://twitter.com/gfrog/statuses/162183955221725184)
+
+
+
+
+
+  * RT [@RealChuckie](http://twitter.com/RealChuckie): ✔Twitter account ✔Facebook account ✔Tumblr account ✔youtube account "Dude, do you have a life!?" "OMG, WHAT'S THE LINK!?" [22:51:05, 2012-01-25](http://twitter.com/gfrog/statuses/162185727474548738)
+
+
+
+

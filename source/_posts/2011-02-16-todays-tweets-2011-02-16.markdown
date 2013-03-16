@@ -1,0 +1,72 @@
+---
+comments: true
+date: 2011-02-16 01:00:00
+layout: post
+slug: todays-tweets-2011-02-16
+title: Today's tweets 2011-02-16
+wordpress_id: 1664
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 杯具发生了，本子启动过程中屏幕无法显示，又没有开SSH服务，这可咋办。 [09:48:08, 2011-02-16](http://twitter.com/gfrog/statuses/37689655897890817)
+
+
+
+
+
+  * [@hedaors](http://twitter.com/hedaors) 网络启动到rescue模式装了个ssh，哈，这次不怕了。 [in reply to hedaors](http://twitter.com/hedaors/statuses/37690702875987968) [10:08:12, 2011-02-16](http://twitter.com/gfrog/statuses/37694705961541632)
+
+
+
+
+
+  * [@zongsen](http://twitter.com/zongsen) 外接显示器也很可能不行，看情况是显卡没有正确驱动。 [in reply to zongsen](http://twitter.com/zongsen/statuses/37692518657298432) [10:08:44, 2011-02-16](http://twitter.com/gfrog/statuses/37694837767544832)
+
+
+
+
+
+  * [@zongsen](http://twitter.com/zongsen) 试了下，不行。但是我发现问题了，xorg里面不知道为啥多了一段配置，我记得ubuntu早就不用这个配置文件了啊。删掉之后就一切正常了。 [in reply to zongsen](http://twitter.com/zongsen/statuses/37695334473793536) [10:14:44, 2011-02-16](http://twitter.com/gfrog/statuses/37696347691941888)
+
+
+
+
+
+  * pei叔威武。 RT [@wangpei](http://twitter.com/wangpei): 告别服务9年的报馆，开始全职写作。给自己以自由，给梦想以机会，这年头投资什么都不如投资自己，一切都不晚，我看涨我自己。 [10:16:20, 2011-02-16](http://twitter.com/gfrog/statuses/37696752752672768)
+
+
+
+
+
+  * 用鼠标点菜单操作，VIM绝对不能完成 XD RT [@pipitu](http://twitter.com/pipitu) gvim到底能完成什么vim不能完成的惊天地泣鬼神的功能你们倒是说说看啊。。。 [11:06:04, 2011-02-16](http://twitter.com/gfrog/statuses/37709268983627776)
+
+
+
+
+
+  * [@hedaors](http://twitter.com/hedaors) 汗，这都被你知道了。。。 惭愧惭愧。 [in reply to hedaors](http://twitter.com/hedaors/statuses/37756706398150656) [14:41:03, 2011-02-16](http://twitter.com/gfrog/statuses/37763367825448960)
+
+
+
+
+
+  * 这能救助多少乞讨儿童啊 RT [@zhangtns](http://twitter.com/zhangtns): 贵阳原市长助理樊中黔被判死缓：据专案组讲：一搜，光清点钞票就用一天时间，搜出人民币600余万欧元13万美元10.3万港币46万18万购物卡。再搜，半屋子陈年茅台，一扎用旧报纸包好的20万，45根金条。三搜，三处房产内发现... [14:47:56, 2011-02-16](http://twitter.com/gfrog/statuses/37765103382171648)
+
+
+
+
+
+  * 不肿咋能叫企业应用。 RT [@queenprincewl](http://twitter.com/queenprincewl): 微软的sharepoint这个东西存在的价值是什么啊是什么？……臃肿那就是微软产品的代名词啊！ [16:37:17, 2011-02-16](http://twitter.com/gfrog/statuses/37792618456940544)
+
+
+
+

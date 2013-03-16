@@ -1,0 +1,192 @@
+---
+comments: true
+date: 2010-06-09 01:00:00
+layout: post
+slug: todays-tweets-2010-06-09
+title: Today's tweets 2010-06-09
+wordpress_id: 762
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 不靠谱的公交车，每天都没个准点。 [07:36:58, 2010-06-09](http://twitter.com/gfrog/statuses/15740553734)
+
+
+
+
+
+  * 锂电最害怕过充和过放，这倒是真的。RT [@raptorz](http://twitter.com/raptorz): 球科学依据　RT [@mathena](http://twitter.com/mathena): 原来锂电最好的保养方法就是让电量维持在 40-80% 之间，怪不得我的苹果的电池到现在还坚挺 [08:05:46, 2010-06-09](http://twitter.com/gfrog/statuses/15742182983)
+
+
+
+
+
+  * 刚好最进严打，所以生意不好。RT [@fannylawrenC](http://twitter.com/fannylawrenC): 你應說生意太好，由晚做到早，正準備休息。這樣才顯得你有市場，呵呵！RT [@liumangyan](http://twitter.com/liumangyan): 我是兼职的。而且最近生意不好。RT [@L5d](http://twitter.com/L5d): 看来流氓燕是伪妓女，妓女不都是白天睡觉晚上卖淫吗 [08:07:10, 2010-06-09](http://twitter.com/gfrog/statuses/15742260970)
+
+
+
+
+
+  * [@mathena](http://twitter.com/mathena) 这是怎么测出来的？求教！ [in reply to mathena](http://twitter.com/mathena/statuses/15741090720) [08:15:02, 2010-06-09](http://twitter.com/gfrog/statuses/15742715451)
+
+
+
+
+
+  * [@fannylawrenC](http://twitter.com/fannylawrenC) 事实，嘿。可以翻前一阵的新闻。 [in reply to fannylawrenC](http://twitter.com/fannylawrenC/statuses/15742642952) [08:18:58, 2010-06-09](http://twitter.com/gfrog/statuses/15742938061)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) [@wangpei](http://twitter.com/wangpei) 叔写过一个U盘安装黑苹果的文档，windows可能对光驱依赖比较大，ubuntu用U盘和网络安装都可以。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/15712872687) [08:39:36, 2010-06-09](http://twitter.com/gfrog/statuses/15744137158)
+
+
+
+
+
+  * [@mathena](http://twitter.com/mathena) 多谢 ：） [in reply to mathena](http://twitter.com/mathena/statuses/15742846620) [08:40:03, 2010-06-09](http://twitter.com/gfrog/statuses/15744163577)
+
+
+
+
+
+  * 关注，等攻略。 RT [@ImSyls](http://twitter.com/ImSyls): 我查到一个用上一代Dellmini做三系统的，回头可以试试 [08:57:30, 2010-06-09](http://twitter.com/gfrog/statuses/15745236447)
+
+
+
+
+
+  * 很早就有一句话，叫小车指挥大车。这些坐小车的官老爷哪里知道挤公交的百姓的疾苦。难道是人家乐意非得在高峰挤公交么，谁不是生计所迫？ RT [@ThisIs404](http://twitter.com/ThisIs404): 北京将研究地铁高峰调价 委员建议涨价三倍 [http://163.fm/mOz9q](http://163.fm/mOz9q) [09:21:46, 2010-06-09](http://twitter.com/gfrog/statuses/15746847125)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 欧盟声称中国的网络审查需交由WTO处理 [http://j.mp/dAMwPI](http://j.mp/dAMwPI) //其实GFW就是新一代的闭关锁国，各列强早晚会受不了的。难道还要让列强们像当年一样用坚船利炮轰开这座壁垒？ [09:25:01, 2010-06-09](http://twitter.com/gfrog/statuses/15747065871)
+
+
+
+
+
+  * 尽管鄙视他好了，大连的酒店和出租车没好到哪里去。 RT [@crackevil2008](http://twitter.com/crackevil2008): 一大连来成都出差的同事一大早就抱怨成都的酒店服务差，出租拒载严重～～ [09:25:32, 2010-06-09](http://twitter.com/gfrog/statuses/15747099399)
+
+
+
+
+
+  * 好贵。 RT [@terryxxy](http://twitter.com/terryxxy) RT [@leondellee](http://twitter.com/leondellee): Adobe Lightroom 3 正式发布，对应 Win & Mac 平台，售价 $299 [09:55:45, 2010-06-09](http://twitter.com/gfrog/statuses/15748780518)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 网络软件工程师的N种境界 [http://j.mp/b5bexK](http://j.mp/b5bexK) //看来我所在的某安全产品公司的起点还是很高的，至少底层没有用这些开源的玩意，自己搞了一套。 [09:59:04, 2010-06-09](http://twitter.com/gfrog/statuses/15748954498)
+
+
+
+
+
+  * chrome的dev版本跟ibus有冲突啊，开输入法的时候敲退格或者方向键，就输入不能了，这是怎么个情况。。。 [10:02:28, 2010-06-09](http://twitter.com/gfrog/statuses/15749164484)
+
+
+
+
+
+  * Safari5里面那个reader功能，chrome里面一样也会有，扩展在此： [https://chrome.google.com/extensions/detail/mopngoefggcibgpnefgiojkehfmdfcjn](https://chrome.google.com/extensions/detail/mopngoefggcibgpnefgiojkehfmdfcjn) [10:08:09, 2010-06-09](http://twitter.com/gfrog/statuses/15749500010)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 毛主席教导我们，自己动手，丰衣足食 [in reply to fxlt](http://twitter.com/fxlt/statuses/15749702575) [10:12:28, 2010-06-09](http://twitter.com/gfrog/statuses/15749768439)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  7 Jun 2010 - Flickr [http://j.mp/9NfLLA](http://j.mp/9NfLLA) [10:13:27, 2010-06-09](http://twitter.com/gfrog/statuses/15749831302)
+
+
+
+
+
+  * RT [@diamondtin](http://twitter.com/diamondtin) 神了！今天终于由 [@ryanpoy](http://twitter.com/ryanpoy) 触发一枚诡异的python unitest命名造成的bug……“test_funcational_test”会让失败的测试通过，所以说错误的命名是害人的，必须想好每一个方法的名字，包括测试。 [10:42:31, 2010-06-09](http://twitter.com/gfrog/statuses/15751609735)
+
+
+
+
+
+  * 没看，但是帮推。 RT [@Hc95](http://twitter.com/Hc95) 【歪搞部】传世儿歌-我爱北京天门 [https://www.waigaobu.com/post/214](https://www.waigaobu.com/post/214)  求RT! [10:58:32, 2010-06-09](http://twitter.com/gfrog/statuses/15752570207)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 《绝望主妇》各集精彩结束语 [http://j.mp/cAHCx4](http://j.mp/cAHCx4) [11:04:47, 2010-06-09](http://twitter.com/gfrog/statuses/15752968939)
+
+
+
+
+
+  * RT [@terryxxy](http://twitter.com/terryxxy) LR3 的key测试第一个就可用，不过我再放个keygen出来 [http://dl.dropbox.com/u/158894/keygen.exe](http://dl.dropbox.com/u/158894/keygen.exe) embrace 做的，和前几代一样 [13:31:26, 2010-06-09](http://twitter.com/gfrog/statuses/15761139194)
+
+
+
+
+
+  * 维稳需要罢。 RT [@ImSyls](http://twitter.com/ImSyls) 电池类商品不能走空运，这算什么道理 [13:49:59, 2010-06-09](http://twitter.com/gfrog/statuses/15761938041)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 80 后，让梦想照进现实 [http://j.mp/8XLzxV](http://j.mp/8XLzxV) [14:09:33, 2010-06-09](http://twitter.com/gfrog/statuses/15762749565)
+
+
+
+
+
+  * evince显示中文文档又各种乱码了，google半天，终于找到解决方案，安装poppler-data这个包。其他的xpdf-chinese*和cmap*的方法都不可用。 [15:51:25, 2010-06-09](http://twitter.com/gfrog/statuses/15766654014)
+
+
+
+
+
+  * 现在windows驱动还不如linux，哈哈。RT [@raptorz](http://twitter.com/raptorz) 终于借助ubuntu live usb和lspci查出神舟的两个破网卡是什么型号的，并且下载到了驱动安装成功。同事本来还建议我用驱动精灵，但杯具的是两个网卡都不能用，精灵也不灵啊。囧 [16:20:28, 2010-06-09](http://twitter.com/gfrog/statuses/15767716118)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 确实如此，ubuntu威武，哈哈。不过话说回来，xp是01年的系统，现在能有这种表现已经很好了，不能要求太多。 [in reply to raptorz](http://twitter.com/raptorz/statuses/15768235024) [16:38:25, 2010-06-09](http://twitter.com/gfrog/statuses/15768360429)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 所以还是那句话，ubuntu威武！ 哈哈 [in reply to raptorz](http://twitter.com/raptorz/statuses/15768449749) [16:46:18, 2010-06-09](http://twitter.com/gfrog/statuses/15768658363)
+
+
+
+
+
+  * RT [@hELLoELL](http://twitter.com/hELLoELL) 这样子衣服镂空，可以看到整只背的衣服喜欢吗？（这mm穿的是粉色bra）cute [http://img.ly/1tAx](http://img.ly/1tAx) [17:58:11, 2010-06-09](http://twitter.com/gfrog/statuses/15771359476)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 由于今天在麦当劳不小心装了个逼结果来不及了 [http://j.mp/aEmqit](http://j.mp/aEmqit) [18:30:34, 2010-06-09](http://twitter.com/gfrog/statuses/15772650638)
+
+
+
+

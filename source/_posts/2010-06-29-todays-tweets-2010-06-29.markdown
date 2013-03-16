@@ -1,0 +1,72 @@
+---
+comments: true
+date: 2010-06-29 01:00:00
+layout: post
+slug: todays-tweets-2010-06-29
+title: Today's tweets 2010-06-29
+wordpress_id: 886
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Radare: 命令行下的 Hex 编辑器 [http://j.mp/bzK0vp](http://j.mp/bzK0vp) [2010-06-29](http://twitter.com/gfrog/statuses/17292728715)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 使用 Buildot 实现持续集成 [http://j.mp/aWiDHU](http://j.mp/aWiDHU) [2010-06-29](http://twitter.com/gfrog/statuses/17293383158)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 新三国30年内无人能超越！！！ [http://j.mp/9GHUkY](http://j.mp/9GHUkY) [2010-06-29](http://twitter.com/gfrog/statuses/17293922840)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 绝妙创意广告 [http://j.mp/b5FF9E](http://j.mp/b5FF9E) [2010-06-29](http://twitter.com/gfrog/statuses/17295258556)
+
+
+
+
+
+  * thunderbird的thread模式跟gmail差的真不是一点半点，不但一点格式也没有，引言截取也不对。gmail那么多年前就搞出来的玩意，mozilla怎么还学不来呢。 [2010-06-29](http://twitter.com/gfrog/statuses/17312242776)
+
+
+
+
+
+  * 豆瓣又给我放SHE的老歌了。SHE的老专辑唱功真的跟现在差很远，不过旋律还不错，难怪当时会流行。 [2010-06-29](http://twitter.com/gfrog/statuses/17313945248)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 不是不是，新专辑的唱功确实好了很多，老专辑基本就是往外蹦歌词。 [in reply to fxlt](http://twitter.com/fxlt/statuses/17314065459) [2010-06-29](http://twitter.com/gfrog/statuses/17314286365)
+
+
+
+
+
+  * RT [@cdprobaby](http://twitter.com/cdprobaby): 闺蜜曾指点一男生追女生,但是很遗憾表白的时候那女生说只愿意做他妹妹，那男生回来向闺蜜哭诉，闺蜜怒道“傻呀你！你该马上问她'妹妹，那你对乱伦有什么看法？'” [2010-06-29](http://twitter.com/gfrog/statuses/17314742463)
+
+
+
+
+
+  * RT [@xiaoqingchen](http://twitter.com/xiaoqingchen): 主管致女同事怀孕，女坚决要生，主管无奈让她回老家。女问生了如何通知？主管说寄张卡片写上陕西拉面，以便寄生活费。数月后主管回家，妻子递来明信片一张。他不动声色接过，但看了上面的话，马上晕厥：陕西拉面四碗；两碗有香肠！两碗没！ [2010-06-29](http://twitter.com/gfrog/statuses/17320219573)
+
+
+
+

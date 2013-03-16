@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2010-07-31 01:00:00
+layout: post
+slug: todays-tweets-2010-07-31
+title: Today's tweets 2010-07-31
+wordpress_id: 916
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 无厘头科学：弹簧床垫会造成癌症？！ / 煎蛋 [http://j.mp/9mrtrx](http://j.mp/9mrtrx) [14:22:07, 2010-07-31](http://twitter.com/gfrog/statuses/19972916465)
+
+
+
+
+
+  * 开机以后开终端，screen，然后screen里面一堆程序自动开始跑。。 RT [@Houge_Ubuntu](http://twitter.com/Houge_Ubuntu) 请问各位Linuxer开机后经常刚神马？我开机后点击终端，然后按“上”键——sudo apt-get update [20:51:25, 2010-07-31](http://twitter.com/gfrog/statuses/19989304322)
+
+
+
+

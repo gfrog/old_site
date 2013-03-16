@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2010-11-22 01:00:00
+layout: post
+slug: todays-tweets-2010-11-22
+title: Today's tweets 2010-11-22
+wordpress_id: 1046
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 擦，两个SB蹲在卫生间禁止吸烟的牌子底下抽烟，搞得卫生间全是烟味，丫的你们怎么不把房子点了！ [15:09:50, 2010-11-22](http://twitter.com/gfrog/statuses/6605256259538944)
+
+
+
+
+
+  * gnome里也一样，大概是chrome的bug。 RT [@Gyteng](http://twitter.com/Gyteng): 最近Chrome在kde下有个小问题，书签栏按下去之后按钮凹下去弹不回来，不知道是chrome的问题还是kde的问题 [18:04:04, 2010-11-22](http://twitter.com/gfrog/statuses/6649101999411200)
+
+
+
+

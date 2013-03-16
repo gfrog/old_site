@@ -1,0 +1,25 @@
+---
+comments: true
+date: 2012-07-14 23:59:00
+layout: post
+slug: todays-tweets-2012-07-14
+title: Today's tweets 2012-07-14
+wordpress_id: 2601
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 说起来，virtualbox的VBoxManager这个工具用起来比libvirt的virsh更加坑爹啊。
+VBoxManager for virtualbox is much harder to use than virsh for libvirt. [00:13:14, 2012-07-14](http://twitter.com/gfrog/statuses/223812338904604672)
+
+
+
+

@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2012-04-21 23:59:00
+layout: post
+slug: todays-tweets-2012-04-21
+title: Today's tweets 2012-04-21
+wordpress_id: 2510
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * windows竟然还要装驱动！！！ 好弱智的系统。。 [00:03:15, 2012-04-21](http://twitter.com/gfrog/statuses/193369244149358592)
+
+
+
+
+
+  * RT [@yegle](http://twitter.com/yegle): CVE-2012-2110 OpenSSL的大漏洞。任意代码执行，除了1.0.1、1.0.0、0.9.8这三个分支的最新版，其他版本全部受影响。你妹的，全世界运维人员都要疯了… [00:11:10, 2012-04-21](http://twitter.com/gfrog/statuses/193371239119732736)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 矮油，这地下工作，啧啧。 lol [in reply to htgyj](http://twitter.com/htgyj/statuses/193370451194544128) [00:11:43, 2012-04-21](http://twitter.com/gfrog/statuses/193371378274144256)
+
+
+
+
+
+  * 跟maintainer聊了一会，把我的一个patch扼杀在萌芽中，另外一个patch估计也叛死刑了。 [02:04:23, 2012-04-21](http://twitter.com/gfrog/statuses/193399731274268673)
+
+
+
+
+
+  * 走错车站，只好站着啦。 [11:29:19, 2012-04-21](http://twitter.com/gfrog/statuses/193541899347443714)
+
+
+
+
+
+  * 帝都哪个联通营业厅还有ip4呢。。。 [11:31:08, 2012-04-21](http://twitter.com/gfrog/statuses/193542356035846145)
+
+
+
+

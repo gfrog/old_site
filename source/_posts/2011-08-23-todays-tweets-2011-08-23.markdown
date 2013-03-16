@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2011-08-23 01:00:00
+layout: post
+slug: todays-tweets-2011-08-23
+title: Today's tweets 2011-08-23
+wordpress_id: 1800
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@adam8157](http://twitter.com/adam8157) Loser大概发的早几天，哈哈 [in reply to adam8157](http://twitter.com/adam8157/statuses/105543656659890176) [08:33:44, 2011-08-23](http://twitter.com/gfrog/statuses/105799849311608832)
+
+
+
+
+
+  * 我今天拎车上电梯被物业赶上了货梯，这些人对骑车的太坏啦！！ RT [@kareguing](http://twitter.com/kareguing): 今天木有迟到，26就到了公司，因为这个点上班的人多，自行车怎么都进不了电梯，差点一气之下，扛车上3楼。<( >﹏<。=)> [09:58:50, 2011-08-23](http://twitter.com/gfrog/statuses/105821267118137345)
+
+
+
+
+
+  * [@kareguing](http://twitter.com/kareguing) 你好，电梯驾驶员小姐。 [in reply to kareguing](http://twitter.com/kareguing/statuses/105822644577902592) [10:23:01, 2011-08-23](http://twitter.com/gfrog/statuses/105827353292308481)
+
+
+
+
+
+  * [@kareguing](http://twitter.com/kareguing) 其实我也准备买车包了。平时往楼里带还好，下雨的时候有泥有水的，直接拿进去对不起清洁工阿姨啊。 [in reply to kareguing](http://twitter.com/kareguing/statuses/105830535934394368) [12:59:09, 2011-08-23](http://twitter.com/gfrog/statuses/105866645980975104)
+
+
+
+
+
+  * 擦，oneiric每次更新我都心惊胆颤，推神保佑我这次重启一次成功吧。 [13:11:30, 2011-08-23](http://twitter.com/gfrog/statuses/105869752395771904)
+
+
+
+
+
+  * [@kareguing](http://twitter.com/kareguing) 下雨天在帝都只有自己骑车最靠谱啊。地铁会被淹，公交会被堵，出租打不着。只有自行车，通行无阻。堵车我可以推，有水我可以扛，啊哈哈。 [in reply to kareguing](http://twitter.com/kareguing/statuses/105870376478851072) [13:30:39, 2011-08-23](http://twitter.com/gfrog/statuses/105874570598301698)
+
+
+
+
+
+  * [@kareguing](http://twitter.com/kareguing) 还好啦，俺的通勤车是钢架，但是不掉漆没啥事。链条和飞锈了也有方法处理。 [in reply to kareguing](http://twitter.com/kareguing/statuses/105876366628634624) [14:56:03, 2011-08-23](http://twitter.com/gfrog/statuses/105896064300761090)
+
+
+
+
+
+  * [@librevim](http://twitter.com/librevim) 知春路和知春里两站测试失败，完全没3G信号。 [in reply to librevim](http://twitter.com/librevim/statuses/105911549998268416) [15:58:59, 2011-08-23](http://twitter.com/gfrog/statuses/105911901006987264)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi): RT [@turingbook](http://twitter.com/turingbook): 刚才面试了 [@socialhell](http://twitter.com/socialhell) ，河南小伙子大学刚毕业，会Python，但无项目经验，在拿SICP学Lisp。感觉他不适合干媒体，还是应该去做程序员，哪个公司有初级Python程序员的工作，可以和他联系一下。 [17:51:58, 2011-08-23](http://twitter.com/gfrog/statuses/105940332084068352)
+
+
+
+
+
+  * 果然有消息爆出来了。。 RT [@hidigi](http://twitter.com/hidigi): RT [@blogkid](http://twitter.com/blogkid): 近期百度把有啊改造成了奇艺模式，从外面圈了一大笔钱（几千万美金吧），然后百度作为娘家人控股。Qunar也被收编成了奇艺模式，百度投入3亿美金占股60%。 [17:52:58, 2011-08-23](http://twitter.com/gfrog/statuses/105940584358883328)
+
+
+
+

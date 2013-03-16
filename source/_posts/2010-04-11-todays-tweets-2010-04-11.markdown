@@ -1,0 +1,79 @@
+---
+comments: true
+date: 2010-04-11 01:00:00
+layout: post
+slug: todays-tweets-2010-04-11
+title: Today's tweets 2010-04-11
+wordpress_id: 571
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 春节拍的正片终于洗出来了，拍建筑的很完美，拍静物的都杯具了，相机跑焦。不过我发现当时估曝光还比较靠谱，大概是因为有个可以测光的205做参照。 [15:25:26, 2010-04-11](http://twitter.com/gfrog/statuses/11980280833)
+
+
+
+
+
+  * [@cooku](http://twitter.com/cooku) 数码机器么？用的啥测光方式？先用矩阵测光，或者叫平均测光找感觉吧，然后慢慢换中央重点测光。有时候测光点不同，拍出来的曝光完全不一样。 [in reply to cooku](http://twitter.com/cooku/statuses/11980519011) [15:59:04, 2010-04-11](http://twitter.com/gfrog/statuses/11981229916)
+
+
+
+
+
+  * [@cooku](http://twitter.com/cooku) 额？不是宾得么，怎么入佳了？哈哈。佳能默认应该是平均测光，应付白天没问题的。检查一下曝光方式吧。不过我觉得我的佳能机器有欠曝的倾向，所以我一般都开曝光补偿。 [in reply to cooku](http://twitter.com/cooku/statuses/11981267317) [16:04:11, 2010-04-11](http://twitter.com/gfrog/statuses/11981381344)
+
+
+
+
+
+  * [@cooku](http://twitter.com/cooku) 哦，是检查测光方式。 [in reply to cooku](http://twitter.com/cooku/statuses/11981267317) [16:05:08, 2010-04-11](http://twitter.com/gfrog/statuses/11981408240)
+
+
+
+
+
+  * 话说我的40D已经被我扔在家里好久了，该带它出来透透气了。 [16:06:32, 2010-04-11](http://twitter.com/gfrog/statuses/11981447856)
+
+
+
+
+
+  * 哇塞，刚刚自建大波的IP访问不能，开始以为被盾了，后来到dreamhost的管理页面一看，丫的给我换IP了。换IP也不说一声，害我虚惊一场。 [20:41:05, 2010-04-11](http://twitter.com/gfrog/statuses/11989030410)
+
+
+
+
+
+  * 围观一下。 RT [@xddcc](http://twitter.com/xddcc): RT [@Beichen](http://twitter.com/Beichen): 苍井空能吸引多少人上推呢？欢迎大家来推荐：http://is.gd/bof6v [20:45:00, 2010-04-11](http://twitter.com/gfrog/statuses/11989160681)
+
+
+
+
+
+  * 深度拆卸205相机，中华相机网挂掉真可惜，还想去看看测光部分怎么改进呢。 [22:05:59, 2010-04-11](http://twitter.com/gfrog/statuses/11992187723)
+
+
+
+
+
+  * 我觉得整个Alienware系列都是怪胎。 RT [@quakelee](http://twitter.com/quakelee): Dell真是缺心眼，Alienware M11x配了一个很棒的显卡，体积不小的外壳，居然用SU7300的CPU，这是脑子进水了吧。您最起码也得扣爱五还差不多啊 [22:16:17, 2010-04-11](http://twitter.com/gfrog/statuses/11992616054)
+
+
+
+
+
+  * 球迷用的很传神。　RT [@aoi_sola](http://twitter.com/aoi_sola): 我使用的是翻译。谢谢。在中国我的球迷。
+I use a translator in chinese. Thank you for my fans in China. [23:31:39, 2010-04-11](http://twitter.com/gfrog/statuses/11995954620)
+
+
+
+

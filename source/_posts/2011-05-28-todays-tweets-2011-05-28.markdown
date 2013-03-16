@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2011-05-28 01:00:00
+layout: post
+slug: todays-tweets-2011-05-28
+title: Today's tweets 2011-05-28
+wordpress_id: 1727
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 24 个很酷的 Linux/Unix 工具 [http://j.mp/iOkKcX](http://j.mp/iOkKcX) [21:48:09, 2011-05-28](http://twitter.com/gfrog/statuses/74472026273882112)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 8 个开源数学软件 [http://j.mp/kKbogj](http://j.mp/kKbogj) [21:55:02, 2011-05-28](http://twitter.com/gfrog/statuses/74473759314165761)
+
+
+
+

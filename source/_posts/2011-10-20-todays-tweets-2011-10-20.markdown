@@ -1,0 +1,205 @@
+---
+comments: true
+date: 2011-10-20 01:00:00
+layout: post
+slug: todays-tweets-2011-10-20
+title: Today's tweets 2011-10-20
+wordpress_id: 1897
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@cxiaoji](http://twitter.com/cxiaoji): 这个缺爱的世界：科研鄙视设计，设计仇恨开发，开发歧视测试，以上一起诅咒项目经理。只有到了用户测试的时候，各行各业才其乐融融地围着披萨，嘲笑对面那个找不到按钮的傻b。 [10:14:36, 2011-10-20](http://twitter.com/gfrog/statuses/126843729704271872)
+
+
+
+
+
+  * RT [@717amy](http://twitter.com/717amy): 迟到了也不忘自拍！请自动忽略我的黑眼圈~这大围巾好热~ [http://t.co/2g9S5lqv](http://t.co/2g9S5lqv) [10:19:01, 2011-10-20](http://twitter.com/gfrog/statuses/126844841920442368)
+
+
+
+
+
+  * RT [@hanmo93](http://twitter.com/hanmo93): 同事在微波炉里热鸡蛋，只听＂BOOM＂的一声，炉门大敞，一地鲜美的蛋花汤制作完成… #公司囧事 [10:35:35, 2011-10-20](http://twitter.com/gfrog/statuses/126849010861481984)
+
+
+
+
+
+  * (An ((Even Better) Lisp) Interpreter (in Python)):  [http://t.co/QGQ9njG4](http://t.co/QGQ9njG4) [10:37:34, 2011-10-20](http://twitter.com/gfrog/statuses/126849511644594177)
+
+
+
+
+
+  * 我擦，今天帝都极度危险呀！ RT [@BeijingAir](http://twitter.com/BeijingAir): 10-20-2011; 11:00; PM2.5; 339.0; 389; Hazardous // Ozone; -0.1; 0; No Reading [11:21:31, 2011-10-20](http://twitter.com/gfrog/statuses/126860570480746496)
+
+
+
+
+
+  * RT [@ksky](http://twitter.com/ksky): 同事的QQ签名：少壮不努力，一生在首都。 [11:24:56, 2011-10-20](http://twitter.com/gfrog/statuses/126861430992535553)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 这天气没治了，在帝都生活等于慢性自杀。。。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/126861171679703040) [11:25:32, 2011-10-20](http://twitter.com/gfrog/statuses/126861580674666497)
+
+
+
+
+
+  * 20$$ 一月呢，速度不快早被人骂死了。 RT [@fragroute](http://twitter.com/fragroute): linode的vps还是粉不错的，啧啧。至少白天速度很快，openvpn毫无压力 [11:30:34, 2011-10-20](http://twitter.com/gfrog/statuses/126862846993764352)
+
+
+
+
+
+  * RT [@lawlee](http://twitter.com/lawlee): 新浪@何兵：一个多月前，接收央视采访。问：南京彭宇案法律上复杂吗？答：法科大二学生的常识。问：你对此案有何评论？答：这是一座里程碑，埋葬正义的里程碑，简称“墓碑性判决”。昨天，央视记者再问：小悦悦案有何评价？答：墓碑在闪闪发光！ [12:29:58, 2011-10-20](http://twitter.com/gfrog/statuses/126877795103150080)
+
+
+
+
+
+  * RT [@coolcfan](http://twitter.com/coolcfan): 233 RT [@huangboma](http://twitter.com/huangboma): 转：谷歌昨天发布Android 4.0，增加了面部识别解锁功能。女明星们纷纷投诉说睡觉前根本用不了。#Monologue [13:04:59, 2011-10-20](http://twitter.com/gfrog/statuses/126886608405401603)
+
+
+
+
+
+  * 反正没找到能用的，可以考虑用yahoo pipe 自己搞一个。 RT [@yegle](http://twitter.com/yegle): IBM的developerWorks有没有全文RSS feed可订阅？ [13:06:03, 2011-10-20](http://twitter.com/gfrog/statuses/126886877373534208)
+
+
+
+
+
+  * 啧啧，真不错。 RT [@ouland](http://twitter.com/ouland): 技术聚：交通拥堵解决方案的报名已经11人。希望大家本周四之前能确定一下时间，并做PPT/mind准备。另外infoq的 [@houbowei](http://twitter.com/houbowei) 会参与并给与敏捷方法的指导 [http://t.co/2wZHoVP8](http://t.co/2wZHoVP8) 时间确定：周六14:30，新桥 [13:32:51, 2011-10-20](http://twitter.com/gfrog/statuses/126893621420097537)
+
+
+
+
+
+  * [@ouland](http://twitter.com/ouland) 帝都人民表示很惭愧。。。 [in reply to ouland](http://twitter.com/ouland/statuses/126894815676858368) [13:50:38, 2011-10-20](http://twitter.com/gfrog/statuses/126898096717299712)
+
+
+
+
+
+  * [@ouland](http://twitter.com/ouland) 您真的想错了，帝都人民都挣扎在贫困线上，哪有心情去搞神马劳神子的学术！ [in reply to ouland](http://twitter.com/ouland/statuses/126898843152424960) [13:56:39, 2011-10-20](http://twitter.com/gfrog/statuses/126899610026389504)
+
+
+
+
+
+  * RT [@dlb2825](http://twitter.com/dlb2825): @飞机的坏品位：《买个2w飞机年票，我们一起环游世界吧》星空联盟推出了环球年票 朝一个方向进行环旅，时间为一年，最少需经停5个国家，最多15个。 在豆瓣看到这篇文章 心又开始飞了。。。 [http://t.co/P3DjfutJ](http://t.co/P3DjfutJ) [14:03:03, 2011-10-20](http://twitter.com/gfrog/statuses/126901221171806208)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 我的免费空间已经暴了，托前公司那些傻X的福，发邮件带图片用BMP格式，一封信就5M，然后无数人在这封邮件上回复，每封信俩字。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/126900990204067840) [14:05:15, 2011-10-20](http://twitter.com/gfrog/statuses/126901776845774848)
+
+
+
+
+
+  * RT [@litiantian](http://twitter.com/litiantian): @李承鹏：鲁国规定凡鲁人在国外见到本族人被卖当奴，可赎之回国库报账。孔子学生赎一奴，却不报账，人人夸学生高尚。孔子很不满，学生问救而不报账，岂不更高尚。孔子骂：呆货，以后别人要是赎了奴去报账，就会被骂不高尚；不报账，做好事又成了亏本的事。渐渐人们就 [14:26:58, 2011-10-20](http://twitter.com/gfrog/statuses/126907239121424384)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 唉，patpat，果断5刀买20G空间吧。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/126908891412971520) [14:37:17, 2011-10-20](http://twitter.com/gfrog/statuses/126909835685011457)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 唉，当年gmail那个不用删除邮件的口号，现在看看，真是鬼扯，哈哈。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/126911709611966464) [14:53:39, 2011-10-20](http://twitter.com/gfrog/statuses/126913954483146752)
+
+
+
+
+
+  * RT [@dongdongqiang](http://twitter.com/dongdongqiang): 人生三大快事：上床，上饭，上厕所。——Leo酒半醉如是说；人生三大苦事：上刑，上访，上班。——东东枪如是说。 [14:54:58, 2011-10-20](http://twitter.com/gfrog/statuses/126914287087263744)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 所以只能当joke听啦，lol [in reply to ImSyls](http://twitter.com/ImSyls/statuses/126914614763077632) [14:59:32, 2011-10-20](http://twitter.com/gfrog/statuses/126915437547098112)
+
+
+
+
+
+  * 关键是google其他服务共享这20G，放个文档图片啥的都不错。 RT [@ImSyls](http://twitter.com/ImSyls): Gmail的5刀一年20G，算下来还是挺值的，人民币升值了嘛……企业邮箱的话，还算便宜 [15:08:18, 2011-10-20](http://twitter.com/gfrog/statuses/126917640613666817)
+
+
+
+
+
+  * 我不能同意的更多。 RT [@yoyicue](http://twitter.com/yoyicue): t.co 已经开始反人类了是不? [#FuckTDotCo](http://search.twitter.com/search?q=%23FuckTDotCo) [15:09:37, 2011-10-20](http://twitter.com/gfrog/statuses/126917971892379648)
+
+
+
+
+
+  * 针对帝都这种毒气般的空气，求推荐防护口罩。 [16:13:44, 2011-10-20](http://twitter.com/gfrog/statuses/126934108797550592)
+
+
+
+
+
+  * 缺个帮忙系鞋带的人。 RT [@childream](http://twitter.com/childream): 你说我鞋带儿咋总开呢 [16:14:35, 2011-10-20](http://twitter.com/gfrog/statuses/126934322350538752)
+
+
+
+
+
+  * RT [@NanZhou](http://twitter.com/NanZhou): 【思念水饺称问题产品含菌量符合新国标】
+思念食品副总经理贾国飚的说法告诉了很多原来“不明真相”的人：又一项食品安全标准降低了。 [http://t.co/You8itUQ](http://t.co/You8itUQ) [16:29:25, 2011-10-20](http://twitter.com/gfrog/statuses/126938053569806336)
+
+
+
+
+
+  * 看的直流口水！ 忍不住啦，找佩妈收两箱去。 RT [@ImSyls](http://twitter.com/ImSyls): 看佩妈卖枣，想起十一去山东的时候，在沾化垦利那边全是枣园，5块钱进去随便摘，就是别带走。后来到了青岛就变成超市里一盒枣12块了。话说枣是真好吃，又甜又脆 [17:49:31, 2011-10-20](http://twitter.com/gfrog/statuses/126958212174979072)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 哎呀呀，下午吃了一小把，又脆又甜，赶快买去~ [in reply to ImSyls](http://twitter.com/ImSyls/statuses/126958531348938752) [17:55:05, 2011-10-20](http://twitter.com/gfrog/statuses/126959615530369024)
+
+
+
+
+
+  * 同，似乎有人说feed已死，SNS当立？ RT [@kDolphin](http://twitter.com/kDolphin): 我已经很久没有在GR里加过feed了。 [17:56:05, 2011-10-20](http://twitter.com/gfrog/statuses/126959865288593408)
+
+
+
+
+
+  * RT [@Stariver](http://twitter.com/Stariver): 司法刚刚判定了扶人是有罪的，现在舆论又判定了路过也是有罪的。以后再看到什么事，绕行已经无法幸免。就冲这个，中国人也得最先进化出翅膀来。 [18:07:01, 2011-10-20](http://twitter.com/gfrog/statuses/126962615619567616)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi): 深圳海关昨日宣布，10月16日该关在蛇口客运码头检查一名外籍女性旅客的行李时，搜出最新款iPhone4S手机45部，初估市值40多万元。目前，海关正在对案件作进一步调查。这是深圳海关截获的首批iPhone 4S手机。 [18:40:16, 2011-10-20](http://twitter.com/gfrog/statuses/126970986980585472)
+
+
+
+

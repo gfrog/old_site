@@ -1,0 +1,80 @@
+---
+comments: true
+date: 2011-02-06 01:00:00
+layout: post
+slug: todays-tweets-2011-02-06
+title: Today's tweets 2011-02-06
+wordpress_id: 1655
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@xiongyaliwuqu](http://twitter.com/xiongyaliwuqu): 现在郑州陪老爹卖红薯，估计要露宿街头几天了，欢迎郑州市区的网友前来捧场，目前在东明路纬二路交叉口处。.! [10:22:12, 2011-02-06](http://twitter.com/gfrog/statuses/34074350776754176)
+
+
+
+
+
+  * 在回盛京的火车上，车上竟然有电视看。 [10:27:52, 2011-02-06](http://twitter.com/gfrog/statuses/34075775976079361)
+
+
+
+
+
+  * 另外，因为沈阳北站修路，今天很多去沈阳北站的车都终到沈阳南站了。 [10:29:56, 2011-02-06](http://twitter.com/gfrog/statuses/34076295277051905)
+
+
+
+
+
+  * 我擦，对面坐了个倒霉孩子，戴着耳机鬼叫。 [10:41:31, 2011-02-06](http://twitter.com/gfrog/statuses/34079209278144512)
+
+
+
+
+
+  * 这次新版本出的挺快啊。 RT [@Carlos_Gong](http://twitter.com/Carlos_Gong): 刚发现 Debian 官网改版，Debian 6 已经发布了~ [10:58:39, 2011-02-06](http://twitter.com/gfrog/statuses/34083520951353344)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): 解决在Chrome ⑨.0 Stable Flash 里无法使用输入法的问题
+[http://bbs.hcg.im/read.php?tid=45](http://bbs.hcg.im/read.php?tid=45)
+//晕哦……难怪昨天在BiliBili完全无法输入中文（输入法藏起来了）…… [11:08:35, 2011-02-06](http://twitter.com/gfrog/statuses/34086020819456000)
+
+
+
+
+
+  * RT [@_J_Smith](http://twitter.com/_J_Smith): apt-get update && apt-get dist-upgrade !!!!!! RT [@fbcon](http://twitter.com/fbcon): Debian 6! Debian 6! Debian 6! [#debian](http://search.twitter.com/search?q=%23debian) [11:09:37, 2011-02-06](http://twitter.com/gfrog/statuses/34086281168297985)
+
+
+
+
+
+  * debian又有大版本升级了，看kfreebsd很有爱，回去找个机器装上玩玩罢。 [11:13:21, 2011-02-06](http://twitter.com/gfrog/statuses/34087220893712384)
+
+
+
+
+
+  * RT [@AVshare](http://twitter.com/AVshare): 别看我发AV推的，一年半下来说的逼字不如他们一天说的多。说到底素质问题，他们不过是群披着“正义”皮的流氓罢了。RT [@qhgy](http://twitter.com/qhgy): 为什么五毛们个个言辞文明，许多正义战士却满口生殖器呢？对异见者动辄秽语辱骂，连党国都不如。 [12:05:18, 2011-02-06](http://twitter.com/gfrog/statuses/34100293167742976)
+
+
+
+
+
+  * RT [@laoyang945](http://twitter.com/laoyang945): RT [@ChenKen0722](http://twitter.com/ChenKen0722): 关于法国红酒,国内500以下的,多半在法国不超过1欧的烂酒, 这是进口商利润最高的,因为500rmb不贵,大家能买的大部分都是这种. 正常情况下,运输关税以后,10倍于法国的价格是正常的. [23:47:01, 2011-02-06](http://twitter.com/gfrog/statuses/34276888226566144)
+
+
+
+

@@ -1,0 +1,120 @@
+---
+comments: true
+date: 2010-12-13 01:00:00
+layout: post
+slug: todays-tweets-2010-12-12-2
+title: Today's tweets 2010-12-12
+wordpress_id: 1050
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 罗马人为什么讨厌中国小店（图）？ [http://j.mp/hv7Hcv](http://j.mp/hv7Hcv) [13:45:50, 2010-12-12](http://twitter.com/gfrog/statuses/1.3831872584876E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) ifanr 访谈：对话和菜头——聊聊 Blog ，SNS ，iPhone 和 Android [http://j.mp/hhkSvu](http://j.mp/hhkSvu) [13:45:50, 2010-12-12](http://twitter.com/gfrog/statuses/1.3831874606531E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 麻辣隔壁的考研英语的真相！！！！！！！！！！！ [http://j.mp/dZADPq](http://j.mp/dZADPq) [13:45:58, 2010-12-12](http://twitter.com/gfrog/statuses/1.3831906328056E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 刘植荣：我们的钱被谁拿走了？ [http://j.mp/hYfrxC](http://j.mp/hYfrxC) [13:45:58, 2010-12-12](http://twitter.com/gfrog/statuses/1.3831908139995E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 日本幼儿园12件令中国妈妈目瞪口呆的事 [http://j.mp/ihCEOj](http://j.mp/ihCEOj) [13:46:00, 2010-12-12](http://twitter.com/gfrog/statuses/1.3831915748458E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) appspot集体被墙奸 [http://j.mp/hHwCAa](http://j.mp/hHwCAa) [20:26:25, 2010-12-12](http://twitter.com/gfrog/statuses/1.3932683763646E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 最自然实用的省钱法 [http://j.mp/eqhOc9](http://j.mp/eqhOc9) [20:36:54, 2010-12-12](http://twitter.com/gfrog/statuses/1.3935321410441E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 最佳Android游戏推荐 [http://j.mp/h9NzDm](http://j.mp/h9NzDm) [20:55:51, 2010-12-12](http://twitter.com/gfrog/statuses/1.3940091038736E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 科学家教猴子用货币 有钱后举动惊人 [http://j.mp/hYCWDj](http://j.mp/hYCWDj) [21:10:09, 2010-12-12](http://twitter.com/gfrog/statuses/1.3943689948692E+16)
+
+
+
+
+
+  * hello, world [22:32:26, 2010-12-12](http://twitter.com/gfrog/statuses/1.3964398007685E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 10 Dec 2010 - Flickr [http://j.mp/edRIFq](http://j.mp/edRIFq) [22:35:50, 2010-12-12](http://twitter.com/gfrog/statuses/1.3965251598885E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  9 Dec 2010 - Flickr [http://j.mp/hWUHtE](http://j.mp/hWUHtE) [22:35:55, 2010-12-12](http://twitter.com/gfrog/statuses/1.3965273094685E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  8 Dec 2010 - Flickr [http://j.mp/eP8EJX](http://j.mp/eP8EJX) [22:36:01, 2010-12-12](http://twitter.com/gfrog/statuses/1.396529864219E+16)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  7 Dec 2010 - Flickr [http://j.mp/fPUyf0](http://j.mp/fPUyf0) [22:36:02, 2010-12-12](http://twitter.com/gfrog/statuses/1.3965305134973E+16)
+
+
+
+
+
+  * 拜球推荐靠谱的2.0音箱。 [22:37:52, 2010-12-12](http://twitter.com/gfrog/statuses/1.3965766000902E+16)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 额，对这个不太熟，价格范围一般是多少啊？我耳朵比较木，貌似一个接近入门的箱子就成了。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/1.3966675607032E+16) [22:45:36, 2010-12-12](http://twitter.com/gfrog/statuses/1.3967713093292E+16)
+
+
+
+
+
+  * 倒腾nginx的https，请教推神，如果只有一个IP，可以给这个IP上的所有虚拟主机都配置https么？ [23:59:18, 2010-12-12](http://twitter.com/gfrog/statuses/1.3986259835818E+16)
+
+
+
+

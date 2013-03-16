@@ -1,0 +1,42 @@
+---
+comments: true
+date: 2011-12-16 01:00:00
+layout: post
+slug: todays-tweets-2011-12-16
+title: Today's tweets 2011-12-16
+wordpress_id: 1983
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 为神马我又要蛋疼的去改这个恶心的生成命令行的函数，这个月已经被恶心过无数次啦。 [10:42:14, 2011-12-16](http://twitter.com/gfrog/statuses/147506793558458368)
+
+
+
+
+
+  * 举手，半小时之前刚发生过，挺郁闷 RT [@petefang](http://twitter.com/petefang): 今天北京联通的wcdma网络出现问题了？我有三个用iPhone 4的186用户在大约一小时前都出现无信号状态，重启机器多次无效，后来自己就好了。有没有其他同学有类似问题？ [14:49:33, 2011-12-16](http://twitter.com/gfrog/statuses/147569032785170432)
+
+
+
+
+
+  * 原来大家都出问题了。 RT [@ksky](http://twitter.com/ksky): 我日，貌似北京地区的联通3G用户搜索不到信号是联通的网络问题。 [14:50:25, 2011-12-16](http://twitter.com/gfrog/statuses/147569249286758400)
+
+
+
+
+
+  * wow，年会去喽 [16:40:50, 2011-12-16](http://twitter.com/gfrog/statuses/147597038324957184)
+
+
+
+

@@ -1,0 +1,84 @@
+---
+comments: true
+date: 2010-05-19 01:00:00
+layout: post
+slug: todays-tweets-2010-05-19
+title: Today's tweets 2010-05-19
+wordpress_id: 689
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 在街上看到一辆躺车，果然不错，哈哈。 [08:08:20, 2010-05-19](http://twitter.com/gfrog/statuses/14259315273)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Google 将收购 VOIP 技术公司 Global IP Solutions [http://j.mp/dxcYAZ](http://j.mp/dxcYAZ) //google威武，期待着google的VOIP产品。 [08:37:43, 2010-05-19](http://twitter.com/gfrog/statuses/14260993733)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 我个人比较受用的一些习惯 [http://j.mp/dgb6fn](http://j.mp/dgb6fn) [08:38:27, 2010-05-19](http://twitter.com/gfrog/statuses/14261035875)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Linux操作系统的内存使用方法详细解析 [http://j.mp/9wH1r6](http://j.mp/9wH1r6) [09:59:22, 2010-05-19](http://twitter.com/gfrog/statuses/14265689068)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Google Reader技巧杂谈 [http://j.mp/9u1Har](http://j.mp/9u1Har) [13:32:19, 2010-05-19](http://twitter.com/gfrog/statuses/14276787008)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 17 May 2010 - Flickr [http://j.mp/997mxD](http://j.mp/997mxD) [13:54:25, 2010-05-19](http://twitter.com/gfrog/statuses/14277632110)
+
+
+
+
+
+  * [@Mystryl](http://twitter.com/Mystryl) 系统自身的端口，是不是ssh对-D选项支持的不好？ 试试netstat -lnt 看看有没有你指定的那个转发端口。 [in reply to Mystryl](http://twitter.com/Mystryl/statuses/14277946333) [14:08:31, 2010-05-19](http://twitter.com/gfrog/statuses/14278163920)
+
+
+
+
+
+  * 为什么rabr不能自动刷新了呢，点回复竟然还要再进入一个页面，变dabr了？ [14:09:11, 2010-05-19](http://twitter.com/gfrog/statuses/14278188120)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 横穿中国？ [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/14279022866) [14:45:47, 2010-05-19](http://twitter.com/gfrog/statuses/14279485306)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 强大，火车要走几天？ [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/14279801413) [15:13:24, 2010-05-19](http://twitter.com/gfrog/statuses/14280445659)
+
+
+
+
+
+  * 据说有cnetworkmanager这个东东，命令行下的NetworkManager。 [16:01:37, 2010-05-19](http://twitter.com/gfrog/statuses/14282062978)
+
+
+
+

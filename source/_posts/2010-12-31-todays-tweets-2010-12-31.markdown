@@ -1,0 +1,42 @@
+---
+comments: true
+date: 2010-12-31 01:00:00
+layout: post
+slug: todays-tweets-2010-12-31
+title: Today's tweets 2010-12-31
+wordpress_id: 1507
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@Missiu](http://twitter.com/Missiu): RT [@pufei](http://twitter.com/pufei): 刚才我的一个英国哥们让我解释一下为什么Greader会被封，我告诉他：首先阅读体验和皇帝看奏章相识，这算犯上；其次内容不受审查，这算惑众；最后腾讯推出了相似产品，这算多余；于是就被封了。 [00:39:05, 2010-12-31](http://twitter.com/gfrog/statuses/20519251999727617)
+
+
+
+
+
+  * RT [@danneez](http://twitter.com/danneez): 做个note 大家配置ngix的时候要注意默认解析 具体表现为：有可能某些站点指向了这个IP而又没有指定文件夹相对应，那么就到第一个网站上去。只需配置一个默认站点就行http://bit.ly/fgfnOv [00:42:28, 2010-12-31](http://twitter.com/gfrog/statuses/20520103380525056)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku): [douban]MILK 1分钟前 说：@蛋蛋_秦申说：一表哥，北京某区街道办事处职员，刚刚发了过年东西，Ipad一台，购物卡2000，还有一万现金，我问他是过节费么，他说：不是，叫“通胀补贴，我顿时就晕了~我他妈纳税养你们，谁给我补贴过通胀啊！” [11:16:13, 2010-12-31](http://twitter.com/gfrog/statuses/20679591727206401)
+
+
+
+
+
+  * RT [@iamdefer](http://twitter.com/iamdefer): ERR404，这个住户不存在 RT [@silentre](http://twitter.com/silentre): 是妖RT [@wubotao](http://twitter.com/wubotao): 不是吧！！！RT [@johnnight](http://twitter.com/johnnight): 南都竟然派记者去验证涛哥体察过的77块钱廉租房，结果发现不存在这家人…… [11:32:41, 2010-12-31](http://twitter.com/gfrog/statuses/20683734151856128)
+
+
+
+

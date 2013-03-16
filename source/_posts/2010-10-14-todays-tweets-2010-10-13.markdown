@@ -1,0 +1,42 @@
+---
+comments: true
+date: 2010-10-14 01:00:00
+layout: post
+slug: todays-tweets-2010-10-13
+title: Today's tweets 2010-10-13
+wordpress_id: 1006
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 10 Oct 2010 - Flickr [http://j.mp/cKg319](http://j.mp/cKg319) [04:22:18, 2010-10-13](http://twitter.com/gfrog/statuses/27170768077)
+
+
+
+
+
+  * I'm at 金台夕照地铁站 (北京市). [http://4sq.com/bQkPb9](http://4sq.com/bQkPb9) [08:34:34, 2010-10-13](http://twitter.com/gfrog/statuses/27189664868)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Tiny Core Linux [http://j.mp/bXO1TK](http://j.mp/bXO1TK) [21:53:53, 2010-10-13](http://twitter.com/gfrog/statuses/27243017425)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Ranger: 控制台下的文件管理器 [http://j.mp/a4ac0S](http://j.mp/a4ac0S) [21:58:05, 2010-10-13](http://twitter.com/gfrog/statuses/27243386538)
+
+
+
+

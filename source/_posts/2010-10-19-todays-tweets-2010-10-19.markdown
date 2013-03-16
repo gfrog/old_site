@@ -1,0 +1,114 @@
+---
+comments: true
+date: 2010-10-19 01:00:00
+layout: post
+slug: todays-tweets-2010-10-19
+title: Today's tweets 2010-10-19
+wordpress_id: 1013
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 囧囧，Fedora14 桌面特效打不开，打开之后窗口标题栏就没了。纠结，我要透明窗口。。。 [11:18:01, 2010-10-19](http://twitter.com/gfrog/statuses/27798488877)
+
+
+
+
+
+  * RT [@williamlong](http://twitter.com/williamlong): 腾讯网站的隐私权声明 - 腾讯搜集的信息通常仅限于您的姓名、性别、年龄、出生日期、身份证号、家庭住址、教育程度、公司情况、所属行业、兴趣爱好等。 [http://bit.ly/baVhk2](http://bit.ly/baVhk2) [12:19:17, 2010-10-19](http://twitter.com/gfrog/statuses/27802572877)
+
+
+
+
+
+  * [@_J_Smith](http://twitter.com/_J_Smith) 我的在上边，但是木有探针。下载速度100多k/s就是极限了。 [in reply to _J_Smith](http://twitter.com/_J_Smith/statuses/27802630043) [12:26:27, 2010-10-19](http://twitter.com/gfrog/statuses/27802990800)
+
+
+
+
+
+  * 搞什么飞机，用chrome访问taobao，chrome肯定假死。7和8都这个样子。 [12:28:48, 2010-10-19](http://twitter.com/gfrog/statuses/27803125210)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 哦，我特指linux下边.. [in reply to fxlt](http://twitter.com/fxlt/statuses/27803161296) [12:30:24, 2010-10-19](http://twitter.com/gfrog/statuses/27803214549)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) [@Gyteng](http://twitter.com/Gyteng) [@fxlt](http://twitter.com/fxlt) 探索一下是不是插件问题。。。。 [in reply to raptorz](http://twitter.com/raptorz/statuses/27803247670) [12:34:32, 2010-10-19](http://twitter.com/gfrog/statuses/27803439325)
+
+
+
+
+
+  * [@icyleaf](http://twitter.com/icyleaf) 我发现似乎是adblock的问题，禁用这个插件之后就木有问题了，你也试验下？ [in reply to icyleaf](http://twitter.com/icyleaf/statuses/27805897821) [13:52:45, 2010-10-19](http://twitter.com/gfrog/statuses/27807382243)
+
+
+
+
+
+  * Fedora14真是太牛了，我刚装好，就给我搞出来一个依赖性问题。尝试手工解决一下。 [13:53:34, 2010-10-19](http://twitter.com/gfrog/statuses/27807418949)
+
+
+
+
+
+  * I'm at Redhat＠融科资讯 (海淀区中关村科学院南路2号 融科资讯中心C座北楼, 北京市). [http://4sq.com/9MPIR0](http://4sq.com/9MPIR0) [14:28:00, 2010-10-19](http://twitter.com/gfrog/statuses/27808950001)
+
+
+
+
+
+  * RT [@geuro](http://twitter.com/geuro): 竟然有这种事 RT [@JerryChoi](http://twitter.com/JerryChoi): 刚刚查看了我的Android手机上的UCWEB的权限，发现它竟然使用了读取联系人权限和读取电话状态的权限  RT [@gokeeper](http://twitter.com/gokeeper) 无责任转推：UCweb涉嫌侵犯用户隐私 [http://guao.cc/FnU](http://guao.cc/FnU) [15:10:15, 2010-10-19](http://twitter.com/gfrog/statuses/27810757322)
+
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): RT [@giliani](http://twitter.com/giliani): 关于捐精的一个问题：如果有一天捐精的大学生发达了，成了明星或者富商，某个人工受孕的女人发现自己的孩子和那个人长得比较象，然后跑去说这是你私生子，一验DNA，真是，然后要求付抚养费，咋办？ [15:11:04, 2010-10-19](http://twitter.com/gfrog/statuses/27810792851)
+
+
+
+
+
+  * 确认，速度卸载UCWEB. RT [@JerryChoi](http://twitter.com/JerryChoi): 刚刚查看了我的Android手机上的UCWEB的权限，发现它竟然使用了读取联系人权限和读取电话状态的权限  RT [@gokeeper](http://twitter.com/gokeeper) 无责任转推：UCweb涉嫌侵犯用户隐私 [http://guao.cc/FnU](http://guao.cc/FnU) [15:18:33, 2010-10-19](http://twitter.com/gfrog/statuses/27811113424)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 囧，货收到了，但是皮腔漏掉了。 在靠近镜头那里，调焦拨轮这边的角上。 这东东好补么？ [20:00:23, 2010-10-19](http://twitter.com/gfrog/statuses/27825869035)
+
+
+
+
+
+  * 怎么说。。。 RT [@Gyteng](http://twitter.com/Gyteng): 听说ubuntu10.10的计算器汉化过头了？ [20:25:40, 2010-10-19](http://twitter.com/gfrog/statuses/27827714316)
+
+
+
+
+
+  * ftp RT [@yegle](http://twitter.com/yegle): 一个局域网内，Linux向Mac共享文件，哪种方案最好？ [21:01:12, 2010-10-19](http://twitter.com/gfrog/statuses/27830484002)
+
+
+
+
+
+  * 用来用去，还是dabr最靠谱。总是在最后关头默默支持你。 [22:17:12, 2010-10-19](http://twitter.com/gfrog/statuses/27837086102)
+
+
+
+

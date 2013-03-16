@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2010-08-21 01:00:00
+layout: post
+slug: todays-tweets-2010-08-21
+title: Today's tweets 2010-08-21
+wordpress_id: 953
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 给milestone做app2sd。 [11:09:30, 2010-08-21](http://twitter.com/gfrog/statuses/21717192531)
+
+
+
+

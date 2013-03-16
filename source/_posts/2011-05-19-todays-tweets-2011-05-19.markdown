@@ -1,0 +1,28 @@
+---
+comments: true
+date: 2011-05-19 01:00:00
+layout: post
+slug: todays-tweets-2011-05-19
+title: Today's tweets 2011-05-19
+wordpress_id: 1724
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * Reshared post from  Aaron Woo
+
+
+
+Google Storage申请开通方法 - 实时信息 [16:27:44, 2011-05-19](http://twitter.com/gfrog/statuses/71129900437872640)
+
+
+
+

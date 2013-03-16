@@ -1,0 +1,150 @@
+---
+comments: true
+date: 2011-10-11 01:00:00
+layout: post
+slug: todays-tweets-2011-10-11
+title: Today's tweets 2011-10-11
+wordpress_id: 1885
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 折腾下俺的PSP去，哈哈，为咩我突然对这个古董感兴趣了… [00:11:24, 2011-10-11](http://twitter.com/gfrog/statuses/123430439628189698)
+
+
+
+
+
+  * 我擦，昨天刚想做Debian的自动化安装，结果今天就有人发patch了，跟我抢活干嘛。。。 [10:44:12, 2011-10-11](http://twitter.com/gfrog/statuses/123589689625153536)
+
+
+
+
+
+  * 话说昨晚俺捣鼓了半宿PSP，成功从4.0M33升级到6.60M33，不过刷了5.0M33当作过渡版本。刷完之后，发现PSP真的不能干啥了，PSP能干的手机基本都能干，难道只能当个MP4使了？ [#PSP](http://search.twitter.com/search?q=%23PSP) [10:46:54, 2011-10-11](http://twitter.com/gfrog/statuses/123590365977645056)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 玩够了。。。 [in reply to movingtea1982](http://twitter.com/movingtea1982/statuses/123590722942287872) [10:56:06, 2011-10-11](http://twitter.com/gfrog/statuses/123592681111826435)
+
+
+
+
+
+  * [#chromium](http://search.twitter.com/search?q=%23chromium)  新版打开twitter主页慢的不行，最近半年这玩意似乎都不太给力，失去了刚开始的时候那些激动人心的功能和飞一样的速度，严重bug不断。难道google的主要关注点已经不在chromium上了？ [11:14:43, 2011-10-11](http://twitter.com/gfrog/statuses/123597368233955328)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 这是去哪里啦？ [in reply to ImSyls](http://twitter.com/ImSyls/statuses/123598358286827520) [11:21:04, 2011-10-11](http://twitter.com/gfrog/statuses/123598966536421376)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 赞啊，用了几天？ 路况如何？ [in reply to ImSyls](http://twitter.com/ImSyls/statuses/123599173546283008) [11:33:18, 2011-10-11](http://twitter.com/gfrog/statuses/123602042768982016)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 看来河北段确实是噩梦，昨天看了篇游记，也痛骂河北的国道。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/123602713073291264) [12:15:42, 2011-10-11](http://twitter.com/gfrog/statuses/123612714785447936)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 这玩意真的是要看上位者有没有这份心，帝都周边县城的路也都不是太好。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/123613288113246208) [12:27:08, 2011-10-11](http://twitter.com/gfrog/statuses/123615590194745344)
+
+
+
+
+
+  * [@titanzzf](http://twitter.com/titanzzf) 没有详细测试，我晚上回家试验下再报告。 [in reply to titanzzf](http://twitter.com/titanzzf/statuses/123627087553773568) [13:14:41, 2011-10-11](http://twitter.com/gfrog/statuses/123627557160615936)
+
+
+
+
+
+  * oops，刷屏了，跪球众foer原谅。 [13:15:15, 2011-10-11](http://twitter.com/gfrog/statuses/123627699091677184)
+
+
+
+
+
+  * [@skyier](http://twitter.com/skyier) 没下次了，在github上开同步真可怕 [in reply to skyier](http://twitter.com/skyier/statuses/123628611721904128) [13:32:51, 2011-10-11](http://twitter.com/gfrog/statuses/123632128473833472)
+
+
+
+
+
+  * RT [@wuhyapc](http://twitter.com/wuhyapc): [糗百] 昨晚在寝室，隔壁床的把我的手机拿去玩汤姆猫，对他说：你是脑残，猫说：你是脑残。他说：我是sb，猫说：sb。然后全寝室笑翻 - [http://t.co/4p5b48NS](http://t.co/4p5b48NS) [13:38:33, 2011-10-11](http://twitter.com/gfrog/statuses/123633562749632512)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 球真相！ 哈哈。 计划明年也去趟山东。。。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/123636174513377280) [13:50:34, 2011-10-11](http://twitter.com/gfrog/statuses/123636589313277952)
+
+
+
+
+
+  * [@zongsen](http://twitter.com/zongsen) 赞美你... [in reply to zongsen](http://twitter.com/zongsen/statuses/123636238145171456) [13:50:43, 2011-10-11](http://twitter.com/gfrog/statuses/123636624545419264)
+
+
+
+
+
+  * RT [@smallmaizi](http://twitter.com/smallmaizi): 各位推友，昨日的veer团购很成功，感谢支持！由于各种原因，今日价格为680元，谢谢理解！#no! [13:52:57, 2011-10-11](http://twitter.com/gfrog/statuses/123637187538468865)
+
+
+
+
+
+  * RT [@tifan](http://twitter.com/tifan): "早新闻里，这位仁兄说油价下调让他一个月可以省1000多块钱，我们按93号，1000元整数来计算：每升下调0.24元，可算出他每月加油量4167升，按普通5人座轿车8L/百公里平均油耗计，此人每月行驶公里数为52087.5公里。" [14:33:38, 2011-10-11](http://twitter.com/gfrog/statuses/123647426333646848)
+
+
+
+
+
+  * RT [@fedora](http://twitter.com/fedora): The Fedora 17 Release Name has been chosen: "Beefy Miracle" [@beefymiracle](http://twitter.com/beefymiracle)  |  [http://t.co/qtAN7j2B](http://t.co/qtAN7j2B)  [http://t.co/K1t2gO9Q](http://t.co/K1t2gO9Q) [15:14:53, 2011-10-11](http://twitter.com/gfrog/statuses/123657808653721600)
+
+
+
+
+
+  * 变态想法：在qemu的monitor用sendkey发送“shutdownn”是不是相当于在guest里关机了呢？ XXD [16:40:27, 2011-10-11](http://twitter.com/gfrog/statuses/123679340184604672)
+
+
+
+
+
+  * 影像仓库([@dc_box](http://twitter.com/dc_box)) 【佳能尼康泰国工厂受到洪灾影响】始自今年7月底的泰国大洪水，尼康与佳能设在泰国的工厂也未能幸免，均被洪水淹没。http://t.co/u4jTTbDA [http://t.co/CeV0YgpS](http://t.co/CeV0YgpS) [17:57:47, 2011-10-11](http://twitter.com/gfrog/statuses/123698801281216512)
+
+
+
+
+
+  * [@casparant](http://twitter.com/casparant) 改了host没？ 确定不是GFW的问题嘛？ [in reply to casparant](http://twitter.com/casparant/statuses/123770093770518528) [22:43:37, 2011-10-11](http://twitter.com/gfrog/statuses/123770736174309377)
+
+
+
+
+
+  * RT [@Gyteng](http://twitter.com/Gyteng): RT [@phoeagon](http://twitter.com/phoeagon): 满二叉树了几乎RT [@glasslion](http://twitter.com/glasslion): 大自然中的完全二叉树 [http://t.co/nIKvvQDc](http://t.co/nIKvvQDc) [22:59:07, 2011-10-11](http://twitter.com/gfrog/statuses/123774634192674817)
+
+
+
+

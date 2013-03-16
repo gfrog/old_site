@@ -1,0 +1,126 @@
+---
+comments: true
+date: 2010-06-14 01:00:00
+layout: post
+slug: todays-tweets-2010-06-14
+title: Today's tweets 2010-06-14
+wordpress_id: 767
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 假日的早晨，终于可以稍晚一会起床了。 [08:02:49, 2010-06-14](http://twitter.com/gfrog/statuses/16106654082)
+
+
+
+
+
+  * 被蚊子在手上咬了一口，手马上粗了一圈。 [08:17:06, 2010-06-14](http://twitter.com/gfrog/statuses/16107480879)
+
+
+
+
+
+  * RT [@wubuntust](http://twitter.com/wubuntust): RT [@eqian](http://twitter.com/eqian): @牌子鱼：央视新闻频道播边防官兵给刚入境的外国人发粽子和五彩线的事儿，镜头里面一个俄罗斯老大娘拿着包着爷子的粽子直接塞嘴里面了，没咬动又拿出来看了看，换了个角度又塞进去了…… 我都哭了…… [14:00:27, 2010-06-14](http://twitter.com/gfrog/statuses/16127138203)
+
+
+
+
+
+  * RT [@gowers](http://twitter.com/gowers): 写出完美的技术简历的25个提示 [http://is.gd/cOqeS](http://is.gd/cOqeS) [14:02:36, 2010-06-14](http://twitter.com/gfrog/statuses/16127234089)
+
+
+
+
+
+  * RT [@yoyicue](http://twitter.com/yoyicue): 收藏之. RT [@riku](http://twitter.com/riku): 按照 [@imotta](http://twitter.com/imotta) 的方法 [http://tto.me/aYcEXu](http://tto.me/aYcEXu) ，给我的两个 .me 域名进行续费，总计 17.96 USD , 节省 22 USD ，超合算 。 [14:07:31, 2010-06-14](http://twitter.com/gfrog/statuses/16127443723)
+
+
+
+
+
+  * RT [@Hc95](http://twitter.com/Hc95): RT [@exted](http://twitter.com/exted): 如何鉴定戒指上的那颗是钻石还是玻璃？答：点燃，将生成气体通入澄清石灰水。 [19:32:20, 2010-06-14](http://twitter.com/gfrog/statuses/16140329291)
+
+
+
+
+
+  * RT [@suiyueruge99](http://twitter.com/suiyueruge99): 求证RT [@twokeqi](http://twitter.com/twokeqi): 求证RT [@cantonese](http://twitter.com/cantonese): 深圳大亚湾核电站发生核泄漏事故: 本台获得独家消息指，核电厂一机组在上月23日运作出现异常，检测发现幅射泄漏超出厂区范围，至今仍未受控 [http://twurl.nl/16m0o3](http://twurl.nl/16m0o3) [22:02:44, 2010-06-14](http://twitter.com/gfrog/statuses/16149502206)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 戴尔竟然还做交换机。。。 [in reply to likuku](http://twitter.com/likuku/statuses/16149353415) [22:08:17, 2010-06-14](http://twitter.com/gfrog/statuses/16149883956)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 被我猜中了，贴牌货，果然比较山寨。 [in reply to quakelee](http://twitter.com/quakelee/statuses/16150227318) [22:16:40, 2010-06-14](http://twitter.com/gfrog/statuses/16150463307)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 还真的，看来每天备份到blog很有必要。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/16128517352) [22:19:40, 2010-06-14](http://twitter.com/gfrog/statuses/16150663139)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 啊，想起来了，曾经看到过，当时就是一阵感叹，戴尔竟然还作这东西，哈哈。现在想想，思科的东西都不是特别靠谱，就别说这种贴牌货了。 [in reply to likuku](http://twitter.com/likuku/statuses/16150304894) [22:24:06, 2010-06-14](http://twitter.com/gfrog/statuses/16150966753)
+
+
+
+
+
+  * 冒出一个空推，官方大波真不靠谱，换自己的试试 [22:31:07, 2010-06-14](http://twitter.com/gfrog/statuses/16151452697)
+
+
+
+
+
+  * 移动要干嘛，强推他的139邮箱么？RT [@xddcc](http://twitter.com/xddcc): RT [@lordong](http://twitter.com/lordong): 上海移动封了Gmail的https端口后手机无法上gmail，通过手机拨号拖笔记本上网自然也无法登录gmail，已经证实 [22:45:50, 2010-06-14](http://twitter.com/gfrog/statuses/16152629757)
+
+
+
+
+
+  * 纯洁的男女关系。RT [@likuku](http://twitter.com/likuku): 你出发前还说时纯洁的关系，这么快就变味啦？ RT [@zkaip](http://twitter.com/zkaip): 准备明天给丫头讲我的感情史，正式表白 [22:46:29, 2010-06-14](http://twitter.com/gfrog/statuses/16152677219)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku): RT [@Fenng](http://twitter.com/Fenng): 一个网友来邮件，他在翻译 Git Commuity Book ：http://liuhui998.javaeye.com/category/109230 [22:47:09, 2010-06-14](http://twitter.com/gfrog/statuses/16152723268)
+
+
+
+
+
+  * Ubertwitter还是很靠谱的，功能强大，换用oauth api后速度也有提升，冲这点，是不是下一部手机还要黑莓呢。 [22:50:07, 2010-06-14](http://twitter.com/gfrog/statuses/16152959177)
+
+
+
+
+
+  * 她的笑容，震撼！ - 人人都是艺术家 - 一辆机动车驶入非机动车道（这种行为在北京乃至全国很普遍），一个骑自行车的外国女士见状用车挡住了它的去路，微笑着请司机驶回机动车道（这种行为在北京 乃至全国很少... [http://j.mp/9REoBB](http://j.mp/9REoBB) [23:45:11, 2010-06-14](http://twitter.com/gfrog/statuses/16156915388)
+
+
+
+
+
+  * RT [@Orz_PX](http://twitter.com/Orz_PX): 关于大亚湾核泄漏的事情，咨询了一下我爸，他表示只是电气系统出了问题，跟核没有关系 [23:57:54, 2010-06-14](http://twitter.com/gfrog/statuses/16158008843)
+
+
+
+

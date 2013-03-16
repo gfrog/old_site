@@ -1,0 +1,228 @@
+---
+comments: true
+date: 2010-05-26 01:00:00
+layout: post
+slug: todays-tweets-2010-05-26
+title: Today's tweets 2010-05-26
+wordpress_id: 748
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 晴朗的早晨，走去班车点，走到一身汗。 [08:02:37, 2010-05-26](http://twitter.com/gfrog/statuses/14726314852)
+
+
+
+
+
+  * Chrome的关闭按钮也跑到左边去了，真崩溃。 [08:29:08, 2010-05-26](http://twitter.com/gfrog/statuses/14727778766)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 新闻串串烧90 [http://j.mp/bcDsem](http://j.mp/bcDsem) [08:40:07, 2010-05-26](http://twitter.com/gfrog/statuses/14728397095)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 工作帮——应聘时，教你听懂面试官问题背后的潜台词！ [http://j.mp/auWKxM](http://j.mp/auWKxM) [08:46:28, 2010-05-26](http://twitter.com/gfrog/statuses/14728744609)
+
+
+
+
+
+  * 靠，坐在中央空调出风口的下面，不但吹的脖子疼，而且每天桌子上都一层灰。 [08:52:35, 2010-05-26](http://twitter.com/gfrog/statuses/14729086277)
+
+
+
+
+
+  * 这算是体重自曝推么 XD RT [@wolfmeimei](http://twitter.com/wolfmeimei) 星期天51.8KG，星期一51.3KG，昨天50.1KG，没有什么比压力大不开心更能有效减肥的了。想瘦，就找点事情让自己不痛快吧。 [08:53:04, 2010-05-26](http://twitter.com/gfrog/statuses/14729113029)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 看报，看报，新华日报 [http://j.mp/9Qi0lt](http://j.mp/9Qi0lt) [09:07:35, 2010-05-26](http://twitter.com/gfrog/statuses/14729962941)
+
+
+
+
+
+  * 贝尔很欣慰，MOTO很高兴，Nokia在数钱。 RT [@bbcchinese](http://twitter.com/bbcchinese) 简讯：中国电话用户近11亿: 中国大陆电话用户已经接近11亿，其中大多都是移动电话用户。 [http://bit.ly/cRAS5G](http://bit.ly/cRAS5G) [09:18:47, 2010-05-26](http://twitter.com/gfrog/statuses/14730603497)
+
+
+
+
+
+  * 很少用浏览器关闭按钮，我只是瞅着不爽，占了半个标题栏的位置。 RT [@likuku](http://twitter.com/likuku) 用快捷键 RT [@gfrog](http://twitter.com/gfrog) Chrome的关闭按钮也跑到左边去了，真崩溃。 [09:19:35, 2010-05-26](http://twitter.com/gfrog/statuses/14730649958)
+
+
+
+
+
+  * 这是一种免责手段，免得有人删了/还要大骂系统怎么没有提示就删。 RT [@Midqiu](http://twitter.com/Midqiu) Ubuntu真不好用，动不动就要输密码，打开个文件也得要密码 我win7至今还是裸奔呢，UAC和防火墙一律关了，360安全卫士也给卸载了，最烦动不动就“are you sure？” [09:26:12, 2010-05-26](http://twitter.com/gfrog/statuses/14731033967)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 固话月租费涉嫌重复收费 [http://j.mp/aTJlRf](http://j.mp/aTJlRf) [09:39:41, 2010-05-26](http://twitter.com/gfrog/statuses/14731818673)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 冉氏新闻评论周刊 [爱枣报：696期] [http://j.mp/bflUsI](http://j.mp/bflUsI) [09:39:42, 2010-05-26](http://twitter.com/gfrog/statuses/14731820108)
+
+
+
+
+
+  * 决定今天迁移到ubuntu的下一个分支去，也就是maverick，我就是是不折腾会死。 [10:03:47, 2010-05-26](http://twitter.com/gfrog/statuses/14733279845)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 我要用KVM，没办法，还要在Linux这个坑里。 [in reply to likuku](http://twitter.com/likuku/statuses/14733443110) [10:11:49, 2010-05-26](http://twitter.com/gfrog/statuses/14733753247)
+
+
+
+
+
+  * 欢迎来东北这嘎嗒。 RT [@wangpei](http://twitter.com/wangpei) 在我的活动版图上，又将增加一块新领地：东北。 [10:14:28, 2010-05-26](http://twitter.com/gfrog/statuses/14733903603)
+
+
+
+
+
+  * kernel 2.6.34，gcc 4.5，哈，果然值得升级。 [10:15:19, 2010-05-26](http://twitter.com/gfrog/statuses/14733952631)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 4.5应该有一段时间了，4.4也是用了很久才普及开的。 [in reply to likuku](http://twitter.com/likuku/statuses/14734053774) [10:21:00, 2010-05-26](http://twitter.com/gfrog/statuses/14734283039)
+
+
+
+
+
+  * [@laogao](http://twitter.com/laogao) 从来木有接触过arch，用了几年debian，还是对debian系情有独钟，哈。 [in reply to laogao](http://twitter.com/laogao/statuses/14734403127) [10:27:44, 2010-05-26](http://twitter.com/gfrog/statuses/14734670760)
+
+
+
+
+
+  * OOPS，好残忍。 RT [@hicrokee](http://twitter.com/hicrokee) RT [@wb213](http://twitter.com/wb213): [@moemoebug](http://twitter.com/moemoebug) [@Greendamn](http://twitter.com/Greendamn) 最拉风的是把吸满血的蚊子放进针筒，堵住注射口然后拉/推另一头…然后就可以模拟人在太空和深海的后果了 [10:28:23, 2010-05-26](http://twitter.com/gfrog/statuses/14734708179)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 我觉得gentoo要折腾的话，还是要自己写ebuild，gentoo的稳定版其实很不错，bug也少，就是折腾起来麻烦。 [in reply to likuku](http://twitter.com/likuku/statuses/14734425029) [10:32:52, 2010-05-26](http://twitter.com/gfrog/statuses/14734972640)
+
+
+
+
+
+  * 显然金胖不会让中国这么做滴。 RT [@wubuntust](http://twitter.com/wubuntust) 其实早就该学美国在朝鲜驻军了RT [@dxzhao](http://twitter.com/dxzhao): 如果韓戰真的再次爆發，或者朝鮮收到外界壓力產生驟變，對於中國來說，最優選擇就是在未來可以實現對於朝鮮的分區佔領，中國可以搶到進東北的一塊地盤 [10:47:11, 2010-05-26](http://twitter.com/gfrog/statuses/14735796073)
+
+
+
+
+
+  * 升级完成，变化不大，唯一感觉到的就是字体变虚，又得去手工捣鼓字体了。 [10:48:12, 2010-05-26](http://twitter.com/gfrog/statuses/14735855068)
+
+
+
+
+
+  * 在maverick的源里找到了google-chrome-stable，下一步是不是就是干掉firefox了。 [11:01:00, 2010-05-26](http://twitter.com/gfrog/statuses/14736595709)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 建筑面积仅40平米的超薄楼房 [http://j.mp/ckYSIv](http://j.mp/ckYSIv) [11:33:48, 2010-05-26](http://twitter.com/gfrog/statuses/14738563342)
+
+
+
+
+
+  * 知道这个价的基本不会混推了吧。 RT [@fannylawrenC](http://twitter.com/fannylawrenC) 甚麼價？RT [@yashi88](http://twitter.com/yashi88): 买官 [@fannylawrenC](http://twitter.com/fannylawrenC): [@hkgfung](http://twitter.com/hkgfung) [@Jienfox](http://twitter.com/Jienfox) [11:35:30, 2010-05-26](http://twitter.com/gfrog/statuses/14738665629)
+
+
+
+
+
+  * 我不知道一个当官的看到满屏骂他的声音是是什么反应。 [@fannylawrenC](http://twitter.com/fannylawrenC) 混推的都是 P 民？RT [@gfrog](http://twitter.com/gfrog): 知道这个价的基本不会混推了吧。 RT [@fannylawrenC](http://twitter.com/fannylawrenC) 甚麼價？RT [@yashi88](http://twitter.com/yashi88): 买官 [@hkgfung](http://twitter.com/hkgfung) [@Jienfox](http://twitter.com/Jienfox) [in reply to fannylawrenC](http://twitter.com/fannylawrenC/statuses/14738865461) [11:40:15, 2010-05-26](http://twitter.com/gfrog/statuses/14738942044)
+
+
+
+
+
+  * ”现在XXX环境，还没有整体搭建完成。有许多的工作需要处理。“ //放屁，谁没工作要处理，都这样，干脆都不要做工作好了。 [13:24:37, 2010-05-26](http://twitter.com/gfrog/statuses/14743880350)
+
+
+
+
+
+  * Chromed Bird，还有Metrist RT [@jyman](http://twitter.com/jyman) chrome上有没有类似于echofon对于firefox的twitter插件呢？ [14:00:53, 2010-05-26](http://twitter.com/gfrog/statuses/14745290594)
+
+
+
+
+
+  * 我理解为Timeline RT [@xiao_su](http://twitter.com/xiao_su) 问：TL是什么意思？(我发现我out的厉害) [15:48:37, 2010-05-26](http://twitter.com/gfrog/statuses/14749013339)
+
+
+
+
+
+  * 恩，因为公司不让访问外网邮箱，所以已经很久木有看到TL了，都忘了这个东东了。 RT [@laogao](http://twitter.com/laogao) [@gfrog](http://twitter.com/gfrog) 我觉得他们说的是TopLanguage列表 cc [@xiao_su](http://twitter.com/xiao_su) [16:00:21, 2010-05-26](http://twitter.com/gfrog/statuses/14749400456)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 25 May 2010 - Flickr [http://j.mp/b0DXNv](http://j.mp/b0DXNv) [16:40:05, 2010-05-26](http://twitter.com/gfrog/statuses/14750707318)
+
+
+
+
+
+  * 每个人的幸福都不同。　RT [@liujinghui](http://twitter.com/liujinghui): 今天看到一个很高个子的女孩子领着一个很矮个子的女朋友，俩人很甜蜜。 [18:36:06, 2010-05-26](http://twitter.com/gfrog/statuses/14754744653)
+
+
+
+
+
+  * RT [@traintrackcn](http://twitter.com/traintrackcn): RT [@guxiaoqiang](http://twitter.com/guxiaoqiang) 大家都是成年人。RT [@jason5ng32](http://twitter.com/jason5ng32): 成人论坛里的人最有礼貌，一般回帖的人都会感谢楼主，很少出现吵架情况。另外，成人论坛的发帖者最负责任，他们会写清楚片子多大、是否无码、时长，还会上传大量截图，以供参考 [18:37:38, 2010-05-26](http://twitter.com/gfrog/statuses/14754803934)
+
+
+
+
+
+  * 寻找自己的幸福最重要。RT [@liujinghui](http://twitter.com/liujinghui): 嗯，让人羡慕 RT [@gfrog](http://twitter.com/gfrog): 每个人的幸福都不同。　RT [@liujinghui](http://twitter.com/liujinghui): 今天看到一个很高个子的女孩子领着一个很矮个子的女朋友，俩人很甜蜜。 [18:38:35, 2010-05-26](http://twitter.com/gfrog/statuses/14754843430)
+
+
+
+
+
+  * 恩，喜欢一个外国人确实不太好，强烈要求发展民族AV产业。RT [@PhoenixEmik](http://twitter.com/PhoenixEmik): 我的某个同学居然说喜欢苍井空是不正常的！我虽然不喜欢苍井空,比较喜欢松岛枫，不过我已经深深地感到了国家为我们未成年人健康成长付出的良苦用心。 [18:40:38, 2010-05-26](http://twitter.com/gfrog/statuses/14754921883)
+
+
+
+

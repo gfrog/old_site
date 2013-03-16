@@ -1,0 +1,84 @@
+---
+comments: true
+date: 2012-07-24 23:59:00
+layout: post
+slug: todays-tweets-2012-07-24
+title: Today's tweets 2012-07-24
+wordpress_id: 2612
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:02:00, 2012-07-24](http://twitter.com/gfrog/statuses/227569287567659008)
+
+
+
+
+
+  * 某些中国人连在bbs上提问题都不会问，经常是“为神马我的电脑好慢啊，肿么办”，然后底下一堆人回帖“我一样的配置，很快啊”、“换新版本试试”，然后LZ回复“为什么我的不行呢”、“那我晚上回家试试”。一帮傻逼。 [14:21:13, 2012-07-24](http://twitter.com/gfrog/statuses/227649618979196928)
+
+
+
+
+
+  * RT [@na_sheishei](http://twitter.com/na_sheishei): RT @北京人不知道的北京事儿 #北京台看不见的房山# 房山韩村河镇遇难者尸体打捞全程视频：http://t.co/apae1RiS 来自于@凤凰视频 ，不评论。 [http://t.co/pZg3cRT3](http://t.co/pZg3cRT3) [14:21:44, 2012-07-24](http://twitter.com/gfrog/statuses/227649751368224768)
+
+
+
+
+
+  * [@iMurMur](http://twitter.com/iMurMur) 没办法不看到啊，遍地都是这种。 [in reply to iMurMur](http://twitter.com/iMurMur/statuses/227692034302038016) [17:20:03, 2012-07-24](http://twitter.com/gfrog/statuses/227694622678335488)
+
+
+
+
+
+  * RT [@Ji_Rabbin](http://twitter.com/Ji_Rabbin): 正经福利放送：现手上有帝都某国际四星酒店的房间若干，推上众亲有在北京旅游或居住的私信联络我，可免费为大家安排入住。酒店在（五棵松）万事达中心附近，房间敞亮包含早餐。（公司在帝都开会房间订多且无法退订，空开可惜故有此条）PS：此信息为7月31号下午7点 [22:00:32, 2012-07-24](http://twitter.com/gfrog/statuses/227765211422158850)
+
+
+
+
+
+  * RT [@tenderkuma](http://twitter.com/tenderkuma): 我早就说过猫咪都是从猫树上结的你们不信。好吧我发一张未采摘的猫树照片给你们看看！ [http://t.co/LQ0G2PdX](http://t.co/LQ0G2PdX) [22:01:16, 2012-07-24](http://twitter.com/gfrog/statuses/227765395438858240)
+
+
+
+
+
+  * RT [@xuefeiwind](http://twitter.com/xuefeiwind): 转： 曹操大军压境，瑜亮联手，决定火烧赤壁，将此计报告孙权。孙权长叹一口气：“用火烧对付80万曹军，好计策，可是到哪里去找那么多驴肉啊？” [22:06:48, 2012-07-24](http://twitter.com/gfrog/statuses/227766788673372161)
+
+
+
+
+
+  * 一小时之前注册VUE，现在就收到确认信了呢。还真快，我以为还要等一天才行呢。 [22:11:21, 2012-07-24](http://twitter.com/gfrog/statuses/227767931310841856)
+
+
+
+
+
+  * Redhat两大产品，KVM（qemu）和GlusterFS之间的融合，被一个IBM的哥们发patch实现了，这就是真实的开源社区啊，真逗。 [23:32:37, 2012-07-24](http://twitter.com/gfrog/statuses/227788384498774016)
+
+
+
+
+
+  * RT [@petefang](http://twitter.com/petefang): Amazon终于开始限制3G漫游了：only available for some customers outside of the United States and may be limited to 50MB of browsing ov ... [23:33:53, 2012-07-24](http://twitter.com/gfrog/statuses/227788701411991552)
+
+
+
+
+
+  * RT [@fndhrt](http://twitter.com/fndhrt): 东软医疗的一帮人拷走核心文档代码，随后集体辞职自己开公司做同样的东西，被逮捕了。装有文档代码的电脑和移动硬盘成为犯罪证据。如果他们使用云存储，本可以成为一家新锐创业公司。 [23:34:09, 2012-07-24](http://twitter.com/gfrog/statuses/227788768919306240)
+
+
+
+

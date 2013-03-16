@@ -1,0 +1,72 @@
+---
+comments: true
+date: 2012-06-26 23:59:00
+layout: post
+slug: todays-tweets-2012-06-26
+title: Today's tweets 2012-06-26
+wordpress_id: 2585
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 我擦，在敝司内部竟然看到了“Update repo”这种类型的commit log，这种不靠谱的货色是肿么混进革命队伍来的… [02:03:18, 2012-06-26](http://twitter.com/gfrog/statuses/217317057514061825)
+
+
+
+
+
+  * Found some commit log like 'Update repo' in a internal git repo, oops. This guys obviously doesn't know the rule of commit summary. [02:05:46, 2012-06-26](http://twitter.com/gfrog/statuses/217317675767042049)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:42, 2012-06-26](http://twitter.com/gfrog/statuses/217422096979079169)
+
+
+
+
+
+  * 尼玛上班时间竟然下雨，果断在家办公。。。 [09:05:15, 2012-06-26](http://twitter.com/gfrog/statuses/217423245849268224)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 虽然嘴上说在家办公，不过我还是跑办公室来了，家里没吃没喝没cherry没大屏幕没人陪聊。 [in reply to childream](http://twitter.com/childream/statuses/217426032830062592) [10:46:52, 2012-06-26](http://twitter.com/gfrog/statuses/217448817153409024)
+
+
+
+
+
+  * 汗，我的上一推真的不是拿来显摆的 =.= [10:47:20, 2012-06-26](http://twitter.com/gfrog/statuses/217448934220644352)
+
+
+
+
+
+  * 连我们Team的某工具都在向Jobs致敬，打开主页第一个大标题就是Jobs。 =.= [14:27:28, 2012-06-26](http://twitter.com/gfrog/statuses/217504331111469056)
+
+
+
+
+
+  * 我了个去，上周苦恼了2天的bug，原来多sleep一会儿就好了… 这苦逼networkmanager。 [17:51:15, 2012-06-26](http://twitter.com/gfrog/statuses/217555614509961218)
+
+
+
+
+
+  * 等以后网卡名变成了em1之类的，这命令还会变得蛋疼。 RT [@yegle](http://twitter.com/yegle): cat /sys/class/net/eth0/address （有没有和我一样曾经蛋疼地解析ip或ifconfig命令输出获取MAC地址的朋友… [21:18:39, 2012-06-26](http://twitter.com/gfrog/statuses/217607807866912768)
+
+
+
+

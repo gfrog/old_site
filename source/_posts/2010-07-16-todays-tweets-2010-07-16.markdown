@@ -1,0 +1,156 @@
+---
+comments: true
+date: 2010-07-16 01:00:00
+layout: post
+slug: todays-tweets-2010-07-16
+title: Today's tweets 2010-07-16
+wordpress_id: 903
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 那做个A记录看看效果吧，看来ghs那个地址也是分区域盾的。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18640870723) [2010-07-16](http://twitter.com/gfrog/statuses/18642351533)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 目前的空间是年底到期，照目前的情况看不续费都难，现在上面挂的域名太多了，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18642985982) [2010-07-16](http://twitter.com/gfrog/statuses/18643177034)
+
+
+
+
+
+  * 很怀疑昨天Redhat的电话面杯具了，因为那个面试官显得十分不耐烦，纠结，到底哪句话说错了呢。。。 [2010-07-16](http://twitter.com/gfrog/statuses/18644575865)
+
+
+
+
+
+  * 发完上一推就发现一句“友情恶搞，请勿当真，请勿认真，认真丫就输了”，好吧，先谢国家，再谢Redhat的恶搞。 [2010-07-16](http://twitter.com/gfrog/statuses/18644715808)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 13 Jul 2010 - Flickr [http://j.mp/aO0xBR](http://j.mp/aO0xBR) [2010-07-16](http://twitter.com/gfrog/statuses/18644757759)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 嘿，其实自己搞blog，就是折腾一个字。我也是免费的换来换去，最后才狠心自己买空间的。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18645002663) [2010-07-16](http://twitter.com/gfrog/statuses/18645177013)
+
+
+
+
+
+  * [@jyman](http://twitter.com/jyman) 额，总之是谈了一些不太贴边的问题，我被问的很纳闷。。。 [in reply to jyman](http://twitter.com/jyman/statuses/18644985089) [2010-07-16](http://twitter.com/gfrog/statuses/18645228503)
+
+
+
+
+
+  * RT [@ruanyf](http://twitter.com/ruanyf): 两个免费VPN提供商，http://itshidden.com 和 [http://www.vpnreactor.com](http://www.vpnreactor.com) [2010-07-16](http://twitter.com/gfrog/statuses/18645709210)
+
+
+
+
+
+  * vpnreactor的免费账户是有有一个月效期的，注册的时候要注意。 RT [@gfrog](http://twitter.com/gfrog): RT [@ruanyf](http://twitter.com/ruanyf): 两个免费VPN提供商，http://itshidden.com 和 [http://www.vpnreactor.com](http://www.vpnreactor.com) [2010-07-16](http://twitter.com/gfrog/statuses/18646063577)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 推荐一款好用的免费VPN-MacroVPN [http://j.mp/9jDayP](http://j.mp/9jDayP) [2010-07-16](http://twitter.com/gfrog/statuses/18646887530)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 南方周末与章鱼保罗虚拟访谈的背后 [http://j.mp/aus89U](http://j.mp/aus89U) [2010-07-16](http://twitter.com/gfrog/statuses/18647155920)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 是啊，修改一下那个cname就行。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18652699000) [2010-07-16](http://twitter.com/gfrog/statuses/18653019606)
+
+
+
+
+
+  * RT [@Mystryl](http://twitter.com/Mystryl): 如何把一只猫弄出抑郁症：猫猫刚刚想舔纱窗，我把他向后拖5cm，他继续挪前一点舔，我继续拖回来5cm，20次以后小猫抑郁了对着纱窗发呆了。 [2010-07-16](http://twitter.com/gfrog/statuses/18653060513)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 囧，稍等。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18653134930) [2010-07-16](http://twitter.com/gfrog/statuses/18653191227)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 搞定，哈哈，写个@就可以了。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18653134930) [2010-07-16](http://twitter.com/gfrog/statuses/18653677214)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 这个，看看dns的介绍应该就成。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18653808540) [2010-07-16](http://twitter.com/gfrog/statuses/18653969854)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 时延一定有，国内的dns时延可能是好几个小时。在米帝的dns上测试已经改过来了。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18653943049) [2010-07-16](http://twitter.com/gfrog/statuses/18654013789)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 我当年是在数据库里直接改的。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18657976387) [2010-07-16](http://twitter.com/gfrog/statuses/18662011866)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 如果blogger导出的是一个文本文件，倒是可以考虑替换一下。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18659004335) [2010-07-16](http://twitter.com/gfrog/statuses/18662415999)
+
+
+
+
+
+  * RT [@yuanyi_wang](http://twitter.com/yuanyi_wang): 怪不得公司的老印都回去了 RT [@xiaoyong8964](http://twitter.com/xiaoyong8964) [@nepalon](http://twitter.com/nepalon) [@boxun](http://twitter.com/boxun): CCTV不敢报道，世界银行报告显示，真是印度超越中国 [http://ff.im/-nMKcv](http://ff.im/-nMKcv) [2010-07-16](http://twitter.com/gfrog/statuses/18663704890)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 木有用过这个东东，只能你自己搞定啦 ：P [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18663063039) [2010-07-16](http://twitter.com/gfrog/statuses/18663736497)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 难怪法国出了很多大数学家XD [http://j.mp/c8g5ns](http://j.mp/c8g5ns) [2010-07-16](http://twitter.com/gfrog/statuses/18663788564)
+
+
+
+
+
+  * 广告嘛，从来都是如此。RT [@Hc95](http://twitter.com/Hc95): 知道么，沈阳国际旅游节的开幕式之前的短片，我一个在沈阳生活了15年的人，都没见过沈阳这么漂亮过。 [2010-07-16](http://twitter.com/gfrog/statuses/18683556890)
+
+
+
+

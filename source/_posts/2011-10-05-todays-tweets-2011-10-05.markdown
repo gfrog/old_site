@@ -1,0 +1,61 @@
+---
+comments: true
+date: 2011-10-05 01:00:00
+layout: post
+slug: todays-tweets-2011-10-05
+title: Today's tweets 2011-10-05
+wordpress_id: 1868
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@luogl](http://twitter.com/luogl): 如果你亲眼看见一个个健康的肾是如何变成一台台iPhone时，你还忍心买吗？是的！没有买卖，就没有杀害！ [07:23:43, 2011-10-05](http://twitter.com/gfrog/statuses/121364906770571264)
+
+
+
+
+
+  * 笨蛋码农的笨蛋寻思，推特的热推榜应该怎么实现呢？通过分析public tl获得的话，如何精确剥离中文推，如何不丢推。如果通过已知中文用户的话，这只是一个所有中文用户的子集，统计数据又不准，有统计bot的大大们是怎么设计的呢？ [08:10:55, 2011-10-05](http://twitter.com/gfrog/statuses/121376786134212608)
+
+
+
+
+
+  * RT [@darrenest](http://twitter.com/darrenest): Free 50GB Dropbox spaceship! For Life!
+[http://t.co/3P1r5jlP](http://t.co/3P1r5jlP) [20:41:46, 2011-10-05](http://twitter.com/gfrog/statuses/121565744872955904)
+
+
+
+
+
+  * 准备搓炉石回城，国庆副本的难点就是在传送点排队和各种跑路上。 [22:22:35, 2011-10-05](http://twitter.com/gfrog/statuses/121591116763103232)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) OpenMobile ACL [http://j.mp/qCXkRz](http://j.mp/qCXkRz) [23:01:29, 2011-10-05](http://twitter.com/gfrog/statuses/121600905735966720)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) FAD 2011 详细活动通知 [http://j.mp/rtltnv](http://j.mp/rtltnv) [23:02:00, 2011-10-05](http://twitter.com/gfrog/statuses/121601035235110913)
+
+
+
+
+
+  * RT [@liumiao](http://twitter.com/liumiao): 当年郭德纲在天津混不下去，打了个车去北京，听司机聊了一路，下了车就能靠相声在京城谋生了RT [@virushuo](http://twitter.com/virushuo): 还用小剧场，找个利索点的出租车司机就齐活了 RT [@zhufengme](http://twitter.com/zhufengme): 从天津的小剧场里，随便拎个相声演员出来，说的都比郭德纲好… [23:37:25, 2011-10-05](http://twitter.com/gfrog/statuses/121609945325109249)
+
+
+
+

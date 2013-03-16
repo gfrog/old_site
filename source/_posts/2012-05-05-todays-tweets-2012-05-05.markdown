@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2012-05-05 23:59:00
+layout: post
+slug: todays-tweets-2012-05-05
+title: Today's tweets 2012-05-05
+wordpress_id: 2535
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 好吧，每天一过12点准时肚子饿，这是肿末回事… [00:04:39, 2012-05-05](http://twitter.com/gfrog/statuses/198443029923762177)
+
+
+
+
+
+  * 好吧，endomondo这货短途测试还行，看了下上周跑长距离的轨迹，完全的不靠谱，很多路段都没有记录。这货真的就是玩具，还好没付费… [00:45:38, 2012-05-05](http://twitter.com/gfrog/statuses/198453342886825986)
+
+
+
+

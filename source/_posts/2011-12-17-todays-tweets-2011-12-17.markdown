@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2011-12-17 01:00:00
+layout: post
+slug: todays-tweets-2011-12-17
+title: Today's tweets 2011-12-17
+wordpress_id: 1984
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 呦，今天Amazon又搞万事达卡的活动了，满$100送$10优惠券。 [17:57:23, 2011-12-17](http://twitter.com/gfrog/statuses/147978687931891713)
+
+
+
+
+
+  * [@iMurMur](http://twitter.com/iMurMur) 木有，太贵太贵，拿RMB出去买亚马逊的原版书真是烧钱行为。 [in reply to iMurMur](http://twitter.com/iMurMur/statuses/148005113259229184) [20:03:50, 2011-12-17](http://twitter.com/gfrog/statuses/148010513249472512)
+
+
+
+
+
+  * [@hama](http://twitter.com/hama) 没到，我地址填的公司的，八成得下周才能到。 [in reply to hama](http://twitter.com/hama/statuses/148013796118634496) [22:23:14, 2011-12-17](http://twitter.com/gfrog/statuses/148045592411639808)
+
+
+
+
+
+  * 今天一天一直打不起精神写代码，结果拿起手机上推，又发现那个恶心的t.co了，开本子改twip去1 [22:24:34, 2011-12-17](http://twitter.com/gfrog/statuses/148045927133884419)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 看看能不能改掉，能改的话我交个patch给twip [in reply to Hc95](http://twitter.com/Hc95/statuses/148046244877574144) [22:27:05, 2011-12-17](http://twitter.com/gfrog/statuses/148046560935165953)
+
+
+
+
+
+  * [@laogao](http://twitter.com/laogao) 下次再用的时候不会把这点塑料点着嘛。。。 好危险 [in reply to laogao](http://twitter.com/laogao/statuses/148008174362959872) [22:45:13, 2011-12-17](http://twitter.com/gfrog/statuses/148051126384734208)
+
+
+
+
+
+  * 继续犯懒，按照这个blog搞定了t.co的问题，继续搁置自己修改的计划，囧。 [http://t.co/GkqMLObs](http://t.co/GkqMLObs) [23:50:46, 2011-12-17](http://twitter.com/gfrog/statuses/148067619226914816)
+
+
+
+

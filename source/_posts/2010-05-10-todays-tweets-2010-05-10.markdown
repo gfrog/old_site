@@ -1,0 +1,150 @@
+---
+comments: true
+date: 2010-05-10 01:00:00
+layout: post
+slug: todays-tweets-2010-05-10
+title: Today's tweets 2010-05-10
+wordpress_id: 680
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 靠，等了这么久公交，还是不来，这离始发站就一站。沈阳公交真不靠谱。 [07:46:59, 2010-05-10](http://twitter.com/gfrog/statuses/13694682100)
+
+
+
+
+
+  * 不再挣扎了，在这个公交不靠谱，打不着出租车的地方，妄想赶上班车已经不可能了。慢慢坐公交晃去上班。 [07:55:44, 2010-05-10](http://twitter.com/gfrog/statuses/13695068041)
+
+
+
+
+
+  * 文翠路，好好的路，去年刚刨开，今年又开始折腾了。 [http://tweetphoto.com/21813860](http://tweetphoto.com/21813860) [07:59:56, 2010-05-10](http://twitter.com/gfrog/statuses/13695252729)
+
+
+
+
+
+  * 本来想坐向西的166，结果对面开来了5辆166我这边也没来一个，好吧，不挣扎，去马路对面坐向东车的去。 [08:07:11, 2010-05-10](http://twitter.com/gfrog/statuses/13695589283)
+
+
+
+
+
+  * 唉，在150站点看到公司的延长线班车。能坐班车真好。 [08:12:40, 2010-05-10](http://twitter.com/gfrog/statuses/13695832568)
+
+
+
+
+
+  * 150跟班车比一下谁快吧，哈哈 [08:17:13, 2010-05-10](http://twitter.com/gfrog/statuses/13696034752)
+
+
+
+
+
+  * 马上到地方了，总算有座了。 [08:39:19, 2010-05-10](http://twitter.com/gfrog/statuses/13697043142)
+
+
+
+
+
+  * 啊，果然跟东14延长线班车前后脚到公司，150威武。 [09:05:50, 2010-05-10](http://twitter.com/gfrog/statuses/13698281074)
+
+
+
+
+
+  * [GR] 利用 inotify 来监控 Linux 文件系统事件 [http://j.mp/cMx4yq](http://j.mp/cMx4yq) [10:17:22, 2010-05-10](http://twitter.com/gfrog/statuses/13701709245)
+
+
+
+
+
+  * [GR] Interesting photos -  7 May 2010 - Flickr [http://j.mp/b4TisQ](http://j.mp/b4TisQ) [10:17:23, 2010-05-10](http://twitter.com/gfrog/statuses/13701709744)
+
+
+
+
+
+  * 看EF镜头大全，又勾起我入35镜头的想法了。 [10:36:46, 2010-05-10](http://twitter.com/gfrog/statuses/13702642005)
+
+
+
+
+
+  * [GR] zz精心整理《EOS王朝》一书所推荐的镜头供各位参考 [http://j.mp/a6Vrol](http://j.mp/a6Vrol) [11:15:22, 2010-05-10](http://twitter.com/gfrog/statuses/13704476450)
+
+
+
+
+
+  * 说明高素质人才短缺，大学里批量生产的产品无法满足市场上各个公司的需求。 RT [@BreeStealth](http://twitter.com/BreeStealth): 一边是N多人找不到工作，一边是N多公司招不到人。这TMD到底是怎么了！！ [11:16:51, 2010-05-10](http://twitter.com/gfrog/statuses/13704545838)
+
+
+
+
+
+  * [@BreeStealth](http://twitter.com/BreeStealth) hand！ [in reply to BreeStealth](http://twitter.com/BreeStealth/statuses/13704590368) [11:22:13, 2010-05-10](http://twitter.com/gfrog/statuses/13704794721)
+
+
+
+
+
+  * [@wolfmeimei](http://twitter.com/wolfmeimei) 神器35L，绝对的高纯度毒品啊 [in reply to wolfmeimei](http://twitter.com/wolfmeimei/statuses/13704627830) [11:23:09, 2010-05-10](http://twitter.com/gfrog/statuses/13704836659)
+
+
+
+
+
+  * kwestion5的界面很赞，速度也很好，不错不错。而且俺刚刚找到在哪里看thread了，哈哈。 [13:32:49, 2010-05-10](http://twitter.com/gfrog/statuses/13710271303)
+
+
+
+
+
+  * [GR] Linux ext3文件系统 rm恢复 [http://j.mp/dugdgC](http://j.mp/dugdgC) [13:46:20, 2010-05-10](http://twitter.com/gfrog/statuses/13710750207)
+
+
+
+
+
+  * 原来Ubuntu的server版是原来文本模式的安装界面，还是这个版本适合我一些。 [15:23:56, 2010-05-10](http://twitter.com/gfrog/statuses/13713757990)
+
+
+
+
+
+  * 靠，我说今天翻墙这么卡呢。 RT [@terryxxy](http://twitter.com/terryxxy) 万恶的dreamhost啊，居然限速了 [http://shar.es/m6NKv](http://shar.es/m6NKv) [16:17:40, 2010-05-10](http://twitter.com/gfrog/statuses/13715300285)
+
+
+
+
+
+  * 估计DH已经负担不起他的网络开销了。VPS素王道！ RT [@Rex5652](http://twitter.com/Rex5652) DH还限制带宽RT [@gfrog](http://twitter.com/gfrog): 靠，我说今天翻墙这么卡呢。 RT [@terryxxy](http://twitter.com/terryxxy) 万恶的dreamhost啊，居然限速了 [http://shar.es/m6NKv](http://shar.es/m6NKv) [16:40:17, 2010-05-10](http://twitter.com/gfrog/statuses/13715953593)
+
+
+
+
+
+  * 似乎木有，所以我决定ubuntu one了。 RT [@wubuntust](http://twitter.com/wubuntust) 有linux客户端吗？RT [@klx1204](http://twitter.com/klx1204) 能够替代dropbox的免费同步服务sugarsync，注册可得2.25G空间 [https://www.sugarsync.com/referral?rf=ce](https://www.sugarsync.com/referral?rf=ce) [17:23:22, 2010-05-10](http://twitter.com/gfrog/statuses/13717224265)
+
+
+
+
+
+  * RT [@ppmeme](http://twitter.com/ppmeme) RT [@glimho](http://twitter.com/glimho): 2010长隆国际比基尼小姐大赛在广州拉开帷幕，近两千名美女齐聚广州长隆水上乐园，用独特的形式排成“广州”字样 [http://img.ly/1afG](http://img.ly/1afG) 每当这样的时刻，就不叫做聚众淫乱了，叫集中力量办大事 (via [@Abao](http://twitter.com/Abao)) [#pp](http://search.twitter.com/search?q=%23pp) [17:23:40, 2010-05-10](http://twitter.com/gfrog/statuses/13717233005)
+
+
+
+

@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2012-06-13 23:59:00
+layout: post
+slug: todays-tweets-2012-06-13
+title: Today's tweets 2012-06-13
+wordpress_id: 2573
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 为神马最近两天爱上了半夜coding… 难道我真的就是天生苦逼码农的命了。。 [00:25:39, 2012-06-13](http://twitter.com/gfrog/statuses/212581439072509952)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:39, 2012-06-13](http://twitter.com/gfrog/statuses/212711044689305603)
+
+
+
+
+
+  * RT [@slightCats](http://twitter.com/slightCats): 【 #理科生 】我有一同学在××知道上回答了一个园艺问题“树木根坏了怎么挽救这棵树”，答案内容如下：『植物组织培养。用分裂素和生长素1比1配制的培养基对离体细胞进行脱分化处理，得到愈伤组织后再用再分化培养基培养，得到幼苗植株后就可以移载了』 ... [14:31:08, 2012-06-13](http://twitter.com/gfrog/statuses/212794214382178304)
+
+
+
+
+
+  * 参与对内压迫p民，米帝不会管的。 RT [@anchorsun](http://twitter.com/anchorsun): 因为是北航学生身份“可能参与核弹、导弹、生化武器的制造”而无法获得Adobe软件免费升级？！那可能参与砌墙的北邮学生们可肿么办？！！ [14:32:48, 2012-06-13](http://twitter.com/gfrog/statuses/212794631153389570)
+
+
+
+
+
+  * 竟然饿了，寻觅些饼干吃去。 [15:19:17, 2012-06-13](http://twitter.com/gfrog/statuses/212806332074557441)
+
+
+
+
+
+  * 又看到Unix系统调用列表了，当年写unix的那些穷逼啊，为了省那么几个字，搞出这么一坨爆难看的缩写来… [23:11:28, 2012-06-13](http://twitter.com/gfrog/statuses/212925159298969600)
+
+
+
+

@@ -1,0 +1,150 @@
+---
+comments: true
+date: 2010-07-14 01:00:00
+layout: post
+slug: todays-tweets-2010-07-14
+title: Today's tweets 2010-07-14
+wordpress_id: 901
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 那思科的系统改叫啥？ONS？　RT [@hengdm](http://twitter.com/hengdm): [@hengdm](http://twitter.com/hengdm) 这就不难解释为什么苹果斥巨资从Cisco手中“买”下iPhone这个注册商标，大家Google一下小道消息吧，金额令人吒舌。还有“iOS”也被从Cisco买下…… [2010-07-14](http://twitter.com/gfrog/statuses/18476642131)
+
+
+
+
+
+  * [@Houge_Ubuntu](http://twitter.com/Houge_Ubuntu) power cpu 的？系统还能找到么？难道要装linux? [in reply to Houge_Ubuntu](http://twitter.com/Houge_Ubuntu/statuses/18453503010) [2010-07-14](http://twitter.com/gfrog/statuses/18476827800)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 12 Jul 2010 - Flickr [http://j.mp/aDy0bM](http://j.mp/aDy0bM) [2010-07-14](http://twitter.com/gfrog/statuses/18479620954)
+
+
+
+
+
+  * 保姆级老大，好淫啊 RT [@yuanyi_wang](http://twitter.com/yuanyi_wang): 两个manager在操心员工出差日本的行程路线问题。机场到住的地方。 [2010-07-14](http://twitter.com/gfrog/statuses/18479886637)
+
+
+
+
+
+  * 兲朝太恐怖了，早晚要移民掉。 RT [@helloxiaoxiang](http://twitter.com/helloxiaoxiang): 手机网页qq居然提示“请使用文明密码”，这马化腾是不是吃多了？ [2010-07-14](http://twitter.com/gfrog/statuses/18479991749)
+
+
+
+
+
+  * https的快照也木有办法看么。。 RT [@jyman](http://twitter.com/jyman): [@luzhaohui](http://twitter.com/luzhaohui) 翻不了墙，看不了你的教程，我就去google，谁知道google出来第二条点进去也被墙，一看就是你的博客文章…… [2010-07-14](http://twitter.com/gfrog/statuses/18481356351)
+
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): RT [@henet](http://twitter.com/henet): Hurricane Electric's Network Looking Glass - [http://lg.he.net](http://lg.he.net) - IP/OSPF/BGP routing info and BGP summaries. [2010-07-14](http://twitter.com/gfrog/statuses/18482243546)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 滑稽而荒谬的中国房地产税 [http://j.mp/a6oyel](http://j.mp/a6oyel) [2010-07-14](http://twitter.com/gfrog/statuses/18484051647)
+
+
+
+
+
+  * 额，说的也是啊。 RT [@sfz0126](http://twitter.com/sfz0126): RT [@alexlur](http://twitter.com/alexlur): 李世民因为怕死派唐僧去西天取经，他为什么不把唐僧直接吃掉呢？ [2010-07-14](http://twitter.com/gfrog/statuses/18497931095)
+
+
+
+
+
+  * 拿俩盾。 RT [@movingtea1982](http://twitter.com/movingtea1982): 那最右边的人怎么办 RT [@cmsjcmsz](http://twitter.com/cmsjcmsz): 每个斯巴达人用他的盾牌从头到脚保护他左边的人 [2010-07-14](http://twitter.com/gfrog/statuses/18497995662)
+
+
+
+
+
+  * [@kyokyo8899](http://twitter.com/kyokyo8899) 你可以命令猛禽养猫啊。XD [in reply to kyokyo8899](http://twitter.com/kyokyo8899/statuses/18497080107) [2010-07-14](http://twitter.com/gfrog/statuses/18498044412)
+
+
+
+
+
+  * [@cooku](http://twitter.com/cooku) 杯具的银边，我的81边上的两条已经掉成黑色了。 [in reply to cooku](http://twitter.com/cooku/statuses/18500275463) [2010-07-14](http://twitter.com/gfrog/statuses/18500334620)
+
+
+
+
+
+  * 出去旅行的话，是一台小本子合适，还是一部智能机靠谱呢。。 纠结。 [2010-07-14](http://twitter.com/gfrog/statuses/18500519865)
+
+
+
+
+
+  * 要不借此机会收一部hero吧。 [2010-07-14](http://twitter.com/gfrog/statuses/18500561997)
+
+
+
+
+
+  * [@kyokyo8899](http://twitter.com/kyokyo8899) Orz 京院士，哈哈。 [in reply to kyokyo8899](http://twitter.com/kyokyo8899/statuses/18498741983) [2010-07-14](http://twitter.com/gfrog/statuses/18506587617)
+
+
+
+
+
+  * [@cutecool](http://twitter.com/cutecool) 这个。。。 那显然还是手机电池强一些。 [in reply to cutecool](http://twitter.com/cutecool/statuses/18501268898) [2010-07-14](http://twitter.com/gfrog/statuses/18506604831)
+
+
+
+
+
+  * thunderbird用作多账户不靠谱么？  RT [@saharabear](http://twitter.com/saharabear) RT thunderbird, mutt, gnus, mew,kmail@zhmocean Linux下有啥好用的多帐户EMail客户端？难道非让我用wine上Foxmail？ [2010-07-14](http://twitter.com/gfrog/statuses/18509398733)
+
+
+
+
+
+  * [@yuanyi_wang](http://twitter.com/yuanyi_wang) 10.04吧，确实在linux上挂载不上，即使开了hal也么用。我一直都是在虚拟机里用的。 [in reply to yuanyi_wang](http://twitter.com/yuanyi_wang/statuses/18517256832) [2010-07-14](http://twitter.com/gfrog/statuses/18517434426)
+
+
+
+
+
+  * 诺西好胃口。 RT [@wubuntust](http://twitter.com/wubuntust) 诺基亚西门子洽购摩托罗拉电信设备部门 [http://goo.gl/fb/xRvAV](http://goo.gl/fb/xRvAV) [2010-07-14](http://twitter.com/gfrog/statuses/18518141454)
+
+
+
+
+
+  * [@yuanyi_wang](http://twitter.com/yuanyi_wang) 别指望它能快到哪去，连1M的宽带都不如。 [in reply to yuanyi_wang](http://twitter.com/yuanyi_wang/statuses/18518146923) [2010-07-14](http://twitter.com/gfrog/statuses/18518275952)
+
+
+
+
+
+  * 艹，楼下那老娘们又出去遛狗了，整天大宝宝大宝宝的叫。 [2010-07-14](http://twitter.com/gfrog/statuses/18518619118)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 野猫凶猛，要小心。 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/18518744937) [2010-07-14](http://twitter.com/gfrog/statuses/18519288524)
+
+
+
+

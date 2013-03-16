@@ -1,0 +1,48 @@
+---
+comments: true
+date: 2010-07-01 01:00:00
+layout: post
+slug: todays-tweets-2010-07-01
+title: Today's tweets 2010-07-01
+wordpress_id: 888
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 很好很好，以后回家看电影、宜家一条龙，哈哈。 RT [@bighearted](http://twitter.com/bighearted): 大连第一家IMAX影院落户香炉礁。  [http://money.runsky.com/2010-06/30/content_3627622.htm](http://money.runsky.com/2010-06/30/content_3627622.htm) [2010-07-01](http://twitter.com/gfrog/statuses/17478702197)
+
+
+
+
+
+  * 囧，初看像正则，再看又不像，再仔细看，似乎是PHP的语法。 RT [@ouland](http://twitter.com/ouland): (a(s*)('s*)(yyyy|y|m|d|q|h|n|s)(s*')(,) => $1$3$5 [2010-07-01](http://twitter.com/gfrog/statuses/17478778142)
+
+
+
+
+
+  * 不知不觉又下班了，没赶上班车，只好再待一会了。 [2010-07-01](http://twitter.com/gfrog/statuses/17481529945)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): 妈的…我一直以为是开玩笑的… RT [@bzcai](http://twitter.com/bzcai): 以后没有崇文宣武了哇？RT [@cooku](http://twitter.com/cooku) 新华社报道，国务院正式批复北京关于调整行政区划的请示，同意东城区和崇文区合并，仍命名为东城区；西城区与宣武区合并，仍命名为西城区。 //我日 [2010-07-01](http://twitter.com/gfrog/statuses/17483480769)
+
+
+
+
+
+  * 沈阳这雨木有一点要停的架势，不会又内涝吧。 [2010-07-01](http://twitter.com/gfrog/statuses/17493727331)
+
+
+
+

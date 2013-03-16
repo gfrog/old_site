@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2011-11-30 01:00:00
+layout: post
+slug: todays-tweets-2011-11-30
+title: Today's tweets 2011-11-30
+wordpress_id: 1970
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 手误在Kindle上删了几本书，结果去Library上翻的时候彻底被郁闷了，好多好多，还没分类，乱成一团。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/141531978053849088) [10:12:43, 2011-11-30](http://twitter.com/gfrog/statuses/141701157956493312)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) [@jyman](http://twitter.com/jyman) [@hcarrie](http://twitter.com/hcarrie) [@Shirling](http://twitter.com/Shirling) 不care，对我最重要的抓新闻的功能，竟然还要一直开着这玩意。。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/141689248381288448) [10:13:21, 2011-11-30](http://twitter.com/gfrog/statuses/141701319575617537)
+
+
+
+
+
+  * RT [@yujan](http://twitter.com/yujan): 扣帽子是最容易的事了：我车丢了，所以社会道德沦丧；我在淘宝买到假货了，所以淘宝假货横行。难的是自我检讨一下，放菜场门口为啥不上锁，比正常价格便宜1/4为啥不看评价。光着脚往玻璃渣上踩得血淋淋，这不叫单纯，叫幼稚。 [10:14:07, 2011-11-30](http://twitter.com/gfrog/statuses/141701511695704064)
+
+
+
+
+
+  * [@jyman](http://twitter.com/jyman) [@luzhaohui](http://twitter.com/luzhaohui) [@hcarrie](http://twitter.com/hcarrie) [@Shirling](http://twitter.com/Shirling) 看来我还是静不下心来看书，只喜欢看一些非常容易消化掉的新闻和消息。 [in reply to jyman](http://twitter.com/jyman/statuses/141704799266676736) [10:56:44, 2011-11-30](http://twitter.com/gfrog/statuses/141712236551995392)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) [@jyman](http://twitter.com/jyman) [@hcarrie](http://twitter.com/hcarrie) [@Shirling](http://twitter.com/Shirling) 哦，是嘛是嘛，那看来要看看它是怎么生成Mobi的，哈，我最近正为如何生成Mobi格式郁闷呢。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/141710659036524544) [10:57:38, 2011-11-30](http://twitter.com/gfrog/statuses/141712463753256962)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi): "Kindle Fire已经确认被XDA刷上CyanogenMod 7系统，它的工作基本正常，亚马逊的AppStore等应用在其上工作也正常，但是有一些小问题例如Wi-Fi工作的情况下，触控屏幕在屏幕旋转90度时无法识别触控操作。" [13:49:13, 2011-11-30](http://twitter.com/gfrog/statuses/141755641382445058)
+
+
+
+

@@ -1,0 +1,228 @@
+---
+comments: true
+date: 2010-04-19 01:00:00
+layout: post
+slug: todays-tweets-2010-04-19
+title: Today's tweets 2010-04-19
+wordpress_id: 579
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@leeyow](http://twitter.com/leeyow): 用熟了搜索功能，RT少了收藏、马克的功能。从此慎用RT，特别是少RT follower过万的推油的推。对于这样的推，我的rt显然是无太大传播功能的。　#twitter [09:13:24, 2010-04-19](http://twitter.com/gfrog/statuses/12428740683)
+
+
+
+
+
+  * 双头显示的时候设置某块屏幕为主显示器，需要使用xrandr的primary参数，具体用法（例如要指定VGA为主显示器）： xrandr --output VGA --primary 。有的时候google也不好用，还是好男人靠谱。 [11:03:52, 2010-04-19](http://twitter.com/gfrog/statuses/12434330908)
+
+
+
+
+
+  * 好校长啊。 RT [@geekinmedia](http://twitter.com/geekinmedia): “玉树最牛学校”全校830余名师生无一伤亡。7点49分之前的一次较轻地震惊醒了当天值班副校长严力多德。老师们告知学生不要到教学楼上自习，都到操场上去读书。几个小时后，地动山摇。 [http://zi.mu/5kj](http://zi.mu/5kj) [11:36:27, 2010-04-19](http://twitter.com/gfrog/statuses/12435857025)
+
+
+
+
+
+  * 时间堂GTD笔记本设计心得 [http://j.mp/c71l6r](http://j.mp/c71l6r) [11:37:29, 2010-04-19](http://twitter.com/gfrog/statuses/12435902894)
+
+
+
+
+
+  * 冒雨出去吃饭，回来彻底杯具了。 [13:24:40, 2010-04-19](http://twitter.com/gfrog/statuses/12440072518)
+
+
+
+
+
+  * 昨天碰到的路痴jj [http://j.mp/bqxatT](http://j.mp/bqxatT) [13:32:36, 2010-04-19](http://twitter.com/gfrog/statuses/12440343552)
+
+
+
+
+
+  * 举手！ RT [@ksky](http://twitter.com/ksky): +10086 RT [@jinwen](http://twitter.com/jinwen): +1！RT: [@gowers](http://twitter.com/gowers): 使用海外的vps以及SSH，有遇到线路抽风的童鞋举手，，看看我遇到的问题是不是普遍的 [13:54:22, 2010-04-19](http://twitter.com/gfrog/statuses/12441026419)
+
+
+
+
+
+  * 同意，木有580EX之前，自然光用到底。 RT [@raptorz](http://twitter.com/raptorz): 小相机带闪光灯——特别是像mju2那样的闪光灯就是杯具。单反的内闪对我来说作用也是引闪器，拿它照明只是不得已而为之。用灯怎么也要用外闪，而且要无线TTL，能多几盏更好。不然还不如用环境光。 [#cnphoto](http://search.twitter.com/search?q=%23cnphoto) [14:39:02, 2010-04-19](http://twitter.com/gfrog/statuses/12442330878)
+
+
+
+
+
+  * [@kDolphin](http://twitter.com/kDolphin) 点讯也很烂么？ 没用过其他平台的输入法，我觉得BB的那几个输入法用惯了的话似乎还凑合。 [in reply to kDolphin](http://twitter.com/kDolphin/statuses/12442701492) [14:55:20, 2010-04-19](http://twitter.com/gfrog/statuses/12442775052)
+
+
+
+
+
+  * Android的输入法就是个杯具。 RT [@kDolphin](http://twitter.com/kDolphin): 今天上午拿了台HTC Legend玩，Android 2.1。输入方面还是垃圾一个，连勘用都谈不上。 [in reply to kDolphin](http://twitter.com/kDolphin/statuses/12442701492) [14:56:01, 2010-04-19](http://twitter.com/gfrog/statuses/12442792956)
+
+
+
+
+
+  * [@kDolphin](http://twitter.com/kDolphin) 囧，这还真不好选了，不过BB的键盘手感比Treo强点，算是小弥补，哈哈。 [in reply to kDolphin](http://twitter.com/kDolphin/statuses/12442798999) [14:57:03, 2010-04-19](http://twitter.com/gfrog/statuses/12442820633)
+
+
+
+
+
+  * 妈的，每秒10万个小包发到办公网上，丫的干了这么多次了，就不能小心点，或者把自己的测试环境改一下。搞网络的连自己的测试环境都搞不明白，丫还搞个P！ [16:58:45, 2010-04-19](http://twitter.com/gfrog/statuses/12446054672)
+
+
+
+
+
+  * [@terryxxy](http://twitter.com/terryxxy) 阅读区域指的是哪部分地方？ chrome里的reader plus和firefox里的better greader都可以把文章最大化。 [in reply to terryxxy](http://twitter.com/terryxxy/statuses/12449205631) [18:56:39, 2010-04-19](http://twitter.com/gfrog/statuses/12449477926)
+
+
+
+
+
+  * 过索马里木有海盗么？ RT [@menethil3rd](http://twitter.com/menethil3rd) 双动力帆船没事，船上补给不够就开燃油动力到附近港口买东西，不会出现没风饿死在海上。RT [@menethil3rd](http://twitter.com/menethil3rd) 一周的火车会死人。想买艏帆船，然后开回去，绕好旺角，直到香港 [19:07:01, 2010-04-19](http://twitter.com/gfrog/statuses/12449832196)
+
+
+
+
+
+  * 好吧，看来我还是受不了话痨，话痨多了就失去看推的兴趣了，unfo之，保持timeline的整洁。然后list吧。 [19:32:11, 2010-04-19](http://twitter.com/gfrog/statuses/12450702298)
+
+
+
+
+
+  * RT [@williamlong](http://twitter.com/williamlong): 基于Gtalk/Gmail推特客户端，支持OAuth登录，内置Google搜索，推特全文搜索，文本网页浏览，中英文互译等功能，在线聊天群功能，在Gmail聊天列表中加 [twiyia@gmail.com](mailto:twiyia@gmail.com) 即可。 [http://is.gd/bz4L8](http://is.gd/bz4L8) [20:11:14, 2010-04-19](http://twitter.com/gfrog/statuses/12452176929)
+
+
+
+
+
+  * [@PPPerson](http://twitter.com/PPPerson) 3P人又乱码了。 [in reply to PPPerson](http://twitter.com/PPPerson/statuses/12451943733) [20:13:53, 2010-04-19](http://twitter.com/gfrog/statuses/12452280408)
+
+
+
+
+
+  * 看了几张适马镜头的片子，终于知道为什么那么多人不待见适马了，丫的拍出来的片子实在是太黄了，整个一老照片。 [#cnphoto](http://search.twitter.com/search?q=%23cnphoto) [22:10:20, 2010-04-19](http://twitter.com/gfrog/statuses/12457561166)
+
+
+
+
+
+  * NAS是趋势。 RT [@jyman](http://twitter.com/jyman): 今天终于收到了新蛋买的1T硬盘。然后又买了个1T的NAS，存储能力立刻小康了……原来才320G和一堆小硬盘 [22:19:58, 2010-04-19](http://twitter.com/gfrog/statuses/12458028842)
+
+
+
+
+
+  * 似乎杭州也有这叫法，上次去在饭店点了一盘炒高丽菜，上来一看，火爆大头菜。 RT [@nicholasdsj](http://twitter.com/nicholasdsj): 台湾人把卷心菜叫做”高丽菜“，太奇怪了。 [22:23:29, 2010-04-19](http://twitter.com/gfrog/statuses/12458195682)
+
+
+
+
+
+  * 这是真地么？ 天朝会允许带wifi的ipad上市？ RT [@Aro_Carter](http://twitter.com/Aro_Carter): 【ipad即将登陆中国】16G+wifi的ipad即将在中国登陆，销售价格只有3549元！ [22:26:53, 2010-04-19](http://twitter.com/gfrog/statuses/12458361594)
+
+
+
+
+
+  * 为什么英国怪病这么多。 RT [@HZS_](http://twitter.com/HZS_): 英国20岁女大学生艾米莉·佩妮患有一种举世罕见的怪病——“冷风疹”，只要突然接触到太热或者太冷的东西，艾米莉就会当场晕倒！甚至一滴冰冷的雨水也可能令她丧命！专家称，“冷风疹”的发病率只有1亿分之一，目前仍无法治愈。 [22:27:36, 2010-04-19](http://twitter.com/gfrog/statuses/12458396922)
+
+
+
+
+
+  * Interesting photos - 18 Apr 2010 - Flickr [http://j.mp/bHsneu](http://j.mp/bHsneu) [22:31:08, 2010-04-19](http://twitter.com/gfrog/statuses/12458571923)
+
+
+
+
+
+  * [@skyier](http://twitter.com/skyier) 说的也是，被我天朝制度搞的有点敏感，哈哈。 [in reply to skyier](http://twitter.com/skyier/statuses/12458493103) [22:31:42, 2010-04-19](http://twitter.com/gfrog/statuses/12458600157)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 诺记有带wifi的行货？ 莫非推wapi的强制政策松口了？ [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/12458483186) [22:32:27, 2010-04-19](http://twitter.com/gfrog/statuses/12458637616)
+
+
+
+
+
+  * [@jyman](http://twitter.com/jyman) 对，俺也准备攒NAS，目前正在选型，哈哈。 [in reply to jyman](http://twitter.com/jyman/statuses/12458362972) [22:35:07, 2010-04-19](http://twitter.com/gfrog/statuses/12458766787)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 5530才出来不久吧，看来政策真的松动了，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/12458891371) [22:42:58, 2010-04-19](http://twitter.com/gfrog/statuses/12459152714)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 哦，我老土了，哈哈 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/12459369871) [22:48:43, 2010-04-19](http://twitter.com/gfrog/statuses/12459429776)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 消掉，重新办。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/12460529445) [23:12:34, 2010-04-19](http://twitter.com/gfrog/statuses/12460597633)
+
+
+
+
+
+  * 笑喷。 RT [@hanmo93](http://twitter.com/hanmo93): 额，这是游泳圈吧… RT [@hrzlvn](http://twitter.com/hrzlvn) 摸摸~RT [@childream](http://twitter.com/childream) 为什么我的腹肌不是左右对称的8块，而是上中下三块呢？ [#FML](http://search.twitter.com/search?q=%23FML) [23:19:40, 2010-04-19](http://twitter.com/gfrog/statuses/12460943954)
+
+
+
+
+
+  * 要找一个看list很方便的客户端才行，rabr和dabr对list的支持都太烂。 [23:21:11, 2010-04-19](http://twitter.com/gfrog/statuses/12461018004)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 额，我只敢对招行的信用卡用这招，因为我有几张招行卡，而且招行是多卡共享一个账户的。其他行的俺也怕怕。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/12461043084) [23:25:05, 2010-04-19](http://twitter.com/gfrog/statuses/12461202950)
+
+
+
+
+
+  * 混推混到能有人专门给你建个list就值了，俺啥时候才有这种魅力。。。 [23:27:25, 2010-04-19](http://twitter.com/gfrog/statuses/12461314286)
+
+
+
+
+
+  * 碎觉碎觉。 [23:31:53, 2010-04-19](http://twitter.com/gfrog/statuses/12461529546)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 显然我一直很低调。。。 [in reply to fxlt](http://twitter.com/fxlt/statuses/12461489279) [23:33:00, 2010-04-19](http://twitter.com/gfrog/statuses/12461583895)
+
+
+
+

@@ -1,0 +1,126 @@
+---
+comments: true
+date: 2011-12-22 01:00:00
+layout: post
+slug: todays-tweets-2011-12-22
+title: Today's tweets 2011-12-22
+wordpress_id: 2008
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 嘘，让牛飞一会儿~ RT [@gnudog](http://twitter.com/gnudog): 密码不用salt就算了，还明文。这帮天天到处吹牛逼的CSDN的老大们呢？出来继续吹牛逼啊！ [00:33:18, 2011-12-22](http://twitter.com/gfrog/statuses/149527878541901826)
+
+
+
+
+
+  * RT [@mobifans](http://twitter.com/mobifans): 中国网站全面覆灭，用户数据被泄露的不止CSDN和多玩，人人、百合、金山毒霸、CNZZ、天涯、178全面被黑！用户数据被全部被提供P2P网络下载！大家赶快改银行密码吧！！ [http://t.co/UHNxwnRL](http://t.co/UHNxwnRL) [http://t.co/Wfslgpzf](http://t.co/Wfslgpzf) [10:24:32, 2011-12-22](http://twitter.com/gfrog/statuses/149676664467623936)
+
+
+
+
+
+  * 我了个擦，几乎所有的我经常上的网站都发通告告知用户改密码了，黑CSDN的黑客这次赚大发了。 [10:25:34, 2011-12-22](http://twitter.com/gfrog/statuses/149676923281354753)
+
+
+
+
+
+  * 改密码真是个操蛋的活，因为完全不记得在那里注册过。。。 [10:39:34, 2011-12-22](http://twitter.com/gfrog/statuses/149680447159414784)
+
+
+
+
+
+  * 早有了，PKI用了好多年了 RT [@Gyteng](http://twitter.com/Gyteng): 什么时候会有新的技术代替这种基于字符串的密码呢 [10:40:25, 2011-12-22](http://twitter.com/gfrog/statuses/149680660443971584)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 开发者脑残，用户懒。 [in reply to Gyteng](http://twitter.com/Gyteng/statuses/149680947195936768) [10:42:55, 2011-12-22](http://twitter.com/gfrog/statuses/149681291233722370)
+
+
+
+
+
+  * 国内还有哪家网站会像腾讯一样脑残的记录用户之前用过的密码的？ 这种网站才tmd最危险。 [10:48:18, 2011-12-22](http://twitter.com/gfrog/statuses/149682646493052931)
+
+
+
+
+
+  * 竟然是真的。 RT [@Rex5652](http://twitter.com/Rex5652): 目前 人人 550W 7k7k 2000W 嘟嘟牛 178 1000W CSDN 600W 多玩800W 全部可以下载了 [10:58:19, 2011-12-22](http://twitter.com/gfrog/statuses/149685168062464000)
+
+
+
+
+
+  * RT [@roamlog](http://twitter.com/roamlog): 嘟嘟牛、178、多玩网、猫扑？、人人网 的数据下载，大家试下好了 [http://t.co/6PWEXOMW](http://t.co/6PWEXOMW) [10:58:34, 2011-12-22](http://twitter.com/gfrog/statuses/149685228628217856)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 这不就是典型的码农嘛，像我这种整天看业界八卦的简直就是异教徒。 [in reply to htgyj](http://twitter.com/htgyj/statuses/149720403638620160) [13:23:07, 2011-12-22](http://twitter.com/gfrog/statuses/149721607550668800)
+
+
+
+
+
+  * RT [@yoyicue](http://twitter.com/yoyicue): 看了下我的邮件 可能存在明文保存密码的服务: 太平洋保险 喀嚓鱼 一嗨租车 魔兽世界 新浪微盘 乐淘网 Put.io 珍爱网 MySpace 顺丰在线 这些服务不约而同在邮件使用了明文密码 [13:34:09, 2011-12-22](http://twitter.com/gfrog/statuses/149724382942601216)
+
+
+
+
+
+  * RT [@717amy](http://twitter.com/717amy): 除了直邮，国内现货一律不买，瞄了个咪的，淘宝全球购全是假货 [14:30:02, 2011-12-22](http://twitter.com/gfrog/statuses/149738448549445632)
+
+
+
+
+
+  * RT [@tifan](http://twitter.com/tifan): 校内密码被泄露，自行查询泄漏状况可以参考 [http://t.co/ClPORvSs](http://t.co/ClPORvSs) 基于 grep -i 的校内网用户密码泄露检测实用程序 cc [@NewsInChina](http://twitter.com/NewsInChina) [14:36:23, 2011-12-22](http://twitter.com/gfrog/statuses/149740046340194304)
+
+
+
+
+
+  * 于是我抓狂了，自己造轮子去了。 RT [@justin7974](http://twitter.com/justin7974): 测试了一下发现instapaper和readability的发送到kindle功能都不完美，前者发送的不显示图片，后者的显示图片但是时有时无，而且分段换行神马的格式错乱。。。唉 [17:11:53, 2011-12-22](http://twitter.com/gfrog/statuses/149779177279721473)
+
+
+
+
+
+  * RT [@raptorz](http://twitter.com/raptorz): RT [@o6z](http://twitter.com/o6z): 这次密码事件，看起来不是那么简单，至少不是一个单纯的安全事件。大家最好别瞎议论，更不要瞎参与。 [17:48:56, 2011-12-22](http://twitter.com/gfrog/statuses/149788504140939264)
+
+
+
+
+
+  * SSH连接里有 SSH_CLIENT和SSH_CONNECTION RT [@cosbeta](http://twitter.com/cosbeta): 请教各位高人，shell脚本中，有没有登陆者来源IP这个环境变量？ [17:50:47, 2011-12-22](http://twitter.com/gfrog/statuses/149788968274247681)
+
+
+
+
+
+  * RT [@Paveo](http://twitter.com/Paveo): 大家帮偶测下程序稳定性吧：可以加 [baicaitui@appspot.com](mailto:baicaitui@appspot.com) 输入 /on 推送 ixuepin 的优惠信息到你的 gt [21:50:00, 2011-12-22](http://twitter.com/gfrog/statuses/149849169518010369)
+
+
+
+
+
+  * 为神马配置总是改不对啊啊啊啊啊！ [21:59:39, 2011-12-22](http://twitter.com/gfrog/statuses/149851595063046145)
+
+
+
+

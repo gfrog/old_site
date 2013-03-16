@@ -1,0 +1,162 @@
+---
+comments: true
+date: 2010-07-22 01:00:00
+layout: post
+slug: todays-tweets-2010-07-22
+title: Today's tweets 2010-07-22
+wordpress_id: 909
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 哈哈，找到插座，竟然可以充电。 [06:22:01, 2010-07-22](http://twitter.com/gfrog/statuses/19109755915)
+
+
+
+
+
+  * 做个Sun的logo当桌面吧，哈哈。　RT [@laogao](http://twitter.com/laogao): VirtualBox 开始提示我有新版本可用，为了每天多看Sun的logo几眼，我决定不升级 [09:17:56, 2010-07-22](http://twitter.com/gfrog/statuses/19215376526)
+
+
+
+
+
+  * 北京的天气，啧啧，够闷够热。 [09:18:58, 2010-07-22](http://twitter.com/gfrog/statuses/19215441635)
+
+
+
+
+
+  * 被主板保护了？RT [@Rex5652](http://twitter.com/Rex5652): 安装linux后没法写入mbr，求解 [09:19:53, 2010-07-22](http://twitter.com/gfrog/statuses/19215500856)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 但是似乎这两个冲突的包都是虚包？可以干掉吧？ [in reply to felixonmars](http://twitter.com/felixonmars/statuses/19215477493) [09:21:11, 2010-07-22](http://twitter.com/gfrog/statuses/19215587709)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 探索一下bios? [in reply to Rex5652](http://twitter.com/Rex5652/statuses/19215604236) [09:22:28, 2010-07-22](http://twitter.com/gfrog/statuses/19215671027)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 额，那就迎接2.6吧。 [in reply to felixonmars](http://twitter.com/felixonmars/statuses/19215672293) [09:23:59, 2010-07-22](http://twitter.com/gfrog/statuses/19215769264)
+
+
+
+
+
+  * 靠，第一次看到开封菜里的男卫生间要排队。 [09:31:04, 2010-07-22](http://twitter.com/gfrog/statuses/19216229605)
+
+
+
+
+
+  * 2号线，人不是很多嘛，不知道到西直门会是啥情况。 [09:33:33, 2010-07-22](http://twitter.com/gfrog/statuses/19216398048)
+
+
+
+
+
+  * [@fragroute](http://twitter.com/fragroute) 嘿，隔壁人还真不多，没排队的，我都有心去隔壁解决了。 [in reply to fragroute](http://twitter.com/fragroute/statuses/19216350737) [09:34:59, 2010-07-22](http://twitter.com/gfrog/statuses/19216490890)
+
+
+
+
+
+  * 复兴门，人开始多了，操着各地口音的各种人。 [09:47:49, 2010-07-22](http://twitter.com/gfrog/statuses/19217335041)
+
+
+
+
+
+  * 身边各种型号的诺记，几乎看不到其他的牌子，为什么捏。 [09:50:10, 2010-07-22](http://twitter.com/gfrog/statuses/19217487909)
+
+
+
+
+
+  * 西直门，开始体验人类交通史上的奇迹。 [09:54:01, 2010-07-22](http://twitter.com/gfrog/statuses/19217737495)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 木有，全部直板机。 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/19217799683) [10:00:52, 2010-07-22](http://twitter.com/gfrog/statuses/19218192969)
+
+
+
+
+
+  * 果然在西直门这诡异的通道里迷路了，啧啧。 [10:11:59, 2010-07-22](http://twitter.com/gfrog/statuses/19218936784)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) 是的，我这样的土鳖果然被这复杂的拓扑打败了。 [in reply to petefang](http://twitter.com/petefang/statuses/19218526248) [10:13:55, 2010-07-22](http://twitter.com/gfrog/statuses/19219064420)
+
+
+
+
+
+  * 抵达西二旗。 [10:31:13, 2010-07-22](http://twitter.com/gfrog/statuses/19220223566)
+
+
+
+
+
+  * 顶着太阳走出去好了。体验到北京的天气了，热的让你无处可躲。 [10:33:07, 2010-07-22](http://twitter.com/gfrog/statuses/19220349513)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 恩，看来我挑的时间比较好，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/19223509324) [12:52:56, 2010-07-22](http://twitter.com/gfrog/statuses/19229457886)
+
+
+
+
+
+  * 终于接到红帽的电话了，下午要努力，加油！ [13:26:43, 2010-07-22](http://twitter.com/gfrog/statuses/19231347468)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) [@lnsoso](http://twitter.com/lnsoso) 是的，我对当初的设计者能搞出如此牛逼的拓扑而自己又没被搞晕而深表佩服。 [in reply to petefang](http://twitter.com/petefang/statuses/19219314924) [13:33:01, 2010-07-22](http://twitter.com/gfrog/statuses/19231681903)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 多谢！ [in reply to movingtea1982](http://twitter.com/movingtea1982/statuses/19231406988) [13:34:16, 2010-07-22](http://twitter.com/gfrog/statuses/19231746475)
+
+
+
+
+
+  * 路过中关村，要堵车。 [16:05:22, 2010-07-22](http://twitter.com/gfrog/statuses/19238649273)
+
+
+
+
+
+  * 靠，被虚拟化打败了，很久没有关注前沿科技，我果然out了。 [17:05:37, 2010-07-22](http://twitter.com/gfrog/statuses/19241118450)
+
+
+
+

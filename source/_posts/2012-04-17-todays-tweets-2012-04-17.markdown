@@ -1,0 +1,96 @@
+---
+comments: true
+date: 2012-04-17 23:59:00
+layout: post
+slug: todays-tweets-2012-04-17
+title: Today's tweets 2012-04-17
+wordpress_id: 2506
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 每日一求：求靠谱人肉 #翻墙 机会。 [09:00:17, 2012-04-17](http://twitter.com/gfrog/statuses/192054841210707968)
+
+
+
+
+
+  * 测试推 [09:46:49, 2012-04-17](http://twitter.com/gfrog/statuses/192066552194011138)
+
+
+
+
+
+  * ifttt这种货当时红极一时，没几天就销声匿迹没人想起来了。某些需要逻辑判断的处理动作用ifttt还是太弱了，最后还是要自己码代码解决。 [10:06:05, 2012-04-17](http://twitter.com/gfrog/statuses/192071403854512128)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 嗯，至少应该有分支判断和循环，哈哈。 [in reply to Gyteng](http://twitter.com/Gyteng/statuses/192071911021346816) [10:14:09, 2012-04-17](http://twitter.com/gfrog/statuses/192073431976652800)
+
+
+
+
+
+  * 二逼的windows啊，给丫插上了23个usb存储，设备管理器里认出了23个，结果到磁盘管理器那只认出来21个，擦。 [11:09:46, 2012-04-17](http://twitter.com/gfrog/statuses/192087429728043008)
+
+
+
+
+
+  * RT [@jasontj](http://twitter.com/jasontj): 报告大家一个好消息，财政部发文取消机场建设费；同时报告大家一个坏消息，即日起国内航班收取民航发展基金50元，国际航班90元 [12:56:35, 2012-04-17](http://twitter.com/gfrog/statuses/192114308434505728)
+
+
+
+
+
+  * 刷完奥园三圈，13/13/14。前两圈的时候还在纠结体力能不能撑下去，结果稍微休息下刷第三圈的时候竟然相当舒坦，一天的困意一扫而光，又在考虑是不是还要再来第四圈。骑车真是种奇妙的运动。 [22:34:12, 2012-04-17](http://twitter.com/gfrog/statuses/192259672529575936)
+
+
+
+
+
+  * [@chjuheng](http://twitter.com/chjuheng) 木有算… 奥园一圈6400米。 [in reply to chjuheng](http://twitter.com/chjuheng/statuses/192261307469275136) [22:41:10, 2012-04-17](http://twitter.com/gfrog/statuses/192261426742689793)
+
+
+
+
+
+  * RT [@ifanr](http://twitter.com/ifanr): 各位推友注意了！！有消息称，Google 将于下周二在 [http://t.co/y0ba7Vz8](http://t.co/y0ba7Vz8) 推出在线存储服务 Google Drive ，为用户提供 5 GB 免费存储空间，完胜 Dropbox 的 2GB [http://t.co/KPLXFMj2](http://t.co/KPLXFMj2) [22:42:49, 2012-04-17](http://twitter.com/gfrog/statuses/192261842431782912)
+
+
+
+
+
+  * RT [@sogook](http://twitter.com/sogook): Read it later 更名 Pocket 后免费 [http://t.co/rJbpCNAo](http://t.co/rJbpCNAo) [22:42:59, 2012-04-17](http://twitter.com/gfrog/statuses/192261882776797185)
+
+
+
+
+
+  * [@chjuheng](http://twitter.com/chjuheng) 是啊，折叠。 [in reply to chjuheng](http://twitter.com/chjuheng/statuses/192262997731844096) [22:48:07, 2012-04-17](http://twitter.com/gfrog/statuses/192263173422854145)
+
+
+
+
+
+  * RT [@lcayu](http://twitter.com/lcayu): @马伯庸：果壳网的困境科学已帮不了你们，靠迷信吧。找三个cisco认证的网络工程师，须是卯日卯时出生，处子纯阳之身——这个应该不难——每人取右手五指指尖精血三滴，滴在磁盘阵列之间。另备子月子日子时下线的ECC内存条百枚，蘸朱砂在上写奇偶校验四字，烧成 ... [22:48:31, 2012-04-17](http://twitter.com/gfrog/statuses/192263274740461568)
+
+
+
+
+
+  * 啊哦，wordpress的google translate插件竟然用掉了这么多磁盘空间。。坚决停用之。 [23:02:08, 2012-04-17](http://twitter.com/gfrog/statuses/192266701214203904)
+
+
+
+

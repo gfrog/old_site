@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2010-08-29 01:00:00
+layout: post
+slug: todays-tweets-2010-08-29
+title: Today's tweets 2010-08-29
+wordpress_id: 962
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@whentp](http://twitter.com/whentp) dreamhost，不过我是用的https，不知道跟这个有关系没有。 [in reply to whentp](http://twitter.com/whentp/statuses/22415459855) [19:16:09, 2010-08-29](http://twitter.com/gfrog/statuses/22430212157)
+
+
+
+
+
+  * 受宠若惊。 RT [@luzhaohui](http://twitter.com/luzhaohui) 第9000推，送给 [@jyman](http://twitter.com/jyman) [@sdjkx](http://twitter.com/sdjkx) [@itopinion](http://twitter.com/itopinion) [@gaoxiaoyao](http://twitter.com/gaoxiaoyao) [@Anylei](http://twitter.com/Anylei) [@cluries](http://twitter.com/cluries) [@jzp914](http://twitter.com/jzp914) [@oracleblog](http://twitter.com/oracleblog) [@cocoa1188](http://twitter.com/cocoa1188) [@hcarrie](http://twitter.com/hcarrie) [@gfrog](http://twitter.com/gfrog) [@harrygg](http://twitter.com/harrygg) [19:19:42, 2010-08-29](http://twitter.com/gfrog/statuses/22430368495)
+
+
+
+
+
+  * [@whentp](http://twitter.com/whentp) 如果不改api一切正常啊。 config.php里面那个base_url我改了，我再去看看还有什么地方需要改。 [in reply to whentp](http://twitter.com/whentp/statuses/22430261521) [19:20:37, 2010-08-29](http://twitter.com/gfrog/statuses/22430410431)
+
+
+
+
+
+  * [@whentp](http://twitter.com/whentp) 我尽力搞吧，哈，php和js的语法都不熟悉。 [in reply to whentp](http://twitter.com/whentp/statuses/22430946349) [19:35:02, 2010-08-29](http://twitter.com/gfrog/statuses/22431063371)
+
+
+
+
+
+  * test rabr [19:37:03, 2010-08-29](http://twitter.com/gfrog/statuses/22431154937)
+
+
+
+
+
+  * 似乎搞定rabr的api问题了，马上发diff。 [19:38:32, 2010-08-29](http://twitter.com/gfrog/statuses/22431222544)
+
+
+
+
+
+  * 被发好人卡。。。 RT [@Rex5652](http://twitter.com/Rex5652): 唔,一个mm说我人真好 [20:28:30, 2010-08-29](http://twitter.com/gfrog/statuses/22433802048)
+
+
+
+
+
+  * 我靠，果然改完rabr就没法自动刷新timeline了，看来不能暴力解决问题，还得找原因。 [20:29:13, 2010-08-29](http://twitter.com/gfrog/statuses/22433839778)
+
+
+
+

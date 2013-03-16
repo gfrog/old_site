@@ -1,0 +1,72 @@
+---
+comments: true
+date: 2012-07-04 23:59:00
+layout: post
+slug: todays-tweets-2012-07-04
+title: Today's tweets 2012-07-04
+wordpress_id: 2592
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:30, 2012-07-04](http://twitter.com/gfrog/statuses/220321150205566978)
+
+
+
+
+
+  * 翻了下Intel的文档，最终确认我那个破本子确实只有SATAII，最高3g的传输速度 ，看来加持SSD也不会有太好的性能，只能满足省电和安静的需求。 [13:55:27, 2012-07-04](http://twitter.com/gfrog/statuses/220395378061750273)
+
+
+
+
+
+  * 另外N475这颗烂CPU竟然才支持最大2G内存，这也太二了。 [13:56:05, 2012-07-04](http://twitter.com/gfrog/statuses/220395536103129088)
+
+
+
+
+
+  * 查看hdd温度： hddtemp /dev/sda [14:03:30, 2012-07-04](http://twitter.com/gfrog/statuses/220397402497089536)
+
+
+
+
+
+  * [@eexp01](http://twitter.com/eexp01) 难道它不烂嘛？ lol [in reply to eexp01](http://twitter.com/eexp01/statuses/220402262676217856) [14:23:47, 2012-07-04](http://twitter.com/gfrog/statuses/220402506419810305)
+
+
+
+
+
+  * [@eexp01](http://twitter.com/eexp01) 反正我就觉得它很烂，想换掉它。 [in reply to eexp01](http://twitter.com/eexp01/statuses/220404883659034624) [14:39:21, 2012-07-04](http://twitter.com/gfrog/statuses/220406427343257601)
+
+
+
+
+
+  * 我了个去，难道iproute2的load balancing是基于session的？为毛我用ping测试每次都只走第一条链路… [15:07:09, 2012-07-04](http://twitter.com/gfrog/statuses/220413422192443393)
+
+
+
+
+
+  * 当年刚进物理系就有学长给我介绍当年的传奇人物，丫在寝室里养了只公鸡，而且还一养养了4年，大四的时候这货不知道哪根弦抽了，亲手把鸡拍死了，但是拍完还找了张桌子供着，烧香点蜡上供品… #物理系的那些二货们 [15:15:17, 2012-07-04](http://twitter.com/gfrog/statuses/220415467611885568)
+
+
+
+
+
+  * RT [@smallmaizi](http://twitter.com/smallmaizi): [@SafenZhai](http://twitter.com/SafenZhai) 稳定性首推intel，其次镁光也是口碑非常不错，三星830系列最近性价比也高速度快，好像新款air里面就是这个系列的 [23:09:37, 2012-07-04](http://twitter.com/gfrog/statuses/220534839319871490)
+
+
+
+

@@ -1,0 +1,174 @@
+---
+comments: true
+date: 2010-05-07 01:00:00
+layout: post
+slug: todays-tweets-2010-05-07
+title: Today's tweets 2010-05-07
+wordpress_id: 677
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 沈阳终于晴天了，久违的太阳啊。 [07:46:36, 2010-05-07](http://twitter.com/gfrog/statuses/13515465077)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 哦，杯具。注意安全。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/13516167460) [08:37:14, 2010-05-07](http://twitter.com/gfrog/statuses/13517915723)
+
+
+
+
+
+  * RT [@CCTV](http://twitter.com/CCTV) 话说，今早上班车上很多人，公车上后面乘客纷纷将羊城通交给前面的乘客传到前门刷卡，刷完很快又接力传回原主人手中。广州市民好样！ [08:37:51, 2010-05-07](http://twitter.com/gfrog/statuses/13517945750)
+
+
+
+
+
+  * ibus在磁盘性能低下的时候经常性的崩溃，这是什么原因。。。 [08:47:00, 2010-05-07](http://twitter.com/gfrog/statuses/13518385411)
+
+
+
+
+
+  * 番邦洋人怎能跟我天朝子弟相比。。人家都是怪物，哈哈。 RT [@quakelee](http://twitter.com/quakelee) 又在公共上遇到那对洋人姐弟俩了，姐姐看着有10岁左右，弟弟看起来也就5、6岁的样子。都是孩子，人家就这么皮实，中国孩子就得车接车送。 [09:00:53, 2010-05-07](http://twitter.com/gfrog/statuses/13519045538)
+
+
+
+
+
+  * [GR] Interesting photos -  5 May 2010 - Flickr [http://j.mp/dBLD40](http://j.mp/dBLD40) [09:07:31, 2010-05-07](http://twitter.com/gfrog/statuses/13519376559)
+
+
+
+
+
+  * 神奇的国度。我很好奇给那些获刑的人安的是什么罪名？ RT [@ThisIs404](http://twitter.com/ThisIs404) 村民静坐致县政府失5000万投资获刑三年 [http://163.fm/MhFgF](http://163.fm/MhFgF) 广东蕉岭县政府.... [09:15:07, 2010-05-07](http://twitter.com/gfrog/statuses/13519742847)
+
+
+
+
+
+  * 刚看到 [@quakelee](http://twitter.com/quakelee) 说关于国外孩子皮实的问题，就看到这个 [http://www.qiushibaike.com/articles/265001.htm](http://www.qiushibaike.com/articles/265001.htm) 国内的孩子可以玩耍的地方太少，小时候的很多游戏确实充满了危险。再加上每家就一个孩子，当然要当宝保护着。 [09:28:28, 2010-05-07](http://twitter.com/gfrog/statuses/13520386642)
+
+
+
+
+
+  * 为了一个二进制包，折腾了半个月了，能不能有个靠谱的人出来一次搞定这件事。 [10:27:15, 2010-05-07](http://twitter.com/gfrog/statuses/13523353124)
+
+
+
+
+
+  * RT [@dlb2825](http://twitter.com/dlb2825) 谷歌中国黑板报发招聘启示:可以点击http://www.google.cn/jobs/ 查看具体招聘职位。 [10:50:12, 2010-05-07](http://twitter.com/gfrog/statuses/13524505495)
+
+
+
+
+
+  * [@tenione](http://twitter.com/tenione) [@sonic0817](http://twitter.com/sonic0817) 询价。嘿嘿。 [in reply to tenione](http://twitter.com/tenione/statuses/13525897308) [11:21:25, 2010-05-07](http://twitter.com/gfrog/statuses/13526063916)
+
+
+
+
+
+  * 呼，虚惊一场，差点以为捣鼓了一上午的Makefile被我搞丢了，还好有svn在。 [11:23:02, 2010-05-07](http://twitter.com/gfrog/statuses/13526145368)
+
+
+
+
+
+  * 这都行，不怕被打成猪头？ RT [@ellachou](http://twitter.com/ellachou): 加州理工的人有一年跑到麻省理工MIT恶搞, 给新生发免费的"校T恤": 正面是大大的MIT,反面是"because not everyone can go to CalTech" [13:00:18, 2010-05-07](http://twitter.com/gfrog/statuses/13530478594)
+
+
+
+
+
+  * "薄熙来：大学生到农村实践不亚于读研究生。" 虽说大家都拿这句话当笑话，其实我觉得这句话说的也没有错。前天沈阳下大雨，出租车打不着，公交车上不去，面对着没膝深的水，很多人望洋兴叹。明显说明城市里的人对于城市设施过于依赖，环境稍微恶劣一些就没辙了。 [13:20:44, 2010-05-07](http://twitter.com/gfrog/statuses/13531254707)
+
+
+
+
+
+  * （接上推）还有在野外旅行的时候，很多城市长大的就抓瞎了，真的是四体不勤、五谷不分。所以到农村实践是有好处的，但是搞成从前下乡那样一刀切，就是政府的问题了。 [13:23:50, 2010-05-07](http://twitter.com/gfrog/statuses/13531365933)
+
+
+
+
+
+  * [GR] 世界杯期间女士行为指南 | 煎蛋 [http://jandan.net/2010/05/06/girls-guide-to-world-cup-2010.html](http://jandan.net/2010/05/06/girls-guide-to-world-cup-2010.html) [13:26:05, 2010-05-07](http://twitter.com/gfrog/statuses/13531445586)
+
+
+
+
+
+  * 薄熙来当年在大连的时候，似乎大连人还是满推崇这位市长的。他走了之后，继任的那位基本上是把大连折腾的鸡飞狗跳。 [13:28:07, 2010-05-07](http://twitter.com/gfrog/statuses/13531517706)
+
+
+
+
+
+  * 我很喜欢MacOS，但是我不喜欢macbook，键盘太烂，毫无手感。 RT [@likuku](http://twitter.com/likuku): 一周时间，两位中毒颇深的T60Pro黑苹果同事相继入手新版i系列CPU的15寸MakBookPro [13:31:00, 2010-05-07](http://twitter.com/gfrog/statuses/13531622872)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) macbook的键程太短，键与键之间的距离也小，我体验过几次，不太适应。 [in reply to likuku](http://twitter.com/likuku/statuses/13531658924) [13:40:12, 2010-05-07](http://twitter.com/gfrog/statuses/13531939479)
+
+
+
+
+
+  * [GR] stone: 余  杰：温家宝神话是怎样造出来的？ [http://j.mp/bJypFk](http://j.mp/bJypFk) [13:47:21, 2010-05-07](http://twitter.com/gfrog/statuses/13532194601)
+
+
+
+
+
+  * [GR] 西游记中红孩儿的真实老爸是谁?99%的人肯定不知道! [http://j.mp/9UezK6](http://j.mp/9UezK6) [13:51:01, 2010-05-07](http://twitter.com/gfrog/statuses/13532318553)
+
+
+
+
+
+  * [@xiao_su](http://twitter.com/xiao_su) 额，这个传说实际上是说乾隆是汉人。 [in reply to xiao_su](http://twitter.com/xiao_su/statuses/13532828218) [14:11:00, 2010-05-07](http://twitter.com/gfrog/statuses/13532998879)
+
+
+
+
+
+  * 吉林，吉B，带B的基本都是杯具。 RT [@leeyow](http://twitter.com/leeyow) 据说无陕B。/RT [@vivianbkk](http://twitter.com/vivianbkk): 无锡车牌苏B RT [@guodaxia](http://twitter.com/guodaxia): 咸阳ms是sb。RT [@zhangfacai](http://twitter.com/zhangfacai): 黑龙江齐齐哈尔的车牌号，两广人看了就狂笑，怎么搭配都笑：黑B [16:55:50, 2010-05-07](http://twitter.com/gfrog/statuses/13538025282)
+
+
+
+
+
+  * 只用gdb解析coredump的飘过。 RT [@laogao](http://twitter.com/laogao) > [@smallfish9](http://twitter.com/smallfish9) > [@marchliu](http://twitter.com/marchliu) 如果说C程序员有什么可以在Python程序员面前保持优越的，大概调试能力算一个。我写了快十年Python也没怎么需要调试，一开始写C就钻进GDB了想不会都不行 [17:05:15, 2010-05-07](http://twitter.com/gfrog/statuses/13538313645)
+
+
+
+
+
+  * 刚好是姑娘们的上班时间。 RT [@Greendamn](http://twitter.com/Greendamn) 闲人总是有的RT: [@xinyinxmm](http://twitter.com/xinyinxmm): 刚去了一趟洗手间，一股浓郁的香气扑面而来。接着，映入眼帘的是几个穿着露背装、黑丝袜的姑娘。姑娘们唉，虽说这楼上是酒吧，可你们也太早了吧。 [17:10:40, 2010-05-07](http://twitter.com/gfrog/statuses/13538473860)
+
+
+
+
+
+  * 沈阳的破马路，晴天一地土，雨天一地泥 [18:13:33, 2010-05-07](http://twitter.com/gfrog/statuses/13540466326)
+
+
+
+

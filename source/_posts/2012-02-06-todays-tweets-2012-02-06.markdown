@@ -1,0 +1,134 @@
+---
+comments: true
+date: 2012-02-06 01:00:00
+layout: post
+slug: todays-tweets-2012-02-06
+title: Today's tweets 2012-02-06
+wordpress_id: 2096
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 长春冬天的空气苦的一逼啊，干冷干冷的，冻的鼻子疼。 RT [@Carlos_Gong](http://twitter.com/Carlos_Gong): 以后找个空气质量好的北方城市定居好了。长春和边境上的二道白河都不错。 [10:11:45, 2012-02-06](http://twitter.com/gfrog/statuses/166343291548348416)
+
+
+
+
+
+  * RT [@gamtin](http://twitter.com/gamtin): RT [@hecaitou](http://twitter.com/hecaitou): 泉州特大车祸，一家六口死亡五口。看汽车像纸片一样被撕碎，做什么广告都没用。http://t.co/vJbGNhac [10:13:14, 2012-02-06](http://twitter.com/gfrog/statuses/166343663562145792)
+
+
+
+
+
+  * RT [@petefang](http://twitter.com/petefang): 在微博上看到，不知道真假，供参考：@crystal1703： 今天同学和我说，现在中国的假奶粉都做到新西兰了。由于现在很多人知道新西兰的奶粉好，所以很多华人就开始回收奶粉桶。当地的KIWI都会保存好用过的奶粉罐，等着华人来收。重装的奶粉制作好后 ... [10:44:43, 2012-02-06](http://twitter.com/gfrog/statuses/166351587671941121)
+
+
+
+
+
+  * RT [@bleutee](http://twitter.com/bleutee): 史玉柱：不愿投资实体经济原因之一：中国拥有世界上最庞大的行政法规。上一个实体项目，要敲几十个公章，面对几千条“严禁”，几百条“处罚”。如果严格执法，实体企业家全要在监狱里过年。不能全抓，就出现了选择性执法。去年才取消的投机倒把罚款条例，能把一半的 ... [10:44:58, 2012-02-06](http://twitter.com/gfrog/statuses/166351650871713792)
+
+
+
+
+
+  * 哎呀，竟然第一次感觉我的破耳机听起来像锯木头，是豆瓣电台音质下降了嘛？ 还是我的耳朵变挑剔了。。。 [11:00:14, 2012-02-06](http://twitter.com/gfrog/statuses/166355490266300418)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 好吧，只要他能出动静就好，哈哈。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/166355645212266496) [11:05:06, 2012-02-06](http://twitter.com/gfrog/statuses/166356717599334400)
+
+
+
+
+
+  * RT [@darrenest](http://twitter.com/darrenest): 问：橄榄球球员为什么要往脸上涂油彩？
+答：比较官方的说法是眼下涂上吸光的黑油彩有助于减少日光和体育场灯光对眼睛的刺激，使得球员视野更好。
+Wiki上说有人做了实验，认定这个说法的真实性。http://t.co/NyUCCjlO [12:11:30, 2012-02-06](http://twitter.com/gfrog/statuses/166373426867601408)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 哎呀，纠结我要不要收呢。。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/166373358978600960) [12:18:49, 2012-02-06](http://twitter.com/gfrog/statuses/166375268838162433)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 看预算，便宜车整车合适，当然可能有些零件跟自己的要求不太搭。如果预算足够，那自然是组装。 [in reply to htgyj](http://twitter.com/htgyj/statuses/166375956766924800) [12:25:05, 2012-02-06](http://twitter.com/gfrog/statuses/166376843069501440)
+
+
+
+
+
+  * RT [@lotuszhang](http://twitter.com/lotuszhang): 前两天打车，跟司机说目的地的时候，司机很熟，叫得出沿途小区的名字。我夸师傅。师傅说，”上海滩我就一条路不熟“。我立即捧哏，”什么路？“师傅说”赚钱的路。“ [14:13:09, 2012-02-06](http://twitter.com/gfrog/statuses/166404041725837313)
+
+
+
+
+
+  * 擦，标题党。 RT [@Hc95](http://twitter.com/Hc95): 韩寒终于承认了代笔的事实！！！！！速速围观！！！！ [http://t.co/1ArvO5p3](http://t.co/1ArvO5p3) [16:24:22, 2012-02-06](http://twitter.com/gfrog/statuses/166437062898237440)
+
+
+
+
+
+  * Flickr如果不付费竟然只能显示近的200张图片？ 神马玩意，不用了，改用picasa。然后在vps上用nginx做个代理去。 [16:59:15, 2012-02-06](http://twitter.com/gfrog/statuses/166445840477597697)
+
+
+
+
+
+  * RT [@ka11ey](http://twitter.com/ka11ey): Kindle资源分享，6寸PDF精致版漫画：《七龙珠》《阿拉蕾》《伊藤润二漫画集》《城市猎人》《灌篮高手》《幽游白书》，两套小说：《盗墓笔记》1-8全本终极集合精校版，《冰与火之歌》1-4卷CN精排6寸PDF附带地图资料 [http://t.co/2](http://t.co/2) ... [17:27:41, 2012-02-06](http://twitter.com/gfrog/statuses/166452996518064128)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 说实话，我一直不喜欢yahoo的产品，这次还是ifttt把我在dropbox的图片同步到flickr上了，我才发现这问题。 [in reply to raptorz](http://twitter.com/raptorz/statuses/166455575478149120) [17:45:06, 2012-02-06](http://twitter.com/gfrog/statuses/166457380899536897)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 看不到还传到网上干嘛。。。 Flickr这规则真操蛋。。。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/166457477829890048) [17:47:59, 2012-02-06](http://twitter.com/gfrog/statuses/166458106279239680)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 我决定去picasa了，其实它也不错。就是翻墙访问速度不给力。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/166457966717964288) [17:49:51, 2012-02-06](http://twitter.com/gfrog/statuses/166458576271974400)
+
+
+
+
+
+  * 尼玛，本来要退出qemu的monitor模式的，结果手贱敲了个q，虚拟机直接退出了，擦。。。 [17:59:42, 2012-02-06](http://twitter.com/gfrog/statuses/166461052953964546)
+
+
+
+
+
+  * [@717amy](http://twitter.com/717amy) 想剁手。。。 [in reply to 717amy](http://twitter.com/717amy/statuses/166461646762557440) [18:08:36, 2012-02-06](http://twitter.com/gfrog/statuses/166463293060423680)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) [@raptorz](http://twitter.com/raptorz) 我买了google storage 20G的plan，所以用picasa毫无压力，以后就拿来做主图床了。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/166462558012846080) [18:10:12, 2012-02-06](http://twitter.com/gfrog/statuses/166463693947813888)
+
+
+
+

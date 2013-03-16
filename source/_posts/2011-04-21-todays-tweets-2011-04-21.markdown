@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2011-04-21 01:00:00
+layout: post
+slug: todays-tweets-2011-04-21
+title: Today's tweets 2011-04-21
+wordpress_id: 1717
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@okidogi](http://twitter.com/okidogi) 恩，估计俺公司会有这个协议的，不过俺目前还完全没能力给gcc提交啥patch。。。 [in reply to okidogi](http://twitter.com/okidogi/statuses/60625089758109696) [13:32:35, 2011-04-21](http://twitter.com/gfrog/statuses/60938963325681664)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 目前安在linode，速度不错，价格偏贵。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/60635403174166528) [13:33:08, 2011-04-21](http://twitter.com/gfrog/statuses/60939099036581888)
+
+
+
+

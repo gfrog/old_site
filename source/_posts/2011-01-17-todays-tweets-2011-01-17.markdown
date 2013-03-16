@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2011-01-17 01:00:00
+layout: post
+slug: todays-tweets-2011-01-17
+title: Today's tweets 2011-01-17
+wordpress_id: 1633
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@blogtd](http://twitter.com/blogtd): Dropbox 又搞增容活动,现在偶已经通过各种方法搞到近20G的免费储存空间.已经是极限了. 这里有个增容方法汇总 [http://www.chinagfw.org/2011/01/dropbox.html](http://www.chinagfw.org/2011/01/dropbox.html) [13:49:26, 2011-01-17](http://twitter.com/gfrog/statuses/26878745323245568)
+
+
+
+
+
+  * 我擦，跟联通打交道真累，上网流量30M扣了我300多块，结果折腾了4天，给了我一个正常计费的结果，我擦，正常你妹啊，3毛一兆，30M怎么搞出来300块的？ [17:05:49, 2011-01-17](http://twitter.com/gfrog/statuses/26928164655595521)
+
+
+
+
+
+  * 走人，回窝！ [20:35:34, 2011-01-17](http://twitter.com/gfrog/statuses/26980949690421249)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 15 Jan 2011 - Flickr [http://j.mp/elHreo](http://j.mp/elHreo) [22:17:15, 2011-01-17](http://twitter.com/gfrog/statuses/27006540795871233)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Red Hat Enterprise Linux 5.6 [http://j.mp/eeATv0](http://j.mp/eeATv0) [23:09:19, 2011-01-17](http://twitter.com/gfrog/statuses/27019641175932928)
+
+
+
+
+
+  * 床被坐断了。。。。郁闷 [23:37:57, 2011-01-17](http://twitter.com/gfrog/statuses/27026850081406976)
+
+
+
+

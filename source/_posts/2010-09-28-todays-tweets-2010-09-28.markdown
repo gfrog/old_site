@@ -1,0 +1,90 @@
+---
+comments: true
+date: 2010-09-28 01:00:00
+layout: post
+slug: todays-tweets-2010-09-28
+title: Today's tweets 2010-09-28
+wordpress_id: 992
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 我靠，刚准备用它。求替代服务。RT [@hotoo](http://twitter.com/hotoo): RT [@esorhjy](http://twitter.com/esorhjy): 非常好用的書籤同步工具Xmarks，宣布2011年1月10日終止服務 | 電腦玩物 [http://playpcesor.blogspot.com/2010/09/xmarks2011110.html](http://playpcesor.blogspot.com/2010/09/xmarks2011110.html) [10:56:21, 2010-09-28](http://twitter.com/gfrog/statuses/25749356495)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 看起来是新浪在忽悠，国内的门户。。。 啧啧 [in reply to raptorz](http://twitter.com/raptorz/statuses/25750859303) [11:24:00, 2010-09-28](http://twitter.com/gfrog/statuses/25751461932)
+
+
+
+
+
+  * 哪里都人满为患，十一来北京不是个好选择。 RT [@ouland](http://twitter.com/ouland): 10.1去北京，能去哪转呢？ [11:28:02, 2010-09-28](http://twitter.com/gfrog/statuses/25751762261)
+
+
+
+
+
+  * 还好是只是香味吧，哈哈。 RT [@Greendamn](http://twitter.com/Greendamn): 这是旁边哪位女生身上的香味如此浓郁= = [11:42:21, 2010-09-28](http://twitter.com/gfrog/statuses/25752812870)
+
+
+
+
+
+  * scp的-l选项可以限制复制文件时的速率，以Kbps为单位。 [#bash](http://search.twitter.com/search?q=%23bash) [11:43:36, 2010-09-28](http://twitter.com/gfrog/statuses/25752903648)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 字错的真淫荡啊真淫荡 XD [in reply to raptorz](http://twitter.com/raptorz/statuses/25759598536) [13:56:36, 2010-09-28](http://twitter.com/gfrog/statuses/25760475301)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi): RT [@axnow](http://twitter.com/axnow): 每一个女生的名字后面加上 .rmvb 都那么让人销魂~XD [14:50:25, 2010-09-28](http://twitter.com/gfrog/statuses/25762861326)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 很久不逛无忌，版面搞的太乱，看着迷糊。 [in reply to raptorz](http://twitter.com/raptorz/statuses/25760563397) [14:51:20, 2010-09-28](http://twitter.com/gfrog/statuses/25762901154)
+
+
+
+
+
+  * 哦，我说今天gtap怎么挂掉了。RT [@abu9](http://twitter.com/abu9): 看来gfw的魔爪又伸向gae了 [16:11:08, 2010-09-28](http://twitter.com/gfrog/statuses/25766266766)
+
+
+
+
+
+  * 在dell mini和eeepc之间纠结，求建议！ [20:05:22, 2010-09-28](http://twitter.com/gfrog/statuses/25777979817)
+
+
+
+
+
+  * [@WolfX700](http://twitter.com/WolfX700) dell有啥缺点啊。 [in reply to WolfX700](http://twitter.com/WolfX700/statuses/25779202612) [21:32:41, 2010-09-28](http://twitter.com/gfrog/statuses/25784513714)
+
+
+
+
+
+  * 围观，考虑入一个openvpn。RT [@Rex5652](http://twitter.com/Rex5652): Rex Hosting 国庆将有各类VPN优惠活动…类似七夕那时的… XD [22:24:35, 2010-09-28](http://twitter.com/gfrog/statuses/25789029243)
+
+
+
+

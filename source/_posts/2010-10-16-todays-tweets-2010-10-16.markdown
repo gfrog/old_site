@@ -1,0 +1,141 @@
+---
+comments: true
+date: 2010-10-16 01:00:00
+layout: post
+slug: todays-tweets-2010-10-16
+title: Today's tweets 2010-10-16
+wordpress_id: 1009
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 11 Oct 2010 - Flickr [http://j.mp/d7nBBm](http://j.mp/d7nBBm) [10:38:42, 2010-10-16](http://twitter.com/gfrog/statuses/27502910268)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 12 Oct 2010 - Flickr [http://j.mp/bYN5gS](http://j.mp/bYN5gS) [10:38:45, 2010-10-16](http://twitter.com/gfrog/statuses/27502915320)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 13 Oct 2010 - Flickr [http://j.mp/bQaypV](http://j.mp/bQaypV) [10:38:54, 2010-10-16](http://twitter.com/gfrog/statuses/27502926810)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Supertux 修改存档的方法 [http://j.mp/988Vll](http://j.mp/988Vll) [11:18:30, 2010-10-16](http://twitter.com/gfrog/statuses/27506037762)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Firefox 4 Beta 1 for Mobile [http://j.mp/aaL870](http://j.mp/aaL870) [11:18:41, 2010-10-16](http://twitter.com/gfrog/statuses/27506052643)
+
+
+
+
+
+  * 下午ubuntu release party. (@ 北京航空航天大学) [http://4sq.com/cJdT7F](http://4sq.com/cJdT7F) [13:23:44, 2010-10-16](http://twitter.com/gfrog/statuses/27514673491)
+
+
+
+
+
+  * 到达北航三号教学楼，301教室，恩，人很多。 [13:42:55, 2010-10-16](http://twitter.com/gfrog/statuses/27515774077)
+
+
+
+
+
+  * 不过看起来学生更多一些哦。 [13:43:19, 2010-10-16](http://twitter.com/gfrog/statuses/27515796170)
+
+
+
+
+
+  * 好吧，在ubuntu的party上找到了不少推油。 [15:54:35, 2010-10-16](http://twitter.com/gfrog/statuses/27522325726)
+
+
+
+
+
+  * I just became the mayor of 食立方（知春里店） on [@foursquare](http://twitter.com/foursquare)! [http://4sq.com/aeoXpj](http://4sq.com/aeoXpj) [19:09:43, 2010-10-16](http://twitter.com/gfrog/statuses/27531573123)
+
+
+
+
+
+  * RT [@JobsInChinese](http://twitter.com/JobsInChinese): 今天，东京的日本人用中国组装的 iPhone4 发推组织反中游行。
+西安的中国人用日本制造的尼康拍摄反日游行。
+只有商业产品能连接起立场如此对立的两拨人，而商人却几乎没有机会拿诺贝尔和平奖。 [19:12:13, 2010-10-16](http://twitter.com/gfrog/statuses/27531704403)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): 乔布斯赠送33名获救智利矿工每人一部iPod
+[http://is.gd/g4kb7](http://is.gd/g4kb7) [19:12:38, 2010-10-16](http://twitter.com/gfrog/statuses/27531725686)
+
+
+
+
+
+  * 要不要回去折腾一下，把eeepc换64位系统。。。 搞个debian还是fedora呢。 [19:15:24, 2010-10-16](http://twitter.com/gfrog/statuses/27531869116)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 其实差别不大，ubuntu是修改了一些debian的包搞出来的。 [in reply to Gyteng](http://twitter.com/Gyteng/statuses/27531987529) [19:22:47, 2010-10-16](http://twitter.com/gfrog/statuses/27532255410)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 显然木有啊，最大只支持2G，不过这不影响使用64位系统吧，哈哈。 [in reply to likuku](http://twitter.com/likuku/statuses/27533456942) [19:57:52, 2010-10-16](http://twitter.com/gfrog/statuses/27534179487)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 恩，我也在考虑。。。 毕竟64位是潮流嘛。 [in reply to likuku](http://twitter.com/likuku/statuses/27534265094) [20:04:01, 2010-10-16](http://twitter.com/gfrog/statuses/27534555778)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 这个问题在ubuntu里还好，基本都有64位版。麻烦的flash也能搞定。 [in reply to likuku](http://twitter.com/likuku/statuses/27534591346) [20:13:55, 2010-10-16](http://twitter.com/gfrog/statuses/27535163855)
+
+
+
+
+
+  * kwestion可以block或者report spam某人么。。。 cc [@whentp](http://twitter.com/whentp) [21:16:04, 2010-10-16](http://twitter.com/gfrog/statuses/27539277652)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi) RT [@andoosea](http://twitter.com/andoosea): 射手跟豆瓣有API合作吗？我想要看完每部电影后豆瓣上就自动标记我已 看过 这部电影，当然要提供隐私设置  cc  [@ShooterPlayer](http://twitter.com/ShooterPlayer) [21:22:45, 2010-10-16](http://twitter.com/gfrog/statuses/27539764279)
+
+
+
+
+
+  * [@whentp](http://twitter.com/whentp) 果然木有，我说怎么找不到呢 哈哈 [in reply to whentp](http://twitter.com/whentp/statuses/27542094978) [22:01:08, 2010-10-16](http://twitter.com/gfrog/statuses/27542721231)
+
+
+
+

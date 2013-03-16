@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2012-03-27 23:59:00
+layout: post
+slug: todays-tweets-2012-03-27
+title: Today's tweets 2012-03-27
+wordpress_id: 2475
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 每日一求：求靠谱人肉 #翻墙 机会。 [09:00:23, 2012-03-27](http://twitter.com/gfrog/statuses/184444722461425668)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 上去蹭蹭，把这味道记录下来。// 邪恶的笑 [in reply to htgyj](http://twitter.com/htgyj/statuses/184449262199910400) [09:32:38, 2012-03-27](http://twitter.com/gfrog/statuses/184452839957999618)
+
+
+
+
+
+  * 难得早上这么早来上班。一大早隔壁就在叮叮咣咣的装修，搞的俺木办法赖床啦，只好到公司来了。真是马勒隔壁。 [09:38:01, 2012-03-27](http://twitter.com/gfrog/statuses/184454193942249472)
+
+
+
+
+
+  * 介是大连银啊，还有半岛晨报看呢。 RT [@ouland](http://twitter.com/ouland): RT [@fndhrt](http://twitter.com/fndhrt): “小姐，请问有没有卖半岛铁盒？” “对不起先生，我们只卖半岛晨报。” [09:39:00, 2012-03-27](http://twitter.com/gfrog/statuses/184454441691398144)
+
+
+
+
+
+  * RT [@ant_sz](http://twitter.com/ant_sz): [http://t.co/UCzcmx8P](http://t.co/UCzcmx8P) CodePlex 支持 Git 咯～ 这个微软旗下的代码托管网站上可有不少开源的软件，大多是Windows平台，软粉们可以关注下 [09:40:01, 2012-03-27](http://twitter.com/gfrog/statuses/184454697837539329)
+
+
+
+
+
+  * 原来shimano Alivio套件里的前后花鼓都是滚珠的。 [09:59:19, 2012-03-27](http://twitter.com/gfrog/statuses/184459555982426112)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 升级吧升级吧，把变速套件拆了出给我，lol [in reply to htgyj](http://twitter.com/htgyj/statuses/184462527621627904) [10:14:41, 2012-03-27](http://twitter.com/gfrog/statuses/184463419653623808)
+
+
+
+
+
+  * RT [@wanghaoxuan](http://twitter.com/wanghaoxuan): 陆遥遥 : 大英帝国统治你们时，你们选过港督？——不是说英国是殖民者，中国是祖国吗？好比，有个小朋友被从人贩子手里解救出来，妈妈说“宝贝，咱回家了，以后宝贝都会幸福的。”小孩说，我想吃冰激凌。他妈一个大耳光，“你在人贩子手里敢要冰激凌吃吗？！” [13:11:40, 2012-03-27](http://twitter.com/gfrog/statuses/184507959169138688)
+
+
+
+
+
+  * 在Fedora上的qemu guest竟然没法启动了，这是肿末了。。。 [14:03:47, 2012-03-27](http://twitter.com/gfrog/statuses/184521076141854720)
+
+
+
+
+
+  * 矮油，惨了，挂彩了。清明节要带伤出行了。。 [21:33:12, 2012-03-27](http://twitter.com/gfrog/statuses/184634175117209603)
+
+
+
+

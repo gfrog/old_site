@@ -1,0 +1,222 @@
+---
+comments: true
+date: 2010-04-09 01:00:00
+layout: post
+slug: todays-tweets-2010-04-09
+title: Today's tweets 2010-04-09
+wordpress_id: 569
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 用G1看推，真的很爽。我要换手机! [09:58:38, 2010-04-09](http://twitter.com/gfrog/statuses/11856557839)
+
+
+
+
+
+  * 再次求可以同时多ip登录的openvpn，都是手机用，流量会很小，只是要个翻墙的方式。 [#CN_C2C](http://search.twitter.com/search?q=%23CN_C2C) [10:05:43, 2010-04-09](http://twitter.com/gfrog/statuses/11856903343)
+
+
+
+
+
+  * RT [@quakelee](http://twitter.com/quakelee): 安徽一青年身份被毒贩冒用 莫名被判无期 [http://is.gd/bkSrH](http://is.gd/bkSrH) //这位小哥，在天朝你还有命活到今天，就得感谢国家了 [10:06:45, 2010-04-09](http://twitter.com/gfrog/statuses/11856950509)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): 科幻世界… RT [@even5435](http://twitter.com/even5435): 我承认，在兲朝死法面前，我的想象力枯竭了。RT [@ouzhibin663](http://twitter.com/ouzhibin663): RT [@duck_1984](http://twitter.com/duck_1984): 男子看守所里洗脸时溺水身亡 [http://goo.gl/Q8tT](http://goo.gl/Q8tT) [10:37:46, 2010-04-09](http://twitter.com/gfrog/statuses/11858402448)
+
+
+
+
+
+  * Split Screen: Google Chrome 的分屏扩展 [http://j.mp/9auER0](http://j.mp/9auER0) [12:47:20, 2010-04-09](http://twitter.com/gfrog/statuses/11864013336)
+
+
+
+
+
+  * NAS是个好东东，求搭建经验。 RT [@petefang](http://twitter.com/petefang): 我也经常给老婆买东西，老婆拿着不装视频的iPod Touch在被窝里通过AirVideo软件实时从我的NAS上stream她喜欢看的美剧的时候，对我的崇拜之情就油然而生。。。 [12:50:13, 2010-04-09](http://twitter.com/gfrog/statuses/11864119109)
+
+
+
+
+
+  * 在维基百科上看鸦片战争的前因后果。 [13:19:52, 2010-04-09](http://twitter.com/gfrog/statuses/11865190004)
+
+
+
+
+
+  * 维基百科上对历史时间的记载还是比较中立的。百度百科上对鸦片战争的描述充满了悍然，公然等等词汇，结果就是极大的伤害了中国人民的感情，这种描述出了发泄不满，对于真实描述历史时间没有任何意义。 [13:23:57, 2010-04-09](http://twitter.com/gfrog/statuses/11865330868)
+
+
+
+
+
+  * 其实我是想问家用NAS的问题，例如机器选型、要不要RAID、文件系统格式这些问题。 RT [@petefang](http://twitter.com/petefang): RT [@gfrog](http://twitter.com/gfrog): NAS是个好东东，求搭建经验。 // 呼叫存储大神 [@quakelee](http://twitter.com/quakelee) ... [13:28:44, 2010-04-09](http://twitter.com/gfrog/statuses/11865497255)
+
+
+
+
+
+  * 今天公司代理很慢，难道是昨天邮箱服务器无法访问、晚上照明故障的继续。 [13:32:47, 2010-04-09](http://twitter.com/gfrog/statuses/11865642656)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) 这东东噪音怎么样？ [in reply to petefang](http://twitter.com/petefang/statuses/11865537495) [13:34:35, 2010-04-09](http://twitter.com/gfrog/statuses/11865704895)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 恩，静音风扇是最低要求了，如果用VIA的板子自己搭的话，风扇应该也可以省略掉吧。 挑硬件是个麻烦事，哈哈。软件的话，似乎一个FreeNAS就可以搞定了。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11865791934) [13:41:10, 2010-04-09](http://twitter.com/gfrog/statuses/11865920836)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 拜谢大神，哈哈。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11866510539) [14:01:02, 2010-04-09](http://twitter.com/gfrog/statuses/11866550493)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 无敌兔这种怪兽算么？ 哈哈。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/11867462129) [14:37:29, 2010-04-09](http://twitter.com/gfrog/statuses/11867644358)
+
+
+
+
+
+  * 不熟悉7D，只观望，不说话。哈哈。不过带广角的标变也就那几只，选择面也不大。 RT [@ImSyls](http://twitter.com/ImSyls): [@gfrog](http://twitter.com/gfrog) 呵呵，5DII我们现在有。话说帮忙推荐个7D用的标变吧，带广角的。现在有17-40和腾龙17-50可以借用 [14:50:27, 2010-04-09](http://twitter.com/gfrog/statuses/11868009472)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 恩，听大神的，选CPU去。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11866652415) [14:51:59, 2010-04-09](http://twitter.com/gfrog/statuses/11868051381)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) DG45FC加Core2当作mediacenter足够了吧，拿它放电影就不用通过网络传了，这个倒是不错。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11868379059) [17:04:07, 2010-04-09](http://twitter.com/gfrog/statuses/11871587201)
+
+
+
+
+
+  * [@kenny_yuan](http://twitter.com/kenny_yuan) [@googollee](http://twitter.com/googollee) [@quakelee](http://twitter.com/quakelee) 其实我觉得一个贵点的机箱没啥大不了，电脑这些配件里面，就机箱最保值，能用好多年。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11866510539) [21:38:51, 2010-04-09](http://twitter.com/gfrog/statuses/11880909160)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 不过这个勤诚滴机箱还是超过我的承受范围了。囧，找个便宜的去。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11881057583) [21:44:52, 2010-04-09](http://twitter.com/gfrog/statuses/11881186405)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 淘宝上简单翻了一圈，能装下仨3.5寸硬盘的塔式机箱就很少，额，似乎最后还是要选勤诚。。。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11881371657) [21:50:58, 2010-04-09](http://twitter.com/gfrog/statuses/11881473006)
+
+
+
+
+
+  * 那天哪位推油要自己打造机箱来着，看来适合自己的机箱确实不好找。 [21:53:37, 2010-04-09](http://twitter.com/gfrog/statuses/11881596441)
+
+
+
+
+
+  * 如果用机架式的机箱，箱子里那一坨风扇的噪音能让人疯掉。 [21:55:13, 2010-04-09](http://twitter.com/gfrog/statuses/11881671420)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 大神，继续问个问题，你说的DG45FC这套系统功耗有多大？ NAS这东东整天开着，耗电量是个需要考虑的指标。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11881371657) [22:05:34, 2010-04-09](http://twitter.com/gfrog/statuses/11882170662)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 大神对华为很有意见嘛，哈哈。不过确实国产设备里面的风扇都比较差劲，噪音大，风量还不足。 如果自己攒机架机箱的话，似乎只能2U起，1U的箱子似乎比较难放进3个以上的3.5寸硬盘。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11882181941) [22:11:21, 2010-04-09](http://twitter.com/gfrog/statuses/11882444080)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 额，华为有存储产品？难道是华赛的设备？ [in reply to quakelee](http://twitter.com/quakelee/statuses/11882181941) [22:12:18, 2010-04-09](http://twitter.com/gfrog/statuses/11882488079)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 1080P的话还是不要考虑Atom和ION了，估计都要上额外的显卡，但是这玩意又是耗电大户。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11882454237) [22:13:48, 2010-04-09](http://twitter.com/gfrog/statuses/11882557791)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 嘿，还好当初没有去华赛，要不然会被人骂死的，哈哈。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11882594800) [22:18:20, 2010-04-09](http://twitter.com/gfrog/statuses/11882775080)
+
+
+
+
+
+  * 还可以当板砖，桌子不平的时候的脚垫。 RT [@Hc95](http://twitter.com/Hc95): 目前黑莓的用处：♋计算器♋发推工具♋上网机器♋消磨时光的工具 [22:35:49, 2010-04-09](http://twitter.com/gfrog/statuses/11883635060)
+
+
+
+
+
+  * 似乎应该把NAS和Media center分开，NAS要保证最低的功耗，Media center要保证多媒体质量，这之间就会用冲突了。但是把他们分开就需要用网络传送媒体文件，难道要在家布一个全千兆网络？ 千兆交换机价格也不菲啊。 [22:38:08, 2010-04-09](http://twitter.com/gfrog/statuses/11883748179)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 啊，对了，要是有多几台黑莓，还可以崩爆米花。哈哈。 [in reply to Hc95](http://twitter.com/Hc95/statuses/11883751047) [22:40:24, 2010-04-09](http://twitter.com/gfrog/statuses/11883860613)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) Linksys的那个？ 我感觉Linksys的家伙发热都很大，千兆设备会不会更热？ [in reply to quakelee](http://twitter.com/quakelee/statuses/11883824806) [22:42:24, 2010-04-09](http://twitter.com/gfrog/statuses/11883957760)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 额，还真是。。。 应该可以DIY一个小风扇上去吧。 [in reply to quakelee](http://twitter.com/quakelee/statuses/11884033602) [23:04:25, 2010-04-09](http://twitter.com/gfrog/statuses/11885020680)
+
+
+
+
+
+  * 亲身体会，55-250的用处有限。 RT [@EvilEver](http://twitter.com/EvilEver): 同中。RT [@Elvasiu](http://twitter.com/Elvasiu) 一个550D单机4800块，一个55-250镜头1600块，外加1000块的配件啥的，嗯，7500块应该差不多了~额，我貌似中了单反的毒了 [23:08:44, 2010-04-09](http://twitter.com/gfrog/statuses/11885233518)
+
+
+
+
+
+  * 自己攒NAS需要考虑的问题太多了，把xmind拽出来画个图理清思路。 [23:40:00, 2010-04-09](http://twitter.com/gfrog/statuses/11886732424)
+
+
+
+

@@ -1,0 +1,96 @@
+---
+comments: true
+date: 2012-09-15 23:59:00
+layout: post
+slug: todays-tweets-2012-09-15
+title: Today's tweets 2012-09-15
+wordpress_id: 3421
+categories:
+- twitter-backup[Twitter备份]
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@_Yumenonaka_](http://twitter.com/_Yumenonaka_): Good！ [http://t.co/0tYLbo0O](http://t.co/0tYLbo0O) [10:21:09, 2012-09-15](http://twitter.com/gfrog/statuses/246795760732098560)
+
+
+
+
+
+  * [#Fedora](http://search.twitter.com/search?q=%23Fedora) [#rawhide](http://search.twitter.com/search?q=%23rawhide) 的包这几天还没有 [#f18](http://search.twitter.com/search?q=%23f18)-updates-candidate 的新，看起来太奇怪了。不过也说明 [#Fedora18](http://search.twitter.com/search?q=%23Fedora18) 离发布不远了。 [15:02:46, 2012-09-15](http://twitter.com/gfrog/statuses/246866634545958912)
+
+
+
+
+
+  * RT [@geekinmedia](http://twitter.com/geekinmedia): zt@小兰子1121
+长沙平和堂已经全部被砸了，从最开始的学生围攻，变成有组织的，全部是带着面罩的人冲进去了，只抢金银首饰，手里还全部拿着钢管，其他人一抢就打。我已经非常无语了，在动物世界中大抵也找不到这种行为的先例了。 [15:03:19, 2012-09-15](http://twitter.com/gfrog/statuses/246866770349158400)
+
+
+
+
+
+  * [@upsuperx](http://twitter.com/upsuperx) 少年，做码农要有这种觉悟，写半年文档，编一个月代码，修五个月bug。 [in reply to upsuperx](http://twitter.com/upsuperx/statuses/246860896993939456) [15:05:08, 2012-09-15](http://twitter.com/gfrog/statuses/246867226580361216)
+
+
+
+
+
+  * [@upsuperx](http://twitter.com/upsuperx) 软件工程嘛，就是要完善流程。 啧啧。 [in reply to upsuperx](http://twitter.com/upsuperx/statuses/246867595029004288) [15:09:18, 2012-09-15](http://twitter.com/gfrog/statuses/246868275634520064)
+
+
+
+
+
+  * 突然感脚到开源模式中这种粗犷式的开发模式也不错，至少码农的创造力和热情不会在各种混蛋流程中慢慢熄灭。 [15:10:33, 2012-09-15](http://twitter.com/gfrog/statuses/246868591591448576)
+
+
+
+
+
+  * 一狠心一咬牙一跺脚，败入全新IPad一枚，以后俺也要当水果用户了。 [15:54:41, 2012-09-15](http://twitter.com/gfrog/statuses/246879698750164993)
+
+
+
+
+
+  * 啊哦，好奇怪，用 [#hotot](http://search.twitter.com/search?q=%23hotot) 看不到了twitter的图片了呢。难道要改下代理设置？ [22:17:19, 2012-09-15](http://twitter.com/gfrog/statuses/246975989261930496)
+
+
+
+
+
+  * 哦，原来是http://t.co/3fQVdpRY也被河蟹了，加入代理列表，搞定。 [22:21:24, 2012-09-15](http://twitter.com/gfrog/statuses/246977019726946304)
+
+
+
+
+
+  * 油V刹。
+[http://t.co/4bNcVC1l](http://t.co/4bNcVC1l) [22:59:01, 2012-09-15](http://twitter.com/gfrog/statuses/246986483129520129)
+
+
+
+
+
+  * 好吧，还有些图片的问题是 [#hotot](http://search.twitter.com/search?q=%23hotot) 没有过滤url里的空格，导致前后两个url被串到一起去了。 cc [@shellex](http://twitter.com/shellex) 话说url里如果有空格的话应该被转义吧。 [23:00:32, 2012-09-15](http://twitter.com/gfrog/statuses/246986865566167041)
+
+
+
+
+
+  * 我了个去，发现一个妹纸的头像是TCP状态机。技术宅女伤不起啊。 [23:05:21, 2012-09-15](http://twitter.com/gfrog/statuses/246988080488259587)
+
+
+
+
+
+  * RT [@iStupid93](http://twitter.com/iStupid93): 精辟 RT [@Danmuzhiyu](http://twitter.com/Danmuzhiyu): 转自G+ 一国两智 [http://t.co/no5mWwTZ](http://t.co/no5mWwTZ) [23:18:24, 2012-09-15](http://twitter.com/gfrog/statuses/246991362547929088)
+
+
+
+

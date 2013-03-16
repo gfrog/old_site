@@ -1,0 +1,148 @@
+---
+comments: true
+date: 2011-02-15 01:00:00
+layout: post
+slug: todays-tweets-2011-02-15
+title: Today's tweets 2011-02-15
+wordpress_id: 1663
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@ld0905](http://twitter.com/ld0905): RT [@Henryhu89](http://twitter.com/Henryhu89): 统计局今天将要公布1月CPI，为了使CPI指数不“破5”，国家统计局采用了“新算法”，即：食品价格所占比重下调。某统计局的权威人士称，由于使用新的权重统计方案测算，导致CPI将“被降低”。数据不好，换个算法，冠绝千古。 [13:42:58, 2011-02-15](http://twitter.com/gfrog/statuses/37386365654142976)
+
+
+
+
+
+  * debian sid的内核版本竟然还是2.6.32，倒是抓紧时间更新啊，感觉debian越来越不给力啦！ [13:45:02, 2011-02-15](http://twitter.com/gfrog/statuses/37386885730934784)
+
+
+
+
+
+  * [@zongsen](http://twitter.com/zongsen) experimental里的是2.6.37-RCx，还是自己编个内核算了。 [in reply to zongsen](http://twitter.com/zongsen/statuses/37394815347998720) [14:43:10, 2011-02-15](http://twitter.com/gfrog/statuses/37401515807219713)
+
+
+
+
+
+  * Debian怎么会用fbdev起X，我明明加载nouveau模块了呀。 [14:46:46, 2011-02-15](http://twitter.com/gfrog/statuses/37402421240012801)
+
+
+
+
+
+  * 传说中的弹性工作制 RT [@ouland](http://twitter.com/ouland): RT [@zhuoqun](http://twitter.com/zhuoqun): 经理对程序员说,“你们的工作时间是早上9点到下午5点。”,所有的程序员都很不满。经理又说:“好吧,那随你们的便,只要能按时完成任务。” 程序员们这下满意了。他们中午上班,一直工作到凌晨。 [17:50:04, 2011-02-15](http://twitter.com/gfrog/statuses/37448549046157312)
+
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): RT [@xiaolai](http://twitter.com/xiaolai): 说有个人用烟点炮仗，点燃后，把烟扔在空中，把炮刁在嘴里...现在在309医院... [17:50:24, 2011-02-15](http://twitter.com/gfrog/statuses/37448631057387520)
+
+
+
+
+
+  * 情人节过的down机了。 RT [@gamtin](http://twitter.com/gamtin): 易迅网今天神马情况，竟然不接单了！！ [http://www.icson.com/](http://www.icson.com/) [17:51:33, 2011-02-15](http://twitter.com/gfrog/statuses/37448923190657024)
+
+
+
+
+
+  * 要JB不要逼，汗。 RT [@luzhaohui](http://twitter.com/luzhaohui): 我要JB，我要JB，别逼我～～～ [17:52:18, 2011-02-15](http://twitter.com/gfrog/statuses/37449112135663616)
+
+
+
+
+
+  * 呼唤ID截短服务 XD RT [@chengr28](http://twitter.com/chengr28): RT [@rtmeme](http://twitter.com/rtmeme): RT [@klx1204](http://twitter.com/klx1204) 每次RT超字数我都会在心理默默咒骂那些ID特别长的人…… [17:54:51, 2011-02-15](http://twitter.com/gfrog/statuses/37449751657975808)
+
+
+
+
+
+  * 三聚氰胺都敢加了，还有啥不敢啊，中国牛奶业基本也没希望了。 RT [@sidekickick](http://twitter.com/sidekickick): 內地三聚氰胺奶粉被取締後，不法商人用新有毒物質「皮革水解蛋白粉」，加入奶粉中，提高蛋白成分。 [http://bit.ly/e12tXF](http://bit.ly/e12tXF) [17:57:58, 2011-02-15](http://twitter.com/gfrog/statuses/37450535179264000)
+
+
+
+
+
+  * 为什么国人的数字情结这么严重呢，考试分高了就是好学生了？奶粉蛋白含量高了就是好奶粉了？CPI不过5就不是通胀了？GDP两位数人民就幸福了？ [18:00:12, 2011-02-15](http://twitter.com/gfrog/statuses/37451100160266240)
+
+
+
+
+
+  * 回字有四种写法，原谅这家伙吧，兴许丫上辈子就是那个偷书被吊起来打的家伙。 RT [@movingtea1982](http://twitter.com/movingtea1982): 同样的句式，你能整出 5 种不同的翻译方法，你想干啥 [18:01:41, 2011-02-15](http://twitter.com/gfrog/statuses/37451472794820608)
+
+
+
+
+
+  * 话说Thinkpad T410以后的指点杆按键改进的不错嘛，手感很好，大拇指从空格上拿下来正好搭在按键的槽上。不过这个设计似乎在当年的A系列上就有吧，联想算是抄袭了一把？ [18:05:21, 2011-02-15](http://twitter.com/gfrog/statuses/37452393813643264)
+
+
+
+
+
+  * RT [@Rex5652](http://twitter.com/Rex5652): RT [@bfishadow](http://twitter.com/bfishadow): Twitter开设了一个翻译中心网站，以招募志愿者，将其网站和移动应用翻译成更多语种。 [http://bit.ly/eLe92S](http://bit.ly/eLe92S) [18:06:45, 2011-02-15](http://twitter.com/gfrog/statuses/37452745791246336)
+
+
+
+
+
+  * 两天的Debian使用体验很糟糕，我明明装了nouveau驱动，丫的就是不用，用那个该死的fbdev驱动，结果屏幕分辨率认不出来，没法外接屏幕。我印象中那个简单好用快速的Debian哪里去了？！ [18:09:33, 2011-02-15](http://twitter.com/gfrog/statuses/37453452615499776)
+
+
+
+
+
+  * 另外HAL在ubuntu和fedora里都被抛弃好久了，为神马debian sid还死活要装死活要装！为神马还没有默认使用pulseaudio！ [18:11:13, 2011-02-15](http://twitter.com/gfrog/statuses/37453870485614592)
+
+
+
+
+
+  * 没事就坏的四号线也是帝都一景啊。 RT [@petefang](http://twitter.com/petefang): 晕倒，四号线向南方向列车故障，我还没上车呢乘客都被轰下了车…… [18:48:36, 2011-02-15](http://twitter.com/gfrog/statuses/37463281463468033)
+
+
+
+
+
+  * 稍微纠结了一下，还是不带本子回家啦，回家就是休息，休息。工作还是留在公司算了。 [18:54:21, 2011-02-15](http://twitter.com/gfrog/statuses/37464726153723904)
+
+
+
+
+
+  * 越来越体会到，一个运行十秒、十分钟、十小时、十天、十个月、十年的程序，需要关注的地方是完全不一样的。 [18:57:02, 2011-02-15](http://twitter.com/gfrog/statuses/37465399666679808)
+
+
+
+
+
+  * [@queenprincewl](http://twitter.com/queenprincewl) 不过四号线里联通3G全覆盖很赞。 [in reply to queenprincewl](http://twitter.com/queenprincewl/statuses/37465006182371328) [19:04:47, 2011-02-15](http://twitter.com/gfrog/statuses/37467350429212672)
+
+
+
+
+
+  * Reshared post from  徐彬
+
+
+
+Git flow 開發流程 - {|ihower.tw| blog } [20:42:41, 2011-02-15](http://twitter.com/gfrog/statuses/37491988689321985)
+
+
+
+

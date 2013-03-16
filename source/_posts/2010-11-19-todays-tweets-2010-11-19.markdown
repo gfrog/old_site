@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2010-11-19 01:00:00
+layout: post
+slug: todays-tweets-2010-11-19
+title: Today's tweets 2010-11-19
+wordpress_id: 1044
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@dosou](http://twitter.com/dosou): 一位网友如此评价《哪吒闹海》：这是一个官二代的故事，调皮倒蛋的官二代屡屡闯祸，打死神二代和妖二代，甚至仗着他爹的权势和他师傅的面子去挑衅神一代和妖一代，我想哪吒他爹本名一定不是李靖，而应该是李刚！ [12:14:17, 2010-11-19](http://twitter.com/gfrog/statuses/5473914713022464)
+
+
+
+

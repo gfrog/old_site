@@ -1,0 +1,264 @@
+---
+comments: true
+date: 2010-04-14 01:00:00
+layout: post
+slug: todays-tweets-2010-04-14
+title: Today's tweets 2010-04-14
+wordpress_id: 574
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 冷，虽然太阳很足。该死的公交车还是不来。 [07:36:22, 2010-04-14](http://twitter.com/gfrog/statuses/12130978576)
+
+
+
+
+
+  * 公交车到底还是么有来，只好打车走了。结果碰到个司机，又要上厕所，又要拼客。靠的，早上上班都很着急，要不是时间不够谁打车啊。丫的事情还这么多。 [08:02:20, 2010-04-14](http://twitter.com/gfrog/statuses/12132152039)
+
+
+
+
+
+  * RT [@DashHuang](http://twitter.com/DashHuang): GR分享: 可乐与精子_薄三郎_新浪博客: 几年前,每当完成一台手术，我就喜欢跑到休息室,咕咚几口冰可乐。瞧见我饥不可耐狂饮可乐的护士们，在一边坏笑起来。连忙探听... [http://tinyurl.com/y8476rq](http://tinyurl.com/y8476rq) [08:14:44, 2010-04-14](http://twitter.com/gfrog/statuses/12132744499)
+
+
+
+
+
+  * 苍老师unfo红音老师了，这是个很有趣的现象，哈。 [10:02:31, 2010-04-14](http://twitter.com/gfrog/statuses/12138295574)
+
+
+
+
+
+  * 不光sid，stable页很方便，新版本发布了直接更新就是升级了。ubuntu就麻烦点，隔一段时间就要改版本代号。 RT [@kDolphin](http://twitter.com/kDolphin): Debian的源设在SID上对我这种一定要用最新版本的人很安慰，每天都有更新。确切地说我在乎的是更新，而不是最新版本。 [10:42:10, 2010-04-14](http://twitter.com/gfrog/statuses/12140330986)
+
+
+
+
+
+  * 都射了？ RT [@Rex5652](http://twitter.com/Rex5652): 噗RT [@zyboy](http://twitter.com/zyboy): 噗RT [@nowindxdw](http://twitter.com/nowindxdw): 噗RT [@tataslow72](http://twitter.com/tataslow72): 噗RT [@staysm](http://twitter.com/staysm): 噗RT [@wjdq](http://twitter.com/wjdq): 噗RT [@ZhangJiwen](http://twitter.com/ZhangJiwen): 红音姐太有礼貌了，看到这么有礼貌的姑娘我打开了E盘又拿出了纸巾。 [10:43:40, 2010-04-14](http://twitter.com/gfrog/statuses/12140404456)
+
+
+
+
+
+  * [@kDolphin](http://twitter.com/kDolphin) 我觉得是因为ubuntu无缝升级不能，所以丫不敢定debian这种版本代号。虽说ubuntu是debian他老人家的直系后代，可惜变异有点大，八成是地沟油喝多了。 [in reply to kDolphin](http://twitter.com/kDolphin/statuses/12140384609) [10:45:42, 2010-04-14](http://twitter.com/gfrog/statuses/12140505307)
+
+
+
+
+
+  * [@kDolphin](http://twitter.com/kDolphin) 至少9.04到9.10直接升级会有很多麻烦，估计9.10升10.04麻烦会更多。ubuntu太激进，每个版本之间变化太大。好吧，话说现在我的ibus已经开始不稳定了，在chrome里5分钟挂一次，这就是10.04的beta。 [in reply to kDolphin](http://twitter.com/kDolphin/statuses/12140593353) [10:50:19, 2010-04-14](http://twitter.com/gfrog/statuses/12140727728)
+
+
+
+
+
+  * 在钱面前，文化历史教育都是狗屎。 RT [@freemoren](http://twitter.com/freemoren): 聂耳故居被夷为平地 [http://is.gd/bryfz](http://is.gd/bryfz) 聂耳故居不会拆，将重新打造成“一颗印”式的四合院建筑。原租住户杨师傅表示新建故居完全是山寨版，第1没有历史价值，第2没有文化价值，更没有教育意义 [11:07:13, 2010-04-14](http://twitter.com/gfrog/statuses/12141585217)
+
+
+
+
+
+  * [@Fotuo](http://twitter.com/Fotuo) 我总感觉是因为9.10发布那阵子相关软件没有啥大动作，而且那时候大家都在纠结于提高启动速度，主要精力没放在功能性问题上，要不然一样完蛋。 [in reply to Fotuo](http://twitter.com/Fotuo/statuses/12140769415) [11:09:25, 2010-04-14](http://twitter.com/gfrog/statuses/12141691742)
+
+
+
+
+
+  * [@kDolphin](http://twitter.com/kDolphin) 对，实际上debian也可以用ubuntu的ppa源，一样一样的啦。 [in reply to kDolphin](http://twitter.com/kDolphin/statuses/12140773987) [11:10:13, 2010-04-14](http://twitter.com/gfrog/statuses/12141731281)
+
+
+
+
+
+  * [@Fotuo](http://twitter.com/Fotuo)  现在中文化基本已经完整了，倒是beta以后冒出来很多小bug，很影响使用时的心情。 [in reply to Fotuo](http://twitter.com/Fotuo/statuses/12142591010) [11:30:46, 2010-04-14](http://twitter.com/gfrog/statuses/12142720786)
+
+
+
+
+
+  * 我在纠结AS是个什么东东。。。 汇编？ ASP的简称？自治域？ RT [@pinxue](http://twitter.com/pinxue) [@laiyonghao](http://twitter.com/laiyonghao) [@laiyonghao](http://twitter.com/laiyonghao): ...QQ 群里看到月薪 8k-20k 招 AS 程序员，我这个写 cpp 的泪流满面啊。 [13:10:48, 2010-04-14](http://twitter.com/gfrog/statuses/12146839200)
+
+
+
+
+
+  * [@tenione](http://twitter.com/tenione) 好吧，我土了。。。 [in reply to tenione](http://twitter.com/tenione/statuses/12147026140) [13:17:15, 2010-04-14](http://twitter.com/gfrog/statuses/12147062511)
+
+
+
+
+
+  * RT [@childream](http://twitter.com/childream): 推荐一个博客 褪墨 关注时间管理、个人提升和演讲技巧。弥缝的目标是：做好每一件事！ [http://ping.fm/TctSW](http://ping.fm/TctSW) [13:44:50, 2010-04-14](http://twitter.com/gfrog/statuses/12147993238)
+
+
+
+
+
+  * [@fragroute](http://twitter.com/fragroute) [http://feed.mifengtd.cn/](http://feed.mifengtd.cn/) 直接google reader之。 [in reply to fragroute](http://twitter.com/fragroute/statuses/12148099804) [13:53:14, 2010-04-14](http://twitter.com/gfrog/statuses/12148259460)
+
+
+
+
+
+  * [http://apps.asterisq.com/mentionmap](http://apps.asterisq.com/mentionmap) 好神奇！ [14:10:21, 2010-04-14](http://twitter.com/gfrog/statuses/12148802080)
+
+
+
+
+
+  * 囧，男人已经回归实用主义了么？ RT [@yvonnecrab](http://twitter.com/yvonnecrab): 文科男和理工科男还是有显著区别的。。理工科男更实用些( －з)RT [@L5d](http://twitter.com/L5d): 是这样分的吗？RT [@yvonnecrab](http://twitter.com/yvonnecrab): 刚刚总结了一下，发觉自己还是喜欢理工男( －з)。。。。。。。 [15:10:52, 2010-04-14](http://twitter.com/gfrog/statuses/12150565703)
+
+
+
+
+
+  * RT [@aihihi](http://twitter.com/aihihi): RT [@jnduan](http://twitter.com/jnduan): 这新闻的标题彻底把我雷了  [http://mil.hebei.com.cn/xwzx/jspd/jsgj/jmrt/201004/t20100414_1469122.shtml](http://mil.hebei.com.cn/xwzx/jspd/jsgj/jmrt/201004/t20100414_1469122.shtml) [15:12:03, 2010-04-14](http://twitter.com/gfrog/statuses/12150599747)
+
+
+
+
+
+  * 什么金卡？金葵花么？ RT: [@cissysong](http://twitter.com/cissysong): 外企员工竟然有些特权的。在我们这边的招商银行，IBM和HP的员工可以免费办理金卡业务。 [15:24:05, 2010-04-14](http://twitter.com/gfrog/statuses/12150935571)
+
+
+
+
+
+  * 额，那是那种金卡，不会是信用卡的金卡吧？ RT [@petefang](http://twitter.com/petefang): RT [@gfrog](http://twitter.com/gfrog): 什么金卡？金葵花么？ RT: [@cissysong](http://twitter.com/cissysong): 招商银行，IBM和HP的员工可以免费办理金卡业务。// 金卡和金葵花不一样的。 [15:26:46, 2010-04-14](http://twitter.com/gfrog/statuses/12151008674)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) 好吧，借记卡的金卡原来跟金葵花差了很多啊。 [in reply to petefang](http://twitter.com/petefang/statuses/12151044575) [15:30:56, 2010-04-14](http://twitter.com/gfrog/statuses/12151125796)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) 所以刚才被吓一跳嘛，我以为免费办金葵花捏。 [in reply to petefang](http://twitter.com/petefang/statuses/12151145754) [15:32:24, 2010-04-14](http://twitter.com/gfrog/statuses/12151167857)
+
+
+
+
+
+  * 所以才对理工男有好印象？作为一个半吊子物理男，俺认为男人不能按照文科和理工科分滴。 RT [@yvonnecrab](http://twitter.com/yvonnecrab): 作为文科出身，对文科男有极恶劣的印象。。RT [@CainDior](http://twitter.com/CainDior): 唉..文科男被红果果歧视鸟~  [@L5d](http://twitter.com/L5d) [15:34:49, 2010-04-14](http://twitter.com/gfrog/statuses/12151233726)
+
+
+
+
+
+  * 尽管上，回头用套头出的图鄙视他们。 RT [@ImSyls](http://twitter.com/ImSyls): 看淡设备看淡设备……RT [@nngwnnz](http://twitter.com/nngwnnz): 真不敢再泡色影无忌了 坛子里面的大虾最低档次也是D300 换大竹炮买徕卡直上D3X的大有人在……太刺激我这种初哥了…… :mad: [15:58:07, 2010-04-14](http://twitter.com/gfrog/statuses/12151859015)
+
+
+
+
+
+  * 算不上测试活跃用户，很多用户只有0 tweet，0 foer，2 fo。 RT [@shurenzhou](http://twitter.com/shurenzhou): [@aoi_sola](http://twitter.com/aoi_sola) 苍井空老师是测试中文twitter用户活跃数量的试金石，目前的最新follower数据是：30089. [16:05:15, 2010-04-14](http://twitter.com/gfrog/statuses/12152062103)
+
+
+
+
+
+  * 这张图含金量不高，整个中国版图叫他预测进去了一多半。 RT [@ppmeme](http://twitter.com/ppmeme): ... 除了台湾，我国西部地区的震灾危险外，还包括华北地区的危险，大家还是看一眼 [http://img.ly/S4K](http://img.ly/S4K) (via [@81xiao](http://twitter.com/81xiao)) [#pp](http://search.twitter.com/search?q=%23pp) [16:07:36, 2010-04-14](http://twitter.com/gfrog/statuses/12152124413)
+
+
+
+
+
+  * 而且都是号码很短的qq。 RT [@shurenzhou](http://twitter.com/shurenzhou): RT [@DLPZY](http://twitter.com/DLPZY): RT [@cnbaidu](http://twitter.com/cnbaidu): 由炫耀腾迅微博这件事来看，那些牛逼哄哄不齿腾迅的大牛原来也是有QQ号码的。 [16:08:25, 2010-04-14](http://twitter.com/gfrog/statuses/12152145859)
+
+
+
+
+
+  * [@hama](http://twitter.com/hama) 额，难道不能？ 俺没有tx围脖，哈哈。 [in reply to hama](http://twitter.com/hama/statuses/12152186336) [16:21:06, 2010-04-14](http://twitter.com/gfrog/statuses/12152486529)
+
+
+
+
+
+  * [@beasthang](http://twitter.com/beasthang) 囧，干脆送我好了，哈哈。 [in reply to beasthang](http://twitter.com/beasthang/statuses/12152303484) [16:23:45, 2010-04-14](http://twitter.com/gfrog/statuses/12152558177)
+
+
+
+
+
+  * 还不如说RH9，现在还遍地都是。 RT [@mathwuyue](http://twitter.com/mathwuyue) RedHat 6可以说是RedHat公司最经典的版本了，甚至可以说最伟大的Linux发行版本了。无数人第一次用的就是这个版本，而且很多一用就是十几年～ [16:25:30, 2010-04-14](http://twitter.com/gfrog/statuses/12152604744)
+
+
+
+
+
+  * 哦，对，把vpn端口设成53，就可以绕过很多过滤机制。真变态啊真变态。 [17:11:47, 2010-04-14](http://twitter.com/gfrog/statuses/12153859202)
+
+
+
+
+
+  * [@mathwuyue](http://twitter.com/mathwuyue) 八成你是从rh6开始接触linux的吧，其实我倒觉得rh4很经典，因为那时候linux已经在国内流传开了。说rh9经典是因为很多系统都是基于rh9开发的。在rh9刚出来的年代，ubuntu还是小菜鸟。 [in reply to mathwuyue](http://twitter.com/mathwuyue/statuses/12152687232) [17:16:47, 2010-04-14](http://twitter.com/gfrog/statuses/12153997057)
+
+
+
+
+
+  * 不可以， 用axel。 RT [@wubuntust](http://twitter.com/wubuntust): 我记得可以RT [@mathwuyue](http://twitter.com/mathwuyue) 相对于wget，我更喜欢lftp，这个东西真是好用啊，还可以多线程下载。wget可以不？ [17:22:51, 2010-04-14](http://twitter.com/gfrog/statuses/12154168813)
+
+
+
+
+
+  * [@mathwuyue](http://twitter.com/mathwuyue) 只能说你98年刚好赶上一阵风潮而已。 不是说发行版学RH9，是基于RH9的专用系统，类似于网络设备、嵌入式设备，这些玩意很多都是RH9改的。 [in reply to mathwuyue](http://twitter.com/mathwuyue/statuses/12154776169) [18:51:04, 2010-04-14](http://twitter.com/gfrog/statuses/12156732567)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) [@wubuntust](http://twitter.com/wubuntust) [@mathwuyue](http://twitter.com/mathwuyue) 我现在对带zilla字眼的东东敏感，我觉得他们都是大而笨重的代名词。 [in reply to quakelee](http://twitter.com/quakelee/statuses/12156583268) [18:53:02, 2010-04-14](http://twitter.com/gfrog/statuses/12156796967)
+
+
+
+
+
+  * 似乎苍老师 [@aoi_sola](http://twitter.com/aoi_sola) 最近有口腔溃疡还是牙龈发炎， 为什么见不到她的粉丝们关心她呢。 [18:58:12, 2010-04-14](http://twitter.com/gfrog/statuses/12156964498)
+
+
+
+
+
+  * 幼齿男。 RT [@Hc95](http://twitter.com/Hc95): 我重新说遍，我素男的。 [21:47:44, 2010-04-14](http://twitter.com/gfrog/statuses/12163957142)
+
+
+
+
+
+  * RT [@hama](http://twitter.com/hama): RT [@ag108lau](http://twitter.com/ag108lau): [转]想起一同学说：有一次顶撞母亲，父亲把他从椅子上踹下来。斥责他：你妈是我捧在手心的宝，我呵护她，照顾她，对她轻声细语，你凭什么对他大呼小叫的？！ [21:53:38, 2010-04-14](http://twitter.com/gfrog/statuses/12164243503)
+
+
+
+
+
+  * 搞个ipv6的tunnel呗。 RT [@Rex5652](http://twitter.com/Rex5652): 唉，我还没体验过ipv6啊… [21:56:59, 2010-04-14](http://twitter.com/gfrog/statuses/12164406069)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 要求要有公网的ipv4地址，然后装上某种ipv6 tunnel的软件，就可以用了。实际就是6over4的tunnel啦。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/12164497342) [22:01:24, 2010-04-14](http://twitter.com/gfrog/statuses/12164627299)
+
+
+
+

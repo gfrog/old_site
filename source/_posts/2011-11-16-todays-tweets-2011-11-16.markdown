@@ -1,0 +1,88 @@
+---
+comments: true
+date: 2011-11-16 01:00:00
+layout: post
+slug: todays-tweets-2011-11-16
+title: Today's tweets 2011-11-16
+wordpress_id: 1956
+categories:
+- twitter-backup[Twitter备份]
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 啧啧，这也好意思叫程序员？ RT [@exherb](http://twitter.com/exherb): 不知道 git 为何物的程序员... [10:52:03, 2011-11-16](http://twitter.com/gfrog/statuses/136637627137933312)
+
+
+
+
+
+  * 其实有些工具并不是为程序员特制的，只要是使用电脑，都应该了解并使用。例如grep/awk/sed套件，例如vim，例如版本控制工具，这些工具对于需要处理文档的人员也是相当有效的工具。换句话说，码农跟作家其实本质上没太大区别，都是码字而已，一个是给人看，一个是给机器看。 [10:54:36, 2011-11-16](http://twitter.com/gfrog/statuses/136638268199534592)
+
+
+
+
+
+  * [@exherb](http://twitter.com/exherb) 离开那里吧，你呆在一个不靠谱的环境里。 [in reply to exherb](http://twitter.com/exherb/statuses/136637834193936384) [10:55:24, 2011-11-16](http://twitter.com/gfrog/statuses/136638470570508288)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 会比高数还难嘛？ [in reply to Gyteng](http://twitter.com/Gyteng/statuses/136638672429780992) [11:06:20, 2011-11-16](http://twitter.com/gfrog/statuses/136641223397085184)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 这比不知道git更不靠谱。。。 [in reply to gnudog](http://twitter.com/gnudog/statuses/136641821488058368) [11:15:26, 2011-11-16](http://twitter.com/gfrog/statuses/136643510651715585)
+
+
+
+
+
+  * $35 做主题也好赚钱呀。 RT [@Mac9527](http://twitter.com/Mac9527): 这博主酷爱拉丝效果啊。RT [@Kino_cc](http://twitter.com/Kino_cc): WordPress主题怎么能做的这么美，如果我的照片能拍的那么好，一定要用上！ [http://t.co/PwS8GkQW](http://t.co/PwS8GkQW) [11:17:36, 2011-11-16](http://twitter.com/gfrog/statuses/136644054803955713)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 早该慢慢迁移啦，CVS也太影响效率了 [in reply to gnudog](http://twitter.com/gnudog/statuses/136644052258004992) [11:18:25, 2011-11-16](http://twitter.com/gfrog/statuses/136644262577180672)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 我很佩服前辈们是怎么忍受这个奇葩的。。。 [in reply to gnudog](http://twitter.com/gnudog/statuses/136644976225431552) [11:24:07, 2011-11-16](http://twitter.com/gfrog/statuses/136645695938641921)
+
+
+
+
+
+  * [@Kino_cc](http://twitter.com/Kino_cc) 看起来已经挺贵了。。。 啧啧，比买本书贵多了。 [in reply to Kino_cc](http://twitter.com/Kino_cc/statuses/136649179014500352) [12:17:09, 2011-11-16](http://twitter.com/gfrog/statuses/136659043031846912)
+
+
+
+
+
+  * RT [@cxiaoji](http://twitter.com/cxiaoji): 楼里有个脑瘫小伙，走路说话都不太行，开始以为是员工家属，后来发现哥是写C++编译器的。刚到美国最震惊的事情之一就是美国的残疾人数量好像比国内多得多。上学时能见到数个霍金一样用手指开轮椅的博士和教员。残障人士的社会曝光程度是社会现代化的最好标尺，做不来假。 [15:42:18, 2011-11-16](http://twitter.com/gfrog/statuses/136710668790407169)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 介系病啊，得儿电。。。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/136718814715969536) [16:25:11, 2011-11-16](http://twitter.com/gfrog/statuses/136721463607693312)
+
+
+
+
+
+  * 告诉别人这件衣服要从右往左读。呼，还好是4 RT [@4585_5360](http://twitter.com/4585_5360): 你们这群抱怨火狐版本的，都歇歇吧！不就是用起来稍微不爽吗，我因为版本号损失多惨重你们知道吗！他喵的我那件 Firefox 4 的纪念 T 恤明年夏天要怎么穿出去啊，今年夏天刚买的…… [17:06:11, 2011-11-16](http://twitter.com/gfrog/statuses/136731779896844289)
+
+
+
+

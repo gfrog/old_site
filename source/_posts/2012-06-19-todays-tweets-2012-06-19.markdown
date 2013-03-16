@@ -1,0 +1,84 @@
+---
+comments: true
+date: 2012-06-19 23:59:00
+layout: post
+slug: todays-tweets-2012-06-19
+title: Today's tweets 2012-06-19
+wordpress_id: 2579
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 我了个去，今天可乐确实喝多了，晚上打嗝竟然是一股子可乐加牛奶的怪味道… [01:15:50, 2012-06-19](http://twitter.com/gfrog/statuses/214768394388512768)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:30, 2012-06-19](http://twitter.com/gfrog/statuses/214885334272589824)
+
+
+
+
+
+  * RT [@quakelee](http://twitter.com/quakelee): 我国拟禁止高铁建设为速度压缩工期降质量 [http://t.co/AxVKHGEs](http://t.co/AxVKHGEs) //原来以前是允许这样的啊。这样的国家真是个奇葩 [10:05:41, 2012-06-19](http://twitter.com/gfrog/statuses/214901737495080961)
+
+
+
+
+
+  * RT [@ksky](http://twitter.com/ksky): 有哥们把代码备份到Google Code了，他之前并不知道这个是直接开放给所有用户的。现在他的代码里有前公司的代码，前公司的人找到了他要他删除并且要告他，有没有懂法律的给解答解答这个案子。 [16:16:07, 2012-06-19](http://twitter.com/gfrog/statuses/214994959621816322)
+
+
+
+
+
+  * RT [@kaiminmin](http://twitter.com/kaiminmin): 南宋时代有个爱国诗人叫陆游。那时金兵入侵，山河破碎，面对着民不聊 生，陆游气坏了。陆游气坏了，于是我们就都不能上网了······[转] [18:19:01, 2012-06-19](http://twitter.com/gfrog/statuses/215025890466332672)
+
+
+
+
+
+  * RT [@o_lll](http://twitter.com/o_lll): linux 社区又吵架了么，我觉着吧还是 arch 用着顺手，它的 portage 远比 ubuntu 的 rpm 这样源代码编译的包管理器来的方便多了 [18:22:31, 2012-06-19](http://twitter.com/gfrog/statuses/215026767424008192)
+
+
+
+
+
+  * 今天选择不出门真是正确啊，外面雷打的好响。 [20:52:47, 2012-06-19](http://twitter.com/gfrog/statuses/215064585915478016)
+
+
+
+
+
+  * 下午围观3 idiots，惊异于印度那种社会最底层的人民竟然也能进得起医院看得起病。在我朝，这简直是不敢想像的。别说神马人口多无法普及，印度人口/人口密度比我朝大多了。 [20:56:27, 2012-06-19](http://twitter.com/gfrog/statuses/215065507760586752)
+
+
+
+
+
+  * 另外3 idiots里面那几个从贫困家庭来的孩子，竟然能上的起大学，我擦，太神奇了！ [20:57:43, 2012-06-19](http://twitter.com/gfrog/statuses/215065825802072064)
+
+
+
+
+
+  * 这个月还有三分之一，但是我已经花掉了这个月90%的预算，我这是肿么了。。。 [22:51:56, 2012-06-19](http://twitter.com/gfrog/statuses/215094570915086336)
+
+
+
+
+
+  * 明儿还得去买一个无线路由器，现在离楼下路由的位置太远，大概有两堵墙，信号时有时无。 [22:54:17, 2012-06-19](http://twitter.com/gfrog/statuses/215095161074630656)
+
+
+
+

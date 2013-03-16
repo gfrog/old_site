@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2010-10-23 01:00:00
+layout: post
+slug: todays-tweets-2010-10-23
+title: Today's tweets 2010-10-23
+wordpress_id: 1017
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 靠的，现在大白菜都这么贵了。。 RT [@niubro](http://twitter.com/niubro) 真实版偷菜 [@LoveGates](http://twitter.com/LoveGates): 俺日，突然发现俺家大白菜被偷了一颗，现在大白菜比较贵，一颗白菜差不多五块钱，看来不能放外面晾着了～ [09:24:05, 2010-10-23](http://twitter.com/gfrog/statuses/28458160246)
+
+
+
+
+
+  * 哪个包？RT [@felixonmars](http://twitter.com/felixonmars) Ubuntu Natty 更新又出现SB情况了, 自己发布的包安装失败, 而且过了好几个小时都没有更新修复 [09:25:57, 2010-10-23](http://twitter.com/gfrog/statuses/28458301572)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 还好不用这个鬼玩意。其实你也要理解维护者，估计你折腾的时候维护者那边是晚上，哈哈。 [in reply to felixonmars](http://twitter.com/felixonmars/statuses/28458357432) [09:32:23, 2010-10-23](http://twitter.com/gfrog/statuses/28458777995)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 少什么就装什么，XD。 [in reply to Gyteng](http://twitter.com/Gyteng/statuses/28458895379) [09:35:34, 2010-10-23](http://twitter.com/gfrog/statuses/28459020147)
+
+
+
+
+
+  * 不知道现在2.6.37分支怎么样了，考虑是不是换到37内核上去，试一下我的网卡驱动。。。 [09:37:00, 2010-10-23](http://twitter.com/gfrog/statuses/28459126827)
+
+
+
+
+
+  * 回到地面，终于有3g信号了 (@ Yuquanlu Subway Station 地铁玉泉路站) [http://4sq.com/a2gWta](http://4sq.com/a2gWta) [11:37:05, 2010-10-23](http://twitter.com/gfrog/statuses/28468070542)
+
+
+
+

@@ -1,0 +1,72 @@
+---
+comments: true
+date: 2012-08-30 00:01:00
+layout: post
+slug: todays-tweets-2012-08-30
+title: Today's tweets 2012-08-30
+wordpress_id: 3374
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:42, 2012-08-30](http://twitter.com/gfrog/statuses/240977308066934784)
+
+
+
+
+
+  * 12天够嘛？每年12个月还差不多。 RT [@shilin0127](http://twitter.com/shilin0127): +10086 RT [@xiao_wanzi](http://twitter.com/xiao_wanzi): 我觉得北京应该出台一个「空气污染假」，每年12天，遇到像今天这样的污染就全民放假… [10:42:11, 2012-08-30](http://twitter.com/gfrog/statuses/241002847657947136)
+
+
+
+
+
+  * chrome最近二死了，从其他程序里直接点连接打开丫就报告profile打开失败，然后就启动了一份新进程，之前的打开窗口啥的都被忘掉了。难道这是chrome的最新功能？ [14:25:52, 2012-08-30](http://twitter.com/gfrog/statuses/241059142767362048)
+
+
+
+
+
+  * 当小白鼠还是fedora最合适。 [14:27:15, 2012-08-30](http://twitter.com/gfrog/statuses/241059487610445825)
+
+
+
+
+
+  * [@RainuxLuo](http://twitter.com/RainuxLuo) 当然会，重启之后试过还这样。 [in reply to RainuxLuo](http://twitter.com/RainuxLuo/statuses/241065256967876608) [15:20:44, 2012-08-30](http://twitter.com/gfrog/statuses/241072947308138496)
+
+
+
+
+
+  * oops，自己建立了一个guest image把/塞满了，结果还在那纳闷神马东西会吃掉这么多/分区。 [15:51:26, 2012-08-30](http://twitter.com/gfrog/statuses/241080675103551488)
+
+
+
+
+
+  * 为毛hotot chrome版变得全是乱码了，神马状况。。 [@shellex](http://twitter.com/shellex) [23:35:09, 2012-08-30](http://twitter.com/gfrog/statuses/241197370853978115)
+
+
+
+
+
+  * [@shellex](http://twitter.com/shellex) wow，马上升级看看。 [in reply to shellex](http://twitter.com/shellex/statuses/241197465079017472) [23:38:05, 2012-08-30](http://twitter.com/gfrog/statuses/241198110364295169)
+
+
+
+
+
+  * RT [@snowxh](http://twitter.com/snowxh): 刚听说了一个标准，说目前月工资除以高考分数，50以内的算屌丝......跪了 [23:55:38, 2012-08-30](http://twitter.com/gfrog/statuses/241202527960436736)
+
+
+
+

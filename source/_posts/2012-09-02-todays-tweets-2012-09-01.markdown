@@ -1,0 +1,150 @@
+---
+comments: true
+date: 2012-09-02 00:01:00
+layout: post
+slug: todays-tweets-2012-09-01
+title: Today's tweets 2012-09-01
+wordpress_id: 3376
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@shellex](http://twitter.com/shellex) 难道是我的chrome rp有问题？ 哎呀呀，不管了，挂proxychain用gtk版的hotot了。没hotot都没心思推了呀，壳酱。 [in reply to shellex](http://twitter.com/shellex/statuses/241563637515431936) [00:00:10, 2012-09-01](http://twitter.com/gfrog/statuses/241566054873169920)
+
+
+
+
+
+  * 不想看视频了，试图折腾一下gtap，看看能不能让这货恢复工作。 [00:03:18, 2012-09-01](http://twitter.com/gfrog/statuses/241566844736122882)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 牛晚安。 [in reply to childream](http://twitter.com/childream/statuses/241566697423794176) [00:03:39, 2012-09-01](http://twitter.com/gfrog/statuses/241566934729105408)
+
+
+
+
+
+  * [@upsuperx](http://twitter.com/upsuperx) 晚安。 [in reply to upsuperx](http://twitter.com/upsuperx/statuses/241567004744622080) [00:04:48, 2012-09-01](http://twitter.com/gfrog/statuses/241567223108481024)
+
+
+
+
+
+  * 为毛我会无聊到跟每个发晚安推的人说晚安。 [@_](http://twitter.com/_)@ [00:05:13, 2012-09-01](http://twitter.com/gfrog/statuses/241567326691008512)
+
+
+
+
+
+  * 测试发推。 [00:57:54, 2012-09-01](http://twitter.com/gfrog/statuses/241580585775165441)
+
+
+
+
+
+  * 搞定gtap，更新了一下它的代码，把它换到python2.7 wsgi模式去了。下一步看看搞定url展开。 [11:26:12, 2012-09-01](http://twitter.com/gfrog/statuses/241738701472948224)
+
+
+
+
+
+  * 测试推。 [20:41:43, 2012-09-01](http://twitter.com/gfrog/statuses/241878503740547072)
+
+
+
+
+
+  * 困的不行，想去睡觉。逛街压力比骑车还要大呢。 [20:42:26, 2012-09-01](http://twitter.com/gfrog/statuses/241878681084112896)
+
+
+
+
+
+  * 擦，几周没正经儿运动加控制饮食，肚子上的肥肉又开始乱颤了。 [20:56:11, 2012-09-01](http://twitter.com/gfrog/statuses/241882145000411137)
+
+
+
+
+
+  * 仔细研究下twitter api返回的数据类型。 [22:54:38, 2012-09-01](http://twitter.com/gfrog/statuses/241911950353772545)
+
+
+
+
+
+  * Nokia的合资公司看似都没好下场… RT [@luogl](http://twitter.com/luogl): Nokia和BlackBerry合资一个公司算了。一个做广告。一个给手机提供优秀的Qwerty键盘。 [22:56:36, 2012-09-01](http://twitter.com/gfrog/statuses/241912448129564673)
+
+
+
+
+
+  * 为毛连不上google菜市场了，擦。 [23:31:09, 2012-09-01](http://twitter.com/gfrog/statuses/241921143018225665)
+
+
+
+
+
+  * 北四环还在下雨。外面稀稀沥沥 RT [@tualatrix](http://twitter.com/tualatrix): 月亮出来了，明天会是个好天气。 [http://t.co/PMoDGUvG](http://t.co/PMoDGUvG) [23:32:34, 2012-09-01](http://twitter.com/gfrog/statuses/241921498560987136)
+
+
+
+
+
+  * [@chjuheng](http://twitter.com/chjuheng) 这个倒是可以理解，pc访问gmap都不顺畅，于是我直接删掉gmap用高德了。 [in reply to chjuheng](http://twitter.com/chjuheng/statuses/241922000141045760) [23:35:34, 2012-09-01](http://twitter.com/gfrog/statuses/241922254370402305)
+
+
+
+
+
+  * [@jerry_hou](http://twitter.com/jerry_hou) [@We_Get](http://twitter.com/We_Get) 不能够，我的手机访问菜市场无压力，平板就不行。用的同一个wifi链接。 [in reply to jerry_hou](http://twitter.com/jerry_hou/statuses/241921461177184256) [23:35:56, 2012-09-01](http://twitter.com/gfrog/statuses/241922345256755200)
+
+
+
+
+
+  * [@eexp01](http://twitter.com/eexp01) 点过很多次啦，不行的。我恢复工厂设置看看。 [in reply to eexp01](http://twitter.com/eexp01/statuses/241922939803553792) [23:39:22, 2012-09-01](http://twitter.com/gfrog/statuses/241923207689535488)
+
+
+
+
+
+  * [@We_Get](http://twitter.com/We_Get) [@jerry_hou](http://twitter.com/jerry_hou) [@chjuheng](http://twitter.com/chjuheng) 不清楚啥原因，干脆reset平板了。 [in reply to We_Get](http://twitter.com/We_Get/statuses/241923045797797888) [23:40:30, 2012-09-01](http://twitter.com/gfrog/statuses/241923493594275840)
+
+
+
+
+
+  * 看完了Thinkpad X1 Carbon，更加坚定了我入Macbook Air的决心呢。今天那个售货妹纸特意拿了一个13寸的Air给我们跟X1比较，MBA果然更轻更薄呢。但是碳纤维外壳的手感要比铝合金好些。不过考虑到MacOS也是一个很有价值的东东，所以MBA成为我优选的本子。 [23:43:55, 2012-09-01](http://twitter.com/gfrog/statuses/241924352621301761)
+
+
+
+
+
+  * [@chjuheng](http://twitter.com/chjuheng) 多大？如何？ [in reply to chjuheng](http://twitter.com/chjuheng/statuses/241925144761749504) [23:56:41, 2012-09-01](http://twitter.com/gfrog/statuses/241927567387541505)
+
+
+
+
+
+  * [@eexp01](http://twitter.com/eexp01) 妹纸肯定不能只注重轻薄啊。 [in reply to eexp01](http://twitter.com/eexp01/statuses/241925173740183552) [23:57:09, 2012-09-01](http://twitter.com/gfrog/statuses/241927686161854464)
+
+
+
+
+
+  * [@skyier](http://twitter.com/skyier) 屏幕大小问题不大呢，只要是高分屏就好。 [in reply to skyier](http://twitter.com/skyier/statuses/241926094985523200) [23:57:42, 2012-09-01](http://twitter.com/gfrog/statuses/241927822472531968)
+
+
+
+

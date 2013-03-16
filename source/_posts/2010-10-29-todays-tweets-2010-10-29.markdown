@@ -1,0 +1,168 @@
+---
+comments: true
+date: 2010-10-29 01:00:00
+layout: post
+slug: todays-tweets-2010-10-29
+title: Today's tweets 2010-10-29
+wordpress_id: 1023
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 你是极客么？ [http://j.mp/bFW0Zi](http://j.mp/bFW0Zi) [08:28:45, 2010-10-29](http://twitter.com/gfrog/statuses/29038719036)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) OAuth那些事儿 [http://j.mp/8ZztRq](http://j.mp/8ZztRq) [08:28:46, 2010-10-29](http://twitter.com/gfrog/statuses/29038720570)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 26 Oct 2010 - Flickr [http://j.mp/9CMfVV](http://j.mp/9CMfVV) [08:28:56, 2010-10-29](http://twitter.com/gfrog/statuses/29038734537)
+
+
+
+
+
+  * 没人用poweroff咩？ RT [@NalaGinrut](http://twitter.com/NalaGinrut): 因为init做了很多工作以后，最后才调用halt。RT [@xqunix](http://twitter.com/xqunix) 同init 0， 为什么用halt是坏习惯？求解  RT [@JavranC](http://twitter.com/JavranC): init 0飘过…RT [@shellex](http://twitter.com/shellex) 也许确实要改改用halt [10:19:47, 2010-10-29](http://twitter.com/gfrog/statuses/29047701926)
+
+
+
+
+
+  * 那好吧，那我可以认为halt是无毒无害的了。RT [@NalaGinrut](http://twitter.com/NalaGinrut): poweroff跟halt是同一个文件。RT [@gfrog](http://twitter.com/gfrog) 没人用poweroff咩？RT [@xqunix](http://twitter.com/xqunix) 同init 0， 为什么用halt是坏习惯？求解 [10:32:22, 2010-10-29](http://twitter.com/gfrog/statuses/29048669697)
+
+
+
+
+
+  * 前两天才给我们做完新员工培训的一个Leader离职了，很突然，真的是铁打的公司流水的员工。 [10:57:59, 2010-10-29](http://twitter.com/gfrog/statuses/29050608001)
+
+
+
+
+
+  * 狗咬狗？RT [@wubuntust](http://twitter.com/wubuntust): linux用户表示想围观360和QQ弹窗大战 [12:49:37, 2010-10-29](http://twitter.com/gfrog/statuses/29058043195)
+
+
+
+
+
+  * 从今天起正式封存QQ，既然丫的无法完全注销帐号，只能自己搁置了。决不向流氓软件势力低头。当然，疼迅跟360狗咬狗跟我也没一毛钱关系，都是吃饱了撑的。 [12:52:52, 2010-10-29](http://twitter.com/gfrog/statuses/29058220100)
+
+
+
+
+
+  * 这是一种神马精神。。 RT [@Gyteng](http://twitter.com/Gyteng): 我舍友两个都安装了，围观很方便 RT [@wubuntust](http://twitter.com/wubuntust): linux用户表示想围观360和QQ弹窗大战 [12:53:55, 2010-10-29](http://twitter.com/gfrog/statuses/29058274973)
+
+
+
+
+
+  * RT [@duqq](http://twitter.com/duqq): RT [@ksky](http://twitter.com/ksky): Godaddy 1美元域名优惠码：SCARYONE ，注册或者转移.COM, .US, .MOBI, .BIZ, .NET, .ORG, .CA, .CO.UK and .IN域名只要$1。必须用信用卡。刚又买了一个。败家了。 [15:45:03, 2010-10-29](http://twitter.com/gfrog/statuses/29066339603)
+
+
+
+
+
+  * 回盛京 (@ Beijing Railway Station 北京站) [http://4sq.com/a3duxc](http://4sq.com/a3duxc) [16:59:11, 2010-10-29](http://twitter.com/gfrog/statuses/29069747224)
+
+
+
+
+
+  * 虽说是淡季，但是帝都火车站人依旧很多。 [18:01:49, 2010-10-29](http://twitter.com/gfrog/statuses/29073008853)
+
+
+
+
+
+  * 我了个去，这不是电视剧吧。。。 RT [@CorndogCN](http://twitter.com/CorndogCN) 昨日，某养猪网络公司下网络游戏事业部。公司停车场内，发生车震事件，重点是：车震ING，男主的老婆赶到现场，同时捉奸在车！然后女主的老公和另一美女同事E的奸情同时暴露 [18:03:58, 2010-10-29](http://twitter.com/gfrog/statuses/29073126968)
+
+
+
+
+
+  * RT [@beralee](http://twitter.com/beralee): 支付宝火车票代购上线鸟  [http://is.gd/gryP8](http://is.gd/gryP8) [18:05:10, 2010-10-29](http://twitter.com/gfrog/statuses/29073198493)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): RT [@liubinyan](http://twitter.com/liubinyan): 长春大四女生违章撞交警 肇事司机父亲：没撞死就好办！http://is.gd/grtnc [18:06:58, 2010-10-29](http://twitter.com/gfrog/statuses/29073299049)
+
+
+
+
+
+  * RT [@PercyYang](http://twitter.com/PercyYang): 试过了，好用，翻墙利器。RT [@ebuluo](http://twitter.com/ebuluo): 试试这个。http://zi.mu/10hk 如果你用chrome，请装这个更好用的插件http://zi.mu/10hm [18:08:35, 2010-10-29](http://twitter.com/gfrog/statuses/29073389013)
+
+
+
+
+
+  * 妈的，站在这，越给人让地方越挨挤，我干脆跟旁边的人并排站。不给丫的机会。 [18:11:49, 2010-10-29](http://twitter.com/gfrog/statuses/29073568059)
+
+
+
+
+
+  * 上车了，奔向盛京。 [18:24:40, 2010-10-29](http://twitter.com/gfrog/statuses/29074273825)
+
+
+
+
+
+  * 路过，动车停下才有3g信号，杯具。 (@ 葫芦岛北站) [http://4sq.com/97dW5J](http://4sq.com/97dW5J) [21:19:09, 2010-10-29](http://twitter.com/gfrog/statuses/29086684976)
+
+
+
+
+
+  * 我左边是3gs，在PvZ，右边是ip4，在手写发短信。各位机器人，我应该用什么应用打败他们？ [21:21:39, 2010-10-29](http://twitter.com/gfrog/statuses/29086902069)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 参见我前面那推。不过我现在在用实体键盘打字，哈。 [in reply to Hc95](http://twitter.com/Hc95/statuses/29086953536) [21:27:14, 2010-10-29](http://twitter.com/gfrog/statuses/29087386842)
+
+
+
+
+
+  * 继续玩疯狂的小鸟吧。 [21:28:30, 2010-10-29](http://twitter.com/gfrog/statuses/29087497741)
+
+
+
+
+
+  * RT [@atomxu](http://twitter.com/atomxu) RT [@WayneStyle](http://twitter.com/WayneStyle): 今晚地铁一号线很不淡定，快到五棵松时，列车广播说：“下一站五棵松，有去看天后王菲演唱会的请在五棵松站下车”，于是乎，所有的人都下了。 [22:01:09, 2010-10-29](http://twitter.com/gfrog/statuses/29090384113)
+
+
+
+
+
+  * 机器人有自动重拨和设置情景模式的软件么? [22:04:38, 2010-10-29](http://twitter.com/gfrog/statuses/29090687836)
+
+
+
+
+
+  * 路过。 (@ 盘锦北站) [http://4sq.com/cK4Ixo](http://4sq.com/cK4Ixo) [22:05:14, 2010-10-29](http://twitter.com/gfrog/statuses/29090742025)
+
+
+
+

@@ -1,0 +1,84 @@
+---
+comments: true
+date: 2011-03-22 01:00:00
+layout: post
+slug: todays-tweets-2011-03-22
+title: Today's tweets 2011-03-22
+wordpress_id: 1695
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 缺乏实践的原因罢，XD RT [@r_ye](http://twitter.com/r_ye): 噫！h果然好难画！身体的姿势总是摆不对。。。 [09:55:17, 2011-03-22](http://twitter.com/gfrog/statuses/50012642873585664)
+
+
+
+
+
+  * [@r_ye](http://twitter.com/r_ye) 俺也木经验。。。 [in reply to r_ye](http://twitter.com/r_ye/statuses/50016696936828928) [10:59:29, 2011-03-22](http://twitter.com/gfrog/statuses/50028795616428032)
+
+
+
+
+
+  * 太狠了。 RT [@raptorz](http://twitter.com/raptorz): RT [@DaNmarner](http://twitter.com/DaNmarner): 把 "True, False = False, True"放进你的Python库里面，大家很快就会停止"import *”了 -- the Rev Johnny Healey。 via [@voidspace](http://twitter.com/voidspace) [12:37:35, 2011-03-22](http://twitter.com/gfrog/statuses/50053483226869760)
+
+
+
+
+
+  * RT [@gttnnn](http://twitter.com/gttnnn): 中国中央电视台还是以中国新闻为主啊……内牛满面 RT [@hdtv720p](http://twitter.com/hdtv720p) 当一个国家从CCAV消失的时候，我们就可以判断这个国家的人真正过上了幸福自由的生活 .......伊拉克好久没上CCCAV了 [15:13:49, 2011-03-22](http://twitter.com/gfrog/statuses/50092803111403520)
+
+
+
+
+
+  * 我擦，太彪悍了 RT [@ImSyls](http://twitter.com/ImSyls): 北京，富顿公寓 [@justin7974](http://twitter.com/justin7974): 太NB了 [@P2Baby](http://twitter.com/P2Baby):昨天下午公司对面的公寓里一女子岔开双腿对着窗外自慰，办公室里人群骚动！先是惊叹声此起彼伏，然后快门声不绝于耳，真是他妈让我开了眼了 [http://t.co/j1I5dBX](http://t.co/j1I5dBX) [15:36:15, 2011-03-22](http://twitter.com/gfrog/statuses/50098447465975808)
+
+
+
+
+
+  * 又震。。。 RT [@xddcc](http://twitter.com/xddcc): OMG… RT [@westmoon](http://twitter.com/westmoon): 刚才日本东北部海域的强震USGS测得的结果是6.6级！ [15:52:49, 2011-03-22](http://twitter.com/gfrog/statuses/50102616289574912)
+
+
+
+
+
+  * 话说俺当年就有把文件隐藏在回收站的习惯，不过清空回收站是按照index删除里面的内容，俺把文件用命令行复制进去，这样即绕开了回收站，又达到隐藏的目的了。 RT [@zongsen](http://twitter.com/zongsen): 曾经手贱清空了一个同学的回收站…… [17:04:39, 2011-03-22](http://twitter.com/gfrog/statuses/50120695593705472)
+
+
+
+
+
+  * [@zongsen](http://twitter.com/zongsen) 不知道XP之后的系统这样还行不行啦，嘿嘿。 [in reply to zongsen](http://twitter.com/zongsen/statuses/50124232226643968) [17:31:41, 2011-03-22](http://twitter.com/gfrog/statuses/50127499350376448)
+
+
+
+
+
+  * 恩，opera mini6确实不错，界面该大的大，该小的小，顺手了很多。 [17:32:41, 2011-03-22](http://twitter.com/gfrog/statuses/50127750295597056)
+
+
+
+
+
+  * [@haibin](http://twitter.com/haibin) 要求太多啦，直接挂vpn罢。 [in reply to haibin](http://twitter.com/haibin/statuses/50128242434244608) [17:51:17, 2011-03-22](http://twitter.com/gfrog/statuses/50132431814144000)
+
+
+
+
+
+  * 是我unfo的人太多了咩，还是gfw发飙发的厉害，为什么最近的推都很少了。 [18:04:29, 2011-03-22](http://twitter.com/gfrog/statuses/50135753455452160)
+
+
+
+

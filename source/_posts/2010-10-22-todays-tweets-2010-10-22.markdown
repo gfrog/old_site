@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2010-10-22 01:00:00
+layout: post
+slug: todays-tweets-2010-10-22
+title: Today's tweets 2010-10-22
+wordpress_id: 1016
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * I'm at Redhat＠融科资讯 (海淀区中关村科学院南路2号 融科资讯中心C座北楼, 北京市). [http://4sq.com/9MPIR0](http://4sq.com/9MPIR0) [14:00:19, 2010-10-22](http://twitter.com/gfrog/statuses/28378523941)
+
+
+
+
+
+  * 每次看到virtualbox，我都为sun默哀一次，然后在心里骂oracle一万遍啊一万遍。 [21:05:27, 2010-10-22](http://twitter.com/gfrog/statuses/28402353284)
+
+
+
+
+
+  * 我所有的玩具都在一次次的搬家中扔掉了，杯具。 RT [@Gyteng](http://twitter.com/Gyteng) 刚才看了玩具总动员3，我已经想不起小时候的玩具放哪了 [23:07:43, 2010-10-22](http://twitter.com/gfrog/statuses/28413102076)
+
+
+
+

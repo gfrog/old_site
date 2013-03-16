@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2010-12-30 01:00:00
+layout: post
+slug: todays-tweets-2010-12-30
+title: Today's tweets 2010-12-30
+wordpress_id: 1506
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@pizzaliker](http://twitter.com/pizzaliker): RT [@apple4us](http://twitter.com/apple4us): WordPress 创始人 Matt Mullenweg 发信说有个严重漏洞，请大家立即更新到 WordPress 3.0.4。http://bit.ly/gUrGYI [13:02:05, 2010-12-30](http://twitter.com/gfrog/statuses/20343846458105856)
+
+
+
+
+
+  * 用了几天thunderbird，十分不爽，干脆还是换回mutt，这次要做好备份，免得再丢配置。 [13:42:32, 2010-12-30](http://twitter.com/gfrog/statuses/20354026512056320)
+
+
+
+
+
+  * 您就不能做个snapshot？复制多浪费时间。。 RT [@sagasw](http://twitter.com/sagasw): 我对虚拟机已经玩到了出神入化的地步了。主要这样几招，复制备份文件到某个地方，启动，测试，然后删掉，这几招无敌！ [13:43:03, 2010-12-30](http://twitter.com/gfrog/statuses/20354155088449536)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 28 Dec 2010 - Flickr [http://j.mp/ha1bY3](http://j.mp/ha1bY3) [15:30:02, 2010-12-30](http://twitter.com/gfrog/statuses/20381079894499329)
+
+
+
+
+
+  * RT [@duck_1984](http://twitter.com/duck_1984): [#FML](http://search.twitter.com/search?q=%23FML) 麻痹我妈刚给我打电话了，“我看电视北京房租怎么才77，你每月房租跟我说1100，你钱都哪去了？！” [17:44:04, 2010-12-30](http://twitter.com/gfrog/statuses/20414811112218624)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 显然的啊，不是安全更新么。 in reply to movingtea1982 [17:47:26, 2010-12-30](http://twitter.com/gfrog/statuses/20415655132004352)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 有自动升级啊，点下鼠标就OK的。 in reply to movingtea1982 [18:31:27, 2010-12-30](http://twitter.com/gfrog/statuses/20426732536332288)
+
+
+
+
+
+  * 帝都考驾照还真贵，越来越后悔木有当时在长春搞定驾照了。 [19:20:38, 2010-12-30](http://twitter.com/gfrog/statuses/20439111005380608)
+
+
+
+
+
+  * 月薪？！ 单位RMB？太惊人了。  RT [@Fenng](http://twitter.com/Fenng) KaiFu Lee的月薪, 实际收入：258万 [http://ww3.sinaimg.cn/large/643d5725jw6dcut3emduoj.jpg](http://ww3.sinaimg.cn/large/643d5725jw6dcut3emduoj.jpg) [19:21:38, 2010-12-30](http://twitter.com/gfrog/statuses/20439360839094273)
+
+
+
+
+
+  * [@zongsen](http://twitter.com/zongsen) 是长春的3倍多。 in reply to zongsen [20:57:27, 2010-12-30](http://twitter.com/gfrog/statuses/20463475738279936)
+
+
+
+

@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2010-11-12 01:00:00
+layout: post
+slug: todays-tweets-2010-11-12
+title: Today's tweets 2010-11-12
+wordpress_id: 1037
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) sftp不也一样么。。。跟scp有差别? [in reply to Rex5652](http://twitter.com/Rex5652/statuses/2704237037355008) [00:12:11, 2010-11-12](http://twitter.com/gfrog/statuses/2755476399857664)
+
+
+
+

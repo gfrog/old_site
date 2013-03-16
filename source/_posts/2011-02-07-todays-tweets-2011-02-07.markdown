@@ -1,0 +1,258 @@
+---
+comments: true
+date: 2011-02-07 01:00:00
+layout: post
+slug: todays-tweets-2011-02-07
+title: Today's tweets 2011-02-07
+wordpress_id: 1656
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 同样被鞭炮吵醒的飘过，抚顺初五真热闹。 RT [@gamtin](http://twitter.com/gamtin): 今天农历正月初五，老话叫“破五”。一早不出意料的被鞭炮声吵醒，只好爬上来上网。这也是我在家的最后一个整天，明天将踏上回大连的路程。 [08:34:36, 2011-02-07](http://twitter.com/gfrog/statuses/34409656914808833)
+
+
+
+
+
+  * 自作孽不可活。把自家vps设置了只允许公钥方式登录，结果回家过年没有带私钥回来，vps干脆无法登录。折腾半天，找到免费ssh翻墙上推。 [16:04:50, 2011-02-07](http://twitter.com/gfrog/statuses/34522963969576960)
+
+
+
+
+
+  * 免费的东西自然速度暴慢。 [16:06:05, 2011-02-07](http://twitter.com/gfrog/statuses/34523278424932352)
+
+
+
+
+
+  * 很奇怪这种电话本增强软件哪来的市场，机器人的通信录相当好用啊，难道是塞班遗毒？ RT [@coldmontis](http://twitter.com/coldmontis): 老丈人拿着G7确实有些觉得丈二和尚摸不着头脑，编辑个通信录都没方向，推荐他使用91手机助手或者豌豆荚，这两个哪个比较好呢？？我怎么觉得自己用不到这两样软件呢 [16:08:57, 2011-02-07](http://twitter.com/gfrog/statuses/34524000214319104)
+
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): RT [@misswell](http://twitter.com/misswell) RT [@twee_dao](http://twitter.com/twee_dao): 【模板】__后，__，不__会死星人，__控，对__无抵抗力，对__有爱。爱__，爱__，爱____，我不是__，我是__。话痨，慎fo。有FO必回。 [16:10:10, 2011-02-07](http://twitter.com/gfrog/statuses/34524306771808256)
+
+
+
+
+
+  * 又见到亲切的itweet了，翻墙终于成功。 [16:12:07, 2011-02-07](http://twitter.com/gfrog/statuses/34524796683288576)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 啊，突然想起来linode有web console，登上去加个公钥去。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/34524589430149120) [16:13:38, 2011-02-07](http://twitter.com/gfrog/statuses/34525179333976064)
+
+
+
+
+
+  * [@coldmontis](http://twitter.com/coldmontis) 唉，被不靠谱的系统折磨出来的畸形的使用习惯，想起来挺悲哀的。俺都直接在gmail里修改联系人，然后同步到手机上去，快速又方便。 [in reply to coldmontis](http://twitter.com/coldmontis/statuses/34525067874402304) [16:15:12, 2011-02-07](http://twitter.com/gfrog/statuses/34525573602611200)
+
+
+
+
+
+  * 俺一直觉得itweet是我用过的最舒服的客户端，只有在这个客户端里俺才有改bio的兴致。 [16:16:50, 2011-02-07](http://twitter.com/gfrog/statuses/34525985030418432)
+
+
+
+
+
+  * 那用啥？ Liber还不成气候吧。 RT [@Houge_Langley](http://twitter.com/Houge_Langley): 靠，为什么Debian还在用Ooo，不是说以后不用Ooo作为默认的文档编辑器了吗？！ [16:21:29, 2011-02-07](http://twitter.com/gfrog/statuses/34527152091172865)
+
+
+
+
+
+  * 五毛所为？ RT [@Houge_Langley](http://twitter.com/Houge_Langley): ♺ [@H_Fantong](http://twitter.com/H_Fantong): 中文维基百科目前正在遭受极其严重的机器人自动破坏。破坏者在大量的无关条目加入洪吟、三字经、长恨歌、琵琶行。哪位哥哥愿意和饭桶一起“发正念铲除邪恶”呢？ [16:22:23, 2011-02-07](http://twitter.com/gfrog/statuses/34527381725122560)
+
+
+
+
+
+  * 神马客户端RT是用引号方式的，太变态了。 [16:25:25, 2011-02-07](http://twitter.com/gfrog/statuses/34528143431696384)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 貌似Fedora还是Ubuntu的新版本已经换成Liber了，OOo开发这么缓慢，迟早会被淘汰的。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/34528727866019840) [16:29:49, 2011-02-07](http://twitter.com/gfrog/statuses/34529251889778689)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 不过就我来说，只要OOo跟Oracle还有关系，我就还会抵制它。哈，有点偏激。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/34530609535651840) [16:51:25, 2011-02-07](http://twitter.com/gfrog/statuses/34534685375864832)
+
+
+
+
+
+  * [@H_Fantong](http://twitter.com/H_Fantong) 总之是个变态。 [in reply to H_Fantong](http://twitter.com/H_Fantong/statuses/34532081111400448) [16:52:07, 2011-02-07](http://twitter.com/gfrog/statuses/34534864518782976)
+
+
+
+
+
+  * [@laobubu](http://twitter.com/laobubu) 不用写大括号不也是一个很方便的地方嘛，XD [in reply to laobubu](http://twitter.com/laobubu/statuses/34535006852358144) [16:53:36, 2011-02-07](http://twitter.com/gfrog/statuses/34535234762448896)
+
+
+
+
+
+  * 几天没更新，Chromium已经更新到11.0分支了。 [16:54:50, 2011-02-07](http://twitter.com/gfrog/statuses/34535546709614592)
+
+
+
+
+
+  * 但是chromium11有一个致命的问题，丫的会把所有的连接都跳转到https上去，那些不提供https访问的站点都杯具了。这个问题不知道有没有workaround。 [16:56:44, 2011-02-07](http://twitter.com/gfrog/statuses/34536022482092032)
+
+
+
+
+
+  * [@laobubu](http://twitter.com/laobubu) 恩，当年写C的时候数括号对齐是个很要命的事情。特别是修改大段的代码的时候。 [in reply to laobubu](http://twitter.com/laobubu/statuses/34535795515723776) [16:57:40, 2011-02-07](http://twitter.com/gfrog/statuses/34536259707736064)
+
+
+
+
+
+  * 古董网卡一枚。 RT [@hahahu](http://twitter.com/hahahu): 啥东东来？RT [@vching1](http://twitter.com/vching1): 家裡竟然有3Com 的3c905… 奇跡… [16:58:46, 2011-02-07](http://twitter.com/gfrog/statuses/34536535516774400)
+
+
+
+
+
+  * [@laobubu](http://twitter.com/laobubu) 木有用IDE写过C代码，从来都是vim的，虽然有提示，但是函数长了找括号配对还是很麻烦。 [17:01:08, 2011-02-07](http://twitter.com/gfrog/statuses/34537130692714496)
+
+
+
+
+
+  * [@H_Fantong](http://twitter.com/H_Fantong) 这样的话，大陆的P民无论如何都是杯具的。。。。 [in reply to H_Fantong](http://twitter.com/H_Fantong/statuses/34537065391595524) [17:03:11, 2011-02-07](http://twitter.com/gfrog/statuses/34537646176870400)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 对，ppa上的。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/34537832907280384) [17:05:38, 2011-02-07](http://twitter.com/gfrog/statuses/34538262056017920)
+
+
+
+
+
+  * 当年我被这块卡折磨课N久，Debian woody上竟然没它的驱动 RT [@petefang](http://twitter.com/petefang): 3c905经典中的经典啊 RT [@gfrog](http://twitter.com/gfrog): 古董网卡一枚。 RT [@hahahu](http://twitter.com/hahahu): RT [@vching1](http://twitter.com/vching1): 家裡竟然有3Com 的3c905… 奇跡 [17:10:19, 2011-02-07](http://twitter.com/gfrog/statuses/34539444375650304)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 小的东西还可以，20K的速度倒也用不了太久。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/34539315509858304) [17:12:39, 2011-02-07](http://twitter.com/gfrog/statuses/34540028407447552)
+
+
+
+
+
+  * [@H_Fantong](http://twitter.com/H_Fantong) 感觉国内用户有想法有能力编辑维基百科的也不多，能力是一方面，有分享意识的也不多。 [in reply to H_Fantong](http://twitter.com/H_Fantong/statuses/34540225891930112) [17:15:18, 2011-02-07](http://twitter.com/gfrog/statuses/34540696195043328)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) oops，杯具。 [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/34541931929280512) [17:21:29, 2011-02-07](http://twitter.com/gfrog/statuses/34542253984710657)
+
+
+
+
+
+  * [@H_Fantong](http://twitter.com/H_Fantong) 管理员跟贡献者还是不同的吧，我感觉好多条目都是港澳台同学们写的，大陆童鞋写的条目不多，而且普遍质量不高。 [in reply to H_Fantong](http://twitter.com/H_Fantong/statuses/34542098749333504) [17:27:57, 2011-02-07](http://twitter.com/gfrog/statuses/34543881311756288)
+
+
+
+
+
+  * 手机淘宝 XDRT [@htgyj](http://twitter.com/htgyj): 你大爷的中国移动，今晚要是敢给我停机，你全家一年不得好运！不想粗门了，木有网络，无法淘宝，摔…… [19:36:50, 2011-02-07](http://twitter.com/gfrog/statuses/34576314828591104)
+
+
+
+
+
+  * RT [@guao](http://twitter.com/guao): 谷安更新: Android 2.1 和更高版本的系统基本上占据了 Android 设备的 90% [http://guao.cc/LE2](http://guao.cc/LE2) by [@wode0835](http://twitter.com/wode0835) [19:39:18, 2011-02-07](http://twitter.com/gfrog/statuses/34576936000962560)
+
+
+
+
+
+  * RT [@ConanChou](http://twitter.com/ConanChou): 我见到过在MB下装xp，然后换乘osx的皮肤 [@fu2dai](http://twitter.com/fu2dai): 买apple装b的，买macbook删掉macos装win [@chqqq](http://twitter.com/chqqq): 男的也有不破解就买来充面子 [@fu2dai](http://twitter.com/fu2dai): 不知道那些人怎么忍受ios自带输入法的 [@fixco7](http://twitter.com/fixco7) [19:41:29, 2011-02-07](http://twitter.com/gfrog/statuses/34577486922649601)
+
+
+
+
+
+  * [@FENGJoy](http://twitter.com/FENGJoy) [@skyier](http://twitter.com/skyier) 多神奇的客户端。。。 [in reply to FENGJoy](http://twitter.com/FENGJoy/statuses/34564658559983616) [19:45:12, 2011-02-07](http://twitter.com/gfrog/statuses/34578419400314880)
+
+
+
+
+
+  * 太sb了，以后要养成拿到国人的脚本打开看一遍的习惯。RT [@raptorz](http://twitter.com/raptorz): 中国电信太SB了 转 [@imvenj](http://twitter.com/imvenj)  写电信mac 3g客户端的傻逼，你他妈的有没有职业道德啊！！有你妈逼这么写代码的么？？？？ [http://fanfou.com/photo/KGZLpnt-Da8](http://fanfou.com/photo/KGZLpnt-Da8) [22:27:40, 2011-02-07](http://twitter.com/gfrog/statuses/34619306578804737)
+
+
+
+
+
+  * 说起脚本，我身边的某些所谓高手完全不把shell script当做一回事，认为这东西不是正路玩意。一般这种人都是半路出家搞＊nix的，基本没法指望他们写出什么靠谱的script，真该把这些货打回炉重炼。 [22:31:42, 2011-02-07](http://twitter.com/gfrog/statuses/34620319587246080)
+
+
+
+
+
+  * TL上满眼的八卦，俺不想八看来都不行了，那就追追八卦的前因后果去 哈哈。 [23:13:56, 2011-02-07](http://twitter.com/gfrog/statuses/34630951740903424)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 沙箱呀，这样倒是最安全，但是消耗也很大。还好在linux底下基本都有源码，没源码的能直接跑起来的也不多，这点可以避开很多恶意/SB程序 [in reply to raptorz](http://twitter.com/raptorz/statuses/34620459114823680) [23:16:21, 2011-02-07](http://twitter.com/gfrog/statuses/34631558333734913)
+
+
+
+
+
+  * [@jerryhou85](http://twitter.com/jerryhou85) 俺先google实时搜索看看。 [in reply to jerryhou85](http://twitter.com/jerryhou85/statuses/34631232734240768) [23:17:23, 2011-02-07](http://twitter.com/gfrog/statuses/34631816056934400)
+
+
+
+
+
+  * google显示今天下午6点之后关键字“八卦”开始急速升温，那就找找6点前后的推。 [23:19:33, 2011-02-07](http://twitter.com/gfrog/statuses/34632365103906816)
+
+
+
+
+
+  * [@_J_Smith](http://twitter.com/_J_Smith) 是的，这也是DH受欢迎的原因，一个IP被墙了，删掉域名再配置一次，就有一个新IP了。 [in reply to _J_Smith](http://twitter.com/_J_Smith/statuses/34632628388757504) [23:23:24, 2011-02-07](http://twitter.com/gfrog/statuses/34633331991642112)
+
+
+
+
+
+  * 放弃，俺果然不是适合人肉搜索的类型。 [23:27:34, 2011-02-07](http://twitter.com/gfrog/statuses/34634381729468417)
+
+
+
+

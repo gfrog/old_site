@@ -1,0 +1,90 @@
+---
+comments: true
+date: 2012-04-13 23:59:00
+layout: post
+slug: todays-tweets-2012-04-13
+title: Today's tweets 2012-04-13
+wordpress_id: 2492
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@nextobb](http://twitter.com/nextobb): 朝鲜成功地发射卫星失败。 [08:09:13, 2012-04-13](http://twitter.com/gfrog/statuses/190592442272198657)
+
+
+
+
+
+  * 每日一求：求靠谱人肉 #翻墙 机会。 [09:00:32, 2012-04-13](http://twitter.com/gfrog/statuses/190605356035092480)
+
+
+
+
+
+  * 阳光明媚，公司组团出动春游。 [10:34:06, 2012-04-13](http://twitter.com/gfrog/statuses/190628901679144961)
+
+
+
+
+
+  * 精辟。RT [@childream](http://twitter.com/childream): 终于被我总结出来穿高跟鞋不脚疼的方法：脚别沾地！！！！ [10:35:24, 2012-04-13](http://twitter.com/gfrog/statuses/190629228679659520)
+
+
+
+
+
+  * RT [@chnp101](http://twitter.com/chnp101): 噗RT [@tito1945](http://twitter.com/tito1945) 和朋友一起吃晚饭，溜达到夜市，正好一辆派出所的巡逻车经过。远远的警灯一闪一闪的。小贩们看到了，纷纷收拾东西准备跑路。 亲民的JC叔叔在车里用扩音器喊：不要跑，不是城管 [10:37:59, 2012-04-13](http://twitter.com/gfrog/statuses/190629880529035265)
+
+
+
+
+
+  * RT [@xyz98](http://twitter.com/xyz98): 上回提到写过一个python脚本，用来批量上传/下载/同步box dot net上的文档，刚整理了一下放在github上，需要者请自取 [http://t.co/zRHWoO0X](http://t.co/zRHWoO0X)  [@zheng](http://twitter.com/zheng) [@chenxinmoongate](http://twitter.com/chenxinmoongate) [@harrygg](http://twitter.com/harrygg) [@J](http://twitter.com/J) ... [10:38:54, 2012-04-13](http://twitter.com/gfrog/statuses/190630108082601984)
+
+
+
+
+
+  * 爬上京承高速，这是去哪啊。。。 [11:04:14, 2012-04-13](http://twitter.com/gfrog/statuses/190636484565549056)
+
+
+
+
+
+  * 说是要取天通苑附近，这可真是附近，跑北七家来了。。 [11:12:43, 2012-04-13](http://twitter.com/gfrog/statuses/190638620636487680)
+
+
+
+
+
+  * kde党发来贺电。 RT [@tualatrix](http://twitter.com/tualatrix): 《重新认识Ubuntu Unity（上）：Unity之降临》 [http://t.co/lK95lfGo](http://t.co/lK95lfGo) 写了一个半小时，才写好了上篇，近5000字，大家要支持啊～不然我不写下篇了。嘻嘻 [11:13:42, 2012-04-13](http://twitter.com/gfrog/statuses/190638866250731520)
+
+
+
+
+
+  * RT [@BeijingAir](http://twitter.com/BeijingAir): 04-13-2012 11:00; PM2.5; 85.0; 162; Unhealthy (at 24-hour exposure at this level) [11:14:00, 2012-04-13](http://twitter.com/gfrog/statuses/190638943371395072)
+
+
+
+
+
+  * 终于知道来哪里了。 (@ 拉斐特城堡酒店) [http://t.co/URvxQ5vF](http://t.co/URvxQ5vF) [11:19:01, 2012-04-13](http://twitter.com/gfrog/statuses/190640205244538880)
+
+
+
+
+
+  * RT [@SnHine](http://twitter.com/SnHine): 警察抓住一小偷，并在其家中发现大量时装杂志，警察十分不解问：“你想做服装生意吗？”小偷不好意思说：“主要看看新款服装，口袋在哪里？“ [18:19:13, 2012-04-13](http://twitter.com/gfrog/statuses/190745950489280512)
+
+
+
+

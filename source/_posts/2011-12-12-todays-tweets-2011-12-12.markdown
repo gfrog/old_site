@@ -1,0 +1,132 @@
+---
+comments: true
+date: 2011-12-12 01:00:00
+layout: post
+slug: todays-tweets-2011-12-12
+title: Today's tweets 2011-12-12
+wordpress_id: 1979
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@hama](http://twitter.com/hama) 啧啧，要不然总要惦记着那个破优惠券，换成东西拿到手才放心，啊哈哈。看起来这破抹布正好可以拿来擦俺的车子，lol [in reply to hama](http://twitter.com/hama/statuses/145896405926555648) [00:11:51, 2011-12-12](http://twitter.com/gfrog/statuses/145898598742245376)
+
+
+
+
+
+  * 睡觉，明儿要早起。 [00:12:23, 2011-12-12](http://twitter.com/gfrog/statuses/145898735988260864)
+
+
+
+
+
+  * 我勒个去，这不是大喇嘛嘛！kindle会不会被禁售？ [http://t.co/T45feGkI](http://t.co/T45feGkI) [09:40:00, 2011-12-12](http://twitter.com/gfrog/statuses/146041580887879680)
+
+
+
+
+
+  * RT [@blogkid](http://twitter.com/blogkid): 最近民生银行信用卡有活动，刷3笔99以上或累计刷2000以上（计积分消费），可以得到两张《金陵十三钗》电影票。昨天我刚拿到兑换券，感兴趣的朋友们可以关注下。 [09:55:15, 2011-12-12](http://twitter.com/gfrog/statuses/146045415832305664)
+
+
+
+
+
+  * ubuntu里KDE的包依赖做的太烂了吧，前阵子俺的本子一直报告没有电源管理的backend云云，昨天俺查了一下，KDE的电源管理模块用了upower做后端，但是kubuntu-desktop只是推荐upower，而不是依赖，对于我这样只选依赖包的自然就杯具了。 [10:10:15, 2011-12-12](http://twitter.com/gfrog/statuses/146049190605230080)
+
+
+
+
+
+  * 其实完全就是在制造垃圾邮件。RT [@yoyicue](http://twitter.com/yoyicue): XXXX 晋升为 XX 产品市场部项目经理, 这种回复全部邮件组 祝贺 的人太坑爹了, 祝福你妹呀 [10:23:48, 2011-12-12](http://twitter.com/gfrog/statuses/146052603850133505)
+
+
+
+
+
+  * 唉，入冬之后运动量严重不足，结果腿又变胖了。。。 纠结。 [10:41:06, 2011-12-12](http://twitter.com/gfrog/statuses/146056956711407616)
+
+
+
+
+
+  * [@jyman](http://twitter.com/jyman) 天冷啊，体力下降极度明显，夏天骑车几小时都没事，换冬天，跑俩小时就饿抽儿了。 [in reply to jyman](http://twitter.com/jyman/statuses/146057217337069568) [10:44:29, 2011-12-12](http://twitter.com/gfrog/statuses/146057808264167424)
+
+
+
+
+
+  * [@jyman](http://twitter.com/jyman) 穿的多了会热死的，穿少了热量损失的又太快。。。。 目前帝都这种快接近0度的气温真是不适合骑车。 [in reply to jyman](http://twitter.com/jyman/statuses/146059182762762240) [10:56:16, 2011-12-12](http://twitter.com/gfrog/statuses/146060773339308032)
+
+
+
+
+
+  * 要买冲锋衣，还得先去8264上补课去，唉唉，麻烦。身边木有户外专家呀。 [13:03:54, 2011-12-12](http://twitter.com/gfrog/statuses/146092892186886146)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 求推荐1k左右的冲锋衣型号，海淘也ok。囧，似乎预算偏低？ [in reply to htgyj](http://twitter.com/htgyj/statuses/146093213592199168) [13:10:57, 2011-12-12](http://twitter.com/gfrog/statuses/146094665790275585)
+
+
+
+
+
+  * [@hengdm](http://twitter.com/hengdm) 嗯，这是真的，木钱的苦逼只好花时间啦，反正苦逼青年的时间也不值钱。 [in reply to hengdm](http://twitter.com/hengdm/statuses/146093299151810560) [13:11:35, 2011-12-12](http://twitter.com/gfrog/statuses/146094825102508033)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 其实就是日常穿啦，所以要求舒适就好，指标神马的倒在其次了。。 [in reply to htgyj](http://twitter.com/htgyj/statuses/146095109157556224) [13:15:32, 2011-12-12](http://twitter.com/gfrog/statuses/146095819106418688)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 300块。。。 好吧。 [in reply to htgyj](http://twitter.com/htgyj/statuses/146102006870847488) [13:49:49, 2011-12-12](http://twitter.com/gfrog/statuses/146104446017994753)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 唉，女生好办啊，不太容易出汗。我可是没事就飙汗的主，便宜的衣服像塑料布一样，会捂死人的。 [in reply to htgyj](http://twitter.com/htgyj/statuses/146104996184862720) [13:59:17, 2011-12-12](http://twitter.com/gfrog/statuses/146106830182039552)
+
+
+
+
+
+  * 哦，great RT [@WOHOM](http://twitter.com/WOHOM): Kindle 4 Root后更换中文字体 [http://t.co/o2EQqHlN](http://t.co/o2EQqHlN) [14:07:27, 2011-12-12](http://twitter.com/gfrog/statuses/146108883339980801)
+
+
+
+
+
+  * 读RFC真郁闷，特别是用那种神马ABNF定义格式的RFC，无敌了，我想挠墙 [17:04:03, 2011-12-12](http://twitter.com/gfrog/statuses/146153329909710848)
+
+
+
+
+
+  * RT [@ag108lau](http://twitter.com/ag108lau):  真的假的？RT [@NvShao](http://twitter.com/NvShao): 据北京市CBD管委会透露，CBD中心商务区的CBD-WLAN无线网络已于11月22日起面向社会免费开放，用户只要使用新浪微博账号即可快捷登陆并免费使用。 [17:04:39, 2011-12-12](http://twitter.com/gfrog/statuses/146153479830913024)
+
+
+
+
+
+  * RT [@na_sheishei](http://twitter.com/na_sheishei): RT [@happyfan](http://twitter.com/happyfan):  [http://t.co/hT60e8R7](http://t.co/hT60e8R7) 校车又出事故了，医院现场图，挤爆了。江苏省徐州市丰县首羡后屯北发生重大车祸,首羡小学,校车上共有1到6年级学生71人,截止现在,死亡人数达到40多人 [23:38:57, 2011-12-12](http://twitter.com/gfrog/statuses/146252706057682944)
+
+
+
+

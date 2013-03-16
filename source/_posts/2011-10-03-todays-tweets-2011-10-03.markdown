@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2011-10-03 01:00:00
+layout: post
+slug: todays-tweets-2011-10-03
+title: Today's tweets 2011-10-03
+wordpress_id: 1866
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 坑爹的火车啊，连货车都要让。。。 [09:48:12, 2011-10-03](http://twitter.com/gfrog/statuses/120676493486592000)
+
+
+
+
+
+  * 手机上竟然出现了edge信号，看来联通在某些区域确实部署了EDGE [12:06:46, 2011-10-03](http://twitter.com/gfrog/statuses/120711362786758657)
+
+
+
+

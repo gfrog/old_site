@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2011-12-13 01:00:00
+layout: post
+slug: todays-tweets-2011-12-13
+title: Today's tweets 2011-12-13
+wordpress_id: 1980
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 哦，俺的Kindle touch竟然发货了，真不敢相信。。。 按照圆通的速度，这周应该就能收到了。。。 [00:15:02, 2011-12-13](http://twitter.com/gfrog/statuses/146261786709082113)
+
+
+
+
+
+  * 我擦，自己写的socket server，竟然连nc -l的效果都不如，这代码能不能更烂一些。。。 [10:46:47, 2011-12-13](http://twitter.com/gfrog/statuses/146420774784339968)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 啧啧。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/146506589803790336) [22:23:03, 2011-12-13](http://twitter.com/gfrog/statuses/146595994245677058)
+
+
+
+
+
+  * 哎呀呀，帝都挂大风喽，明天空气质量又该变好了。不过顶风骑车真郁闷，刚刚走到半路开始挂风，真是想让风吹死的心都有。 [22:25:34, 2011-12-13](http://twitter.com/gfrog/statuses/146596626432131073)
+
+
+
+
+
+  * [@717amy](http://twitter.com/717amy) 唉唉，这片儿新房子不多，旧房子遍地，价格还暴高。。 [in reply to 717amy](http://twitter.com/717amy/statuses/146601094347366400) [22:51:31, 2011-12-13](http://twitter.com/gfrog/statuses/146603157110267905)
+
+
+
+
+
+  * [@717amy](http://twitter.com/717amy) 村里附近房子都比较差，再往东才好一些。。。 不过那边就太远了。其实我也在村里附近上班，但是附近根本找不到合适的房子，太破太破。 [in reply to 717amy](http://twitter.com/717amy/statuses/146603437554024448) [23:07:35, 2011-12-13](http://twitter.com/gfrog/statuses/146607203867037697)
+
+
+
+
+
+  * [@717amy](http://twitter.com/717amy) 早晚十号线太可怕了。 哦，大概巴沟可以考虑下？ [in reply to 717amy](http://twitter.com/717amy/statuses/146611482732404736) [23:26:54, 2011-12-13](http://twitter.com/gfrog/statuses/146612061667983361)
+
+
+
+

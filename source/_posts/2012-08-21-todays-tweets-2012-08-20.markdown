@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2012-08-21 23:59:00
+layout: post
+slug: todays-tweets-2012-08-20
+title: Today's tweets 2012-08-20
+wordpress_id: 2651
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 为毛网速这么卡啊啊啊啊啊啊。 [2012-08-20](http://twitter.com/gfrog/statuses/237541402853126145)
+
+
+
+
+
+  * 淘宝这个大骗子，我每次登录都选了那个十天之内免登录，结果丫还是天天让我登录，登录，登录。 [2012-08-20](http://twitter.com/gfrog/statuses/237535989252370432)
+
+
+
+
+
+  * 用openshift看youtube还真快呢，lol [2012-08-20](http://twitter.com/gfrog/statuses/237525140576026624)
+
+
+
+
+
+  * 用evernote clearly看Cisco的web版文档，很赞。 [2012-08-20](http://twitter.com/gfrog/statuses/237455487854055424)
+
+
+
+
+
+  * 我了个去，fedora rawhide的systemd-libs把libudev.so.0升级成了libudev.so.1，结果chrome启动不能。 [2012-08-20](http://twitter.com/gfrog/statuses/237423296285663232)
+
+
+
+
+
+  * 尼玛dracut又挂掉了，这坨粑粑。 [2012-08-20](http://twitter.com/gfrog/statuses/237410046487715840)
+
+
+
+
+
+  * 明明开了俩screen，但是窗口死活挪不到第二个screen上去，我只好拿大显示器看照片玩了。 [2012-08-20](http://twitter.com/gfrog/statuses/237388499941216256)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [2012-08-20](http://twitter.com/gfrog/statuses/237353454497050629)
+
+
+
+

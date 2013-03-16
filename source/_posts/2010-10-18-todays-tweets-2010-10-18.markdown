@@ -1,0 +1,126 @@
+---
+comments: true
+date: 2010-10-18 01:00:00
+layout: post
+slug: todays-tweets-2010-10-18
+title: Today's tweets 2010-10-18
+wordpress_id: 1012
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@Ray_h](http://twitter.com/Ray_h) 询价。 [10:06:44, 2010-10-18](http://twitter.com/gfrog/statuses/27694977888)
+
+
+
+
+
+  * bash咩？我一直觉得这个打法很诡异。  RT [@pipitu](http://twitter.com/pipitu): printf("%*d",width,x");唔第一次知道这个用法。。。 [10:22:53, 2010-10-18](http://twitter.com/gfrog/statuses/27696173565)
+
+
+
+
+
+  * [@Ray_h](http://twitter.com/Ray_h) 好贵好贵，新机也才2500多吧。。 [in reply to Ray_h](http://twitter.com/Ray_h/statuses/27695744175) [10:23:50, 2010-10-18](http://twitter.com/gfrog/statuses/27696243170)
+
+
+
+
+
+  * 虚拟机 RT [@movingtea1982](http://twitter.com/movingtea1982): 能不能不重启电脑就在两个系统之间切换呢……好麻烦 [13:21:11, 2010-10-18](http://twitter.com/gfrog/statuses/27707550264)
+
+
+
+
+
+  * RT [@yoyicue](http://twitter.com/yoyicue): RT [@Paveo](http://twitter.com/Paveo): 北京谁能给我份工作，求工作。。。啥都能干，任劳任怨。 [13:21:24, 2010-10-18](http://twitter.com/gfrog/statuses/27707560999)
+
+
+
+
+
+  * RT [@hengdm](http://twitter.com/hengdm): 新蛋很神奇呀，我脑子里想着要买个U盘随手打开了新蛋网，竟然搜索框里已经默认写好"U盘"了。这个心电感应用户体验很赞嘛～ 哈哈 cc [@MarsOcean](http://twitter.com/MarsOcean) [13:22:02, 2010-10-18](http://twitter.com/gfrog/statuses/27707591945)
+
+
+
+
+
+  * RT [@ahaofz](http://twitter.com/ahaofz): 泪奔RT [@Demo_d](http://twitter.com/Demo_d): 玩单反穷三代玩单反穷三代玩单反穷三代玩单反穷三代玩单反穷三代玩单反穷三代 [13:24:20, 2010-10-18](http://twitter.com/gfrog/statuses/27707706206)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 习惯就好，现在虚拟机速度很快，其实。 [in reply to movingtea1982](http://twitter.com/movingtea1982/statuses/27707675903) [13:25:02, 2010-10-18](http://twitter.com/gfrog/statuses/27707740269)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 跑winxp的话，512内存就能跑的非常流畅了。host留1G内存，也差不多够用。嗯，这么说来，host上也要有1.5-2G内存才方便用。 [in reply to movingtea1982](http://twitter.com/movingtea1982/statuses/27707832017) [13:31:42, 2010-10-18](http://twitter.com/gfrog/statuses/27708062069)
+
+
+
+
+
+  * 什么状况。。。 RT [@ksky](http://twitter.com/ksky): 同事刚买一天的里程碑，插PC上，USB口就废了。。。 [13:49:38, 2010-10-18](http://twitter.com/gfrog/statuses/27708915961)
+
+
+
+
+
+  * [@ksky](http://twitter.com/ksky) 我靠，这么杯具。。。 [in reply to ksky](http://twitter.com/ksky/statuses/27708955651) [14:00:03, 2010-10-18](http://twitter.com/gfrog/statuses/27709393325)
+
+
+
+
+
+  * RT [@ValueDreamZucc](http://twitter.com/ValueDreamZucc) RT [@Tsquall0629W](http://twitter.com/Tsquall0629W) JJ还是那个JJ，人已不是那个人。。。RT [@wubotao](http://twitter.com/wubotao) 美男子生殖器移植成功 迎娶器官捐赠者妻子 [http://goo.gl/hkqd](http://goo.gl/hkqd) >;这个世界太疯狂了！ [15:34:24, 2010-10-18](http://twitter.com/gfrog/statuses/27713492456)
+
+
+
+
+
+  * RT [@pityonline](http://twitter.com/pityonline): 北京 [#Ubuntu](http://search.twitter.com/search?q=%23Ubuntu) 10.10 Release Party 演讲者幻灯片已放出，感兴趣的同学可以下载看看： [http://goo.gl/umTw](http://goo.gl/umTw) [15:35:01, 2010-10-18](http://twitter.com/gfrog/statuses/27713523482)
+
+
+
+
+
+  * 似乎机锋上面早就有里程碑的2.2ROM了，但是不知道哪个比较稳定啊。很纠结要不要刷2.2。。 [15:35:51, 2010-10-18](http://twitter.com/gfrog/statuses/27713563582)
+
+
+
+
+
+  * [@_Liridice](http://twitter.com/_Liridice) 哦，现在里程碑还木有原生的2.2支持么，伪2.2似乎速度没啥提升吧。 [in reply to _Liridice](http://twitter.com/_Liridice/statuses/27713948060) [16:02:17, 2010-10-18](http://twitter.com/gfrog/statuses/27714688868)
+
+
+
+
+
+  * [@_Liridice](http://twitter.com/_Liridice) 不知道有木有人肯现身说法，报告下使用体会，哈哈。 [in reply to _Liridice](http://twitter.com/_Liridice/statuses/27715627273) [16:56:14, 2010-10-18](http://twitter.com/gfrog/statuses/27717096345)
+
+
+
+
+
+  * 重装，fedora14. [18:49:29, 2010-10-18](http://twitter.com/gfrog/statuses/27722869402)
+
+
+
+
+
+  * 晚餐指定用餐单位。。。。 (@ 食立方（知春里店）) [http://4sq.com/aeoXpj](http://4sq.com/aeoXpj) [20:46:09, 2010-10-18](http://twitter.com/gfrog/statuses/27730716872)
+
+
+
+

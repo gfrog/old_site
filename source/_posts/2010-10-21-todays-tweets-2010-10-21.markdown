@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2010-10-21 01:00:00
+layout: post
+slug: todays-tweets-2010-10-21
+title: Today's tweets 2010-10-21
+wordpress_id: 1015
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 在水果店体验imac，最大化效果差点没给我雷死。点了那个加号，浏览器窗口变成了屏幕的四分之一左右，缩在左下角。这就是mac认为的最佳显示效果。。RT [@wubuntust](http://twitter.com/wubuntust): mac就那么特别,有一些特别的处理方式,不说别人不清楚,比如全屏什么的 [10:28:38, 2010-10-21](http://twitter.com/gfrog/statuses/27988687659)
+
+
+
+
+
+  * 台风？RT [@fannylawrenC](http://twitter.com/fannylawrenC): 香港廣東一帶今天刮大風，是超強的，祝福各位！ [10:42:23, 2010-10-21](http://twitter.com/gfrog/statuses/27989688529)
+
+
+
+
+
+  * 其实也简单，就是喂胖他 XD RT [@kyokyo8899](http://twitter.com/kyokyo8899): 半个月才瘦了2斤，每天几乎以自虐的方式，，想必老婆轻一点太难了 [12:29:50, 2010-10-21](http://twitter.com/gfrog/statuses/27996859868)
+
+
+
+
+
+  * [@kyokyo8899](http://twitter.com/kyokyo8899) 持之以恒的喂之，他总会胖起来的 XD [in reply to kyokyo8899](http://twitter.com/kyokyo8899/statuses/27997155440) [12:40:29, 2010-10-21](http://twitter.com/gfrog/statuses/27997462709)
+
+
+
+
+
+  * 靠的，在Fedora下编译东西这活真不是人干的，Fedora的包名称极其诡异，除非熟练无比，要不然指着错误信息去找依赖包干脆就是不可能完成的。 [#fedora](http://search.twitter.com/search?q=%23fedora) [14:40:24, 2010-10-21](http://twitter.com/gfrog/statuses/28003299582)
+
+
+
+
+
+  * 这个烂编译系统提示我qa的头文件缺失，我想破头也没想到这个pa是啥。结果在编译命令行里发现pa跟alsa挨着，才想起来这个pa是pulseaudio，靠的，写个全称会累死？ [14:49:05, 2010-10-21](http://twitter.com/gfrog/statuses/28003677132)
+
+
+
+
+
+  * RT [@cdprobaby](http://twitter.com/cdprobaby): 我在前男友那里了解了足球的规则，在前男友那里学会了吉它、单反、手机刷机和写号，在前男友那里知道了成都四季黄道带里会出现的星系，也是在前男友那里学会了写代码，调 Bug。我想如果我花心一点的话，前途一定不可限量。 [15:28:04, 2010-10-21](http://twitter.com/gfrog/statuses/28005376502)
+
+
+
+
+
+  * 哇哩个赛，这还是真事，刚刚QQ蹦出来消息了。 RT [@zhangjialong](http://twitter.com/zhangjialong): 东直门爆炸图文 [http://is.gd/gaWF8](http://is.gd/gaWF8) 据说还有外国人受伤 [17:50:06, 2010-10-21](http://twitter.com/gfrog/statuses/28011905543)
+
+
+
+

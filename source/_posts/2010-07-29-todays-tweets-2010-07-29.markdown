@@ -1,0 +1,120 @@
+---
+comments: true
+date: 2010-07-29 01:00:00
+layout: post
+slug: todays-tweets-2010-07-29
+title: Today's tweets 2010-07-29
+wordpress_id: 914
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@gamtin](http://twitter.com/gamtin) RT: [@maxiujun](http://twitter.com/maxiujun): apktool可以反编译apk，包括res和java。可以对apk内容进行修改并且从新打包成apk，再随便签个名就能用，简直没有什么安全性可言。直接下载apk的同学注意了。 [09:20:16, 2010-07-29](http://twitter.com/gfrog/statuses/19786063999)
+
+
+
+
+
+  * 北京的租房价格啊。。。 越来越不靠谱了。 [09:20:37, 2010-07-29](http://twitter.com/gfrog/statuses/19786086756)
+
+
+
+
+
+  * [@babaru](http://twitter.com/babaru) 自建的rabr用了第三方api么？之前我发现用第三方api的时候rabr就彻底完蛋了，只能读推。 [in reply to babaru](http://twitter.com/babaru/statuses/19787421606) [09:45:41, 2010-07-29](http://twitter.com/gfrog/statuses/19787740632)
+
+
+
+
+
+  * 大家好，我的名字叫作gfrog，今年20歲，家住伊甸園。家庭成員有1個鋼彈、2個夏亞和3個過期的麵包，每天都過得和樂融融。 [http://shindanmaker.com/35462](http://shindanmaker.com/35462) [09:46:30, 2010-07-29](http://twitter.com/gfrog/statuses/19787796410)
+
+
+
+
+
+  * 啊啊啊，木有一个大显示器，读代码真费劲啊真费劲。 [10:06:28, 2010-07-29](http://twitter.com/gfrog/statuses/19789142010)
+
+
+
+
+
+  * 期待这这次 [#chinajoy](http://search.twitter.com/search?q=%23chinajoy) 的图片，刚刚被盛大的那张图片震撼到了。 [10:54:46, 2010-07-29](http://twitter.com/gfrog/statuses/19792516387)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 【图卦20100729】哪个让你直播的，哪个让你爆炸的 [http://j.mp/9KN7cU](http://j.mp/9KN7cU) [14:28:07, 2010-07-29](http://twitter.com/gfrog/statuses/19805283495)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 27 Jul 2010 - Flickr [http://j.mp/bH93Vo](http://j.mp/bH93Vo) [15:54:08, 2010-07-29](http://twitter.com/gfrog/statuses/19809094839)
+
+
+
+
+
+  * RT [@hengdm](http://twitter.com/hengdm): 深有体会 RT [@CatChen](http://twitter.com/CatChen): 本日金句：公司財報很好看，員工表示影響不大。 [19:58:17, 2010-07-29](http://twitter.com/gfrog/statuses/19820083854)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 十个著名的思想实验（这都是怎么想出来的） [http://j.mp/cU4FwE](http://j.mp/cU4FwE) [20:28:04, 2010-07-29](http://twitter.com/gfrog/statuses/19821792075)
+
+
+
+
+
+  * 太有创意了。 RT [@mlusa](http://twitter.com/mlusa) 大家去围观朝鲜官网 [http://www.korea-dpr.com/](http://www.korea-dpr.com/) ，看源码，搜strong。注意第381~383行，你会发现惊喜的。（我已经晕过去了） [20:31:26, 2010-07-29](http://twitter.com/gfrog/statuses/19821995576)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 上次看到一个开着窗开空调的车，很诡异。 [in reply to quakelee](http://twitter.com/quakelee/statuses/19830393162) [22:38:49, 2010-07-29](http://twitter.com/gfrog/statuses/19830593640)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 这个病很神奇。。。 [in reply to quakelee](http://twitter.com/quakelee/statuses/19830722040) [22:52:28, 2010-07-29](http://twitter.com/gfrog/statuses/19831577532)
+
+
+
+
+
+  * 再次被北京的租房现状雷到，太可怕了，一个隔断要1k，疯了疯了，都疯了。 [23:04:34, 2010-07-29](http://twitter.com/gfrog/statuses/19832466561)
+
+
+
+
+
+  * [@unruliness](http://twitter.com/unruliness) 我还木有去北京，先期调研，哈哈。 [in reply to unruliness](http://twitter.com/unruliness/statuses/19832606594) [23:09:46, 2010-07-29](http://twitter.com/gfrog/statuses/19832846200)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 疯狂的世界啊。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/19832601931) [23:10:38, 2010-07-29](http://twitter.com/gfrog/statuses/19832911104)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 杭州也便宜不到哪去的。。。 而且俺在杭州的offer已经被撅了。 [in reply to fxlt](http://twitter.com/fxlt/statuses/19832668830) [23:11:16, 2010-07-29](http://twitter.com/gfrog/statuses/19832956358)
+
+
+
+
