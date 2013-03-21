@@ -1,0 +1,100 @@
+---
+comments: true
+date: 2010-02-10 00:02:42
+layout: post
+slug: today-s-tweets-20100209
+title: Today's tweets 2010-02-09
+wordpress_id: 460
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+	
+  * _08:45_ 我晕，不声不响的发布啊。 RT @TalentChris: 佳能550D正式发布 [goo.gl/oukE](http://goo.gl/oukE) [#](http://twitter.com/gfrog/statuses/8832617793)
+
+	
+  * _08:48_ 550D这参数也太强悍了，1800万像素、ISO最高12800、3.7张连拍、1080p＠30fps，这还是入门机么。 [#](http://twitter.com/gfrog/statuses/8832727482)
+
+	
+  * _08:57_ @[xddcc](http://twitter.com/xddcc) 550D都这么彪悍了，以后的60D能加上什么呢？ [#](http://twitter.com/gfrog/statuses/8833039506)
+
+	
+  * _09:05_ Twitter的暴政 [www.zhongguotese.net/2010/twitter%e7%9a%84%e6%9a%b4%e6%94%bf.html](http://www.zhongguotese.net/2010/twitter%e7%9a%84%e6%9a%b4%e6%94%bf.html) [#](http://twitter.com/gfrog/statuses/8833371479)
+
+	
+  * _09:07_ 每日一推。 RT @gfrog: 在推上推销自己：Linux开发，2年工作经验，熟悉TCP/IP协议及OSPF协议，寻找一份北方城市（黄河以北）的相关工作。 #CNjob [#](http://twitter.com/gfrog/statuses/8833445585)
+
+	
+  * _11:02_ D3D9/10/11 支持将通过 Gallium3D 登录 Linux [goo.gl/dEG0](http://goo.gl/dEG0) [#](http://twitter.com/gfrog/statuses/8837736705)
+
+	
+  * _12:03_ 在公司竟然能访问gmail，很神奇，难道这是SSL造就的奇迹？ [#](http://twitter.com/gfrog/statuses/8839996696)
+
+	
+  * _13:34_ 摆脱信息爆炸，开启个人Wiki的时代 [goo.gl/VpCk](http://goo.gl/VpCk) [#](http://twitter.com/gfrog/statuses/8842966035)
+
+	
+  * _13:38_ 让人尴尬! 中国现阶段最大的犯罪群体竟是他们 [goo.gl/5tqp](http://goo.gl/5tqp) [#](http://twitter.com/gfrog/statuses/8843099690)
+
+	
+  * _15:03_ 按照这条推改了我博客上的过滤规则，把这些抓取转给baidu了，哈哈。 RT @siko: location ~ 。。。  {rewrite  /(.*)$ [news.sina.com.cn;](http://news.sina.com.cn)} 把无聊的抓取交给sina吧。 [#](http://twitter.com/gfrog/statuses/8845187547)
+
+	
+  * _15:22_ 据说是6300，求证实。#cnphoto RT @raptorz: 这不是跟自家7D打架嘛。难道价格…… RT @gfrog: 我晕，不声不响的发布啊。 RT @TalentChris: 佳能550D正式发布 [goo.gl/oukE](http://goo.gl/oukE) [#](http://twitter.com/gfrog/statuses/8845608280)
+
+	
+  * _15:22_ @[xddcc](http://twitter.com/xddcc) 从此变成山寨。。。 [#](http://twitter.com/gfrog/statuses/8845617206)
+
+	
+  * _15:32_ @[luzhaohui](http://twitter.com/luzhaohui) 嘿，选来选去，还是旁轴作口袋机最合适，哈哈。俺现在这部205有点大，正在考虑找个更小巧一点的机器呢。 #cnphoto [#](http://twitter.com/gfrog/statuses/8845835242)
+
+	
+  * _15:34_ RT @ThisIs404: 用163个网易邮箱积分换领网易微博邀请码 [163.fm/1KscFp](http://163.fm/1KscFp) [#](http://twitter.com/gfrog/statuses/8845878752)
+
+	
+  * _15:35_ 在greader里退订了一批死掉的RSS源。草根博客曾经热火朝天，可惜，啧啧。 [#](http://twitter.com/gfrog/statuses/8845900610)
+
+	
+  * _15:48_ 突然想起抓虾，现在还有人用这玩意么？ 上去看看，都是07年的老日志，又看到那些已经慢慢忘记的代号，额，也算怀旧。 [#](http://twitter.com/gfrog/statuses/8846175545)
+
+	
+  * _15:52_ @[raptorz](http://twitter.com/raptorz) 50D已经定位在8k左右的价位了吧，感觉60D也会这样。 [#](http://twitter.com/gfrog/statuses/8846242934)
+
+	
+  * _15:54_ @[raptorz](http://twitter.com/raptorz) 囧，7D真的很不伦不类，难道叫Nikon打迷糊了，出了这么个怪胎。 [#](http://twitter.com/gfrog/statuses/8846285273)
+
+	
+  * _16:31_ @[daacat](http://twitter.com/daacat) 额，gmail被我们公司干掉了。。。 [#](http://twitter.com/gfrog/statuses/8847080484)
+
+	
+  * _16:33_ @[luzhaohui](http://twitter.com/luzhaohui) 很多小旁轴都有黄斑对焦吧，旁轴的取景框真爽，又大又亮，比单反舒服多了。 [#](http://twitter.com/gfrog/statuses/8847116606)
+
+	
+  * _17:02_ 看来我找的都是大机器，哈哈。 哪天找个mju2感受下。 RT @raptorz: 呵呵，其实很多小旁轴的取景器都又小又暗。比如我用的几个日系机：mju2,7sII,35CCN。G2的也小，还有Leica Minilux。 [#](http://twitter.com/gfrog/statuses/8847724617)
+
+	
+  * _17:03_ @[daacat](http://twitter.com/daacat) bingo，我们受GFW和公司的双重压迫。 [#](http://twitter.com/gfrog/statuses/8847747475)
+
+	
+  * _17:05_ 囧。 RT @luzhaohui: 看一个帖子，差点被雷倒了，一群人在讨论黄斑对焦，突然有一个DX说“还是裂像屏好”，后面接了一堆？？？ #cnphoto @cnfilmphoto [#](http://twitter.com/gfrog/statuses/8847777112)
+
+	
+  * _18:41_ 进了公司的食堂就没食欲了，为什么世界上会有这么让人没有食欲的味道。 [#](http://twitter.com/gfrog/statuses/8849795385)
+
+	
+  * _19:37_ RT @ImSyls: 要大胆使用曝光补偿 [#](http://twitter.com/gfrog/statuses/8851060450)
+
+	
+  * _20:45_ 放假前一天还要加班，杯具。 [#](http://twitter.com/gfrog/statuses/8852888378)
+
+	
+  * _23:31_ @[raptorz](http://twitter.com/raptorz) 嘿，今天日子不错，CN都赶在今天发布新产品。#cnphoto [#](http://twitter.com/gfrog/statuses/8858735914)
+
+
+Automatically shipped by [LoudTwitter](http://www.loudtwitter.com)

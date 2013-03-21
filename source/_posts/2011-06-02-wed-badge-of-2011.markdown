@@ -1,0 +1,17 @@
+---
+comments: true
+date: 2011-06-02 00:33:03
+layout: post
+slug: wed-badge-of-2011
+title: 今年wed的徽章
+wordpress_id: 1733
+categories:
+- picture[美丽图片]
+- gfrog-say[青蛙的杂烩]
+---
+
+![image](http://gfrog.net/wp-content/uploads/2011/06/wpid-IMG_20110601_195813.jpg)
+
+
+
+每年的6月5是世界环境日（world environment day），今年的主题是“森林：大自然为您效劳”。准备好为森林做点什么了嘛？
