@@ -1,6 +1,8 @@
 source "http://rubygems.org"
 
 group :development do
+  gem 'json', '~> 1.7.7'
+  gem 'json_pure', '~> 1.6.3'
   gem 'rake', '~> 0.9'
   gem 'jekyll', '~> 0.12'
   gem 'rdiscount', '~> 2.0.7'
