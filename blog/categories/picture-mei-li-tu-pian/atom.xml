@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: picture[美丽图片] | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/picture-mei-li-tu-pian/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-01-01T01:02:39+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[一张流：大连造船厂]]></title>
+    <link href="http://yoursite.com/blog/2013/06/13/pic-of-dsic/"/>
+    <updated>2013-06-13T15:12:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/06/13/pic-of-dsic</id>
+    <content type="html"><![CDATA[<p>原来停潜艇的地方停了两艘在建的货船。</p>
+
+<p><img src="https://lh5.googleusercontent.com/-Ce0dwZ0c-44/UbrBhUw5a9I/AAAAAAAAMTA/1Keyv9bITfo/s640/6813F5F4-89B3-49A7-AF37-95C30F99B7A0.JPG" alt="https://lh5.googleusercontent.com/-Ce0dwZ0c-44/UbrBhUw5a9I/AAAAAAAAMTA/1Keyv9bITfo/s640/6813F5F4-89B3-49A7-AF37-95C30F99B7A0.JPG" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[一张流：北京站]]></title>
+    <link href="http://yoursite.com/blog/2013/06/09/pic-of-beijing-railway-station/"/>
+    <updated>2013-06-09T23:29:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/06/09/pic-of-beijing-railway-station</id>
+    <content type="html"><![CDATA[<p>两列高铁同站台停车。</p>
+
+<p><img src="https://lh4.googleusercontent.com/-CgbGkgBvBBE/UbrEavW_V8I/AAAAAAAAMTY/hAiHDPHX7S0/s640/BBE22D99-EFD7-4100-A043-8BE877AFFA91.JPG" alt="https://lh4.googleusercontent.com/-CgbGkgBvBBE/UbrEavW_V8I/AAAAAAAAMTY/hAiHDPHX7S0/s640/BBE22D99-EFD7-4100-A043-8BE877AFFA91.JPG" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[一张流：蔷薇]]></title>
+    <link href="http://yoursite.com/blog/2013/05/25/pic-of-rosebush/"/>
+    <updated>2013-05-25T16:02:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/05/25/pic-of-rosebush</id>
+    <content type="html"><![CDATA[<p><img src="https://lh4.googleusercontent.com/-sU5yoVFtkz4/Uayy5Ir3jwI/AAAAAAAAMWA/Q0Lzl6XR5bw/s640/215CB45D-E38E-4856-BA39-63190D693D0D.JPG" alt="https://lh4.googleusercontent.com/-sU5yoVFtkz4/Uayy5Ir3jwI/AAAAAAAAMWA/Q0Lzl6XR5bw/s640/215CB45D-E38E-4856-BA39-63190D693D0D.JPG" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[一张流：绿叶]]></title>
+    <link href="http://yoursite.com/blog/2013/04/18/pic-of-green-leaves/"/>
+    <updated>2013-04-18T15:21:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/04/18/pic-of-green-leaves</id>
+    <content type="html"><![CDATA[<p>真喜欢这种风格，绿色，阳光，生命，还有最关键的：希望。</p>
+
+<p><img src="https://lh5.googleusercontent.com/-e9Cvxy2ampQ/UXTkS_FNS_I/AAAAAAAAKlc/TjpS8izTddw/s640/940302F2-B06E-44CA-BCCC-C32995614735.JPG" alt="https://lh5.googleusercontent.com/-e9Cvxy2ampQ/UXTkS_FNS_I/AAAAAAAAKlc/TjpS8izTddw/s640/940302F2-B06E-44CA-BCCC-C32995614735.JPG" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[图片：杏花开]]></title>
+    <link href="http://yoursite.com/blog/2013/03/27/2-pics-of-apricot-flower/"/>
+    <updated>2013-03-27T22:23:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/03/27/2-pics-of-apricot-flower</id>
+    <content type="html"><![CDATA[<p>帝都上个星期还在下雪，结果这星期花就突然开了。
+春天来的太突然，真让人措手不及。</p>
+
+<p><img src="https://lh3.googleusercontent.com/-4fir64OxsnQ/UVsFDOrDmcI/AAAAAAAAKZ0/Wp6HeeUDXUw/s640/A379BF0A-5039-4EF4-B8DD-31D0B0BFD4C0.JPG" alt="" /></p>
+
+<p><img src="https://lh5.googleusercontent.com/-Q5cpE3Y481s/UVsFDCGduvI/AAAAAAAAKZ4/mAX_9RPm9pg/s640/CD455395-D074-4D43-A148-8D8922E73CC6.JPG" alt="" /></p>
+]]></content>
+  </entry>
+  
+</feed>

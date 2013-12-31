@@ -1,0 +1,453 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>debian smthbbs install HOWTO - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="debian smthbbs install HOWTO 欢迎转载，请保留作者信息 包子@郑州大学网络安全园 http://secu.zzu.edu.cn 首先感谢flyriver@smth和其他站友的热心帮助 其实woody下安装smthbbs并不难， &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yoursite.com/old_post.before.2007/2005-02-14-debian-smthbbs-install-howto.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yoursite.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+    <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+    <li><a href="/categories/linux">Linux</a></li>
+    <li><a href="/categories/picture">美丽图片</a></li>
+    <li><a href="/categories/twitter-backup">Tweets</a></li>
+    <li><a href="/blog/archives">全部日志</a></li>
+    <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Debian Smthbbs Install HOWTO</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-02-15T06:38:25+08:00" pubdate data-updated="true">Feb 15<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>debian smthbbs install HOWTO</p>
+
+<p>欢迎转载，请保留作者信息</p>
+
+<p>包子@郑州大学网络安全园</p>
+
+<p><a href="http://secu.zzu.edu.cn/">http://secu.zzu.edu.cn</a></p>
+
+<p>首先感谢flyriver@smth和其他站友的热心帮助</p>
+
+<p>其实woody下安装smthbbs并不难，大部分东西在smthbbs和wforum的安装文档里都说</p>
+
+<p>到了，细心一点就OK，下面是我安装的过程</p>
+
+<p>使用minicd安装debian</p>
+
+<p>可以用debian.ustc.edu.cn的ftp下的到</p>
+
+<p>root@Woody~# apt-get dist-upgrade</p>
+
+<p>apt-get install apache php4 php4-dev php4-mysql mysql-server libssl0.9.6</p>
+
+<p>libssl-dev php4-domxml libmysqlclient10-dev libgd2 libgd2-dev php4-gd2 libjpeg62</p>
+
+<p>libjpeg62-dev</p>
+
+<p>libjpeg-progs libpng-dev libfreetype6 libfreetype6-dev zlib1g zlib1g-dev</p>
+
+<p>libiconv-ruby libxml2 libxml2-dev libgmp3 libgmp3-dev libtool libesmtp5</p>
+
+<p>libesmtp-dev openssl cvs</p>
+
+<p>wget vim bzip2 unzip gawk rsh-client nmap</p>
+
+<p>cvs一把</p>
+
+<p>root@Woody~# su bbs</p>
+
+<p>cvs -d :pserver:bbsdev@cvs.smth.org:/home/cvs -z 9 co smth_bbs</p>
+
+<p>cvs -d :pserver:bbsdev@cvs.smth.org:/home/cvs -z 9 co sshbbsd</p>
+
+<p>cvs -d :pserver:bbsdev@cvs.smth.org:/home/cvs -z 9 co bbshome</p>
+
+<p>cvs -d :pserver:bbsdev@cvs.smth.org:/home/cvs -z 9 co innbbsd</p>
+
+<p>cvs -d :pserver:bbsdev@cvs.smth.org:/home/cvs -z 9 co sites</p>
+
+<p>mv sites/ smth_bbs/</p>
+
+<p>mv bbshome/ smth_bbs/</p>
+
+<p>mv innbbsd/ smth_bbs/</p>
+
+<p>mv sshbbsd/ smth_bbs/</p>
+
+<p>装上automake1.6.1 和 autoconf2.57，prefix=/usr就好了</p>
+
+<p>root@Woody/home/bbs# wget <a href="ftp://dev.smth.org/software/automake-1.6.1.tar">ftp://dev.smth.org/software/automake-1.6.1.tar</a>.</p>
+
+<p>gz</p>
+
+<p>root@Woody/home/bbs# wget <a href="ftp://dev.smth.org/software/autoconf-2.57.tar.gz">ftp://dev.smth.org/software/autoconf-2.57.tar.gz</a></p>
+
+<p>生成configure文件</p>
+
+<p>bbs@Woody~/smth_bbs$ aclocal;autoheader;automake -a;automake -a;autoconf</p>
+
+<p>bbs@Woody~/smth_bbs$ cd sshbbsd/</p>
+
+<p>bbs@Woody~/smth_bbs/sshbbsd$ aclocal;autoheader;automake -a;autoconf</p>
+
+<p>bbs@Woody~/smth_bbs/sshbbsd$ cd ../bbs2www/</p>
+
+<p>bbs@Woody~/smth_bbs/bbs2www$ aclocal;autoheader;automake -a;autoconf</p>
+
+<p>修改site/smth.h的这几个参数，其他的当然也要改了，不过那些都是一些名字啊之</p>
+
+<p>类的东西</p>
+
+<h1>define MAXUSERS 20000</h1>
+
+<h1>define MAXCLUB 128</h1>
+
+<h1>define MAXBOARD 512</h1>
+
+<h1>define MAXACTIVE 3000</h1>
+
+<h1>define MAX_GUEST_NUM 80</h1>
+
+<h1>define WWW_MAX_LOGIN 5000</h1>
+
+<h1>define MAIL_BBSDOMAIN &ldquo;bbs.fatb.org&rdquo;</h1>
+
+<h1>define MAIL_MAILSERVER &ldquo;127.0.0.1:25&rdquo;</h1>
+
+<p>查看bbs用户的id，对应的设置一下</p>
+
+<p>bbs@Woody~/smth_bbs$ id</p>
+
+<p>uid=1001(bbs) gid=1001(bbs) groups=1001(bbs)</p>
+
+<h1>define BBSUID 1001</h1>
+
+<h1>define BBSGID 1001</h1>
+
+<p>设置一些权限</p>
+
+<p>root@Woody~# mkdir /var/www/htdocs</p>
+
+<p>root@Woody~# mkdir /var/www/cgi-bin</p>
+
+<p>root@Woody~# chown -R bbs:bbs /var/www</p>
+
+<p>开始编译安装</p>
+
+<p>bbs@Woody~/smth_bbs$ ./configure &mdash;enable-site=smth &mdash;with-www=/var/www &ndash;</p>
+
+<p>-with-php=/usr/include/php4 &mdash;with-mysql &mdash;enable-ssl &mdash;with-libesmtp=/usr</p>
+
+<p>&mdash;with-openssl</p>
+
+<p>&mdash;with-zlib &mdash;enable-ssh ; make ; make ; make install ; make install-home</p>
+
+<p>启动bbs</p>
+
+<p>bbs@Woody~/bin$ ./miscd daemon</p>
+
+<p>bbs@Woody~/bin$ ./bbslogd</p>
+
+<p>root@Woody/home/bbs/bin# ./bbsd -p 23</p>
+
+<p>telnet bbs.fatb.org</p>
+
+<p>注册系统管理员和匿名用户帐号</p>
+
+<p>分别是SYSOP和guest</p>
+
+<p>开始搞wforum</p>
+
+<p>转换密码</p>
+
+<p>bbs@Woody~$ mv .PASSWDS .PASSWDS.OLD</p>
+
+<p>bbs@Woody~$ ./bin/convpasswd</p>
+
+<p>200 204</p>
+
+<p>下载wforum</p>
+
+<p>bbs@Woody/var/www$ wget <a href="ftp://dev.smth.org/src/wForum-snapshot.tar.gz">ftp://dev.smth.org/src/wForum-snapshot.tar.gz</a></p>
+
+<p>创建inc/site.php,可以以smth.php为模板,根据自己的情况修改</p>
+
+<p>bbs@Woody/var/www/wForum/inc$ cp sites/smth.php ./site.php</p>
+
+<p>bbs@Woody/var/www/wForum/inc$ cp sites/default.php ./</p>
+
+<p>用documents/smallpaper_tb.sql创建数据库,并设置conn.php</p>
+
+<p>mysql>create database wforum ;</p>
+
+<p><a href="mailto:bbs@Woody/var/www/wForum/documents$">bbs@Woody/var/www/wForum/documents$</a> cat smallpaper_tb.sql | mysql -u root</p>
+
+<p>bbs@Woody/var/www/wForum/inc$ mv conn.php.origin conn.php</p>
+
+<p>加模块</p>
+
+<p>加php扩展模块</p>
+
+<p>bbs@Woody~/smth_bbs/bbs2www$ make clean</p>
+
+<p>bbs@Woody~/smth_bbs/bbs2www$ ./configure &mdash;enable-site=smth &mdash;with-php=/usr</p>
+
+<p>/include/php4 &mdash;with-www=/var/www &mdash;with-zlib &mdash;with-mysql &mdash;with-libesmtp</p>
+
+<p>=/usr</p>
+
+<p>bbs@Woody~/smth_bbs/bbs2www$ make install</p>
+
+<p><a href="mailto:root@Woody/var/www">root@Woody/var/www</a># ln -s /home/bbs/smth_bbs/bbs2www/phplib/.libs/libphpbbslib</p>
+
+<p>.so.0.0.0 /usr/lib/php4/20010901/smthbbs.so</p>
+
+<p><a href="mailto:root@Woody/var/www">root@Woody/var/www</a># cat >> /etc/php4/apache/php.ini</p>
+
+<p>extension=smthbbs.so</p>
+
+<p>bbs@Woody/var/www$ echo &ldquo;&rdquo; > wForum/info.php</p>
+
+<p>发现smth字样就为成功加载扩展模块</p>
+
+<p>smth_bbs</p>
+
+<p>smth_bbs support enabled</p>
+
+<p>修改apache的用户和组为bbs</p>
+
+<p>并根据自己的情况修改maxclient数量</p>
+
+<p><a href="http://bbs.fatb.org">http://bbs.fatb.org</a></p>
+
+<p>根据错误，自己修改,xml的注释掉几行就OK,调试完毕之后记得关闭display_error</p>
+
+<p>部分安全相关内容可以参考一下</p>
+
+<p><a href="http://secu.zzu.edu.cn/modules.php?name=Sections&amp;op=viewarticle&amp;artid=44">http://secu.zzu.edu.cn/modules.php?name=Sections&amp;op=viewarticle&amp;artid=44</a></p>
+
+<p>BTW:debian比较豪爽，apt装的apache的HARD LIMIT是4096的，应该够用了,还有我们</p>
+
+<p>可以修改php的suffix骗骗人:)</p>
+
+<p>参考</p>
+
+<p>debian <a href="http://debian.org/">http://debian.org</a></p>
+
+<p>smthbbs安装文档</p>
+
+<p>wforum安装文档</p>
+
+<p>TODO</p>
+
+<p>制作合适的系统安装盘&mdash;>debian就这不爽，安装的时候可选的内核支持的硬件有点</p>
+
+<p>少,如果不认SCSI设备或者什么的就得自己制作安装盘了，debian reference里有的</p>
+
+<p>popds,sshbbsd</p>
+
+<p>系统相关安全加固</p>
+
+<p>我对bbs不大熟悉,不清楚还有什么别的功能没搞,还请达人提点&mdash;>偶还是喜欢web界</p>
+
+<p>面的那类人&hellip;&hellip;</p>
+
+<p>有错还请斧正啊</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Your Name</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-02-15T06:38:25+08:00" pubdate data-updated="true">Feb 15<span>th</span>, 2005</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/it-express-itte-kuai/'>it-express[IT特快]</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://yoursite.com/old_post.before.2007/2005-02-14-debian-smthbbs-install-howto.html" data-via="" data-counturl="http://yoursite.com/old_post.before.2007/2005-02-14-debian-smthbbs-install-howto.html" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/01/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/06/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/13/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

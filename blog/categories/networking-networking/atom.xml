@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: networking[Networking] | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/networking-networking/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-01-01T01:02:39+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[网络协议学习笔记（1） -- DNS基础知识]]></title>
+    <link href="http://yoursite.com/blog/2008/03/10/network-protocol-learning-notes-1-basic-knowledge-of-dns/"/>
+    <updated>2008-03-10T06:42:23+08:00</updated>
+    <id>http://yoursite.com/blog/2008/03/10/network-protocol-learning-notes-1-basic-knowledge-of-dns</id>
+    <content type="html"><![CDATA[<p>下列 RFC 包含用来设计和实施 DNS 服务器和客户端服务的规范：</p>
+
+<p>RFC</p>
+
+<p>标题</p>
+
+<p>1034</p>
+
+<p>域名 &ndash; 概念和工具</p>
+
+<p>1035</p>
+
+<p>域名 &ndash; 实现和规范</p>
+
+<p>1123</p>
+
+<p>Internet 主机 &ndash; 应用和支持的要求</p>
+
+<p>1886</p>
+
+<p>支持 IP 版本 6 的 DNS 扩展名</p>
+
+<p>1995</p>
+
+<p>DNS 中的增量区域传输</p>
+
+<p>1996</p>
+
+<p>提示通知区域更改的机制 (DNS NOTIFY)</p>
+
+<p>2136</p>
+
+<p>域名系统中的动态更新 (DNS UPDATE)</p>
+
+<p>2181</p>
+
+<p>对 DNS 规范的说明</p>
+
+<p>2308</p>
+
+<p>DNS 查询的负缓存 (DNS NCACHE)</p>
+
+<p>2535</p>
+
+<p>域名系统安全扩展 (DNSSEC)</p>
+
+<p>2671</p>
+
+<p>DNS 的扩展机制 (EDNS0)</p>
+
+<p>2782</p>
+
+<p>指定服务位置的 DNS RR (DNS SRV)</p>
+
+<p>2930</p>
+
+<p>DNS 的密钥建立 (TKEY RR)</p>
+
+<p>3645</p>
+
+<p>DNS (GSS-TSIG) 密钥事务身分验证的通用安全服务算法</p>
+
+<p>3646</p>
+
+<p>IPv6 (DHCPv6) 动态主机配置协议的 DNS 配置选项</p>
+]]></content>
+  </entry>
+  
+</feed>

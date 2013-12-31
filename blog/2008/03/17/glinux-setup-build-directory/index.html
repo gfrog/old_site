@@ -1,0 +1,384 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>glinux开发摘要(2)-构建目录结构 - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="下面的操作步骤青蛙基本上是从lfs6.3学来的，所以会有$LFS这个变量，如果你对lfs也有兴趣，可以去它的官方网站看看。 青蛙编译完成了toolchain以后，就可以开始建造glinux的目录体系了。
+首先，构造虚拟内核文件系统(Virtual Kernel File Systems)， &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yoursite.com/blog/2008/03/17/glinux-setup-build-directory">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yoursite.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+    <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+    <li><a href="/categories/linux">Linux</a></li>
+    <li><a href="/categories/picture">美丽图片</a></li>
+    <li><a href="/categories/twitter-backup">Tweets</a></li>
+    <li><a href="/blog/archives">全部日志</a></li>
+    <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Glinux开发摘要(2)-构建目录结构</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-03-17T07:18:34+08:00" pubdate data-updated="true">Mar 17<span>th</span>, 2008</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>下面的操作步骤青蛙基本上是从<a href="http://www.linuxfromscratch.org/lfs/view/6.3">lfs6.3</a>学来的，所以会有$LFS这个变量，如果你对lfs也有兴趣，可以<a href="http://www.linuxfromscratch.org/">去它的官方网站</a>看看。</p>
+
+<p>青蛙编译完成了toolchain以后，就可以开始建造glinux的目录体系了。
+首先，构造虚拟内核文件系统(Virtual Kernel File Systems)，这个东东是跟内核通信的一个途径。</p>
+
+<p>执行下面的命令，来建立文件系统的挂载点：</p>
+
+<blockquote><p>mkdir -pv $LFS/{dev,proc,sys}</p></blockquote>
+
+<p>然后，建立几个必要的设备文件，</p>
+
+<blockquote><p>mknod -m 600 $LFS/dev/console c 5 1</p></blockquote>
+
+<p>  mknod -m 666 $LFS/dev/null c 1 3</p>
+
+<blockquote></blockquote>
+
+<p>青蛙准备用udev来管理设备文件，所以只建立这两个文件就够了，其他文件udev会在系统启动的时候自动创建。
+现在udev模块在glinux上还没有安装，所以暂时用mount &mdash;bind命令将宿主系统的/dev目录镜像到glinux的目录结构里来：</p>
+
+<blockquote><p>mount -v &mdash;bind /dev $LFS/dev</p></blockquote>
+
+<p>把几个重要的虚拟文件系统都挂在到glinux的目录上去：</p>
+
+<blockquote><p>mount -vt devpts devpts $LFS/dev/pts</p></blockquote>
+
+<p>  mount -vt tmpfs shm $LFS/dev/shm</p>
+
+<p>  mount -vt proc proc $LFS/proc</p>
+
+<p>  mount -vt sysfs sysfs $LFS/sys</p>
+
+<blockquote></blockquote>
+
+<p>以上几个步骤在每次重新chroot以后都要执行一遍。</p>
+
+<p>上面的步骤都完成，历史性的时刻就要来了：chroot进入glinux。</p>
+
+<blockquote><p>chroot &ldquo;$LFS&rdquo; /tools/bin/env -i HOME=/root TERM=&ldquo;$TERM&rdquo; PS1=&lsquo;u:w$ &rsquo;</p></blockquote>
+
+<pre><code>PATH=/bin:/usr/bin:/sbin:/usr/sbin:/tools/bin /tools/bin/bash --login +h
+</code></pre>
+
+<blockquote></blockquote>
+
+<p>看到命令提示符在喊“I have no name!”了么？如果看到它喊了，就说明chroot成功了 :)
+进入新系统的第一件事就是要建立glinux的目录结构了，关于linux的目录结构，<a href="http://www.linuxfans.org/">linuxfans</a>上面有<a href="http://www.linuxfans.org/bbs/thread-182534-1-1.html">一篇文章介绍的非常详细</a>，青蛙执行以下命令来建立一个完整的目录结构：</p>
+
+<blockquote><p>mkdir -pv /{bin,boot,etc/opt,home,lib,mnt,opt}</p></blockquote>
+
+<p>  mkdir -pv /{media/{floppy,cdrom},sbin,srv,var}</p>
+
+<p>  install -dv -m 0750 /root</p>
+
+<p>  install -dv -m 1777 /tmp /var/tmp</p>
+
+<p>  mkdir -pv /usr/{,local/}{bin,include,lib,sbin,src}</p>
+
+<p>  mkdir -pv /usr/{,local/}share/{doc,info,locale,man}</p>
+
+<p>  mkdir -v  /usr/{,local/}share/{misc,terminfo,zoneinfo}</p>
+
+<p>  mkdir -pv /usr/{,local/}share/man/man{1..8}</p>
+
+<p>  for dir in /usr /usr/local; do</p>
+
+<p>   ln -sv share/{man,doc,info} $dir</p>
+
+<p>  done</p>
+
+<p>  mkdir -v /var/{lock,log,mail,run,spool}</p>
+
+<p>  mkdir -pv /var/{opt,cache,lib/{misc,locate},local}</p>
+
+<blockquote></blockquote>
+
+<p>然后，把/tools/目录下的一些文件链接到chroot环境对应的目录下：</p>
+
+<blockquote><p>ln -sv /tools/bin/{bash,cat,echo,grep,pwd,stty} /bin</p></blockquote>
+
+<p>  ln -sv /tools/bin/perl /usr/bin</p>
+
+<p>  ln -sv /tools/lib/libgcc_s.so{,.1} /usr/lib</p>
+
+<p>  ln -sv /tools/lib/libstdc++.so{,.6} /usr/lib</p>
+
+<p>  ln -sv bash /bin/sh</p>
+
+<blockquote></blockquote>
+
+<p>建立一个/etc/mtab文件：</p>
+
+<blockquote><p>touch /etc/mtab</p></blockquote>
+
+<p>建立/etc/passwd文件和/etc/group文件：</p>
+
+<blockquote><p>cat > /etc/passwd &lt;&lt; &ldquo;EOF&rdquo;</p></blockquote>
+
+<p>  root:x:0:0:root:/root:/bin/bash</p>
+
+<p>  nobody:x:99:99:Unprivileged User:/dev/null:/bin/false</p>
+
+<p>  EOF</p>
+
+<blockquote><p>cat > /etc/group &lt;&lt; &ldquo;EOF&rdquo;</p></blockquote>
+
+<p>  root:x:0:</p>
+
+<p>  bin:x:1:</p>
+
+<p>  sys:x:2:</p>
+
+<p>  kmem:x:3:</p>
+
+<p>  tty:x:4:</p>
+
+<p>  tape:x:5:</p>
+
+<p>  daemon:x:6:</p>
+
+<p>  floppy:x:7:</p>
+
+<p>  disk:x:8:</p>
+
+<p>  lp:x:9:</p>
+
+<p>  dialout:x:10:</p>
+
+<p>  audio:x:11:</p>
+
+<p>  video:x:12:</p>
+
+<p>  utmp:x:13:</p>
+
+<p>  usb:x:14:</p>
+
+<p>  cdrom:x:15:</p>
+
+<p>  mail:x:34:</p>
+
+<p>  nogroup:x:99:</p>
+
+<p>  EOF</p>
+
+<blockquote></blockquote>
+
+<p>然后重新运行一次bash，让bash不再喊“I have no name!”</p>
+
+<blockquote><p>exec /tools/bin/bash &mdash;login +h</p></blockquote>
+
+<p>接下来再建立一些要用到的log文件：</p>
+
+<blockquote><p>touch /var/run/utmp /var/log/{btmp,lastlog,wtmp}</p></blockquote>
+
+<p>  chgrp -v utmp /var/run/utmp /var/log/lastlog</p>
+
+<p>  chmod -v 664 /var/run/utmp /var/log/lastlog</p>
+
+<blockquote></blockquote>
+
+<p>到这里，glinux的目录结构基本上搞定了，下面我们就可以制作内核跟busybox了。</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Your Name</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-03-17T07:18:34+08:00" pubdate data-updated="true">Mar 17<span>th</span>, 2008</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/linux-linux/'>linux[Linux]</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://yoursite.com/blog/2008/03/17/glinux-setup-build-directory/" data-via="" data-counturl="http://yoursite.com/blog/2008/03/17/glinux-setup-build-directory/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2008/03/17/glinux-setup-compile-environment/" title="Previous Post: glinux开发摘要(1)--编译环境制作">&laquo; glinux开发摘要(1)--编译环境制作</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2008/03/20/markdown-syntax-basic/" title="Next Post: Markdown语法摘要">Markdown语法摘要 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/01/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/06/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/13/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

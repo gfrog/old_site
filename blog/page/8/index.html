@@ -1,0 +1,638 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="
+求靠谱人肉 #翻墙 机会。 09:00:21, 2012-07-30 ">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yoursite.com/blog/page/8">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yoursite.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+    <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+    <li><a href="/categories/linux">Linux</a></li>
+    <li><a href="/categories/picture">美丽图片</a></li>
+    <li><a href="/categories/twitter-backup">Tweets</a></li>
+    <li><a href="/blog/archives">全部日志</a></li>
+    <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/31/todays-tweets-2012-07-30/">Today&#8217;s Tweets 2012-07-30</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-31T07:59:00+08:00" pubdate data-updated="true">Jul 31<span>st</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li>求靠谱人肉 #翻墙 机会。 <a href="http://twitter.com/gfrog/statuses/229743198413680640">09:00:21, 2012-07-30</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/31/split-pdf-doc-with-pypdf-module/">使用pyPdf切割pdf文档</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-31T06:43:51+08:00" pubdate data-updated="true">Jul 31<span>st</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>青蛙拿到一份扫描版的pdf文档，每个pdf页包含了两页实际书籍页面，这种文档放在6寸Kindle上基本就是杯具了。于是青蛙试图找工具把他们切割掉。根据<a href="http://note1day.com/">铄日博客</a>的推荐试验了<a href="http://note1day.com/2012/01/paper4kindle/">paper4kindle</a>和<a href="http://note1day.com/2011/12/k2pdfopt/">k2pdfopt</a>，但是papaer4kindle切割出来的文档页面错乱了，而且也没有修正pdf歪斜的功能，剪裁输出的文档很难看。k2pdfopt就更没法看了，从image识别文档的技术先进，但是对于每页pdf包含2页实际页面的文档，k2pdfopt基本无能为力。</p>
+
+<p>青蛙本想探索一下paper4kindle输出之后页面错乱的问题，结果这玩意竟然不开源，又看到作者说花了几小时就搞出来了，那青蛙也看看pypdf包，试试能不能直接写代码自己搞定。</p>
+
+<p>花了半下午时间看了下pypdf（ <a href="http://pybrary.net/pyPdf/">http://pybrary.net/pyPdf/</a> ）的API，然后直接把例子代码复制下来改吧改吧，咱也基本实现了paper4kindle的核心功能了，成功把那份文档处理掉了。至于那些花哨的界面啥的，有空再玩吧。代码先贴在这里，没有整理，暂时先不贴到github了，准备下一步尝试添加旋转页面的功能。</p>
+
+<p>编码的时候发现了两个问题，</p>
+
+<ul>
+<li><p>设置mediaBox的位置之前需要先copy一份page对象，否则设置right的mediaBox的时候竟然会影响left的值，猜测是pypdf模块内部直接返回了page对象的引用，并没有复制一份返回。</p></li>
+<li><p>这份文档无法用paper4kindle编辑的原因是实际上文档的四个角坐标是反的，大概文档扫描之后被顺时针旋转了90度。</p></li>
+</ul>
+
+
+<p>最后小小鄙视一下用python、用开源库写代码竟然不继续开源的某些软件作者。</p>
+
+<pre><code>#!/usr/bin/env python
+
+import copy
+from pyPdf import PdfFileWriter, PdfFileReader
+
+output = PdfFileWriter()
+input1 = PdfFileReader(file("/tmp/a.pdf", "rb"))
+outputStream = file("/tmp/output.pdf", "wb")
+
+# print the title of document1.pdf
+print "title = %s" % (input1.getDocumentInfo().title)
+
+pages = map(input1.getPage, range(0, input1.getNumPages()))
+#pages = map(input1.getPage, range(0, 10))
+try:
+    for page in pages:
+        left = copy.copy(page)
+        right = copy.copy(page)
+
+        orig_upperLeft = page.mediaBox.getUpperLeft()
+        orig_upperRight = page.mediaBox.getUpperRight()
+        orig_lowerLeft = page.mediaBox.getLowerLeft()
+        orig_lowerRight = page.mediaBox.getLowerRight()
+
+        left.mediaBox.setUpperLeft((orig_upperLeft[0], orig_upperLeft[1]))
+        left.mediaBox.setUpperRight((orig_upperRight[0], orig_upperRight[1] / 2))
+        left.mediaBox.setLowerLeft((orig_lowerLeft[0], orig_lowerLeft[1]))
+        left.mediaBox.setLowerRight((orig_lowerRight[0], orig_lowerRight[1] / 2))
+        output.addPage(left)
+
+        right.mediaBox.setUpperLeft((orig_upperLeft[0], orig_upperLeft[1]))
+        right.mediaBox.setUpperRight((orig_upperRight[0], orig_upperRight[1]))
+        right.mediaBox.setLowerLeft((orig_lowerLeft[0], orig_upperLeft[1] / 2))
+        right.mediaBox.setLowerRight((orig_lowerRight[0], orig_upperRight[1] / 2))
+        output.addPage(right)
+finally:
+    # finally, write "output" to document-output.pdf
+    output.write(outputStream)
+    outputStream.close()
+
+print "new pdf has %s pages." % output.getNumPages()
+</code></pre>
+
+<p>参考文档：</p>
+
+<ol>
+<li><p> PYPDF: <a href="http://pybrary.net/pyPdf/">http://pybrary.net/pyPdf/</a></p></li>
+<li><p> The PDF file format: <a href="http://www.prepressure.com/pdf/basics/fileformat">http://www.prepressure.com/pdf/basics/fileformat</a></p></li>
+<li><p> Why my code not correctly split every page in a scanned pdf? <a href="http://www.prepressure.com/pdf/basics/fileformat">http://stackoverflow.com/questions/7047656/why-my-code-not-correctly-split-every-page-in-a-scanned-pdf</a></p></li>
+</ol>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/30/todays-tweets-2012-07-29/">Today&#8217;s Tweets 2012-07-29</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-30T07:59:00+08:00" pubdate data-updated="true">Jul 30<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p><a href="http://twitter.com/k_kica">@k_kica</a> 给人做榜样嘛，我还给要减肥的朋友推荐元宝妹的微博来着。 <a href="http://twitter.com/k_kica/statuses/229400662000164864">in reply to k_kica</a> <a href="http://twitter.com/gfrog/statuses/229404942597779458">10:36:15, 2012-07-29</a></p></li>
+<li><p>带源码的pdf真是难搞啊，试了一坨裁剪工具，都搞不定这种变态的格式。 <a href="http://twitter.com/gfrog/statuses/229605848853405696">23:54:34, 2012-07-29</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/29/todays-tweets-2012-07-28/">Today&#8217;s Tweets 2012-07-28</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-29T07:59:00+08:00" pubdate data-updated="true">Jul 29<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li>RT <a href="http://twitter.com/cuddly_v">@cuddly_v</a>: 哈哈 RT <a href="http://twitter.com/Dekyge">@Dekyge</a>: 霸气V5 RT <a href="http://twitter.com/tixiang">@tixiang</a>: #译自法语推 其实女王心里在想： <a href="https://t.co/KDDUWldP">https://t.co/KDDUWldP</a> <a href="http://twitter.com/gfrog/statuses/229013640072790019">08:41:21, 2012-07-28</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/28/todays-tweets-2012-07-27/">Today&#8217;s Tweets 2012-07-27</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-28T07:59:00+08:00" pubdate data-updated="true">Jul 28<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li>求靠谱人肉 #翻墙 机会。 <a href="http://twitter.com/gfrog/statuses/228656144095264768">09:00:47, 2012-07-27</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/27/todays-tweets-2012-07-26/">Today&#8217;s Tweets 2012-07-26</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-27T07:59:00+08:00" pubdate data-updated="true">Jul 27<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p>求靠谱人肉 #翻墙 机会。 <a href="http://twitter.com/gfrog/statuses/228293663921430528">09:00:25, 2012-07-26</a></p></li>
+<li><p>华为今年财报，营收1200亿，利润8.7亿，利润率不到百分之一。如果这家公司不是生在中国，靠剥削劳工过活，丫早就黄铺了。 <a href="http://twitter.com/gfrog/statuses/228489699960963072">21:59:24, 2012-07-26</a></p></li>
+<li><p><a href="http://twitter.com/Rex5652">@Rex5652</a> 太对了，可是意识到的时候已经晚了。读万卷书行万里路，大学是最有可能实践这句话的时间，可惜太多的人都把时间浪费在dota，cf，泡妞上了。 <a href="http://twitter.com/Rex5652/statuses/228444583288242176">in reply to Rex5652</a> <a href="http://twitter.com/gfrog/statuses/228491245507448832">22:05:32, 2012-07-26</a></p></li>
+<li><p>马总统竟然说过这么硬气的话？求证。。。 <a href="http://twitter.com/gfrog/statuses/228491918802317313">22:08:13, 2012-07-26</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/26/todays-tweets-2012-07-25/">Today&#8217;s Tweets 2012-07-25</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-26T07:59:00+08:00" pubdate data-updated="true">Jul 26<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p>求靠谱人肉 #翻墙 机会。 <a href="http://twitter.com/gfrog/statuses/227931365365121024">09:00:46, 2012-07-25</a></p></li>
+<li><p><a href="http://twitter.com/eexp01">@eexp01</a> <a href="http://twitter.com/fndhrt">@fndhrt</a> 从东软跑出来的表示同业竞争协议/保密协议基本没人遵守的。如果要禁止同行业就业，原单位是要每月继续给员工发钱补偿的，东软这么穷逼的企业怎么舍得花这个钱。 <a href="http://twitter.com/eexp01/statuses/227942163630141440">in reply to eexp01</a> <a href="http://twitter.com/gfrog/statuses/227947738887761921">10:05:50, 2012-07-25</a></p></li>
+<li><p><a href="http://twitter.com/eexp01">@eexp01</a> <a href="http://twitter.com/fndhrt">@fndhrt</a> 显然很破。企业文化？ 刘老板万岁。 <a href="http://twitter.com/eexp01/statuses/227949485127507968">in reply to eexp01</a> <a href="http://twitter.com/gfrog/statuses/227949703575265281">10:13:39, 2012-07-25</a></p></li>
+<li><p>上次有个华为的二逼给我打电话要电话面，问我现在在哪家公司，我说某帽，丫直接就在电话里说：”那好，华为比某帽强的多呢。“ 这种二逼，不光弱智，还没情商，就算华为真比某帽强，电话里也不能这么说吧。 <a href="http://twitter.com/gfrog/statuses/227951514008834048">10:20:50, 2012-07-25</a></p></li>
+<li><p><a href="http://twitter.com/pityonline">@pityonline</a> Bingo <a href="http://twitter.com/pityonline/statuses/227952267234533376">in reply to pityonline</a> <a href="http://twitter.com/gfrog/statuses/227953109509484544">10:27:11, 2012-07-25</a></p></li>
+<li><p>gmail的界面用来看patch真是相当不爽，线索都被打乱了，还是用mutt看gmail算啦。 <a href="http://twitter.com/gfrog/statuses/228002388362010624">13:43:00, 2012-07-25</a></p></li>
+<li><p>工资连着7个月一直再减少了，md，要活不下去了！！ <a href="http://twitter.com/gfrog/statuses/228030025910321153">15:32:49, 2012-07-25</a></p></li>
+<li><p><a href="http://twitter.com/casparant">@casparant</a> 还能月月调么？ <a href="http://twitter.com/casparant/statuses/228052283903070208">in reply to casparant</a> <a href="http://twitter.com/gfrog/statuses/228055022599032832">17:12:09, 2012-07-25</a></p></li>
+<li><p>哎呀呀，spanning tree是switch里很重要的内容呢。 <a href="http://twitter.com/gfrog/statuses/228061957855514625">17:39:42, 2012-07-25</a></p></li>
+<li><p>今晚又被雨拍了，在离家10分钟路程的时候开始下，不过不大，于是顶着雨继续走，离家1分钟的时候突然下大，于是浑身湿透。 <a href="http://twitter.com/gfrog/statuses/228092800657395712">19:42:16, 2012-07-25</a></p></li>
+<li><p>哦，去Amzon上把这个月定的牛奶取消掉。 <a href="http://twitter.com/gfrog/statuses/228096989689171968">19:58:54, 2012-07-25</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/25/todays-tweets-2012-07-24/">Today&#8217;s Tweets 2012-07-24</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-25T07:59:00+08:00" pubdate data-updated="true">Jul 25<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p>求靠谱人肉 #翻墙 机会。 <a href="http://twitter.com/gfrog/statuses/227569287567659008">09:02:00, 2012-07-24</a></p></li>
+<li><p>某些中国人连在bbs上提问题都不会问，经常是“为神马我的电脑好慢啊，肿么办”，然后底下一堆人回帖“我一样的配置，很快啊”、“换新版本试试”，然后LZ回复“为什么我的不行呢”、“那我晚上回家试试”。一帮傻逼。 <a href="http://twitter.com/gfrog/statuses/227649618979196928">14:21:13, 2012-07-24</a></p></li>
+<li><p>RT <a href="http://twitter.com/na_sheishei">@na_sheishei</a>: RT @北京人不知道的北京事儿 #北京台看不见的房山# 房山韩村河镇遇难者尸体打捞全程视频：<a href="http://t.co/apae1RiS">http://t.co/apae1RiS</a> 来自于@凤凰视频 ，不评论。 <a href="http://t.co/pZg3cRT3">http://t.co/pZg3cRT3</a> <a href="http://twitter.com/gfrog/statuses/227649751368224768">14:21:44, 2012-07-24</a></p></li>
+<li><p><a href="http://twitter.com/iMurMur">@iMurMur</a> 没办法不看到啊，遍地都是这种。 <a href="http://twitter.com/iMurMur/statuses/227692034302038016">in reply to iMurMur</a> <a href="http://twitter.com/gfrog/statuses/227694622678335488">17:20:03, 2012-07-24</a></p></li>
+<li><p>RT <a href="http://twitter.com/Ji_Rabbin">@Ji_Rabbin</a>: 正经福利放送：现手上有帝都某国际四星酒店的房间若干，推上众亲有在北京旅游或居住的私信联络我，可免费为大家安排入住。酒店在（五棵松）万事达中心附近，房间敞亮包含早餐。（公司在帝都开会房间订多且无法退订，空开可惜故有此条）PS：此信息为7月31号下午7点 <a href="http://twitter.com/gfrog/statuses/227765211422158850">22:00:32, 2012-07-24</a></p></li>
+<li><p>RT <a href="http://twitter.com/tenderkuma">@tenderkuma</a>: 我早就说过猫咪都是从猫树上结的你们不信。好吧我发一张未采摘的猫树照片给你们看看！ <a href="http://t.co/LQ0G2PdX">http://t.co/LQ0G2PdX</a> <a href="http://twitter.com/gfrog/statuses/227765395438858240">22:01:16, 2012-07-24</a></p></li>
+<li><p>RT <a href="http://twitter.com/xuefeiwind">@xuefeiwind</a>: 转： 曹操大军压境，瑜亮联手，决定火烧赤壁，将此计报告孙权。孙权长叹一口气：“用火烧对付80万曹军，好计策，可是到哪里去找那么多驴肉啊？” <a href="http://twitter.com/gfrog/statuses/227766788673372161">22:06:48, 2012-07-24</a></p></li>
+<li><p>一小时之前注册VUE，现在就收到确认信了呢。还真快，我以为还要等一天才行呢。 <a href="http://twitter.com/gfrog/statuses/227767931310841856">22:11:21, 2012-07-24</a></p></li>
+<li><p>Redhat两大产品，KVM（qemu）和GlusterFS之间的融合，被一个IBM的哥们发patch实现了，这就是真实的开源社区啊，真逗。 <a href="http://twitter.com/gfrog/statuses/227788384498774016">23:32:37, 2012-07-24</a></p></li>
+<li><p>RT <a href="http://twitter.com/petefang">@petefang</a>: Amazon终于开始限制3G漫游了：only available for some customers outside of the United States and may be limited to 50MB of browsing ov &hellip; <a href="http://twitter.com/gfrog/statuses/227788701411991552">23:33:53, 2012-07-24</a></p></li>
+<li><p>RT <a href="http://twitter.com/fndhrt">@fndhrt</a>: 东软医疗的一帮人拷走核心文档代码，随后集体辞职自己开公司做同样的东西，被逮捕了。装有文档代码的电脑和移动硬盘成为犯罪证据。如果他们使用云存储，本可以成为一家新锐创业公司。 <a href="http://twitter.com/gfrog/statuses/227788768919306240">23:34:09, 2012-07-24</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/24/todays-tweets-2012-07-23/">Today&#8217;s Tweets 2012-07-23</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-24T07:59:00+08:00" pubdate data-updated="true">Jul 24<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p>RT <a href="http://twitter.com/disinfeqt">@disinfeqt</a>: 大致来说，新浪微博是一个别人说什么你就转什么的地方。总有人想操纵你的眼球和转发的贱手来达到他们的目的，好的和坏的。我是个不喜欢被人操纵的人，只是管不住眼球和贱手，于是干脆不用了。 <a href="http://twitter.com/gfrog/statuses/227081162596691969">00:42:22, 2012-07-23</a></p></li>
+<li><p>求靠谱人肉 #翻墙 机会。 <a href="http://twitter.com/gfrog/statuses/227206494511321090">09:00:24, 2012-07-23</a></p></li>
+<li><p>再次搞一个猥琐流的patch，/sys算cpu的thread比较麻烦，那就数/sys/devices/system/cpu/cpu0/topology/thread_siblings_list里面有几个逗号好了，XD。 <a href="http://twitter.com/gfrog/statuses/227297849103245312">15:03:24, 2012-07-23</a></p></li>
+<li><p>主流这个词二爆了。所谓主流，全是尼玛找借口的，啥叫主流？ 你能代表哪个主流？ <a href="http://twitter.com/gfrog/statuses/227300936148725760">15:15:40, 2012-07-23</a></p></li>
+<li><p>干掉香蕉2枚，味道真的很好呢。 <a href="http://twitter.com/gfrog/statuses/227395129214910465">21:29:58, 2012-07-23</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/23/todays-tweets-2012-07-22/">Today&#8217;s Tweets 2012-07-22</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-23T07:59:00+08:00" pubdate data-updated="true">Jul 23<span>rd</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p>帝都大雨之后，外面的天气超赞呢。 <a href="http://twitter.com/gfrog/statuses/226827348270542850">07:53:48, 2012-07-22</a></p></li>
+<li><p>中关村的奸商们真是要碉堡了。下午去村里装机，js写配置单，intel双核2.8G+G41主板，看到主板就赶脚不对，叫丫拿来CPU对质，拿来一看，好嘛，P4-2.8G啊有没有，外壳上还带着硅脂有没有。擦，几百年前的旧货当新货卖啊，不知道多少人上当啊。 <a href="http://twitter.com/gfrog/statuses/227041716383907842">22:05:38, 2012-07-22</a></p></li>
+<li><p>这价格真心不算便宜啊，还是海淘神衣和冲锋衣好了 <a href="http://twitter.com/hidigi">@hidigi</a> <a href="http://twitter.com/terryxxy">@terryxxy</a> RT <a href="http://twitter.com/justone_he">@justone_he</a>: 亚马逊中国土拨鼠半价，还有满赠活动，不过还是贵。短袖快干要￥149，俺还是买迪卡侬的￥49算了 <a href="http://t.co/AqJCe3Xj">http://t.co/AqJCe3Xj</a> <a href="http://twitter.com/gfrog/statuses/227049400118173696">22:36:10, 2012-07-22</a></p></li>
+<li><p><a href="http://twitter.com/terryxxy">@terryxxy</a> 木搞，但是垂涎已久，记得在北方还是要搭配冲锋衣使用。魔都地区不太清楚，大概一件可能够过冬了。 <a href="http://twitter.com/terryxxy/statuses/227049583295987712">in reply to terryxxy</a> <a href="http://twitter.com/gfrog/statuses/227049808060350465">22:37:47, 2012-07-22</a></p></li>
+<li><p>Marmot的女款神衣太丑了，拿去送妹纸的话妹纸一定不会喜欢啊，还是TNF和鸟衣那种卖骚的货色比较适合送妹纸呢。 <a href="http://twitter.com/gfrog/statuses/227050285258907648">22:39:41, 2012-07-22</a></p></li>
+<li><p><a href="http://twitter.com/terryxxy">@terryxxy</a> 这应该差不多了呢。再冷就羽绒吧。 <a href="http://twitter.com/terryxxy/statuses/227050122339561472">in reply to terryxxy</a> <a href="http://twitter.com/gfrog/statuses/227050444449542144">22:40:19, 2012-07-22</a></p></li>
+<li><p>RT <a href="http://twitter.com/hsin747">@hsin747</a>: &ldquo;@try2feel: 北新办：7月21日，本市发生暴雨到大暴雨天气，截至22日17时，在本市境内共发生因灾死亡37人。其中，溺水死亡25人，房屋倒塌致死6人，雷击致死1人，触电死亡5人。目前，死者已有22人确定身份，其余15人正在确认中。&rdquo; <a href="http://twitter.com/gfrog/statuses/227052098418769920">22:46:53, 2012-07-22</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/blog/page/9/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/blog/page/7/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/01/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/06/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/13/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

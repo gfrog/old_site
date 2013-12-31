@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: virtualization[Virtualization] | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/virtualization-virtualization/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-01-01T01:02:39+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[注册Amazon EC2账户一枚]]></title>
+    <link href="http://yoursite.com/blog/2010/12/16/setup-an-amazon-ec2-account/"/>
+    <updated>2010-12-16T08:02:38+08:00</updated>
+    <id>http://yoursite.com/blog/2010/12/16/setup-an-amazon-ec2-account</id>
+    <content type="html"><![CDATA[<p>青蛙今天在水木社区LinuxApp版看到有人推荐Amazon EC2，没有忍住诱惑，去注册了一个帐号。</p>
+
+<p>每个EC2帐号可以免费使用1年，试用的配置(每月)</p>
+
+<blockquote><p>750 hours of EC2 running Linux/Unix Micro instance usage
+750 hours of Elastic Load Balancing plus 15GB data processing
+10GB EBS存储空间、100万次IO操作
+1GB 快照存储、10,000 snapshot Get Requests and 1,000 snapshot Put Requests
+全部服务合计15GB流入和15GB流出带宽.</p></blockquote>
+
+<p>今天晚上帐号Active了，上去看了一下，实际上EC2就是一个特别一点的VPS。再加上Amazon的工具套件，可以很方便的启动/关闭虚拟机实例，这样网站就完全不用考虑硬件的问题，负载不够马上再开一个实例就是了。</p>
+
+<p>另外，AWS上提供的虚拟化方案是基于XEN的，传言EC2的IO性能不够好，这可能跟XEN的实现也有关。</p>
+
+<p>青蛙还发现AWS界面上的大堆bug，虚拟机启动信息里的大堆oops信息，看来领先的虚拟化提供商提供的服务也不是完美的，虚拟化的发展之路还很漫长。</p>
+
+<p>附记，申请EC2的攻略（似乎图片不太稳定，大家凑合看吧 ：P）：
+<a href="http://www.imtnt.net/amazon-ec2-micro-instance-and-tunnel-guide/">http://www.imtnt.net/amazon-ec2-micro-instance-and-tunnel-guide/</a></p>
+]]></content>
+  </entry>
+  
+</feed>

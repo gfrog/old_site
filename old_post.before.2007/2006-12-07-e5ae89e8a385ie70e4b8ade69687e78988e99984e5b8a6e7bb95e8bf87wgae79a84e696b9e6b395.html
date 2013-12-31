@@ -1,0 +1,241 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>安装IE7.0中文版(附带绕过WGA的方法) - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="ie7.0的中文版出来好几天了,今天偶终于没有忍住诱惑,把ie6给升级了. 下载ie7问题不大,没有遇到正版验证这一步.偶还很奇怪为啥MS心变好了.让盗版windows用户也能用ie7了? 后来才发现MS是把正版验证这一步放到了安装程序里面.google一番, &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yoursite.com/old_post.before.2007/2006-12-07-e5ae89e8a385ie70e4b8ade69687e78988e99984e5b8a6e7bb95e8bf87wgae79a84e696b9e6b395.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yoursite.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+    <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+    <li><a href="/categories/linux">Linux</a></li>
+    <li><a href="/categories/picture">美丽图片</a></li>
+    <li><a href="/categories/twitter-backup">Tweets</a></li>
+    <li><a href="/blog/archives">全部日志</a></li>
+    <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">安装IE7.0中文版(附带绕过WGA的方法)</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-12-07T22:17:36+08:00" pubdate data-updated="true">Dec 7<span>th</span>, 2006</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><a href="http://www.microsoft.com/china/windows/ie/default.mspx">ie7.0的中文版</a>出来好几天了,今天偶终于没有忍住诱惑,把ie6给升级了.</p>
+
+<p>下载ie7问题不大,没有遇到正版验证这一步.偶还很奇怪为啥MS心变好了.让盗版windows用户也能用ie7了? 后来才发现MS是把正版验证这一步放到了安装程序里面.google一番,早就有人研究出了NN种绕过正版验证的方法.大体上就是破解ie安装文件跟删除WGA验证数据这两个办法.破解ie安装文件的方法偶就不试了,一向很怕怕乱七八糟的dll文件,谁知道它的破解完不完整或者有点啥猫腻.</p>
+
+<p>下面说删除WGA文件这个方法</p>
+
+<p>先运行IE7安装文件(到<a href="http://download.microsoft.com/download/4/1/8/418981A4-6EF9-4DE6-BEFC-1A53E886CB62/ie7-windowsxp-x86-chs.exe">这里</a>来下载xp sp2的版本),到了验证windows版本那步,点验证.然后会出来一个网页,提示你的windows不是正版的(当然不会是正版,如果是正版windows请忽略此篇日志),这时候不要关掉网页跟ie安装程序.去系统盘上的</p>
+
+<p>X:Documents and SettingsAll UsersApplication DataWindows Genuine Advantagedata (X代表你的系统盘)</p>
+
+<p>这个文件夹,删掉data.dat文件.</p>
+
+<p>然后,拔掉网线(ADSL拨号就断开网络连接),回到ie安装程序,点下一步,会出现下面这个界面:</p>
+
+<p><a href="http://www.gfrog.cn/attachments/month_0612/x2006127141735.gif"><img src="http://www.gfrog.cn/attachments/month_0612/p2006127141736.jpg" alt="3.gif" /></a></p>
+
+<p>然后一路下一步完成安装就OK了.</p>
+
+<p>正在使用IE7中,这种方法未发现其他问题.</p>
+
+<p>   Del.icio.us : <a href="http://del.icio.us/tag/ie">ie</a>, <a href="http://del.icio.us/tag/wga">wga</a></p>
+
+<p>Powered by <a href="http://www.zoundry.com">Zoundry</a></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Your Name</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2006-12-07T22:17:36+08:00" pubdate data-updated="true">Dec 7<span>th</span>, 2006</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/it-express-itte-kuai/'>it-express[IT特快]</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://yoursite.com/old_post.before.2007/2006-12-07-e5ae89e8a385ie70e4b8ade69687e78988e99984e5b8a6e7bb95e8bf87wgae79a84e696b9e6b395.html" data-via="" data-counturl="http://yoursite.com/old_post.before.2007/2006-12-07-e5ae89e8a385ie70e4b8ade69687e78988e99984e5b8a6e7bb95e8bf87wgae79a84e696b9e6b395.html" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/01/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/06/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/13/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

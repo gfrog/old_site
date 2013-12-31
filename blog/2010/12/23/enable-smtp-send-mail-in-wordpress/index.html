@@ -1,0 +1,235 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>配置wordpress的邮件发送功能 - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="青蛙继续倒腾vps，今天的主题是调教wordpress发送邮件。 之前在Dreamhost上面，邮件系统已经配置好了，wordpress不需要任何设置就可以直接发送邮件。到了vps上之后，青蛙为了节省资源，没有安装邮件服务器，所以想要发送邮件，还需要自己折腾。 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yoursite.com/blog/2010/12/23/enable-smtp-send-mail-in-wordpress">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yoursite.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+    <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+    <li><a href="/categories/linux">Linux</a></li>
+    <li><a href="/categories/picture">美丽图片</a></li>
+    <li><a href="/categories/twitter-backup">Tweets</a></li>
+    <li><a href="/blog/archives">全部日志</a></li>
+    <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">配置wordpress的邮件发送功能</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-12-23T07:53:26+08:00" pubdate data-updated="true">Dec 23<span>rd</span>, 2010</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>青蛙继续倒腾vps，今天的主题是调教wordpress发送邮件。</p>
+
+<p>之前在Dreamhost上面，邮件系统已经配置好了，wordpress不需要任何设置就可以直接发送邮件。到了vps上之后，青蛙为了节省资源，没有安装邮件服务器，所以想要发送邮件，还需要自己折腾。
+青蛙首先是想到了配置一个轻量级的MTA，例如msmtp之类的，然后修改php.ini的sendmail_path参数，使它指向msmtp。这样php程序就具有邮件发送能力了，但是这样产生的问题就是邮件的发送服务器是固定的，而且需要配置一个帐号来做登录服务器，如果某个用户希望使用自己的服务器发送某些邮件，这样配置就无法实现了。</p>
+
+<p>为了实现完美的解决方案，青蛙又搜了一圈，发现了wordpress已经集成了一个PHPMailer[1]类，并且提供了一个wp_mail函数[2]来发送邮件，有很多设置SMTP的插件[3]方便我们配置SMTP服务器和外发邮件帐号信息。</p>
+
+<p>青蛙选择了WP Mail SMTP插件，非常简单，把所有参数填好，wordpress就可以发送邮件了。</p>
+
+<p>参考资料：
+[1] PHPMailer <a href="http://phpmailer.worxware.com/">http://phpmailer.worxware.com/</a>
+[2] Function Reference/wp_mail <a href="http://codex.wordpress.org/Function_Reference/wp_mail">http://codex.wordpress.org/Function_Reference/wp_mail</a>
+[3] 让 WordPress 通过 SMTP 发送邮件 <a href="http://goto8848.net/2008/04/wordpress-mail-via-smtp/">http://goto8848.net/2008/04/wordpress-mail-via-smtp/</a></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Your Name</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-12-23T07:53:26+08:00" pubdate data-updated="true">Dec 23<span>rd</span>, 2010</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/linux-linux/'>linux[Linux]</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://yoursite.com/blog/2010/12/23/enable-smtp-send-mail-in-wordpress/" data-via="" data-counturl="http://yoursite.com/blog/2010/12/23/enable-smtp-send-mail-in-wordpress/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2010/12/22/todays-tweets-2010-12-22/" title="Previous Post: Today's tweets 2010-12-22">&laquo; Today's tweets 2010-12-22</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2010/12/23/todays-tweets-2010-12-23/" title="Next Post: Today's tweets 2010-12-23">Today's tweets 2010-12-23 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/01/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/06/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/13/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

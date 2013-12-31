@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: gfrog-say[青蛙的杂烩] | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/gfrog-say-qing-wa-de-za-hui/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-01-01T01:02:39+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2013年终总结及2014年新年目标]]></title>
+    <link href="http://yoursite.com/blog/2014/01/01/2013-summary-and-2014-outlook/"/>
+    <updated>2014-01-01T05:14:10+08:00</updated>
+    <id>http://yoursite.com/blog/2014/01/01/2013-summary-and-2014-outlook</id>
+    <content type="html"><![CDATA[<p>辞旧迎新，又是一年年终总结和新年展望的时候。</p>
+
+<p><strong>首先，工作。</strong></p>
+
+<p>今年青蛙完成了来北京三年之后的第一个转折：换工作。
+虽然这次换工作是在年度计划之中的，但是确实是在原来公司的团队里发现了问题，以至于不得不提前离开。</p>
+
+<p>（也是由于拖延症的关系，一直到年底，换工作的blog也没有写完，只好在这里简单写一下对前公司的感想了）
+青蛙的前东家，也就是Red Hat，实际上是一家非常不错的公司。青蛙刚刚进去的时候，体会到的是宽松活泼又快速的工作方式。
+在这种工作环境里，工作本身就是件很有意思的事情。
+首先，在每个人保证自觉性的前提下，老板们基本不会过多的过问进度方面的问题，
+只要能完成任务，剩下的时间可以随意安排。于是青蛙自己就有了很多学习和研究的时间。</p>
+
+<p>但是，随着老员工的离去和新鲜血液的加入，这种工作氛围慢慢的没有了。
+青蛙最常听到的抱怨就是任务太重以至于不得不加班…… 大概是太多华为来的家伙把加班文化带到了这里？
+一个工资不到华为三分之一，每天还要加班到8-9点钟的公司，实在不能说是一个好选择。
+于是很多人离开也完全可以理解。</p>
+
+<p>在这种环境下，青蛙开始慢慢的跟找上门的猎头接触，并且参加了一些面试。
+但是出去看过了才发现自身很多的不足，例如基本功不扎实，编码能力不足……
+然后回过头来再看看身边的同事，每天都为一些鸡毛蒜皮的小事情扯来扯去，
+完全没有值得自己学习借鉴的地方。于是青蛙下定决心，一定要在工作满三年之前离开。</p>
+
+<p>然后在<a href="http://weibo.com/ubuntumotu">侯总</a>的帮助和引荐下，青蛙有幸加入了Canonical大家庭。
+虽然比起Red Hat，Canonical只是一家小公司，但是这家公司的文化更接近几年前的Red Hat。
+另外这家公司里前帽帽员工竟然出奇的多，青蛙的老板，老板的老板，老板的老板的老板，都是前帽帽员工……
+其实也难怪，做Linux的公司实际上就那么几家而已。</p>
+
+<p>新的工作基本跟编码彻底不贴边，于是青蛙感觉这辈子可能基本就告别码农身份了。
+当然，业余时间如果能做些Python的项目最好，但是，拖延症患者一般只会把这种想法放在脑子里想想而已……</p>
+
+<p><strong>其次，生活。</strong></p>
+
+<p>上半年青蛙基本还是延续了2012年疯狂运动的状态。从春天开始就一直在骑车。
+但是夏天的时候不幸病倒了，然后就突然从骑车运动变成了四处旅游。</p>
+
+<p>首先是北京周边的几个地方：<a href="http://gfrog.net/2013/07/outing-jiming-dak-in-hebei/">鸡鸣驿</a>，土木堡（游记整理中……）。
+然后就一发而不可收拾，青蛙从九月到十二月，几乎月月都跑出去玩儿：青岛（游记整理中……），杭州（游记整理中……），天津塘沽（游记整理中……），张家口（游记整理中……），厦门（游记整理中……）</p>
+
+<p>难道这就是传说中的读万卷书，行万里路？ 读万卷书在这个快节奏的时代比较难，但是行万里路现在真是太简单了。
+2014，青蛙应该继续行走在路上。</p>
+
+<p>当然，自从发现老爹老妈还是很喜欢我常回家看看之后，青蛙只要有比较长的假期都会跑回家待几天。
+但是在家好吃懒做也引起了老妈的反感。 2014，除了常回家看看，还有多帮老娘做做家务。</p>
+
+<p><strong>第三，学习。</strong></p>
+
+<p>因为去年下半年一直处于学习状态，所以今年上半年青蛙也一直在努力奋进的状态：努力看书，努力背单词。
+但是拖延症患者要保持一个长久的学习状态非常难，于是从不知道什么时候起，背单词和看书的事情就被荒废了……</p>
+
+<p>换了新工作之后，因为接触的都是全新的东西，所以学习的重点都放在新的业务系统上了。</p>
+
+<p>但是青蛙也在工作中发现，很多基础的Linux知识依然不清楚，继续啃RHCA还是很有必要的。</p>
+
+<p>另外一方面，因为老板和同事全都是外国人，口语和听力成了青蛙必须尽快解决的大问题。</p>
+
+<p>目前听比较标准的英音的话，青蛙大概能听懂一多半，但是稍有口音就完全听不懂了。
+解决的方法似乎只有一个：多听，玩命的听。</p>
+
+<p>口语的话，发音是个大问题，然后就是词不达意。当然也没别的途径好解决，只有多说。</p>
+
+<p><strong>第四，折腾。</strong></p>
+
+<p>NAS? （笔记整理中……）</p>
+
+<p><strong>2013总结</strong></p>
+
+<p>整体上来说，2013年计划完成度就是四个字来形容：啥也没干！ 总之今年过的有点混乱。</p>
+
+<ol>
+<li><p> 学习，P1，完成RHCA/CCIE认证中的一个。</p>
+
+<ul>
+<li>未完成，青蛙试图参加RHCA的培训和考试，但是被Boss无情的拒绝。只好自己先慢慢看了…… 然后青蛙又报了CCIE-SP的培训，但是因为换工作的原因没有完成培训。</li>
+</ul>
+</li>
+<li><p> 学习，P1，雅思7分。</p>
+
+<ul>
+<li>买了雅思单词书和真题，但是目前雅思单词完成度只有三分之一。但是背单词已经有些效果了，看美剧一些单词可以直接听出来了，lol</li>
+</ul>
+</li>
+<li><p> 学习，P2，尽可能多的阅读其他项目的Python代码，例如VDSM。</p>
+
+<ul>
+<li>随着换工作也一并搁置。不过目前还是有Python项目可读，例如Openstack。</li>
+</ul>
+</li>
+<li><p> 学习，P2，Debug Hacks，读完、理解这本书。</p>
+
+<ul>
+<li>完成度三分之一，拖延症……</li>
+</ul>
+</li>
+<li><p> 学习，P2，Facebook上Cisco学院会经常帖一些实际的项目或者实验拓扑，虽然有些可能只是CCNA Level，但是拿来每天练手很不错。</p>
+
+<ul>
+<li>未进行，开始实施的时候发现实际上并没有时间做这个事情，单词学习和代码阅读竟然把空闲时间挤满了。</li>
+</ul>
+</li>
+<li><p> 编码，P1，完成目前手头准备给Autotest upstream的代码，旧的这几个patch没有处理完成之前，不要再做新的了，免得一无所成。</p>
+
+<ul>
+<li>最后的结果是离职前所有手头的patch全部被放弃，很可惜。</li>
+</ul>
+</li>
+<li><p> 编码，P1，pdf剪裁工具，目前看来是非常需要的。即使以后不在Kindle上看pdf了，给iPad/iPhone用也是相当不错的，目前有些很多白边的pdf看起来非常不舒服。</p>
+
+<ul>
+<li>今年接触pdf不多，于是这个软件也处于停滞状态。</li>
+</ul>
+</li>
+<li><p> 编码，P2，IRC bot继续增强。这个似乎可以发掘下有没有人对这个也感兴趣，一起来做了。</p>
+
+<ul>
+<li>在离职之前一直维护中，可以查询很多工作系统的信息了。到新公司之后，放弃……</li>
+</ul>
+</li>
+<li><p> 采购，P1，四轮。</p>
+
+<ul>
+<li>赶在2013年的最后一天，也就是12月31号，去交了钱准备提车。</li>
+</ul>
+</li>
+<li><p>. 采购，P2，公路车。</p>
+
+<ul>
+<li>2013 春季促销的时候海淘了一辆Focus。骑过公路之后青蛙才发现公路真的是青蛙想要的那种车。</li>
+</ul>
+</li>
+<li><p>. 采购，P3，MBA，万一没本子用了，就买MBA吧。</p>
+
+<ul>
+<li>虽然到新公司之后自己买了本子，但是考虑到工作需要还是买的Thinkpad。但是青蛙在酝酿再买台MacOS的系统自用，等2014年实现吧。</li>
+</ul>
+</li>
+<li><p>. 生活，P1，坚持写Blog，至少每周1篇。 （<strong>Update 2012-12-31 21:16:00</strong>）</p>
+
+<ul>
+<li>拖延症导致很多blog开了个头但是没完成。目前手头积压10+篇，青蛙要补欠帐喽。</li>
+</ul>
+</li>
+</ol>
+
+
+<p><strong>2014展望</strong></p>
+
+<p>新的工作，意味着新的开始和新的挑战。所以明年应该是忙碌又充满变数的一年。</p>
+
+<ol>
+<li><p> 学习，P1，完成CCIE认证。2014年青蛙的CCIE认证需要重认证了，这样刚好可以参加一个新的笔试。</p></li>
+<li><p> 学习，P1，雅思7分。这个会英语包打天下的年代，必须尽快增强英语能力才行。</p></li>
+<li><p> 学习，P1，阅读Openstack代码。</p></li>
+<li><p> 学习，P2，INE的CCIE DC视频，了解Cisco DC解决方案。</p></li>
+<li><p> 采购，P1，MacOS系统的电脑， rMBP？ Mac mini？</p></li>
+<li><p> 采购，P2，新的相机，Nex6？</p></li>
+<li><p> 生活，P1，跟之前的同事朋友保持联络，每月聚会？</p></li>
+<li><p> 生活，P1，坚持写Blog，至少每周1篇。</p></li>
+<li><p> 生活，P2，继续出行，争取走遍全国各省。</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[体验哈大高铁]]></title>
+    <link href="http://yoursite.com/blog/2013/06/10/travel-to-dalian-by-crh/"/>
+    <updated>2013-06-10T23:11:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/06/10/travel-to-dalian-by-crh</id>
+    <content type="html"><![CDATA[<p>端午假期，青蛙因为算错了放假的日子，结果没有买到从北京直接去大连的车票。
+于是只好动车回沈阳，然后从沈阳坐高铁去大连。不过歪打正着，正好体验下提
+速之后的哈大高铁。</p>
+
+<p>目测哈大高铁提速之后没有太明显的晃动，当然节约的时间其实并不多，从冬天
+时候的2.5小时变成了夏天的2小时。不过经过隧道的时候耳朵有很明显的疼痛。</p>
+
+<p>车票，特等座要比二等座贵将近一倍</p>
+
+<p><img src="https://lh5.googleusercontent.com/-5MRkhsq207U/UbqpdwjvDBI/AAAAAAAAMSs/y_SGGCsGGQI/s640/D6139FFE-B4FF-4B57-AA21-AFDB8F56E184.JPG" alt="https://lh5.googleusercontent.com/-5MRkhsq207U/UbqpdwjvDBI/AAAAAAAAMSs/y_SGGCsGGQI/s640/D6139FFE-B4FF-4B57-AA21-AFDB8F56E184.JPG" /></p>
+
+<p>沈阳北站里动车的赠水处，在候车室最里面，难怪我之前几次都没找到。</p>
+
+<p><img src="https://lh6.googleusercontent.com/-CtyF3E6KO6k/UbqpdxvkxzI/AAAAAAAAMSg/rlKkrWkqkLg/s640/CD548031-A81F-4587-B249-5E269E0ED57A.JPG" alt="https://lh6.googleusercontent.com/-CtyF3E6KO6k/UbqpdxvkxzI/AAAAAAAAMSg/rlKkrWkqkLg/s640/CD548031-A81F-4587-B249-5E269E0ED57A.JPG" /></p>
+
+<p>沈阳北站站牌。</p>
+
+<p><img src="https://lh3.googleusercontent.com/-l1fIm9L8ErI/UbqpdwkVgUI/AAAAAAAAMSg/cjDS4Qa2dX4/s640/EF67A829-3538-4795-9755-D7B6B3F44AAB.JPG" alt="https://lh3.googleusercontent.com/-l1fIm9L8ErI/UbqpdwkVgUI/AAAAAAAAMSg/cjDS4Qa2dX4/s640/EF67A829-3538-4795-9755-D7B6B3F44AAB.JPG" /></p>
+
+<p>座席，是红色的，坐起来倒还满舒服，但是两人座位这边，中间的扶手还是只有一个，同时坐满有点挤。</p>
+
+<p><img src="https://lh3.googleusercontent.com/-_IuZAV8IRAo/Ubqpd7dBSgI/AAAAAAAAMSk/1WvBdDtxWXU/s640/8355F229-2185-4B6C-9ED5-157383684A2B.JPG" alt="https://lh3.googleusercontent.com/-_IuZAV8IRAo/Ubqpd7dBSgI/AAAAAAAAMSk/1WvBdDtxWXU/s640/8355F229-2185-4B6C-9ED5-157383684A2B.JPG" /></p>
+
+<p>紧挨着司机室，甚至可以听到里面传出来路况信息通告和列车员在对讲机上喊话的声音。</p>
+
+<p><img src="https://lh4.googleusercontent.com/-yZ0vePaHl3g/Ubqpd0VGB1I/AAAAAAAAMSg/8YmOPKnoNvk/s640/544D82FC-07B0-4AB7-AD0F-CA0261FA93F1.JPG" alt="https://lh4.googleusercontent.com/-yZ0vePaHl3g/Ubqpd0VGB1I/AAAAAAAAMSg/8YmOPKnoNvk/s640/544D82FC-07B0-4AB7-AD0F-CA0261FA93F1.JPG" /></p>
+
+<p>小桌板，这张拍虚了。</p>
+
+<p><img src="https://lh6.googleusercontent.com/-YvZpTGC3fYE/Ubqpdx1QExI/AAAAAAAAMSg/qSejAz4pqrw/s640/6F2B35AE-4F04-445A-8AFA-400DAB8B6B45.JPG" alt="https://lh6.googleusercontent.com/-YvZpTGC3fYE/Ubqpdx1QExI/AAAAAAAAMSg/qSejAz4pqrw/s640/6F2B35AE-4F04-445A-8AFA-400DAB8B6B45.JPG" /></p>
+
+<p>其实特等坐没必要在候车室领水，车上列车员还会再发水的。</p>
+
+<p><img src="https://lh3.googleusercontent.com/-71T0tP9dqwE/Ubqpd4Qdn7I/AAAAAAAAMSg/I-k53PGjvA8/s640/9D202B04-5E9F-4BCD-86B0-2C60FFE4FC61.JPG" alt="https://lh3.googleusercontent.com/-71T0tP9dqwE/Ubqpd4Qdn7I/AAAAAAAAMSg/I-k53PGjvA8/s640/9D202B04-5E9F-4BCD-86B0-2C60FFE4FC61.JPG" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wordpress转换到Octopress]]></title>
+    <link href="http://yoursite.com/blog/2013/03/08/convert-wordpress-to-octopress/"/>
+    <updated>2013-03-08T21:11:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/03/08/convert-wordpress-to-octopress</id>
+    <content type="html"><![CDATA[<p>今天青蛙下定决心干掉Wordpress了，不为别的，就因为
+在大天朝访问Openshift不靠谱的连接状态。</p>
+
+<p>把Wordpress转换到Octopress这件事，对于天天泡在github
+上的青蛙来说，实在是简单到爆了。github账户有了，ruby
+运行环境有了，只要简单几步就够了：</p>
+
+<ol>
+<li>按照 <a href="http://octopress.org/docs/setup/">http://octopress.org/docs/setup/</a>
+git clone回octopress代码，安装bundler，安装默认主题。</li>
+<li>按照 <a href="http://octopress.org/docs/deploying/github/">http://octopress.org/docs/deploying/github/</a>
+在github上新建一个repo，名字取为"your_github_id.github.com"，在Octopress的目录中执行
+<code>rake setup_github_pages</code>， 在提示符中填入这个新建的repo的git地址。</li>
+<li><p>然后
+    rake generate
+    rake deploy</p></li>
+<li><p>用浏览器访问"<a href="http://your_github_id.github.com">http://your_github_id.github.com</a>"，应该就能看到Octopress的页面了。</p></li>
+<li><p>记得要把源码（包括blog的markdown文件）提交到git repo里： 包括blog的markdown文件
+    git add .
+    git commit -m &lsquo;your message&rsquo;
+    git push origin source</p>
+
+<p>之后每次写完新post都需要做这个操作，以便保留原始文档方便日后编辑。</p></li>
+<li><p>编辑_config.yml文件，修改blog的title、author、email等等信息。
+<a href="http://octopress.org/docs/configuring/">http://octopress.org/docs/configuring/</a></p></li>
+<li>Octopress 配置好之后就是把Wordpress迁移过来了，青蛙找到了一个exitwp的工具：
+<a href="https://github.com/thomasf/exitwp">https://github.com/thomasf/exitwp</a>
+按照exitwp的README安装好之后，从wordpress导出xml格式的文章备份，首先用xmllint检查
+一下这个xml文档是不是有语法错误，特别是特殊字符之类。因为exitwp用了python的xml module，
+这个模块对某些错误极度敏感，所以要修正xmllint报出的所有错误才行。</li>
+<li>把这个xml扔进exitwp里面的wordpress-xml目录，执行exitwp，所有的wp post就会被转换成
+一个个markdown文件了。
+把这些markdown复制到octopress目录里的source/_posts下面，然后运行
+<code>rake generate &amp;&amp; rake deploy</code> 就可以把Wordpress的post内容都迁移到Octopress上了。</li>
+<li>最后记得把这些markdown都扔进source branch里。</li>
+</ol>
+
+
+<p>目前青蛙还没解决的几个问题：</p>
+
+<ol>
+<li>Category的英文名字似乎没法编辑，青蛙还没找到相关的文档。</li>
+<li>Draft和private状态的文档还不清楚怎么转换。</li>
+<li>当post很多时（>1000），<code>rake generate</code>需要运行相当长的时间，青蛙每次执行这个命令都需要2分钟+。</li>
+</ol>
+
+
+<p><strong>Update 2013-03-16:</strong></p>
+
+<p>Category的问题据说在Octopress2.1里面被解决了。</p>
+
+<p>青蛙从2.1的branch上backport了一个patch到master，终于解决了中文category名字的问题。
+patch在：
+<a href="https://github.com/gfrog/gfrog.github.com/commit/60212ee17766e8ba84f81cfdc3f36ef992ae6fb1">https://github.com/gfrog/gfrog.github.com/commit/60212ee17766e8ba84f81cfdc3f36ef992ae6fb1</a>
+没有经过完整测试，不过目前使用状况良好。</p>
+
+<p>目前Category的写法为 <code>- Category link[Category Name]</code>，从而完美搞定中文分类名的问题。</p>
+
+<p><strong>Update 2013-04-03:</strong></p>
+
+<p>补充一些Octopress用法的问题：</p>
+
+<ol>
+<li>新建post： <code>rake new_post["Post标题"]</code>，
+不过permalink似乎比较难修改，在markdown里写slug似乎无效，只能修改markdown文件名。</li>
+<li>codeblock 的用法： <a href="http://octopress.org/docs/plugins/codeblock/">http://octopress.org/docs/plugins/codeblock/</a></li>
+<li>修改header menu： 编辑 source/_includes/custom/navigation.html</li>
+<li>添加Header image： 编辑 sass/custom/_styles.scss，加入：
+<div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="nt">header</span><span class="o">[</span><span class="nt">role</span><span class="o">=&amp;</span><span class="nt">ldquo</span><span class="o">;</span><span class="nt">banner</span><span class="o">&amp;</span><span class="nt">rdquo</span><span class="o">;]</span> <span class="p">{</span>
+</span><span class='line'>     <span class="k">background-image</span><span class="o">:</span> <span class="sx">url(/images/header_bg.png)</span><span class="p">;</span>
+</span><span class='line'>     <span class="k">background-repeat</span><span class="o">:</span> <span class="k">no-repeat</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[新年第一天，折腾一下各种装备]]></title>
+    <link href="http://yoursite.com/blog/2013/01/02/fix-some-device-in-first-day-of-2013/"/>
+    <updated>2013-01-02T00:36:49+08:00</updated>
+    <id>http://yoursite.com/blog/2013/01/02/fix-some-device-in-first-day-of-2013</id>
+    <content type="html"><![CDATA[<p>放假在家，闲来无事，青蛙把之前一直想拆开看看的几个东西动手拆了。</p>
+
+<p>第一个是前不久买的WD 3.5寸移动硬盘。拆开之后，果然是绿盘。
+<img src="https://lh4.googleusercontent.com/-raoAVkfZWJc/UOPIrd8DNWI/AAAAAAAAI5k/it5DN87rnyA/s640/48E8E866-D748-4AD9-B520-CD5FA1411C45.JPG" alt="" /></p>
+
+<p>反面，右下角是移动硬盘的控制器。
+<img src="https://lh4.googleusercontent.com/-QDKZ6A4ZlUo/UOPIrbW_IQI/AAAAAAAAI5o/iyhD_P70S0Q/s640/58125AC9-74EA-4CDE-8DB8-C9FBCAAFB104.JPG" alt="" /></p>
+
+<p>靠近点瞧瞧，给主控芯片来个特写，这是不知道啥来历？
+<img src="https://lh4.googleusercontent.com/-V790c6U0K5Y/UOPIrQ37t7I/AAAAAAAAI5s/7eaZatTYOHU/s640/ECA06D8B-A915-4403-AE33-8140129AFE4F.JPG" alt="" /></p>
+
+<p>拆开的时候过于暴力，而且方法不对头，卡子掰坏了。
+<img src="https://lh5.googleusercontent.com/-6ghr12G0Oqg/UOPIra-gwEI/AAAAAAAAI5g/bGsdrcr38hY/s640/A67F4F40-810B-4E09-81D2-F512E50F846C.JPG" alt="" /></p>
+
+<p>虽然这个小东西外壳挺烂的，不过四个角的橡胶垫设计的还不错，充分减少硬盘的震动。
+<img src="https://lh3.googleusercontent.com/-PjJPovB6zo8/UOPIrZBCFPI/AAAAAAAAI5w/pzpg6Dfyw0E/s640/F8857602-EB9E-4402-984C-63925269D878.JPG" alt="" /></p>
+
+<p>这次拆解这块硬盘的目的主要是看下这个小盒子的内部空间够不够放进一块儿Raspberry Pi，
+结果很让人失望，虽然硬盘边上有一定的空间，不过还是不够放下树莓派的。
+看来在移动硬盘里做些什么的想法是没法实现了，只能在外面挂个盒子。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2012年终总结及2013年新年目标]]></title>
+    <link href="http://yoursite.com/blog/2013/01/01/2012-summary-and-2013-outlook/"/>
+    <updated>2013-01-01T05:14:10+08:00</updated>
+    <id>http://yoursite.com/blog/2013/01/01/2012-summary-and-2013-outlook</id>
+    <content type="html"><![CDATA[<p>又到一年岁末时，再来总结一下今年的历程吧。</p>
+
+<p><strong>首先，工作</strong><strong>。</strong></p>
+
+<p>上半年基本就是在浑浑噩噩中度过了，在<a href="https://gfrog.net/2012/08/2012-mid-year-summary/">年中总结</a>里面提到过，感觉上半年一直就是混过来的。本来准备在上半年搞定CCIE的考试，结果拖延症爆发，一直拖到了年底才完成。万一年底这次过不了，那么明年的计划肯定要完全耽误了。</p>
+
+<p>下半年呢，5月下旬到6月初的时候青蛙一直忙于找房子，所以从5月开始就就没有全力投入工作中。再加上下半年筹备CCIE考试，导致投入工作中的精力大幅度减少。于是很多应该在今年完成的工作目标都没有达成。并且精力少了，追踪最新的Qemu/Kernel代码的时间就少了很多，导致今年底对于Qemu-kvm的了解反倒没有年初多。</p>
+
+<p>Python呢，九月份左右的时候青蛙试图使用OO的方式重构一部分代码，但是反响似乎不太好。现在回头再读那些代码，可读性确实不太高。明年，青蛙需要着重加强编码质量和代码可用性。2012年的代码量也因为考试被拖下来很多，2011年的时候几乎每天都有新patch，今年只是断断续续的修复一些问题。很少有增加新功能的patch。看来学习新东西真的是一件很耽误时间的事情啊。</p>
+
+<p>今年的工作方式也因为考试耽误了不少，之前青蛙给自己制定了每日工作内容，今年这个工作内容彻底被打乱了。虽然12月考完试之后青蛙正努力恢复每日工作内容，但是因为每天的效率不高，所以收效不大。</p>
+
+<p>今年秋天有幸人生中的第一次升了Title，虽然看起来没啥，不过毕竟工作了5年，才换来这么个Title，看来之前青蛙确实挺失败的。没办法，唯有继续努力。</p>
+
+<p><strong>其次，生活。</strong></p>
+
+<p>下半年青蛙重新找房子，恢复了跟陌生人合租的状态。这种状态直接导致了每天不想回家，因为回家就是个小盒子，只是个睡觉的地方。于是办公室和教室是青蛙待的最多的2个地方。总之，宅。</p>
+
+<p>2012年几乎没有旅行，回家探亲，包括去大连考试，都是匆匆而过，甚至顾不上停下来到处走走。十一的时候看似疯狂的带自行车去看爷爷奶奶，结果一路都是下雨天，到了爷爷奶奶那直接病倒，十一趴了一周。</p>
+
+<p>今年跟老爸老妈似乎多见了几次面，每次都感觉到他们见到我回去的那种开心。明年争取多回家陪陪老爸老妈吧。</p>
+
+<p><strong>第三，学习。</strong></p>
+
+<p>2012年青蛙的Kindle4没有发挥它应有的作用，上半年看过几次，下半年开始备战CCIE考试之后就基本扔在一边了，因为考试相关的资料全是PDF的，用小屏幕的Kindle看起来太痛苦了。
+Kindle Sync的工具青蛙已经很久没有动过了，因为青蛙最近连Google reader都没有读过。总之，2012年的阅读量简直低的让人发指，完整的读完一本书似乎在今年都没有发生过。不清楚今年青蛙为什么会这么浮躁，一看书就想迅速翻到结尾，这个问题明年必须要改掉。</p>
+
+<p>如果说今年最大的成果，那就是拿到了2个认证，一个是RHCE认证，另外一个是CCIE。
+RHCE拿到的比较轻松，因为目前青蛙主要就是做这方面的内容嘛，每天遇到的情况堆起来，也差不多就是RHCE的考试题了 XD。另外加上这是我司的内部考试，考前有充分的培训加练习，所以基本没有什么压力就拿到了。
+然后，就是今年最痛苦的一段时间，CCIE lab练习，这段时间真的像是回到了高考备考那种状况，每天晚上早起晚睡，在公交车上还要看配置。索性功夫不负有心人，Lab还是一次通过了，虽然当中有些惊险，不过结果还是令人满意的。
+考过CCIE之后，青蛙突然觉得有点茫然。虽然考过了拿到号码，但是不会的还是不会，没经验也还是没经验。似乎应该继续敲敲实验（多出去围观下项目？这个不知道有没有机会了）
+考试过后青蛙一直没有找准继续的努力方向，是先学习RHCA课程把RHCA搞定，还是趁热打铁争取拿下新的CCIE，现在这个就悬在这了，没有清晰的方向。
+不过目前最清晰的目标就是英语啦，青蛙自觉英语真是烂到爆了，于是找来背单词软件，买了雅思单词书，正在背单词。虽然进度不快，不过感觉时时背些单词还是很有用的。（虽然还仅限于CET4词库 &ndash;_-）</p>
+
+<p><strong>第四，折腾。</strong></p>
+
+<p>人不折腾枉少年，今年青蛙同样没少折腾。
+首先是<a href="https://gfrog.net/2012/08/diy-shanzhai-gopro-sports-camera/">搞了个山寨Go Pro</a>，实战效果挺好，可惜今年出去骑车的机会很少，它很少有发威的时候。
+然后，把山地车卖了。因为今年用的实在太少，干脆出掉折现，择机收入公路车好了。
+接着，<a href="https://gfrog.net/2012/09/bought-a-philips-diy-hair-clipper/">购入理发器自己剃头</a>。这个很有意思，虽然有点不太敢想象，不过自己剃个简单的球形发型是没问题的。
+再继续，青蛙考完CCIE之后发现实在没有地方安置之前那些学习视频和资料，于是败入新的移动硬盘一枚。接着想到移动硬盘可能丢失资料的问题，败入3.5寸外置硬盘一枚。然后呢，为了方便每天下载片片儿，又败了一枚树莓派（raspberry pi）准备搭建个NAS。目前正在实施中。</p>
+
+<p>2012目标总结</p>
+
+<ul>
+<li><p><em>读完vdsm代码</em></p>
+
+<ul>
+<li>基本没有进展，上半年曾经读过几个patch，也感觉到vdsm设计上确实有值得借鉴的地方。但是下半年的学习计划完全打乱了脚步。</li>
+</ul>
+</li>
+<li><p><em>通过 CCIE认证</em></p>
+
+<ul>
+<li>完成。代价就是混乱的工作/生活状态。</li>
+</ul>
+</li>
+<li><p><em>增加跟autotest upstream的联系，多多在upstream冒泡</em></p>
+
+<ul>
+<li>上半年Patch交流挺多，下半年，同样被打乱。</li>
+</ul>
+</li>
+<li><p><em>经常回顾python的基本知识，python核心编程之类，多读几遍</em></p>
+
+<ul>
+<li>进展细微，因为下半年疏于练习，甚至感觉Python知识有倒退的迹象。</li>
+</ul>
+</li>
+<li><p><em>读一本关于linux内核的书，可以找尽量短点的，先学个皮毛</em></p>
+
+<ul>
+<li>2012年，无读书。</li>
+</ul>
+</li>
+<li><p><em>完成那个给kindle推文章的小工具</em></p>
+
+<ul>
+<li>无需求导致停笔。</li>
+</ul>
+</li>
+<li><p><em>做/改一个irc bot，给内部irc，也可以自己在freenode上跑一个，方便自己。</em></p>
+
+<ul>
+<li>年中总结的时候以为青蛙今年不会做这个东东了，结果它是今年里意外的一个亮点。青蛙以<a href="http://inamidst.com/phenny/">phenny</a>为基础，改造了一个小bot，每周五的时候会给它加一点新的功能或者bugfix，一点点积攒下来，这个小Bot竟然在内部频道里工作的不错。明年要继续改进它。</li>
+</ul>
+</li>
+</ul>
+
+
+<p><strong>采购计划：
+</strong></p>
+
+<ul>
+<li><p><em>一个更加给力的读书工具，kindle dx？ kindle fire？ ipad？</em></p>
+
+<ul>
+<li>最后还是买了iPad，备战CCIE的时候非常频繁的使用，阅读+笔记利器。考完之后&hellip;目前在桌儿上落灰。（为了ipad也要有个阅读计划了。）</li>
+</ul>
+</li>
+<li><p><em>一部胶片口袋机， 奥记u2？</em></p>
+
+<ul>
+<li>相机买了，玩儿相机的时间没了。总之今年几乎就没拍片儿。</li>
+</ul>
+</li>
+<li><p><em>给媳妇买台ps3/ps4？ 再加一台电视？</em></p>
+
+<ul>
+<li>媳妇反对，放弃。不过买了个蓝光光驱，在电脑上看看蓝光电影凑合吧。</li>
+</ul>
+</li>
+</ul>
+
+
+<p><strong>
+</strong><strong>2013展望</strong></p>
+
+<p>既然世界末日就这么平平淡淡，毫无意思的过去了，那么日子就还得继续。2013年的计划写在这，看起来有点复杂有点困难，不过没有挑战的人生还有神马意义呢？加油！<strong>
+</strong></p>
+
+<ol>
+<li><p> 学习，P1，完成RHCA/CCIE认证中的一个。</p></li>
+<li><p> 学习，P1，雅思7分。</p></li>
+<li><p> 学习，P2，尽可能多的阅读其他项目的Python代码，例如VDSM。</p></li>
+<li><p> 学习，P2，Debug Hacks，读完、理解这本书。</p></li>
+<li><p> 学习，P2，Facebook上Cisco学院会经常帖一些实际的项目或者实验拓扑，虽然有些可能只是CCNA Level，但是拿来每天练手很不错。</p></li>
+<li><p> 编码，P1，完成目前手头准备给Autotest upstream的代码，旧的这几个patch没有处理完成之前，不要再做新的了，免得一无所成。</p></li>
+<li><p> 编码，P1，pdf剪裁工具，目前看来是非常需要的。即使以后不在Kindle上看pdf了，给iPad/iPhone用也是相当不错的，目前有些很多白边的pdf看起来非常不舒服。</p></li>
+<li><p> 编码，P2，IRC bot继续增强。这个似乎可以发掘下有没有人对这个也感兴趣，一起来做了。</p></li>
+<li><p> 采购，P1，四轮。</p></li>
+<li><p>. 采购，P2，公路车。</p></li>
+<li><p>. 采购，P3，MBA，万一没本子用了，就买MBA吧。</p></li>
+<li><p>. 生活，P1，坚持写Blog，至少每周1篇。 （<strong>Update 2012-12-31 21:16:00</strong>）</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>

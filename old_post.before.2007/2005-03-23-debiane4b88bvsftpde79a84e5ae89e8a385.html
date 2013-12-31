@@ -1,0 +1,293 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>debian下vsftpd的安装 - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="提交人：tshuyang 時間：三, 12/29/2004 &ndash; 21:51 vsftpd是一个很不错的ftp服务器软件，它的名字(very security ftpd)就告诉我们它的突出特点就是安全性。 debian下安装vsftpd十分简单，apt-get install &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yoursite.com/old_post.before.2007/2005-03-23-debiane4b88bvsftpde79a84e5ae89e8a385.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yoursite.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+    <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+    <li><a href="/categories/linux">Linux</a></li>
+    <li><a href="/categories/picture">美丽图片</a></li>
+    <li><a href="/categories/twitter-backup">Tweets</a></li>
+    <li><a href="/blog/archives">全部日志</a></li>
+    <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Debian下vsftpd的安装</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-03-24T05:17:04+08:00" pubdate data-updated="true">Mar 24<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>提交人：tshuyang  時間：三, 12/29/2004 &ndash; 21:51</p>
+
+<p>vsftpd是一个很不错的ftp服务器软件，它的名字(very security ftpd)就告诉我们它的突出特点就是安全性。</p>
+
+<p>debian下安装vsftpd十分简单，apt-get install vsfpd就可以了。它的默认的配置文件是/etc/vsftpd。网上有很多配置vsftpd的文章，而我认为只要仔细看一下 /usr/share/doc/vsftpd/EXAMPLE下的例子就可以了。下面我就谈谈自己在配置中认为是重要的地方</p>
+
+<p>1,如果想配置虚拟用户，只要将</p>
+
+<p>guest_enable=YES</p>
+
+<p>guest_username=ftp</p>
+
+<p>打开就可以了。关键问题在于虚拟用户的pam 认证，我每次都是在这里出问题。首先请使用db3而不要使用db4.x的工具来生成相应数据文件，其次生成的文件名是vsftpd_login.db，而 pam认证中只需指明文件名是vsftpd_login就可以了。还有/etc/pam.d/vsftpd这个文件是用于local user登陆的，想要使用虚拟用户这个文件中应该只包含这两句话</p>
+
+<p>auth required /lib/security/pam_userdb.so db=/etc/vsftpd_login</p>
+
+<p>account required /lib/security/pam_userdb.so db=/etc/vsftpd_login</p>
+
+<p>关于pam配置文章可以参考书籍。</p>
+
+<p>2,在默认情况下，虚拟用户有anonymous用户的权限。也就是说想让虚拟用户具有上载的权限，就必须打开 anon_upload_enable=YES选项。其次默认情况下anonymous只能下载world readable权限的文件(也就是说所有人都能read)，如果设置</p>
+
+<p>anon_world_readable_only=NO</p>
+
+<p>则能下载所有类型的文件</p>
+
+<p>3,xinetd和inetd。如果想让inetd来启动vsftpd，首先在/etc/servers这个文件中加入</p>
+
+<p>vsftpd 3216/tcp</p>
+
+<p>即能设定vsftpd使用端口3216。然后在inetd.conf中加入下面一句话就行了</p>
+
+<p>vsftpd stream tcp nowait root /usr/sbin/tcpd /usr/sbin/vsftpd</p>
+
+<p>如果想使用xinetd，则在/etc/xinetd下建一个文件vsftpd，然后填入下列内容即可</p>
+
+<p>service vsftpd</p>
+
+<p>{</p>
+
+<p>disable = no</p>
+
+<p>socket_type = stream</p>
+
+<p>protocal = tcp</p>
+
+<p>type = UNLISTED</p>
+
+<p>wait = no</p>
+
+<p>user = root</p>
+
+<p>server = /usr/sbin/vsftpd</p>
+
+<p>port = 3216</p>
+
+<p>per_source = 2</p>
+
+<p>instances = 20</p>
+
+<p>only_from = 166.111.0.0 219.224.0.0/16 127.0.0.1</p>
+
+<p>no_access = 192.168.1.3</p>
+
+<p>banner_fail = /etc/vsftpd.busy_banner</p>
+
+<p>log_on_success += PID HOST DURATION</p>
+
+<p>log_on_failure += HOST</p>
+
+<p>}</p>
+
+<p>其中如果是/etc/service中没有列出服务，则type,protocal port必须指定。</p>
+
+<p>需要注意的是219.224.0.0/16是用cidr方式来表示子网掩码，它说明在32的ip地址中有16是用来表示网络的，有32-26=16位是用来表示主机的。也就是说166.111.168.0/255.255.255.0和166.111.168.0/24是一致的。</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Your Name</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-03-24T05:17:04+08:00" pubdate data-updated="true">Mar 24<span>th</span>, 2005</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/linux-linux/'>linux[Linux]</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://yoursite.com/old_post.before.2007/2005-03-23-debiane4b88bvsftpde79a84e5ae89e8a385.html" data-via="" data-counturl="http://yoursite.com/old_post.before.2007/2005-03-23-debiane4b88bvsftpde79a84e5ae89e8a385.html" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/01/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/06/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/13/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: twitter[Twitter] | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/twitter-twitter/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-01-01T01:02:39+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[在Twip中转换t.co链接]]></title>
+    <link href="http://yoursite.com/blog/2011/12/18/expand-tco-link-in-twip/"/>
+    <updated>2011-12-18T09:30:00+08:00</updated>
+    <id>http://yoursite.com/blog/2011/12/18/expand-tco-link-in-twip</id>
+    <content type="html"><![CDATA[<p>自从Twitter强制把所有链接都转换为t.co之后，在手机上访问这些地址就成了大问题，开VPN慢，绕了一圈发现是国内地址，不开干脆访问不能。于是青蛙一直酝酿在Twip那里把短链接扩展。</p>
+
+<p>今天有时间，研究了一下，本来打算自己写的，但是本着不重复造轮子的态度，写之前google了一下，这不，这位同学已经写好了： <a href="http://hjin.me/code/727/">http://hjin.me/code/727/</a> ,全部修改的代码贴到了这里：<a href="http://pastebin.com/f4Gw0DND">http://pastebin.com/f4Gw0DND</a> 青蛙拿过来直接扔进twip，问题解决。</p>
+
+<p>青蛙在这放出一个基于twip r204版本的patch吧，另外还有一个小修改的补丁，修复一些情况下的警告信息。</p>
+
+<p><a href="https://code.google.com/p/gfrog/downloads/detail?name=0001-twip-enable-expand-tco-link.patch&amp;can=2&amp;q=">0001-twip-enable-expand-tco-link.patch</a></p>
+
+<p><a href="https://code.google.com/p/gfrog/downloads/detail?name=0002-twip-fix-some-warning-msg-in-expand-tco-link-patch.patch&amp;can=2&amp;q=">0002-twip-fix-some-warning-msg-in-expand-tco-link-patch.patch</a></p>
+
+<p>这个修改只能解决t.co的问题，没办法解决其他被关照到的短网址服务，所以青蛙仍然酝酿着什么时候搞一个把所有短网址都展开的补丁。不过青蛙看php代码实在是头疼，只好下次有时间再硬着头皮读代码改吧。</p>
+]]></content>
+  </entry>
+  
+</feed>

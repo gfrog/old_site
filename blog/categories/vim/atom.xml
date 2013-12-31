@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: VIM | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/vim/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-01-01T01:02:39+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown语法摘要]]></title>
+    <link href="http://yoursite.com/blog/2008/03/20/markdown-syntax-basic/"/>
+    <updated>2008-03-20T08:30:34+08:00</updated>
+    <id>http://yoursite.com/blog/2008/03/20/markdown-syntax-basic</id>
+    <content type="html"><![CDATA[<p><a href="http://daringfireball.net/projects/Markdown/">Markdown</a>是John Gruber设计的一个文本标记系统，相比html，它很简单，便于手工编写，而且它还支持<a href="http://wordpress.org/">Wordpress</a>，<a href="http://michelf.com/projects/php-Markdown/">有一个用于wordpress的插件</a>。青蛙决定用vim+Markdown来编写blog，看起来他们是一对强大的组合 :)</p>
+
+<p>首先要去<a href="http://www.vim.org/">Vim</a>的官方网站<a href="http://www.vim.org/scripts/script.php?script_id=1242">下载Markdown的语法高亮插件</a>，并把它复制到"~/.vim/syntax/&ldquo;目录下面。然后，新建一个&rdquo;~/.vim/ftdetect/mkd.vim"文件，在其中加入下面的内容：</p>
+
+<blockquote><p>&ldquo; markdown filetype file
+if exists("did_load_filetypes&rdquo;)
+finish
+endif
+augroup markdown
+au! BufRead,BufNewFile *.mkd   setfiletype mkd
+augroup END</p></blockquote>
+
+<p>并在"~/.vimrc"文件中添加如下内容：</p>
+
+<blockquote><p>&ldquo;Markdown language syntax settings
+augroup mkd
+autocmd BufRead *.mkd  set ai formatoptions=tcroqn2 comments=n:>
+augroup END</p></blockquote>
+
+<p>然后，后缀名为".mkd"的文件就能被自动启用Markdown的语法高亮了。</p>
+
+<p>下面是Markdown语法的简要列表，便于以后查阅。以下内容主要从<a href="http://www.leninlee.cn">牧码志</a>整理，感谢leninlee的辛勤劳动。</p>
+
+<ul>
+<li>链接的添加，共有三种形式，Markdown支持相对链接。</li>
+</ul>
+
+
+<blockquote><p>&lt;链接> ：这种形式只是简单的标出链接；
+<a href="%E9%93%BE%E6%8E%A5" title="标题">文字</a>：给文字添加链接，其中标题是可选的；
+[文字][标记]：给文字添加链接，链接在下面的一个以[标记]开头的新行（一般是文章末尾）给出。或者直接以[文字][]这种形式编写，在下面的新行中使用[文字]:链接的形式声明链接。</p></blockquote>
+
+<ul>
+<li><p>图片的添加：跟链接比起来，图片只是多了在前面多了一个叹号"!&ldquo;。</p></li>
+<li><p>标题格式：Markdown提供了2种方式。</p></li>
+</ul>
+
+
+<blockquote><p>第一种是在标题前面加上1~6个"#&ldquo;表示&rdquo;<h1>&ldquo;~&rdquo;<h6>&ldquo;。
+第二种是在标题下面另起一行，输入四个以上的等号“=”来表示&rdquo;<h1>&ldquo;，输入四个以上的减号“-”来表示&rdquo;<h2>&ldquo;。</p></blockquote>
+
+<ul>
+<li>粗体和斜体：用星号"*&ldquo;或者下划线&rdquo;_"</li>
+</ul>
+
+
+<blockquote><p>一个表示斜体；
+两个表示粗体；
+三个表示粗斜体。</p></blockquote>
+
+<ul>
+<li><p>引用内容：就是html标记的"<blockquote>&ldquo;，只要在行首用右尖括号>就行了。如果要嵌套引用，那就多打几个>。</p></li>
+<li><p>原文输出：如果不想Markdown解释某些内容，有两种方式：</p></li>
+</ul>
+
+
+<blockquote><p>第一个是转义为html的"<pre>&ldquo;标签：要在要原样输出的内容前面加入至少4个空格或者1个tab的宽度；
+第二个是转义为&rdquo;<code>&ldquo;标签：给要输出的内容加上&rdquo;`&ldquo;号（就是esc下头那个键）。</p></blockquote>
+
+<ul>
+<li><p>无序列表：在文字前面使用星号"*&ldquo;、加号&rdquo;+&ldquo;、减号&rdquo;&ndash;&ldquo;中的任意一个，注意在这些符号后面要留一个空格。</p></li>
+<li><p>有序列表：在第一条前添加一个数字，后跟一个英文句点".&ldquo;。无论第一个条目前加的数字是什么，列表都会从1开始计数。</p></li>
+<li><p>转义符："&ldquo;。只要给不希望被转义的字符前面加上就可以了。</p></li>
+<li><p>HTML实体：如果要在内容中输出"&lt;&ldquo;或者&rdquo;&amp;&ldquo;符号，那么必须用[HTML实体][]代替。Markdown会把HTML的特殊符号直接翻译为HTML实体。</p></li>
+<li><p>换行符：Markdown中在一行的末尾使用两个以上的空格标示HTML中的一个换行符"<br/>&ldquo;。</p></li>
+<li><p>段落：只要两行之间有一个空行，Markdown就会把它识别为一个段落。
+（青蛙在写这篇文章的时候发现，在列表之前一定要加入一个空行，要不然Markdown是不会把"*&ldquo;识别为列表的。）</p></li>
+<li><p>水平线：使用三个以上的"*&ldquo;或&rdquo;&ndash;&ldquo;来表示。这些星号跟减号之间可以用空格，如果减号没有空格，
+那它必须在单独的一个段落里，要不它会被识别为标题的。</p></li>
+<li><p>直接使用HTML标记：有些Markdown不支持的标签可以直接写HTML标记，例如表格。</p></li>
+</ul>
+
+
+<p><strong>update,2008-03-20:</strong> 青蛙发现直接向wordpress写Markdown格式效果真的很差，而且不方便编辑，所以青蛙决定还是在本地把Markdown文档转化为HTML格式再发布到blog上好了。</p>
+]]></content>
+  </entry>
+  
+</feed>

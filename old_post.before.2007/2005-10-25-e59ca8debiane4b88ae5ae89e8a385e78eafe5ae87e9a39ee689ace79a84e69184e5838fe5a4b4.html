@@ -1,0 +1,300 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>在debian上安装环宇飞扬的摄像头 - My Octopress Blog</title>
+  <meta name="author" content="Your Name">
+
+  
+  <meta name="description" content="系统: Duron 900/VIA KT133/debian sid/kernel 2.6.8-2-686 早就知道z-star usb的摄像头有linux驱动了.但是一直嫌麻烦,没去装. 今天又想起来,试着装了下 还是很简单的嘛! 嘿嘿. 首先先lsusb看下我这个摄像头: $sudo &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yoursite.com/old_post.before.2007/2005-10-25-e59ca8debiane4b88ae5ae89e8a385e78eafe5ae87e9a39ee689ace79a84e69184e5838fe5a4b4.html">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Octopress Blog</a></h1>
+  
+    <h2>A blogging framework for hackers.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yoursite.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+    <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+    <li><a href="/categories/linux">Linux</a></li>
+    <li><a href="/categories/picture">美丽图片</a></li>
+    <li><a href="/categories/twitter-backup">Tweets</a></li>
+    <li><a href="/blog/archives">全部日志</a></li>
+    <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">在debian上安装环宇飞扬的摄像头</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-25T15:55:20+08:00" pubdate data-updated="true">Oct 25<span>th</span>, 2005</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>系统: Duron 900/VIA KT133/debian sid/kernel 2.6.8-2-686</p>
+
+<p>早就知道z-star usb的摄像头有linux驱动了.但是一直嫌麻烦,没去装.</p>
+
+<p>今天又想起来,试着装了下 还是很简单的嘛! 嘿嘿.</p>
+
+<p>首先先lsusb看下我这个摄像头:</p>
+
+<p>$sudo lsusb -v</p>
+
+<p>us 001 Device 002: ID 0ac8:301b Z-Star Microelectronics Corp. Sansun SN-510 WebCam [hv713d]<br/>
+Device Descriptor:<br/>
+bLength 18<br/>
+bDescriptorType 1<br/>
+bcdUSB 1.10<br/>
+bDeviceClass 255 Vendor Specific Class<br/>
+bDeviceSubClass 0 <br/>
+bDeviceProtocol 0 <br/>
+bMaxPacketSize0 8<br/>
+idVendor 0x0ac8 Z-Star Microelectronics Corp.<br/>
+idProduct 0x301b Sansun SN-510 WebCam [hv713d]</p>
+
+<p>&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</p>
+
+<p>恩 剩下的就不列出来了.</p>
+
+<p>然后,看看我的内核里面有没有videodev模块:</p>
+
+<p>$modprobe -l|grep videodev</p>
+
+<p>/lib/modules/2.6.8-2-686/kernel/drivers/media/video/videodev.ko</p>
+
+<p>可以看出来我的内核里面已经包含了videodev模块,如果没有这个模块那就需要重新编译内核啦.</p>
+
+<p>具体怎么编译内核在这里不细说了,网上能搜到好多.</p>
+
+<p>再然后要看下自己的系统里面带不带kernel-headers</p>
+
+<p>如果不带那就要自己装个喽(例如我这个):</p>
+
+<p>$uname -r #先看看自己的内核版本.</p>
+
+<p>2.6.8-2-686<br/>
+$sudo aptitude install kernel-headers-2.6.8-2-686 #安装对应版本的kernel-headers喽</p>
+
+<p>这样几个前提条件都具备了,让我们开工编译摄像头的驱动.</p>
+
+<p>首先去 <a href="http://mxhaard.free.fr/download.html">http://mxhaard.free.fr/download.html</a> 这里下载 spca5xx-20050601.tar.gz [当前最新]</p>
+
+<p>然后解压开</p>
+
+<p>$sudo tar zxvf spca5xx-20050601.tar.gz</p>
+
+<p>进入解压后生成的目录:</p>
+
+<p>$cd spca5xx-20050601</p>
+
+<p>恩 直接make:</p>
+
+<p>$sudo make</p>
+
+<p>$sudo make install</p>
+
+<p>如果这两项没提示错误 继续:</p>
+
+<p>$sudo modprobe videodev spca5xx</p>
+
+<p>恩 没提示错误的话, 恭喜! 驱动安装成功了~</p>
+
+<p>恩 然后是创建设备文件:</p>
+
+<h1>mknod /dev/video c 81 0</h1>
+
+<h1>chmod 777 /dev/video #开始的时候权限设为744了 结果gqcam说找不到设备!</h1>
+
+<p>最后 咱们拍几张照片,看看效果:</p>
+
+<h1>aptitude install gqcam</h1>
+
+<p>$gqcam</p>
+
+<p>好啦 看到图像没? 赶快拍下来吧~~</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Your Name</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-25T15:55:20+08:00" pubdate data-updated="true">Oct 25<span>th</span>, 2005</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/linux-linux/'>linux[Linux]</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://yoursite.com/old_post.before.2007/2005-10-25-e59ca8debiane4b88ae5ae89e8a385e78eafe5ae87e9a39ee689ace79a84e69184e5838fe5a4b4.html" data-via="" data-counturl="http://yoursite.com/old_post.before.2007/2005-10-25-e59ca8debiane4b88ae5ae89e8a385e78eafe5ae87e9a39ee689ace79a84e69184e5838fe5a4b4.html" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/01/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/09/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/06/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/13/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Your Name -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
