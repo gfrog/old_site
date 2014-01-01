@@ -1,0 +1,104 @@
+---
+comments: true
+date: 2011-10-13 01:00:00
+layout: post
+slug: todays-tweets-2011-10-13
+title: Today's tweets 2011-10-13
+wordpress_id: 1887
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * I'm at Red Hat Inc, Beijing R&D Branch [http://t.co/TH9gYGB2](http://t.co/TH9gYGB2) [12:01:33, 2011-10-13](http://twitter.com/gfrog/statuses/124333928537522176)
+
+
+
+
+
+  * RT [@RichterLee](http://twitter.com/RichterLee): 当初学编程语言，学Hello World的时候充满了兴奋。今天C语言发明人Dennis Ritchie去世的时候，我们才意识到，有Hello World，就会有 Byebye World。 [12:06:58, 2011-10-13](http://twitter.com/gfrog/statuses/124335294551035905)
+
+
+
+
+
+  * RT [@jajia](http://twitter.com/jajia): 在玩iCloud 时，不小心把iPhone 的通讯录跟Mobile Me同步了，后者contacts为零。1500多个人的号码和邮件，瞬间化为乌有。幸亏半年前在google上同步过一次。只是这半年的新号码就没了。对于一个靠忽悠朋友混饭的人来说，太杯具了。 [12:08:53, 2011-10-13](http://twitter.com/gfrog/statuses/124335777210568704)
+
+
+
+
+
+  * 英特尔到底在折腾啥 RT [@dancenew](http://twitter.com/dancenew): 智能手机系统将现新面孔 Android遭嫌弃: 分别由三星和英特尔支持的两个Linux软件团体——LiMo基金会和Linux基金会表示，正在设计一个新的移动操作系统，它将由两家旗下的“LiMo”和“MeeGo”整合而... [12:10:04, 2011-10-13](http://twitter.com/gfrog/statuses/124336073852727296)
+
+
+
+
+
+  * gtalk早这样了。 RT [@163apps](http://twitter.com/163apps): [#iMessage](http://search.twitter.com/search?q=%23iMessage) 的一个很大的隐私问题：你所有的 iOS 设备在升级到 iOS 5 之后，如果登录了同样的 Apple ID，都会同步地看到 iMessage 聊天记录。就是说，你在街上用手机发短信呢，... [12:17:45, 2011-10-13](http://twitter.com/gfrog/statuses/124338006013382656)
+
+
+
+
+
+  * RT [@johnfoster](http://twitter.com/johnfoster): /* for Dennis Ritchie  */
+
+[#include](http://search.twitter.com/search?q=%23include)<stdio.h>
+
+main()
+{
+    printf("Goodbye World");
+
+} [12:18:58, 2011-10-13](http://twitter.com/gfrog/statuses/124338313434894336)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): 发送短信TYEDU到10086这个北京移动高校wlan网络0元每月享受120小时上网，没有月租120小时内完全免费，是个体验套餐，要能搜到CMCC-EDU这个网才能用。 [12:19:38, 2011-10-13](http://twitter.com/gfrog/statuses/124338479609020416)
+
+
+
+
+
+  * I'm at 风波庄（中关村店） (中关村南三条75号, 中关村文化体育中心, 北京市) [pic]: [http://t.co/vuDEYRga](http://t.co/vuDEYRga) [19:28:20, 2011-10-13](http://twitter.com/gfrog/statuses/124446368344449024)
+
+
+
+
+
+  * I'm at 小吊梨汤 (融科大厦旁, Beijing) [pic]: [http://t.co/0bVGw5Mh](http://t.co/0bVGw5Mh) [20:16:58, 2011-10-13](http://twitter.com/gfrog/statuses/124458605008269312)
+
+
+
+
+
+  * [@icyleaf](http://twitter.com/icyleaf) 发布了？ [in reply to icyleaf](http://twitter.com/icyleaf/statuses/124453018254049280) [20:53:15, 2011-10-13](http://twitter.com/gfrog/statuses/124467735890632704)
+
+
+
+
+
+  * RT [@LeonSYC](http://twitter.com/LeonSYC): RT [@Hitomi_Ayanami](http://twitter.com/Hitomi_Ayanami):  【路透社5分钟前最新消息】：卡扎菲已被反对派在的黎波里据其住所三公里的一处民居击毙。 一代枭雄，终死于非命！该欢呼的欢呼；该沉默的沉默！卡扎菲时代彻底结束了！ [20:55:36, 2011-10-13](http://twitter.com/gfrog/statuses/124468328717750272)
+
+
+
+
+
+  * [@icyleaf](http://twitter.com/icyleaf) 11.10发布了？ [in reply to icyleaf](http://twitter.com/icyleaf/statuses/124467829016768512) [20:56:33, 2011-10-13](http://twitter.com/gfrog/statuses/124468565016457216)
+
+
+
+
+
+  * 开电脑，竟然无事可做… 关机睡觉算了。 [23:12:07, 2011-10-13](http://twitter.com/gfrog/statuses/124502683737534464)
+
+
+
+

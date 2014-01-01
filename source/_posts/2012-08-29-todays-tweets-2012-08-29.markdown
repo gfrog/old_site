@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2012-08-29 00:01:00
+layout: post
+slug: todays-tweets-2012-08-29
+title: Today's tweets 2012-08-29
+wordpress_id: 3373
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:55, 2012-08-29](http://twitter.com/gfrog/statuses/240614978170806272)
+
+
+
+
+
+  * [@k_kica](http://twitter.com/k_kica) 四个圈儿的四驱车标记，但是目前被用滥了。 [in reply to k_kica](http://twitter.com/k_kica/statuses/240664434027155456) [12:22:43, 2012-08-29](http://twitter.com/gfrog/statuses/240665761037836288)
+
+
+
+
+
+  * 天猫改名了这么久，俺每次打开丫的页面还是被雷，尼玛不卖萌会屎嘛？ [12:25:11, 2012-08-29](http://twitter.com/gfrog/statuses/240666383740960768)
+
+
+
+
+
+  * 京东这个二逼货，竟然还能识别出来我的密码太简单。京东这种网站只配用简单密码，复杂密码交给你我都怕你泄露出去。 [12:37:51, 2012-08-29](http://twitter.com/gfrog/statuses/240669571554631681)
+
+
+
+
+
+  * Fedora 这个傻蛋，把xulrunner升级到15了，结果firefox的包还是14.0.1，导致firefox不能用了，擦。 [14:39:18, 2012-08-29](http://twitter.com/gfrog/statuses/240700134684520448)
+
+
+
+
+
+  * 好吧，yum没有我直接用koji装。还好有koji这个大杀器。 koji latest-pkg rawhide firefox; koji buildinfo 找到koji build手工安装。 [14:43:24, 2012-08-29](http://twitter.com/gfrog/statuses/240701165711544320)
+
+
+
+
+
+  * fedora rawhide这个破东东，dracut又出毛病了，搞的新内核没法启动，一直报告systemd-udevd [763]: worker [786] did not accept message -1 这样的错误。 [18:14:53, 2012-08-29](http://twitter.com/gfrog/statuses/240754385251078144)
+
+
+
+

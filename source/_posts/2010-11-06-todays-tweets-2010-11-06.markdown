@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2010-11-06 01:00:00
+layout: post
+slug: todays-tweets-2010-11-06
+title: Today's tweets 2010-11-06
+wordpress_id: 1030
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 哈，搭理你一下。 RT [@PhoenixEmik](http://twitter.com/PhoenixEmik): 继续 gtalk求搭理 phoenix0919mik#gmail.com [11:21:16, 2010-11-06](http://twitter.com/gfrog/statuses/749531528437760)
+
+
+
+
+
+  * 空姐是海贼饭啊，XD RT [@aoi_sola](http://twitter.com/aoi_sola): とりあえず、ワンピースの最新刊を購入しなければ。BTW, I have to buy new publication of ONE PIECE. [13:49:54, 2010-11-06](http://twitter.com/gfrog/statuses/786935031271425)
+
+
+
+
+
+  * 揭开Wayland的面纱（一）：X Window的前生今世 - I'm TualatriX - 今天大家可能在“Wow! Ubuntu”或其他地方看到了这篇文章：Ubuntu 决定未来将启用 Wayl... [http://j.mp/dqm3ZW](http://j.mp/dqm3ZW) [14:09:34, 2010-11-06](http://twitter.com/gfrog/statuses/791884486152192)
+
+
+
+
+
+  * 我靠，DH竟然挂掉了，连DH的主页都打不开？ [14:55:13, 2010-11-06](http://twitter.com/gfrog/statuses/803370243727361)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Bash命令行历史权威指南 [http://j.mp/cDavXC](http://j.mp/cDavXC) [15:19:17, 2010-11-06](http://twitter.com/gfrog/statuses/809429029097472)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 水木清华上一个讨论孩子上学问题的帖子，不见了 [http://j.mp/cG56VN](http://j.mp/cG56VN) [15:19:18, 2010-11-06](http://twitter.com/gfrog/statuses/809431931551744)
+
+
+
+
+
+  * 晚上要不要去国图坐坐呢，装样子学习学习，囧。 [16:02:22, 2010-11-06](http://twitter.com/gfrog/statuses/820271061667840)
+
+
+
+
+
+  * 显然的啊，wine最近发展的这么快，貌似就是google在后面支持的。 RT [@dingyong](http://twitter.com/dingyong): 我靠，picasa for linux果然是用wine封装的。鄙视。 [16:03:00, 2010-11-06](http://twitter.com/gfrog/statuses/820428356460544)
+
+
+
+
+
+  * 网上交易密码是另外的一个密码吧 RT [@CJie](http://twitter.com/CJie): 招行信用卡挂失前48小时的冒用损失可以申请免赔，但用密码交易的不在此列。那网上刷卡算哪种？ [18:59:29, 2010-11-06](http://twitter.com/gfrog/statuses/864842500022272)
+
+
+
+
+
+  * pidgin现在木有一个靠谱的fetion插件么，试了几个，全不能用了。 [19:50:28, 2010-11-06](http://twitter.com/gfrog/statuses/877675358986240)
+
+
+
+

@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2012-06-10 23:59:00
+layout: post
+slug: todays-tweets-2012-06-10
+title: Today's tweets 2012-06-10
+wordpress_id: 2570
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 搬家完成，但是网络还没迁过来，只好用爪机上了。明儿去联通营业厅排队迁移去。 [23:35:19, 2012-06-10](http://twitter.com/gfrog/statuses/211843996853612545)
+
+
+
+

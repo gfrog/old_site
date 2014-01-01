@@ -1,0 +1,132 @@
+---
+comments: true
+date: 2011-11-15 01:00:00
+layout: post
+slug: todays-tweets-2011-11-15
+title: Today's tweets 2011-11-15
+wordpress_id: 1955
+categories:
+- twitter-backup[Twitter备份]
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@NightFuryCN](http://twitter.com/NightFuryCN): 问：你在一个无人岛上，想喝水但海水不能喝。你要怎样喝到水？
+你有器材：试管，烧杯，酒精灯，火柴，冷却用的冰水。
+答：喝冷却用的冰水 [00:06:13, 2011-11-15](http://twitter.com/gfrog/statuses/136112711716175872)
+
+
+
+
+
+  * RT [@justone_he](http://twitter.com/justone_he): [@virushuo](http://twitter.com/virushuo) [@hengdm](http://twitter.com/hengdm) 现在彻底不敢推荐B2C了，易迅和京东都卖过假货水货，各种工包鼠标键盘耳机。。。 [12:40:11, 2011-11-15](http://twitter.com/gfrog/statuses/136302450788417536)
+
+
+
+
+
+  * 每个月都能看到抱怨python缩进问题的帖子，基本上可以把抱怨者归类为不靠谱党了，这么清晰明了的编码规则都不能遵守，丫还能遵守神马规范？！ [12:44:25, 2011-11-15](http://twitter.com/gfrog/statuses/136303518792425474)
+
+
+
+
+
+  * 啧啧，google code search竟然要关闭了，之前被Buzz关闭的新闻掩盖掉了。这么方便的服务为神马要关啊！！ [12:47:16, 2011-11-15](http://twitter.com/gfrog/statuses/136304235099848704)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 在整个项目里保持同一种缩进方式就不会有问题，至于到底怎么缩进，那就看你习惯了，一个tab，4个空格，哪怕2个空格，只要保证整体统一，都不会有问题。 [in reply to Gyteng](http://twitter.com/Gyteng/statuses/136303868266037248) [12:48:53, 2011-11-15](http://twitter.com/gfrog/statuses/136304641221734400)
+
+
+
+
+
+  * RT [@kcome](http://twitter.com/kcome): 还有人么？港版第一代PS3 20GB 99新，900块出手，可破解，帝都面交～～ 谢谢：） [#cnc2c](http://search.twitter.com/search?q=%23cnc2c) [#iflea](http://search.twitter.com/search?q=%23iflea) [13:02:13, 2011-11-15](http://twitter.com/gfrog/statuses/136307995289190400)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 据说今年IOCCC又恢复了？ 期待更加乱糟的代码，哈哈。 [in reply to gnudog](http://twitter.com/gnudog/statuses/136308331953389568) [13:07:57, 2011-11-15](http://twitter.com/gfrog/statuses/136309439568429056)
+
+
+
+
+
+  * [http://t.co/VzcZ1n0h](http://t.co/VzcZ1n0h) 为神马肯行万里路的都是些老头子？ 中国的少年们都在干嘛？ [14:21:48, 2011-11-15](http://twitter.com/gfrog/statuses/136328022746857472)
+
+
+
+
+
+  * RT [@daacat](http://twitter.com/daacat): 因为有一个老外在玩Facebook，屏幕朝外路过的人都能看到，被另一个老外搭讪询问如何访问，谈话滚雪球一样开始吸引了更多的老外参与，然后现在变成几桌人交流翻墙访问Facebook和Twitter的经验。 [16:06:26, 2011-11-15](http://twitter.com/gfrog/statuses/136354354776113152)
+
+
+
+
+
+  * 参考山寨手机，某些时候某些人总有一种偏执的追求，例如那种诡异的四个喇叭。 RT [@xyh67](http://twitter.com/xyh67): 看到好多人都给15.6的本本换1920*1080的高分屏...这有意义么....那么小的屏幕换上了看久了眼都瞎了... [17:12:36, 2011-11-15](http://twitter.com/gfrog/statuses/136371006871834624)
+
+
+
+
+
+  * 哎呀呀，找了几本限免书，看了一小段，似乎不是太困难哈，借助词典可以顺利读完，以后要多读英文小说。。 lol [17:15:11, 2011-11-15](http://twitter.com/gfrog/statuses/136371656804401152)
+
+
+
+
+
+  * [@ouland](http://twitter.com/ouland) [@xyh67](http://twitter.com/xyh67) 我看14寸屏幕的1440*900分辨率基本就是极限了，再小了眼睛真会瞎。。。 [in reply to ouland](http://twitter.com/ouland/statuses/136371727646208000) [17:20:16, 2011-11-15](http://twitter.com/gfrog/statuses/136372935396044800)
+
+
+
+
+
+  * [@xyh67](http://twitter.com/xyh67) 高分对码农很有帮助，但是太高的分辨率实在有点恐怖。 [in reply to xyh67](http://twitter.com/xyh67/statuses/136372089371369472) [17:21:05, 2011-11-15](http://twitter.com/gfrog/statuses/136373141378310144)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 呦，7月份骑到现在就骑了2700公里了呀。。 压力好大。。。 你是在自行车上过日子的嘛。。。 lol [in reply to htgyj](http://twitter.com/htgyj/statuses/136372853976211456) [17:23:44, 2011-11-15](http://twitter.com/gfrog/statuses/136373809543524352)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 啧啧，压力好大压力好大，我从3月开始骑车，到现在才骑了3k多。。。 [in reply to htgyj](http://twitter.com/htgyj/statuses/136374521493061632) [17:37:50, 2011-11-15](http://twitter.com/gfrog/statuses/136377358457376768)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 拼命的妞。。。 [in reply to htgyj](http://twitter.com/htgyj/statuses/136377900747341824) [17:52:40, 2011-11-15](http://twitter.com/gfrog/statuses/136381090599411712)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 啧啧，太羡慕你们在市里就可以环湖了。。。 唉唉 [in reply to htgyj](http://twitter.com/htgyj/statuses/136382186420060160) [18:03:04, 2011-11-15](http://twitter.com/gfrog/statuses/136383707941572608)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi): 只见中通圆通两位大师早已负伤累累，委顿在地。汇通大师也有不支之相，唯有申通大师尚勉励支撑，与顺丰道长缠斗一处。忽听远远传来一声冷笑：“就算你们中有人赢了，我也不会委身与他！”申通顺丰大惊抬头，只看到韵达师太甩袖而去，唯留翩翩背影。 [19:38:55, 2011-11-15](http://twitter.com/gfrog/statuses/136407831225171968)
+
+
+
+
+
+  * “图说二战”看完，对二战有了更加客观的一个认识，无论是谁，参与战争的每个人都是罪人。 [21:04:57, 2011-11-15](http://twitter.com/gfrog/statuses/136429479936532480)
+
+
+
+

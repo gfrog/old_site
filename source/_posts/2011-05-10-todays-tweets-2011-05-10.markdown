@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2011-05-10 01:00:00
+layout: post
+slug: todays-tweets-2011-05-10
+title: Today's tweets 2011-05-10
+wordpress_id: 1722
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@sswv](http://twitter.com/sswv): 我说 Debian sid 里怎么没有 tsclient 呢，原来 Debian 和 Ubuntu 都已经用 Remmina 取代了 tsclient 和 Vinagre。试了下 Remmina，用户体验果然更好，还有 NX 协议的插件。 [13:19:21, 2011-05-10](http://twitter.com/gfrog/statuses/67821002368892929)
+
+
+
+

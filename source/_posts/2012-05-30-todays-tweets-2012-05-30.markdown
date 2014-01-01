@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2012-05-30 23:59:00
+layout: post
+slug: todays-tweets-2012-05-30
+title: Today's tweets 2012-05-30
+wordpress_id: 2560
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:28, 2012-05-30](http://twitter.com/gfrog/statuses/207637569469562882)
+
+
+
+
+
+  * RT [@takayama8](http://twitter.com/takayama8): 233！RT [@danhuaer](http://twitter.com/danhuaer): 橙子皮不要扔喔，学学这个妹纸。 [http://t.co/Joj5yr4e](http://t.co/Joj5yr4e) [13:56:23, 2012-05-30](http://twitter.com/gfrog/statuses/207712038129111042)
+
+
+
+
+
+  * /dev/cdrom竟然自己没了，难道umount之后udev会自动删掉设备文件嘛？ [16:20:07, 2012-05-30](http://twitter.com/gfrog/statuses/207748208825352192)
+
+
+
+

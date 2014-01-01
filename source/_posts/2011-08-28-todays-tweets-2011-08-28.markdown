@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2011-08-28 01:00:00
+layout: post
+slug: todays-tweets-2011-08-28
+title: Today's tweets 2011-08-28
+wordpress_id: 1810
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 嗓子又疼了，一长距离骑车就疼，难道要我告别自行车运动？！ [23:36:13, 2011-08-28](http://twitter.com/gfrog/statuses/107838905549717504)
+
+
+
+

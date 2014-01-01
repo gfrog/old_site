@@ -1,0 +1,84 @@
+---
+comments: true
+date: 2012-06-27 23:59:00
+layout: post
+slug: todays-tweets-2012-06-27
+title: Today's tweets 2012-06-27
+wordpress_id: 2586
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@k_kica](http://twitter.com/k_kica): Siri Siri，我怕你了！！！我再也不敢叫你给我讲故事了！！！一次讲到碉堡了！！！ [http://t.co/3IH77ly1](http://t.co/3IH77ly1) [08:52:02, 2012-06-27](http://twitter.com/gfrog/statuses/217782305459142656)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:19, 2012-06-27](http://twitter.com/gfrog/statuses/217784391882129409)
+
+
+
+
+
+  * 联通6月30号到7月5号又要升级。尼玛这货是要傻逼啊，每个月月初都升级升一周，啥业务也不能办，尼玛怎么不干脆关门倒闭算了。 [10:57:08, 2012-06-27](http://twitter.com/gfrog/statuses/217813787795931137)
+
+
+
+
+
+  * google map，有google earth更好。 [@_](http://twitter.com/_)@ RT [@childream](http://twitter.com/childream): 大家想旅行会先想到上什么旅行网？ [11:10:41, 2012-06-27](http://twitter.com/gfrog/statuses/217817197194645504)
+
+
+
+
+
+  * 昨晚人品值果然爆掉了，找一个问题找到半夜三点，打了一坨patch，看到结果正确之后心满意足的去睡了。结果今早上把patch都revert掉，丫的结果还是正确的。昨晚白忙了。 [11:12:39, 2012-06-27](http://twitter.com/gfrog/statuses/217817692051222528)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 首先，省钱了。其次，真不差钱想游也可以熟悉熟悉/规划下路线。 lol [in reply to childream](http://twitter.com/childream/statuses/217817326144327680) [11:14:58, 2012-06-27](http://twitter.com/gfrog/statuses/217818276204511232)
+
+
+
+
+
+  * 哦呦！仙福永享，寿与天齐。 RT [@iMurMur](http://twitter.com/iMurMur): 生日快乐！ [http://t.co/kA9cOnc8](http://t.co/kA9cOnc8) [12:46:45, 2012-06-27](http://twitter.com/gfrog/statuses/217841373381005314)
+
+
+
+
+
+  * 昨天尝试读了一小段qemu的代码，竟然看懂了啊有木有。不过qemu的代码真是够乱的，确实不如商业代码整齐。 [13:07:50, 2012-06-27](http://twitter.com/gfrog/statuses/217846679766970369)
+
+
+
+
+
+  * 看到很多代码基本只考虑一切正常的情况下的执行流程，对于出错处理完全不关心或者说根本没意识到。例如前一个变量在赋值的时候可能会被置0，隔几行的代码就直接拿这个变量当除数了。某些天朝码农的思维也太一根筋+理想化了吧。 [13:50:19, 2012-06-27](http://twitter.com/gfrog/statuses/217857370494218240)
+
+
+
+
+
+  * 神哪，碰上周围有狐臭/脚臭的同事，这个夏天要肿么过啊！！ [15:02:30, 2012-06-27](http://twitter.com/gfrog/statuses/217875537786445824)
+
+
+
+
+
+  * Windows这个烂货，在设备管理器里就是查不到vendor和product，只有vendor_id和product_id。虽然Manufacturer里边有值，但是如果用了windows自带的驱动，这个值就是Microsoft，擦的。 [16:05:20, 2012-06-27](http://twitter.com/gfrog/statuses/217891347842076672)
+
+
+
+

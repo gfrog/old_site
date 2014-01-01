@@ -1,0 +1,163 @@
+---
+comments: true
+date: 2010-04-12 01:00:00
+layout: post
+slug: todays-tweets-2010-04-12
+title: Today's tweets 2010-04-12
+wordpress_id: 572
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 昨晚中文推真热闹，除了功夫网发飙的时候，大家讨论的内容从来没有这么一致过。 [06:28:57, 2010-04-12](http://twitter.com/gfrog/statuses/12013142438)
+
+
+
+
+
+  * 真是，竟然有人口口声声说自己是粉丝，然后还要求人说英语，真粉的话，丫的自己学日语去啊。 [07:00:37, 2010-04-12](http://twitter.com/gfrog/statuses/12014453314)
+
+
+
+
+
+  * 班车上旁边一个家伙上车就在用83抢车位。唉。 [07:57:35, 2010-04-12](http://twitter.com/gfrog/statuses/12016878628)
+
+
+
+
+
+  * 今早大家已经回归理性，开始对各位老师的推特数据进行深入分析。 [07:59:51, 2010-04-12](http://twitter.com/gfrog/statuses/12016978272)
+
+
+
+
+
+  * 球迷，能成为流行词么？ [08:17:59, 2010-04-12](http://twitter.com/gfrog/statuses/12017794512)
+
+
+
+
+
+  * 真的有了战争，遭殃的显然还是普通百姓。　RT [@aihihi](http://twitter.com/aihihi): 尽快来一次世界大战吧 中国普通百姓都活不下去了 [08:19:21, 2010-04-12](http://twitter.com/gfrog/statuses/12017854613)
+
+
+
+
+
+  * 下次再有领导问对项目的建议，我就让丫把项目计划按小时算，按天算太容易被加班了。 [08:21:41, 2010-04-12](http://twitter.com/gfrog/statuses/12017960064)
+
+
+
+
+
+  * Interesting photos - 10 Apr 2010 - Flickr [http://j.mp/a2lNhU](http://j.mp/a2lNhU) [08:39:24, 2010-04-12](http://twitter.com/gfrog/statuses/12018752619)
+
+
+
+
+
+  * Interesting photos -  9 Apr 2010 - Flickr [http://j.mp/b9XBJS](http://j.mp/b9XBJS) [08:39:26, 2010-04-12](http://twitter.com/gfrog/statuses/12018754046)
+
+
+
+
+
+  * RT [@aiww](http://twitter.com/aiww): 可以这样说，由于你在一条必然要下沉的船上，这时无论是谁杀了你都是无罪的，因为反正你难逃一死。或者是说，都南京南京了，强奸当然就只能是个娱乐。结论是由于高震级，所以没有钢筋没有水泥的“豆腐渣”坍塌是顺理成章不可追究的，不可追究就是不存在责任的，这还不是流氓逻辑。 [08:45:07, 2010-04-12](http://twitter.com/gfrog/statuses/12019009669)
+
+
+
+
+
+  * RT [@Tips2Life](http://twitter.com/Tips2Life):
+		 菠萝日食别超半个：春季正是吃菠萝的季节，但中医认为菠萝性微寒，吃多了易伤肠胃，一天最多不能超半个；另外，菠萝心中的纤维含量远多于菠萝表层的肉质，且粗纤维多，更有利于促进肠胃蠕动、增强身体新陈代谢，可用来炒菜，化油腻、增加食欲及膳食纤维的摄入。 [09:16:50, 2010-04-12](http://twitter.com/gfrog/statuses/12020482453)
+
+
+
+
+
+  * 靠的，ibus在rxvt里面没法看到输入法的选词框，在其他程序里就好好的，这是什么诡异问题。 [09:35:46, 2010-04-12](http://twitter.com/gfrog/statuses/12021385227)
+
+
+
+
+
+  * 临时用gnome-terminal顶一阵，有空再调查这个问题。 [09:47:08, 2010-04-12](http://twitter.com/gfrog/statuses/12021912970)
+
+
+
+
+
+  * 收显示器去，DELL 2209wa。 [10:16:00, 2010-04-12](http://twitter.com/gfrog/statuses/12023290083)
+
+
+
+
+
+  * 囧事一件 [http://j.mp/b1e9sW](http://j.mp/b1e9sW) [13:04:26, 2010-04-12](http://twitter.com/gfrog/statuses/12030495132)
+
+
+
+
+
+  * IPv4地址实际仅剩4000万 中国电信提供全球榜样 [http://j.mp/cSQFnn](http://j.mp/cSQFnn) [13:13:57, 2010-04-12](http://twitter.com/gfrog/statuses/12030810938)
+
+
+
+
+
+  * 波兰是不是很穷？ [http://j.mp/cq5s25](http://j.mp/cq5s25) [13:19:49, 2010-04-12](http://twitter.com/gfrog/statuses/12031002579)
+
+
+
+
+
+  * 哦，想想我当年为什么铁了心的拿Linux当桌面系统？ 竟然是因为公司那个该死的桌面管理软件，丫的只有windows版，所以Linux用户就可以躲开它。因为罪恶的制度，也可以对自己的发展产生动力。例如大墙横行，促进了我对VPN和SSH的了解。 [13:53:07, 2010-04-12](http://twitter.com/gfrog/statuses/12032023166)
+
+
+
+
+
+  * 我靠，我在一个星期之内改了4次google wave的邮件提醒设置了，每次改完不要提醒，丫的还是会给我发，再去wave里发现提醒设置又被改回来了。google咋的了，故意玩我？ [15:26:58, 2010-04-12](http://twitter.com/gfrog/statuses/12034554050)
+
+
+
+
+
+  * 东北的春天最难熬。 RT [@zhuzhiguo](http://twitter.com/zhuzhiguo): 是啊！冬天室内还18＋呢！ 何况大家还都没穿冬天的衣服～ RT [@gamtin](http://twitter.com/gamtin): 今天的大连真是太冷了。。办公室里一点热乎气儿都没有。。。 [15:34:01, 2010-04-12](http://twitter.com/gfrog/statuses/12034733179)
+
+
+
+
+
+  * 中华相机网终于恢复了，真不错。 [15:59:49, 2010-04-12](http://twitter.com/gfrog/statuses/12035357299)
+
+
+
+
+
+  * 其实汤唯脸很平，不过锁骨倒是很漂亮。 RT [@xddcc](http://twitter.com/xddcc): 8错！RT [@echopupu](http://twitter.com/echopupu): 荒木经惟镜头下的汤唯 [http://moby.to/s22zjg](http://moby.to/s22zjg) [22:29:06, 2010-04-12](http://twitter.com/gfrog/statuses/12048919623)
+
+
+
+
+
+  * 我犯了折腾相机成瘾的病么。。。 这个203，我一定要折腾好它。 [22:29:35, 2010-04-12](http://twitter.com/gfrog/statuses/12048942559)
+
+
+
+
+
+  * 海鸥203的皮腔，“材料任选，只要不透光即可，内里粘覆一层黑绸布消光。尺寸是：细端31mm，粗端62mm，长度115mm，9个折叠。” --以上摘自蜂鸟论坛。 [22:54:56, 2010-04-12](http://twitter.com/gfrog/statuses/12050128052)
+
+
+
+

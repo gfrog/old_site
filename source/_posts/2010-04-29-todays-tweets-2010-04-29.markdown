@@ -1,0 +1,133 @@
+---
+comments: true
+date: 2010-04-29 01:00:00
+layout: post
+slug: todays-tweets-2010-04-29
+title: Today's tweets 2010-04-29
+wordpress_id: 669
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * Palm叫HP收去了啊，总觉得HP也不是特别靠谱的。 [08:05:15, 2010-04-29](http://twitter.com/gfrog/statuses/13036567648)
+
+
+
+
+
+  * [GR] LLVM 2.7 推出 [http://j.mp/bg79XV](http://j.mp/bg79XV) [09:19:41, 2010-04-29](http://twitter.com/gfrog/statuses/13040489696)
+
+
+
+
+
+  * [GR] 软件专利的荒谬性: 由自由软件基金会资助拍摄的纪录片 [http://j.mp/9NiZke](http://j.mp/9NiZke) [09:19:44, 2010-04-29](http://twitter.com/gfrog/statuses/13040492391)
+
+
+
+
+
+  * RT [@WangJinbo](http://twitter.com/WangJinbo):
+		 国际奥委会执行委员会星期三宣布，正式剥夺中国队在2000年悉尼奥运会上获得的体操女子团体铜牌，原因是中国参赛选手董芳霄当时只有14岁，不符合参加奥运资格，而董芳霄的成绩帮助中国队取得了铜牌。 [10:11:57, 2010-04-29](http://twitter.com/gfrog/statuses/13043383772)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 是说饭团么？ [in reply to childream](http://twitter.com/childream/statuses/13047207158) [13:11:07, 2010-04-29](http://twitter.com/gfrog/statuses/13051840225)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 中华上有人用LED光源和标头测试过，效果似乎不错。 [in reply to raptorz](http://twitter.com/raptorz/statuses/13048466320) [13:13:02, 2010-04-29](http://twitter.com/gfrog/statuses/13051911408)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 测试50w的LED据说已经完全达到幻灯机的要求了，等我找下测试结果。其实亮度问题可能真的不大，需要考虑的是散热，LED点起来也热的很要命。 [in reply to raptorz](http://twitter.com/raptorz/statuses/13051988611) [13:19:45, 2010-04-29](http://twitter.com/gfrog/statuses/13052158041)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 我决定先收一片30W的试试，装上CPU风扇散热试下。如果亮度不够，再换更大的，不过就要额外配风扇了。 [in reply to raptorz](http://twitter.com/raptorz/statuses/13052231194) [13:29:10, 2010-04-29](http://twitter.com/gfrog/statuses/13052499586)
+
+
+
+
+
+  * 自己改了下gwibber，加上代理，换掉api地址，终于可以收到推了，但是还是没办法发，这是怎么回事呢。 [14:05:28, 2010-04-29](http://twitter.com/gfrog/statuses/13053749782)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 那篇测试led亮度的帖子找不到了，按照标称参数看的话，30W的led已经完全能满足家用幻灯机的要求了。 [in reply to raptorz](http://twitter.com/raptorz/statuses/13052700803) [14:19:55, 2010-04-29](http://twitter.com/gfrog/statuses/13054217524)
+
+
+
+
+
+  * 按照 [http://kxboy.com/web-skills/gtalk-settings-under-pidgin-ways.html](http://kxboy.com/web-skills/gtalk-settings-under-pidgin-ways.html) 里面的方法，俺终于可以从pidgin里连上gtalk了，哈哈。google万岁。 [14:58:00, 2010-04-29](http://twitter.com/gfrog/statuses/13055387161)
+
+
+
+
+
+  * 哦，这么说沈阳的男童鞋应该比较幸福啊，哈哈。 RT [@leeyow](http://twitter.com/leeyow): 沈阳日报：沈阳市内五区人口女比男多近两万人。（怪不得身边不少女孩找不到对象，极端情况下是万里挑一啊） [15:57:38, 2010-04-29](http://twitter.com/gfrog/statuses/13057126975)
+
+
+
+
+
+  * 哦，满眼F-cup！ 哦，差点把cup打成cpu，IT人的悲哀，囧 [15:58:45, 2010-04-29](http://twitter.com/gfrog/statuses/13057157076)
+
+
+
+
+
+  * 每次项目之前都要捣鼓好久Makefile，去年研究Makefile记的笔记叫我扔哪去了。。。。 [16:09:30, 2010-04-29](http://twitter.com/gfrog/statuses/13057468571)
+
+
+
+
+
+  * 看Makefile的时候，顺路复习一下Shell。 [16:25:02, 2010-04-29](http://twitter.com/gfrog/statuses/13057905545)
+
+
+
+
+
+  * [GR] 车模 [http://j.mp/dkojuh](http://j.mp/dkojuh) [16:37:00, 2010-04-29](http://twitter.com/gfrog/statuses/13058243449)
+
+
+
+
+
+  * [GR] 一万亿美元外汇储备的笑话！_趣摘- 最经典，笑话，幽默，语录，数码，互联网 [http://j.mp/a1PJw1](http://j.mp/a1PJw1) [http://goo.gl/LFAq](http://goo.gl/LFAq) [17:00:25, 2010-04-29](http://twitter.com/gfrog/statuses/13058893383)
+
+
+
+
+
+  * [GR] 印度全面禁购华为、中兴等中国厂商电信设备 [http://j.mp/cuSBVu](http://j.mp/cuSBVu) [17:05:11, 2010-04-29](http://twitter.com/gfrog/statuses/13059035331)
+
+
+
+
+
+  * 这是什么状况，有HW或者ZTE的童鞋爆下内幕么。 RT [@gfrog](http://twitter.com/gfrog): [GR] 印度全面禁购华为、中兴等中国厂商电信设备 [http://j.mp/cuSBVu](http://j.mp/cuSBVu) [17:06:38, 2010-04-29](http://twitter.com/gfrog/statuses/13059076211)
+
+
+
+

@@ -1,0 +1,198 @@
+---
+comments: true
+date: 2011-09-20 01:00:00
+layout: post
+slug: todays-tweets-2011-09-20
+title: Today's tweets 2011-09-20
+wordpress_id: 2604
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@skyier](http://twitter.com/skyier): RT [@ChineseDancer](http://twitter.com/ChineseDancer): 1991年朱镕基访问西欧，早晨到机场后下午两点半也没能起飞。老朱說：“一个国家的民航水平很低，飞机老不正点，如果这个都抓不上去，这个国家是没前途的。”此话一出，领导坐的飞机就再没有延误啦！ [10:03:59, 2011-09-20](http://twitter.com/gfrog/statuses/115969421922676736)
+
+
+
+
+
+  * [@kDolphin](http://twitter.com/kDolphin) 迁移过来的？ [in reply to kDolphin](http://twitter.com/kDolphin/statuses/115968249295929344) [10:04:22, 2011-09-20](http://twitter.com/gfrog/statuses/115969517242421248)
+
+
+
+
+
+  * 记录一下，KDE4里面可以用kdialog发送notification消息，这个跟gnome的notify-send产生的效果一样。 [10:23:52, 2011-09-20](http://twitter.com/gfrog/statuses/115974424204816384)
+
+
+
+
+
+  * RT [@kDolphin](http://twitter.com/kDolphin): RT [@f1shage](http://twitter.com/f1shage): 再次提醒：亚航今晚放出2012年5月3日---10月27日出发的0票价，可以体验肉身翻墙，万恶资本主义花花世界，曼谷，普吉岛，清迈，暹罗，新加坡，兰卡威等东南亚各地，抢票吧，私奔吧，快闪吧！@weeker 懂的，你也会懂的 [10:34:35, 2011-09-20](http://twitter.com/gfrog/statuses/115977124426428417)
+
+
+
+
+
+  * 这很简单，在你的世界里把表调慢。 RT [@ld0905](http://twitter.com/ld0905): 不过，“早起”这项任务的难度，在本人的世界里已经超过了“登上月球”，或者“拥有一辆大黄蜂”了。 [10:35:40, 2011-09-20](http://twitter.com/gfrog/statuses/115977396477378560)
+
+
+
+
+
+  * 用aptitude备份安装包列表，“< Evanescence> aptitude show '~i' | grep 'Package' | cut -d ' ' -f2 > list” [11:27:53, 2011-09-20](http://twitter.com/gfrog/statuses/115990534820081664)
+
+
+
+
+
+  * RT [@ksky](http://twitter.com/ksky): 我操铁道部，说买票只能提前10天，又说电话订票可以提前11天，于是我9月30号要回家的票在没有发售前就卖完了。操，操，操。亲们，要回家的打电话去95105105订票吧，可以提前11天的，别傻乎乎的去订票点排队了。 [12:20:13, 2011-09-20](http://twitter.com/gfrog/statuses/116003707837104128)
+
+
+
+
+
+  * 祈祷VVIP的飞机也先掉下来算了。 RT [@raptorz](http://twitter.com/raptorz): 专鸡一样扰民，某次飞帝都被延误了五个小时就是因为帝都鸡场要给某常委的专鸡让道 RT [@flenilune](http://twitter.com/flenilune) [@ChineseDancer](http://twitter.com/ChineseDancer) [@petefang](http://twitter.com/petefang) [@skyier](http://twitter.com/skyier) [12:23:41, 2011-09-20](http://twitter.com/gfrog/statuses/116004580428480512)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 不抛弃，不放弃。。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/116004557661814784) [12:24:24, 2011-09-20](http://twitter.com/gfrog/statuses/116004758967418881)
+
+
+
+
+
+  * hmmmm，Choqok看起来还不错，用一天体验一下。 [13:45:29, 2011-09-20](http://twitter.com/gfrog/statuses/116025165804089345)
+
+
+
+
+
+  * ♻ [@nickyhk4you](http://twitter.com/nickyhk4you): PKUTeaParty: 天黑请闭眼....学姐请睁眼....学姐请选人....学姐请闭眼....天亮了，学弟菊花被爆了.....RT@mYmJesse 天黑请闭眼....学长请睁眼....学长请选人....学长请闭眼....天亮了，学妹怀孕了.. [13:46:01, 2011-09-20](http://twitter.com/gfrog/statuses/116025300575469568)
+
+
+
+
+
+  * [@ksky](http://twitter.com/ksky) [@yoyicue](http://twitter.com/yoyicue) 太悲惨了。 [in reply to ksky](http://twitter.com/ksky/statuses/116005188883587072) [13:52:04, 2011-09-20](http://twitter.com/gfrog/statuses/116026823112003584)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 领导能坐到那个位置一定有过人之处，哈哈。 [in reply to childream](http://twitter.com/childream/statuses/116026040513597440) [13:53:11, 2011-09-20](http://twitter.com/gfrog/statuses/116027100984647680)
+
+
+
+
+
+  * RT [@an1908](http://twitter.com/an1908): RT [@sanwolfy](http://twitter.com/sanwolfy): RT [@virushuo](http://twitter.com/virushuo): 帮推 RT [@horse](http://twitter.com/horse): 征室内设计师志愿者：给聋儿康复机构的两个房间（都是30~40平米）进行测绘，画出平面和立面图出来。如果能协助设计和出效果图更好。（求扩散） [13:53:31, 2011-09-20](http://twitter.com/gfrog/statuses/116027187169198080)
+
+
+
+
+
+  * 似乎linode在东京的新机房效果不错。。。 要不要败家入一个呢？ 不过似乎没啥好放在上边的。美国那个vps还没起多少服务呢。 [13:54:55, 2011-09-20](http://twitter.com/gfrog/statuses/116027538354077696)
+
+
+
+
+
+  * RT [@whentp](http://twitter.com/whentp): 最近科学家们的一篇论文指出，这其实跟吸水没啥关系，手指浸水后变皱是人类自己进化出来的能力(听上去超赞啊，超能力吗)。皱皱的皮肤在水下能提供比平滑的指纹更大的摩擦力：当手指按压在物体上时水可以从皱褶的低谷处快速流走。。。from 科学松鼠会 [14:02:04, 2011-09-20](http://twitter.com/gfrog/statuses/116029336284446720)
+
+
+
+
+
+  * [@Raul_Wong](http://twitter.com/Raul_Wong) [@turingbook](http://twitter.com/turingbook) 米国教育一直是走培养创造性的路线，国内学校都是填鸭式的，小时候再没有开阔眼界，长大了难免视野狭窄又没探索精神。。。 [in reply to turingbook](http://twitter.com/turingbook/statuses/115949775639166976) [14:17:31, 2011-09-20](http://twitter.com/gfrog/statuses/116033226681745408)
+
+
+
+
+
+  * RT [@hELLoELL](http://twitter.com/hELLoELL): “@cuddly_v: 惨剧。。。RT [@Ying_Tao_Shu](http://twitter.com/Ying_Tao_Shu): [@chrissc921](http://twitter.com/chrissc921) 我小时候就看过宾馆服务员生了蓝眼睛孩子，当天就从医院六楼跳楼身亡。十几个外籍男陆续来认亲，结果没一个是亲爹。。最后孩子被女方妹妹收养了。” //_o [17:27:22, 2011-09-20](http://twitter.com/gfrog/statuses/116081001289097216)
+
+
+
+
+
+  * emmm，公司搞了个营养讲座，结果俺在讲座过程中大吃特吃，罪过啊。晚上骑车消耗能量。 [17:33:41, 2011-09-20](http://twitter.com/gfrog/statuses/116082594428370945)
+
+
+
+
+
+  * RT [@wikizhiyu](http://twitter.com/wikizhiyu): 拿百度搜订机票网，活该你被骗。 [17:33:53, 2011-09-20](http://twitter.com/gfrog/statuses/116082641618485248)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 晚上继续奥园酱油，但是时间不定，要跑到慧新西街去取手套。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/116083548791906304) [17:46:15, 2011-09-20](http://twitter.com/gfrog/statuses/116085755067105280)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 我回家也要10km，刷完圈之后体力下降，爬回去的速度更慢。但是确认人少空气好。帝都很少这种基本不用停车的路线了。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/116086336632532992) [17:51:35, 2011-09-20](http://twitter.com/gfrog/statuses/116087098146172929)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 三环上空气太差，气管炎刚好，俺还没法适应帝都大街上的空气。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/116087864386781184) [17:57:08, 2011-09-20](http://twitter.com/gfrog/statuses/116088493263962112)
+
+
+
+
+
+  * 挺正常的吧。。。 RT [@717amy](http://twitter.com/717amy): “你眼睛好大，真漂亮！”有这么当面夸人的嘛，真是的 [17:57:33, 2011-09-20](http://twitter.com/gfrog/statuses/116088597727285248)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 第二天要上班的苦逼青年表示很羡慕。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/116089348188946432) [18:05:16, 2011-09-20](http://twitter.com/gfrog/statuses/116090541648789504)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 周末俺就郊区活动了，不在市内当吸尘器了，哈哈。跑外边去吸尘。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/116092302300164096) [18:14:08, 2011-09-20](http://twitter.com/gfrog/statuses/116092772099964928)
+
+
+
+
+
+  * 是不是生出个白人小孩还好解释，哈哈。 RT [@ImSyls](http://twitter.com/ImSyls): cc [@C__JUN](http://twitter.com/C__JUN) RT [@avege](http://twitter.com/avege): 这么高端？！RT [@debtofmoney](http://twitter.com/debtofmoney): [@kgreload](http://twitter.com/kgreload) [@avege](http://twitter.com/avege) [@imcherry](http://twitter.com/imcherry) 问推上的医生们，用内窥镜是不是能检查胎儿肤色啊？ [18:14:55, 2011-09-20](http://twitter.com/gfrog/statuses/116092969190293507)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 。。。。 有公款旅游的机会，羡慕嫉妒恨 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/116093011330482176) [18:16:38, 2011-09-20](http://twitter.com/gfrog/statuses/116093400654151680)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 出去骑车难道不是晒着太阳然后自虐嘛。。。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/116094399779311616) [18:22:27, 2011-09-20](http://twitter.com/gfrog/statuses/116094865162506241)
+
+
+
+
+
+  * 吃饭吃饭！ 奥园刷圈！ [18:22:52, 2011-09-20](http://twitter.com/gfrog/statuses/116094972054343680)
+
+
+
+

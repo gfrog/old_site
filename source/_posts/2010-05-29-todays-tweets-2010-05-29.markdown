@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2010-05-29 01:00:00
+layout: post
+slug: todays-tweets-2010-05-29
+title: Today's tweets 2010-05-29
+wordpress_id: 751
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 今日无话。 [21:32:17, 2010-05-29](http://twitter.com/gfrog/statuses/14974581995)
+
+
+
+

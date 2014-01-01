@@ -1,0 +1,174 @@
+---
+comments: true
+date: 2010-05-28 01:00:00
+layout: post
+slug: todays-tweets-2010-05-28
+title: Today's tweets 2010-05-28
+wordpress_id: 750
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 今天会下雨？ [07:47:22, 2010-05-28](http://twitter.com/gfrog/statuses/14867515841)
+
+
+
+
+
+  * 果然下雨了，今天天气预报还挺准。 [07:59:28, 2010-05-28](http://twitter.com/gfrog/statuses/14868157154)
+
+
+
+
+
+  * RT [@catitude](http://twitter.com/catitude): 謝謝 [@qingyinzi](http://twitter.com/qingyinzi) 讓我遇上一個好 blog！推給所有(準)家長。 RT [@qingyinzi](http://twitter.com/qingyinzi): 转: 垃圾教材比三聚氰胺奶粉为害更为深远！之一 [http://bit.ly/benzfl](http://bit.ly/benzfl) [#FB](http://search.twitter.com/search?q=%23FB) [08:16:38, 2010-05-28](http://twitter.com/gfrog/statuses/14869098801)
+
+
+
+
+
+  * 靠，班车里不开空调，车里像蒸笼一样，丫的就不能开个换气？ [08:19:57, 2010-05-28](http://twitter.com/gfrog/statuses/14869277708)
+
+
+
+
+
+  * 东软。 RT [@yuanyi_wang](http://twitter.com/yuanyi_wang) 你们还有班车？啥公司啊？RT [@gfrog](http://twitter.com/gfrog): 靠，班车里不开空调，车里像蒸笼一样，丫的就不能开个换气？ [08:39:39, 2010-05-28](http://twitter.com/gfrog/statuses/14870361292)
+
+
+
+
+
+  * [@Greendamn](http://twitter.com/Greendamn) 一直都是ibus吧，ibus现在基本上是最靠谱的输入法了。 [in reply to Greendamn](http://twitter.com/Greendamn/statuses/14870268386) [08:40:16, 2010-05-28](http://twitter.com/gfrog/statuses/14870395452)
+
+
+
+
+
+  * [@Greendamn](http://twitter.com/Greendamn) [@beckyeeky](http://twitter.com/beckyeeky) m17n那个拼音似乎是全拼，直接选pinyin好了。我也发现10.04的毛病了，输入法装了一大堆，还要手工卸掉。 [in reply to Greendamn](http://twitter.com/Greendamn/statuses/14870618991) [08:46:35, 2010-05-28](http://twitter.com/gfrog/statuses/14870743447)
+
+
+
+
+
+  * [@leeyow](http://twitter.com/leeyow) 没概念，据说搬去什么什么一个偏远的地方了，去趟市里麻烦死。 [in reply to leeyow](http://twitter.com/leeyow/statuses/14870645758) [08:47:11, 2010-05-28](http://twitter.com/gfrog/statuses/14870776760)
+
+
+
+
+
+  * [@beckyeeky](http://twitter.com/beckyeeky) [@Greendamn](http://twitter.com/Greendamn) 我也是升级上来的，但是又让我选择了一遍语言，于是一大坨输入法跑进我的系统了。 [in reply to beckyeeky](http://twitter.com/beckyeeky/statuses/14870816361) [08:50:42, 2010-05-28](http://twitter.com/gfrog/statuses/14870970514)
+
+
+
+
+
+  * 日，从ftp上复制个发布包都不知道算一下md5校验和，这种人还做个P配置管理员。 [09:57:46, 2010-05-28](http://twitter.com/gfrog/statuses/14874806487)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 青春 [http://j.mp/bNaJHn](http://j.mp/bNaJHn) [13:48:32, 2010-05-28](http://twitter.com/gfrog/statuses/14887402717)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 只有在中国的沃尔玛才能买到的16种东西 [http://j.mp/cGOllm](http://j.mp/cGOllm) [14:03:32, 2010-05-28](http://twitter.com/gfrog/statuses/14888009283)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Google将死？ [http://j.mp/aLBJLf](http://j.mp/aLBJLf) //立此存照 [14:13:38, 2010-05-28](http://twitter.com/gfrog/statuses/14888402686)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 中外人民掀起“感谢国家”新高潮 [http://j.mp/bJWodk](http://j.mp/bJWodk) [14:26:53, 2010-05-28](http://twitter.com/gfrog/statuses/14888908824)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 蒋介石日记透露了哪些历史秘辛？ [http://j.mp/bYsx8u](http://j.mp/bYsx8u) [14:48:43, 2010-05-28](http://twitter.com/gfrog/statuses/14889717912)
+
+
+
+
+
+  * 请不要污蔑富士康。 XD RT [@fxlt](http://twitter.com/fxlt) 其实我们生活在一个更大的富士康里。 [15:17:02, 2010-05-28](http://twitter.com/gfrog/statuses/14890785285)
+
+
+
+
+
+  * 我很怀疑没有装language-pack，所以编码会乱。 RT [@Greendamn](http://twitter.com/Greendamn) 不管了...先安更新 安完了改掉gVim的默认配置好了 [15:18:02, 2010-05-28](http://twitter.com/gfrog/statuses/14890821901)
+
+
+
+
+
+  * [@Greendamn](http://twitter.com/Greendamn) 额，说起来我的系统里也这样，我还真木有发现这个问题，我也去搞搞，哈哈。 [in reply to Greendamn](http://twitter.com/Greendamn/statuses/14890879485) [15:21:25, 2010-05-28](http://twitter.com/gfrog/statuses/14890947416)
+
+
+
+
+
+  * [@pipitu](http://twitter.com/pipitu) 在某些不靠谱的程序里有细微的差别。 [in reply to pipitu](http://twitter.com/pipitu/statuses/14890937072) [15:23:28, 2010-05-28](http://twitter.com/gfrog/statuses/14891019784)
+
+
+
+
+
+  * [@Greendamn](http://twitter.com/Greendamn) 在vim里是ok的，gvim的哪里有问题? 菜单显示乱码么？ [in reply to Greendamn](http://twitter.com/Greendamn/statuses/14891055070) [15:26:04, 2010-05-28](http://twitter.com/gfrog/statuses/14891111734)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 27 May 2010 - Flickr [http://j.mp/biEIdg](http://j.mp/biEIdg) [16:09:35, 2010-05-28](http://twitter.com/gfrog/statuses/14892629719)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 实践与分享：卓有奇效的“mini-KMS_Activator”（迷你KMS）最新版本+界面解读+使用说明 [http://j.mp/bGHnoI](http://j.mp/bGHnoI) [16:16:43, 2010-05-28](http://twitter.com/gfrog/statuses/14892872700)
+
+
+
+
+
+  * RT [@bbcchinese](http://twitter.com/bbcchinese) 简讯：沈阳20万私家车无泊车位: 在沈阳，有大约20万辆私家车找不到合法的泊车位。 [http://bit.ly/9uqCdi](http://bit.ly/9uqCdi) [16:21:50, 2010-05-28](http://twitter.com/gfrog/statuses/14893047865)
+
+
+
+
+
+  * RT [@liujinghui](http://twitter.com/liujinghui) RT [@klx1204](http://twitter.com/klx1204): 帮推《闫凤娇,阳光医院喊你来治痔疮——姣好面容怎容半点痔疮》 RT [@shinno_doo](http://twitter.com/shinno_doo) 贴个网址，不说明不解释同时也没有贞子鸭梨。 [http://is.gd/csJBu](http://is.gd/csJBu) [16:27:38, 2010-05-28](http://twitter.com/gfrog/statuses/14893243376)
+
+
+
+
+
+  * 选主板，简直挑花眼，很纠结啊。 [17:15:08, 2010-05-28](http://twitter.com/gfrog/statuses/14894853607)
+
+
+
+
+
+  * RT [@xie107](http://twitter.com/xie107): 今天看到一童鞋睡觉时把手机放在鞋子里，不解，童鞋解释说：“放枕边杀脑细胞，放口袋里杀精，放鞋子里杀菌！” [19:06:28, 2010-05-28](http://twitter.com/gfrog/statuses/14898944045)
+
+
+
+

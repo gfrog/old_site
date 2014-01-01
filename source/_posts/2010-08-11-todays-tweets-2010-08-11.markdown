@@ -1,0 +1,138 @@
+---
+comments: true
+date: 2010-08-11 01:00:00
+layout: post
+slug: todays-tweets-2010-08-11
+title: Today's tweets 2010-08-11
+wordpress_id: 939
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 难道阿玛尼不是韩语？　RT [@avege](http://twitter.com/avege) 曾经室友说很想叫我阿玛尼，我第一反应是哈里波特里的阿尼玛格斯…第二反应是阿凡提…问她原因她说就是想这么叫我…我想到我第一个外号也是人家想叫于是我就杯具地扛到现在… [08:03:52, 2010-08-11](http://twitter.com/gfrog/statuses/20837413144)
+
+
+
+
+
+  * 东软虽然过CMM很早，但是现在开发过程也烂的一塌糊涂。RT [@yuanyi_wang](http://twitter.com/yuanyi_wang): 普及一下CMM(I)的知识，CMM的评估有效期一般只有2年，而且还分版本，现在在最新的应该是CMMI1.2，5级强调的是continuous，就是持续的 [08:08:28, 2010-08-11](http://twitter.com/gfrog/statuses/20837734928)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 80后 90后果然Out了,看看00后 [http://j.mp/8Zf8OF](http://j.mp/8Zf8OF) [08:43:03, 2010-08-11](http://twitter.com/gfrog/statuses/20840155035)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku) RT [@xie107](http://twitter.com/xie107): 【奶茶流】女：我是你的什么？男：你是投币机。女：原来我是投币机啊（委屈状）。男：因为我是硬币啊… [08:43:18, 2010-08-11](http://twitter.com/gfrog/statuses/20840172549)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 30种PS技术，让你的照片美到不行！ [http://j.mp/ay2gNV](http://j.mp/ay2gNV) [08:48:53, 2010-08-11](http://twitter.com/gfrog/statuses/20840576027)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 发邮件的礼仪汇总—让优秀成为习惯 [http://j.mp/aFaMhs](http://j.mp/aFaMhs) [08:50:40, 2010-08-11](http://twitter.com/gfrog/statuses/20840702138)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  7 Aug 2010 - Flickr [http://j.mp/ag27fh](http://j.mp/ag27fh) [09:11:44, 2010-08-11](http://twitter.com/gfrog/statuses/20842272599)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  8 Aug 2010 - Flickr [http://j.mp/cQhJ82](http://j.mp/cQhJ82) [09:11:53, 2010-08-11](http://twitter.com/gfrog/statuses/20842283442)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 像素不是临界值 [http://j.mp/asim2c](http://j.mp/asim2c) [09:15:27, 2010-08-11](http://twitter.com/gfrog/statuses/20842545803)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Vmware WorkStation 7.1.0 VMX86.SYS <= 7.1.0.12623 一处BUG [http://j.mp/c2keHe](http://j.mp/c2keHe) [09:19:17, 2010-08-11](http://twitter.com/gfrog/statuses/20842826107)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) BuddyGuard Pro测试结束 [http://j.mp/awqKH7](http://j.mp/awqKH7) [09:22:00, 2010-08-11](http://twitter.com/gfrog/statuses/20843026594)
+
+
+
+
+
+  * RT [@quakelee](http://twitter.com/quakelee) 每当看到政府机关门口的“为人民服务”，我就想中间那个”币“一定是让贪官给偷了 [09:24:30, 2010-08-11](http://twitter.com/gfrog/statuses/20843214349)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 国家地理：中国海域绿藻泛滥，死亡之域悄然成型 [http://j.mp/9A8dCK](http://j.mp/9A8dCK) [13:28:54, 2010-08-11](http://twitter.com/gfrog/statuses/20860248294)
+
+
+
+
+
+  * 困倦的下午，趴在桌子上睡了半天，还是迷迷糊糊。 [13:58:34, 2010-08-11](http://twitter.com/gfrog/statuses/20861944731)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 什么是博士？ [http://j.mp/a13QzG](http://j.mp/a13QzG) [14:47:39, 2010-08-11](http://twitter.com/gfrog/statuses/20864579362)
+
+
+
+
+
+  * google code访问不能，难道被封了？ [14:56:27, 2010-08-11](http://twitter.com/gfrog/statuses/20865016045)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 【图卦20100810】没了，才知道什么叫没了 [http://j.mp/c29JYy](http://j.mp/c29JYy) [17:02:11, 2010-08-11](http://twitter.com/gfrog/statuses/20871015204)
+
+
+
+
+
+  * 又有艳照门。。　RT [@Missiu](http://twitter.com/Missiu): RT [@bobshiu](http://twitter.com/bobshiu): RT [@okerye](http://twitter.com/okerye): 所谓254.rar我已经下好了密码是crazys  假的 跟上次娇娇一个级别的 [18:01:48, 2010-08-11](http://twitter.com/gfrog/statuses/20873807292)
+
+
+
+
+
+  * 无责任转推，链接页面已经被删掉了。RT [@inick](http://twitter.com/inick) 上海和杭州机场发生撞击事件.机场撞机是亮点.起落架打不开没法降落了.油料耗尽 飞机在杭州和上海两地上空徘徊.两个机场为了相互推诿就索性关了机场.于是 飞机在绍兴附近坠毁 消息来源新浪微博：http://zi.mu/tp8 [21:36:38, 2010-08-11](http://twitter.com/gfrog/statuses/20885907463)
+
+
+
+
+
+  * Test from IM+ [22:07:30, 2010-08-11](http://twitter.com/gfrog/statuses/20888166698)
+
+
+
+

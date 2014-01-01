@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2011-03-26 01:00:00
+layout: post
+slug: todays-tweets-2011-03-26
+title: Today's tweets 2011-03-26
+wordpress_id: 1699
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * I'm at 沈阳北站 (沈阳市) [http://4sq.com/gL3PEP](http://4sq.com/gL3PEP) [09:23:29, 2011-03-26](http://twitter.com/gfrog/statuses/51454189544538112)
+
+
+
+

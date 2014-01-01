@@ -1,0 +1,114 @@
+---
+comments: true
+date: 2011-11-03 01:00:00
+layout: post
+slug: todays-tweets-2011-11-03
+title: Today's tweets 2011-11-03
+wordpress_id: 1943
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 哎呀，话说昨晚调了半宿没搞定的邮件问题，竟然是脚本里多了个continue。。。 神智不清害死人哪。 [00:08:36, 2011-11-03](http://twitter.com/gfrog/statuses/131764653054373888)
+
+
+
+
+
+  * 哎呀呀，早上被一个公路车拉P了，整个10月都没有正经锻炼，体力下降太明显啦。 [11:07:11, 2011-11-03](http://twitter.com/gfrog/statuses/131930393095061504)
+
+
+
+
+
+  * 貌似已经有改成原来界面的脚本发布了。 RT [@skyier](http://twitter.com/skyier): 今天怎么没见人吐槽新版的gmail和reader，是不是一觉过后都觉得习惯了吗？ [11:16:14, 2011-11-03](http://twitter.com/gfrog/statuses/131932670505648129)
+
+
+
+
+
+  * emmmm，为啥俺的脚本手工测试木有问题，加到cron里面丫就不给我发邮件了呢！！ [11:29:15, 2011-11-03](http://twitter.com/gfrog/statuses/131935947599265792)
+
+
+
+
+
+  * RT [@hdtv720p](http://twitter.com/hdtv720p): 强烈要求上推5年以上的可以申请美国绿卡～～～ [11:32:02, 2011-11-03](http://twitter.com/gfrog/statuses/131936646676488192)
+
+
+
+
+
+  * RT [@max5](http://twitter.com/max5): 招行手机网银for ios小调整，键盘设置为仅数字键盘。小改动带来巨大用户体验和输入效率升级！事半功倍之典范！我们需要聪明的程序员和业务规划。 [11:39:10, 2011-11-03](http://twitter.com/gfrog/statuses/131938443507924992)
+
+
+
+
+
+  * 为神马我推了好多个人文档到 [#kindle](http://search.twitter.com/search?q=%23kindle) 上，但是账户里那个5G的云存储容量还是没变化呢，那我的文档都存去哪里了？  [#amazon](http://search.twitter.com/search?q=%23amazon) [11:43:46, 2011-11-03](http://twitter.com/gfrog/statuses/131939598640218112)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 其实算下来挺便宜的，比dropbox便宜的多。 不过使用起来确实不太方便。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/131940433247997952) [12:15:03, 2011-11-03](http://twitter.com/gfrog/statuses/131947471353024512)
+
+
+
+
+
+  * RT [@calviwang](http://twitter.com/calviwang): 原来还有虚拟信用卡这种玩意，用它就能申请各种要美国信用卡的服务了。再在comGateway申请个免税的俄勒冈的地址，在Google Voice申请个美国电话号码。嚯！一个除了肉身之外全在美帝的二B青年出现了！ [14:39:57, 2011-11-03](http://twitter.com/gfrog/statuses/131983935654723585)
+
+
+
+
+
+  * 当当当，继续python脚本中。 哎呀呀，继续修练python语法。 [14:40:33, 2011-11-03](http://twitter.com/gfrog/statuses/131984086553214976)
+
+
+
+
+
+  * RT [@justone_he](http://twitter.com/justone_he): Cabela一个买户外用品的好网站，可以直邮中国: Cabela是个户外装备专卖的网站，有自营品牌，也有哥伦比亚和The north face，最近折扣也比较多。尤其特别的是这个网站支持… [http://t.co/F0jJycze](http://t.co/F0jJycze) [14:46:10, 2011-11-03](http://twitter.com/gfrog/statuses/131985502810284032)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 那那个5G空间怎么利用起来呀？ [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/131995576257613824) [15:27:49, 2011-11-03](http://twitter.com/gfrog/statuses/131995984908664832)
+
+
+
+
+
+  * TB又是吃火锅。。。 似乎这半年一直都是火锅，各种不同的火锅 [15:42:54, 2011-11-03](http://twitter.com/gfrog/statuses/131999777301872640)
+
+
+
+
+
+  * RT [@kissChina](http://twitter.com/kissChina): 我的心受到了沉重的打击，这TM叫服务啊。给amazon发信说kindle摔坏了，来信说给你换一个新的，不要钱，旧的也不要回去，只要一个美国的地址就行。~~~ [19:31:12, 2011-11-03](http://twitter.com/gfrog/statuses/132057231192625152)
+
+
+
+
+
+  * 咩哈哈，搞定小说收集器了，现在可以每天在kindle上追小说看啦！自己重排过的格式果然很赞。下一步是要搞个界面出来，方便以后添加新小说。 [21:31:37, 2011-11-03](http://twitter.com/gfrog/statuses/132087537694023681)
+
+
+
+
+
+  * 之前用instrapaper，感觉比起俺自己的来，简直弱爆了，那破玩意重排过的文章垃圾内容太多。不过丫有个好处就是能推图文混排的文章，俺得学习下。。 [21:51:17, 2011-11-03](http://twitter.com/gfrog/statuses/132092487438315520)
+
+
+
+

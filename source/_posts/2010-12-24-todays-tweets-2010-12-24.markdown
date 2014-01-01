@@ -1,0 +1,130 @@
+---
+comments: true
+date: 2010-12-24 01:00:00
+layout: post
+slug: todays-tweets-2010-12-24
+title: Today's tweets 2010-12-24
+wordpress_id: 1495
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 小内存 VPS 优化建议 (LNMP+WordPress 环境) [http://j.mp/hA7Ynj](http://j.mp/hA7Ynj) [00:12:39, 2010-12-24](http://twitter.com/gfrog/statuses/17975885785210881)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 21 Dec 2010 - Flickr [http://j.mp/i3yKDS](http://j.mp/i3yKDS) [00:12:40, 2010-12-24](http://twitter.com/gfrog/statuses/17975888641531904)
+
+
+
+
+
+  * 买吧，XD RT [@movingtea1982](http://twitter.com/movingtea1982): 虽然现在用的球鞋才穿了半年多，但我十分想买双新球鞋，快来阻止我！ [11:21:42, 2010-12-24](http://twitter.com/gfrog/statuses/18144254903717888)
+
+
+
+
+
+  * 搜狗也一样，选了T9就没法换回全键盘了，似乎要重启才能换回来。 RT [@heejunjin](http://twitter.com/heejunjin) 安卓的go输入法太囧了......-_-//明明选了全键盘，还给我9宫......怎马那么笨的啊......虽然有容错，但是忒复杂了 [11:23:24, 2010-12-24](http://twitter.com/gfrog/statuses/18144683377037312)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 无事百度的一切东西，我是不是有点盲目，哈。 in reply to wubuntust [11:34:44, 2010-12-24](http://twitter.com/gfrog/statuses/18147534706835456)
+
+
+
+
+
+  * 我擦，我真的变态了，用了2天Thunderbird，受不了了，速度极慢、邮件字体不统一、显示文本格式的邮件丢失邮件内容，我要换回mutt！ [15:26:48, 2010-12-24](http://twitter.com/gfrog/statuses/18205935948275712)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 恩。。。。 那就再折腾一下它好了。 in reply to wubuntust [16:01:16, 2010-12-24](http://twitter.com/gfrog/statuses/18214611224371201)
+
+
+
+
+
+  * 浑身没劲，想睡觉。 [16:12:57, 2010-12-24](http://twitter.com/gfrog/statuses/18217553012727808)
+
+
+
+
+
+  * 平安夜包饺子？ 真没创意。。 RT [@pipitu](http://twitter.com/pipitu): 被班长发现我在宿舍，坚持贫贱不能移威武不能屈的方针政策顺利通过炮轰，包饺子什么的，才不去呢。。。 [16:29:38, 2010-12-24](http://twitter.com/gfrog/statuses/18221749996883968)
+
+
+
+
+
+  * 困的不行，纠结要不要请2小时假回家休息。。。 不过回家可能就不想睡觉了。。 [16:30:49, 2010-12-24](http://twitter.com/gfrog/statuses/18222047352070144)
+
+
+
+
+
+  * Reshared post from  徐彬
+
+
+
+Git的推广心得 | Jeff的妙想奇境 - [http://www.jeffkit.info](http://www.jeffkit.info) [16:34:33, 2010-12-24](http://twitter.com/gfrog/statuses/18222987270426624)
+
+
+
+
+
+  * 全公司都是Linux也有悲剧，想刷机竟然找不到靠谱的机器。虚拟机里的windows不知道靠谱靠谱，不敢轻易尝试啊。 [17:50:27, 2010-12-24](http://twitter.com/gfrog/statuses/18242090404159489)
+
+
+
+
+
+  * 要不豁出去用虚拟机试一下算了。。。 [17:50:49, 2010-12-24](http://twitter.com/gfrog/statuses/18242180598464512)
+
+
+
+
+
+  * [@icyleaf](http://twitter.com/icyleaf) 里程碑。 in reply to icyleaf [17:51:51, 2010-12-24](http://twitter.com/gfrog/statuses/18242439407996928)
+
+
+
+
+
+  * [@icyleaf](http://twitter.com/icyleaf) 里程碑比较郁闷，需要连电脑刷底包，而且搞不好就砖。比HTC流的机器难搞一些。 in reply to icyleaf [17:55:26, 2010-12-24](http://twitter.com/gfrog/statuses/18243341850251264)
+
+
+
+
+
+  * [@zongsen](http://twitter.com/zongsen) 恰巧是做Linux的一个公司罢了，前台的mm都是使Linux的。 in reply to zongsen [17:58:16, 2010-12-24](http://twitter.com/gfrog/statuses/18244057364963328)
+
+
+
+
+
+  * [@icyleaf](http://twitter.com/icyleaf) wipe不会动底包啊，底包就相当于BIOS一样，刷坏了就死翘翘了。 in reply to icyleaf [18:21:08, 2010-12-24](http://twitter.com/gfrog/statuses/18249809542516736)
+
+
+
+
+
+  * 我要攒假期旅游啊啊啊啊啊啊！想去的地方太多了。 [23:57:45, 2010-12-24](http://twitter.com/gfrog/statuses/18334523204829184)
+
+
+
+

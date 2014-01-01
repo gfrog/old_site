@@ -1,0 +1,108 @@
+---
+comments: true
+date: 2012-06-07 23:59:00
+layout: post
+slug: todays-tweets-2012-06-07
+title: Today's tweets 2012-06-07
+wordpress_id: 2567
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:32, 2012-06-07](http://twitter.com/gfrog/statuses/210536687430938624)
+
+
+
+
+
+  * 矮油，QT版的hotot果然比GTK版本的可爱的多呢。无论从速度还是界面精细度上说，都很赞。 [13:02:06, 2012-06-07](http://twitter.com/gfrog/statuses/210597481036251136)
+
+
+
+
+
+  * 不过，折腾好hotot了，我刚刚想发一条神马推来着… [13:02:38, 2012-06-07](http://twitter.com/gfrog/statuses/210597612733206528)
+
+
+
+
+
+  * RT [@royxy](http://twitter.com/royxy): ＂Nasa的火星探测器“机遇号”自2004年1月在火星的梅里迪亚尼（Meridiani）地区登陆以来，已经执行了八年多的考察任务，行驶了34.4公里。＂一个小小的机器人孤独地异星地表经年行走，永无归期。 [13:02:56, 2012-06-07](http://twitter.com/gfrog/statuses/210597690487214080)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) Chrome版有点影响工作啦，总手贱想去点那个tab。客户端版本缩在任务栏里，可以暂时忘掉它。 [in reply to felixonmars](http://twitter.com/felixonmars/statuses/210597765963710464) [13:04:45, 2012-06-07](http://twitter.com/gfrog/statuses/210598145393037312)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 哦，我试过这个，没QT的快，XD [in reply to felixonmars](http://twitter.com/felixonmars/statuses/210598389103075328) [13:08:25, 2012-06-07](http://twitter.com/gfrog/statuses/210599067917631488)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 哦，好吧，用KDE做桌面的表示对内存泄露已经淡定了。按esc出问题？肿末回事？ [in reply to felixonmars](http://twitter.com/felixonmars/statuses/210599240647458816) [13:17:37, 2012-06-07](http://twitter.com/gfrog/statuses/210601382519115776)
+
+
+
+
+
+  * 把一台Fedora升级到rawhide中… [13:18:35, 2012-06-07](http://twitter.com/gfrog/statuses/210601626728271872)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 求bug id，有workaround嘛？ [in reply to felixonmars](http://twitter.com/felixonmars/statuses/210601461422374912) [13:20:20, 2012-06-07](http://twitter.com/gfrog/statuses/210602066945654786)
+
+
+
+
+
+  * RT [@shellex](http://twitter.com/shellex): 胸口疼 RT [@mille_yin](http://twitter.com/mille_yin): （¯﹃¯）强迫症躺着中枪…RT [@hnjhj](http://twitter.com/hnjhj) 秒杀 RT [@danhuaer](http://twitter.com/danhuaer): 据说有强迫症的同学看到会很难受！ [http://t.co/A0tYvkm1](http://t.co/A0tYvkm1) [13:28:58, 2012-06-07](http://twitter.com/gfrog/statuses/210604241851650049)
+
+
+
+
+
+  * 今天 #高考 呀。 [13:53:00, 2012-06-07](http://twitter.com/gfrog/statuses/210610287622111232)
+
+
+
+
+
+  * 每次想起 #高考 ，值得吐槽的地方总是那么多。懒得说啦，随他去吧，说了也不能让我再回去考一次。不能算是失败，毕竟是一本，是985。更不能说是成功，不然也不会跑偏来做IT。 [13:55:03, 2012-06-07](http://twitter.com/gfrog/statuses/210610806197469184)
+
+
+
+
+
+  * [#rawhide](http://search.twitter.com/search?q=%23rawhide) 更新完毕，重启… Lady bless me, lol [13:56:29, 2012-06-07](http://twitter.com/gfrog/statuses/210611164080652289)
+
+
+
+
+
+  * [#rawhide](http://search.twitter.com/search?q=%23rawhide) 升级成功。 [14:04:15, 2012-06-07](http://twitter.com/gfrog/statuses/210613119922343937)
+
+
+
+
+
+  * 系统安装过程中竟然还开着SELinux，这是有神马特殊需求嘛… [15:44:27, 2012-06-07](http://twitter.com/gfrog/statuses/210638334488354816)
+
+
+
+

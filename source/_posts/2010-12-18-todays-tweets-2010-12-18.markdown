@@ -1,0 +1,232 @@
+---
+comments: true
+date: 2010-12-18 01:00:00
+layout: post
+slug: todays-tweets-2010-12-18
+title: Today's tweets 2010-12-18
+wordpress_id: 1086
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 有2个linode账户，在同一个机房里有虚拟机，怎么样把一个账户里的虚拟机迁移到另一个账户里去呢？ [00:42:49, 2010-12-18](http://twitter.com/gfrog/statuses/15809150575452160)
+
+
+
+
+
+  * 找到linode官方版迁移指南，果然比我自己的山寨方法高明。http://library.linode.com/linode-platform/migration/copy-disk-separate-account [01:16:47, 2010-12-18](http://twitter.com/gfrog/statuses/15817695618400256)
+
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): 突然发现Droid似乎支持IPv6了…… cc [@gokeeper](http://twitter.com/gokeeper) [@musiXboy](http://twitter.com/musiXboy) [02:12:45, 2010-12-18](http://twitter.com/gfrog/statuses/15831779923468288)
+
+
+
+
+
+  * RT [@tenione](http://twitter.com/tenione): Chrome什么时候能够同步扩展的配置就给力了~ [12:43:25, 2010-12-18](http://twitter.com/gfrog/statuses/15990492294545408)
+
+
+
+
+
+  * 雅虎这个烂玩意，搞不定delicious当初为啥还要买 RT [@terryxxy](http://twitter.com/terryxxy): 雅虎明确表示不会关闭 Delicious 　而考虑出售它 [12:45:49, 2010-12-18](http://twitter.com/gfrog/statuses/15991099751407616)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 支付宝发布Linux版安全控件正式版 [http://j.mp/ejhyhW](http://j.mp/ejhyhW) [12:47:21, 2010-12-18](http://twitter.com/gfrog/statuses/15991481831530496)
+
+
+
+
+
+  * RT [@raptorqtm](http://twitter.com/raptorqtm): RT [@inxian](http://twitter.com/inxian): [网友即时报] 今天是CET4考试的日子，据早上去监考的舍友说，四级都抄疯了，这考试真失败。(via:@史宇航 ) [12:59:43, 2010-12-18](http://twitter.com/gfrog/statuses/15994594026070018)
+
+
+
+
+
+  * 哦，扩展的设置可以同步么？ 一直没发现啊。 RT [@gyteng](http://twitter.com/gyteng): 部分配置目前可以同步的 RT [@gfrog](http://twitter.com/gfrog): RT [@tenione](http://twitter.com/tenione): Chrome什么时候能够同步扩展的配置就给力了~ [13:21:48, 2010-12-18](http://twitter.com/gfrog/statuses/16000154125467649)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): 最近看到一个芬兰的报道。她是一个职业妓女，刚入行时偶然几次遇到残疾的性服务购买者（俗称嫖客），她发现有些残疾人太苦了，甚至连手都没有，也就无法手淫，于是她立志为残疾人提供性服务。经常会先帮助残疾人洗澡，然后完成性行为，再又把残疾人打理好才能离开... [13:55:46, 2010-12-18](http://twitter.com/gfrog/statuses/16008701819232256)
+
+
+
+
+
+  * [@chinastrong](http://twitter.com/chinastrong) 请不要污蔑垃圾股 XD [in reply to ChinaStrong](http://twitter.com/ChinaStrong/statuses/1.6002212979282E+16) [13:56:18, 2010-12-18](http://twitter.com/gfrog/statuses/16008836519305216)
+
+
+
+
+
+  * 擦，CSDN你还能不能再不靠谱一点？随便点几个连接就出服务器错误。玩不明白.net就别玩。 [14:51:21, 2010-12-18](http://twitter.com/gfrog/statuses/16022690905202688)
+
+
+
+
+
+  * Reshared post from  junru song
+
+
+
+等死模式与穿越模式 - 左岸读书_blog [14:57:22, 2010-12-18](http://twitter.com/gfrog/statuses/16024205384491008)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 16 Dec 2010 - Flickr [http://j.mp/eI1scn](http://j.mp/eI1scn) [15:58:24, 2010-12-18](http://twitter.com/gfrog/statuses/16039562212020224)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 雅虎称可能出售Delicious书签服务 [http://j.mp/eAB3AZ](http://j.mp/eAB3AZ) [16:08:13, 2010-12-18](http://twitter.com/gfrog/statuses/16042031671418880)
+
+
+
+
+
+  * chromium10在我的eeepc上表现很差，tab经常假死。单单这点就让我十分地不看好chromeOS。 [16:33:47, 2010-12-18](http://twitter.com/gfrog/statuses/16048466589384704)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 资源占用多就算了，关键是它要快要稳定。我早就觉得chrome实际上是用空间换时间，如果空间占了一大坨还没换来时间，那就狗屁不是了。 [in reply to fxlt](http://twitter.com/fxlt/statuses/1.6049829255844E+16) [17:14:48, 2010-12-18](http://twitter.com/gfrog/statuses/16058790415695872)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 稳定不稳定跟版本没关系，IE那是不思进取。不停的修改才会不停的发版本。 [in reply to fxlt](http://twitter.com/fxlt/statuses/1.605911873323E+16) [17:18:10, 2010-12-18](http://twitter.com/gfrog/statuses/16059636381655040)
+
+
+
+
+
+  * 我擦，刚看到有人说凤姐办得是旅游签证，又有人说她在米国参加了反diang游行。为什么这个丑女人总能吸引无数人的眼球？ [17:20:25, 2010-12-18](http://twitter.com/gfrog/statuses/16060205259292673)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 版本更新速度和稳定性显然没关系，难道一个版本用很久它会自己成长为稳定版么？ [in reply to fxlt](http://twitter.com/fxlt/statuses/1.606025350638E+16) [17:22:31, 2010-12-18](http://twitter.com/gfrog/statuses/16060732193898496)
+
+
+
+
+
+  * 说版本更新的快就不稳定，这也就是某些无能开发人员自己给自己找的接口罢。 [17:23:32, 2010-12-18](http://twitter.com/gfrog/statuses/16060985731190784)
+
+
+
+
+
+  * 恩，表扬一下linode的客服，处理ticket的速度很快啊。 也可能是因为现在美国人民都在睡觉，所以ticket不多。 [19:41:49, 2010-12-18](http://twitter.com/gfrog/statuses/16095786630643713)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): 旅行者号33年飞行177亿公里接近太阳系边缘 旅程回眸http://is.gd/iXaD1 [20:55:46, 2010-12-18](http://twitter.com/gfrog/statuses/16114398863040512)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 新拍的一些片 发现“东方久顺”卖假卷 (豆瓣 胶片旁轴同学会小组) [http://j.mp/goI3nX](http://j.mp/goI3nX) [21:50:59, 2010-12-18](http://twitter.com/gfrog/statuses/16128293526839296)
+
+
+
+
+
+  * 我擦，那还有的看么。。。 RT [@hidigi](http://twitter.com/hidigi): 天，Name.com 也 GoDaddy.com 首页化了！ [21:56:07, 2010-12-18](http://twitter.com/gfrog/statuses/16129584240009217)
+
+
+
+
+
+  * godaddy总要在首页上放个妞，这点很奇怪，妞跟卖域名有一毛钱关系么？ [21:57:04, 2010-12-18](http://twitter.com/gfrog/statuses/16129822623268865)
+
+
+
+
+
+  * 我擦，机锋被干掉了？一访问就是需要备案的界面。 [22:24:02, 2010-12-18](http://twitter.com/gfrog/statuses/16136609091026944)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 旅行者号33年飞行177亿公里接近太阳系边缘 旅程回眸 [http://j.mp/hhybAx](http://j.mp/hhybAx) [22:46:12, 2010-12-18](http://twitter.com/gfrog/statuses/16142187490185217)
+
+
+
+
+
+  * 似乎这次的优惠嘛不是太给力啊。 RT [@hmsea](http://twitter.com/hmsea): Godaddy .org 续费优惠码 SCAM14  -->7.49美元+0.18税 [22:54:56, 2010-12-18](http://twitter.com/gfrog/statuses/16144386236620800)
+
+
+
+
+
+  * 把凤姐挂上去会是怎么一个下场 XD RT [@raptorz](http://twitter.com/raptorz): 关键是那妞很少有好看的，但是居然还生意不错，真是奇怪啊 RT [@gfrog](http://twitter.com/gfrog): godaddy总要在首页上放个妞，这点很奇怪 [22:55:43, 2010-12-18](http://twitter.com/gfrog/statuses/16144582630711296)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 之前有一个1刀多的续费码来着，所以我说这个不是特别给力。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/1.6145263785673E+16) [23:00:31, 2010-12-18](http://twitter.com/gfrog/statuses/16145793106841602)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 用其他方式一样要用信用卡付款呀，godaddy这种规模的公司不至于泄露信用卡信息吧。 [in reply to raptorz](http://twitter.com/raptorz/statuses/1.61467839063E+16) [23:08:12, 2010-12-18](http://twitter.com/gfrog/statuses/16147723912744960)
+
+
+
+
+
+  * [@hmsea](http://twitter.com/hmsea) 貌似那次找到一个5块多的，忘记是啥了，囧。 [in reply to hmsea](http://twitter.com/hmsea/statuses/1.6146745075433E+16) [23:08:57, 2010-12-18](http://twitter.com/gfrog/statuses/16147914225098752)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 话说今天围观了一个空姐的唯美片子，一开始有张空姐的面部特写，那脸，吓死人呦。 [in reply to raptorz](http://twitter.com/raptorz/statuses/1.614702880752E+16) [23:10:16, 2010-12-18](http://twitter.com/gfrog/statuses/16148247382859776)
+
+
+
+
+
+  * 擦，2.2的app2sd也太不给力了，一插到电脑上就重启，2.1自己diy的app2sd都没有这么烂。 [23:12:12, 2010-12-18](http://twitter.com/gfrog/statuses/16148733242646528)
+
+
+
+
+
+  * RT [@Houge_Langley](http://twitter.com/Houge_Langley): 很明显嘛，兄弟不倒带怎么能顺序播放呢…… ♺ [@gh05tw01f](http://twitter.com/gh05tw01f): 为啥我每次开豆瓣电台第一首歌都是蔡依林的“倒带”…… [23:16:07, 2010-12-18](http://twitter.com/gfrog/statuses/16149718992166912)
+
+
+
+

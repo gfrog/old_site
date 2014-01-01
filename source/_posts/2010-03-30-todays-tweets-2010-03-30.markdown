@@ -1,0 +1,308 @@
+---
+comments: true
+date: 2010-03-30 01:00:00
+layout: post
+slug: todays-tweets-2010-03-30
+title: Today's tweets 2010-03-30
+wordpress_id: 559
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@hanmo93](http://twitter.com/hanmo93): 肯德基说去年我们有了油条，今年我们有了豆浆。明年我们将会打败永和，成为北京著名早点摊… [07:58:47, 2010-03-30](http://twitter.com/gfrog/statuses/11277897914)
+
+
+
+
+
+  * RT [@laogao](http://twitter.com/laogao): RT [@marchliu](http://twitter.com/marchliu) RT [@quakelee](http://twitter.com/quakelee): RT [@gslin](http://twitter.com/gslin): [http://www.openssl.org/](http://www.openssl.org/) # OpenSSL 1.0.0 釋出！ //终于1.0，真是内牛满面啊 T^T这是一个值得纪念的日子 [08:09:55, 2010-03-30](http://twitter.com/gfrog/statuses/11278464841)
+
+
+
+
+
+  * 总结破解无线网密码的方法(附破解无线网密码工具下载) [http://j.mp/aTqpId](http://j.mp/aTqpId) [09:06:25, 2010-03-30](http://twitter.com/gfrog/statuses/11281370289)
+
+
+
+
+
+  * 丫的不给开skype也就算了，搞一个破局域网聊天工具来对付我们，还搞得没有linux版本。这不玩呢么。搞SIP搞了这么久，自己做个SIP服务器都做不起来么？ [09:19:25, 2010-03-30](http://twitter.com/gfrog/statuses/11282030505)
+
+
+
+
+
+  * RT [@nipao](http://twitter.com/nipao):
+		 利用.htaccess设置图片防盗链 [http://goo.gl/3hmh](http://goo.gl/3hmh) [09:26:05, 2010-03-30](http://twitter.com/gfrog/statuses/11282367665)
+
+
+
+
+
+  * OMG，truecrypt竟然打不开了，杯具。 [09:27:16, 2010-03-30](http://twitter.com/gfrog/statuses/11282426726)
+
+
+
+
+
+  * 这倒是，其实工具都差不多，windows版的限制反倒更多。 RT [@beasthang](http://twitter.com/beasthang): linux下破更方便，还少有网卡驱动限制。RT [@gfrog](http://twitter.com/gfrog): 总结破解无线网密码的方法(附破解无线网密码工具下载) [http://j.mp/aTqpId](http://j.mp/aTqpId) [09:33:15, 2010-03-30](http://twitter.com/gfrog/statuses/11282735131)
+
+
+
+
+
+  * 使用 Crash 工具分析 Linux dump 文件 [http://j.mp/cOorLG](http://j.mp/cOorLG) [09:36:54, 2010-03-30](http://twitter.com/gfrog/statuses/11282921621)
+
+
+
+
+
+  * 都是#pragma惹的祸，哈哈。 RT [@googollee](http://twitter.com/googollee): 当gcc 1.17遇到未定义的c++代码，会按顺序尝试启动游戏NetHack，Rogue，emacs里的汉诺塔。启动都失败后会打印一条错误信息。 [http://www.feross.org/gcc-ownage/](http://www.feross.org/gcc-ownage/) [09:41:58, 2010-03-30](http://twitter.com/gfrog/statuses/11283177133)
+
+
+
+
+
+  * RT [@terryxxy](http://twitter.com/terryxxy): DPReview发布了Sony的70-200镜头测评，至此基本所有的720镜头都有个分数了，佳能爱死小白 85，尼康一代83.5，二代85，索尼84,适马83,腾龙82。从分数上看，虽然爱死小白兔没有，但应该超过85成为最高分，但价格，各位自己考虑了 [in reply to terryxxy](http://twitter.com/terryxxy/statuses/11286350036) [10:50:33, 2010-03-30](http://twitter.com/gfrog/statuses/11286505201)
+
+
+
+
+
+  * [@terryxxy](http://twitter.com/terryxxy) 额，奇怪，怎么会带thread了捏。。。 [in reply to terryxxy](http://twitter.com/terryxxy/statuses/11286530846) [10:52:55, 2010-03-30](http://twitter.com/gfrog/statuses/11286613905)
+
+
+
+
+
+  * [@terryxxy](http://twitter.com/terryxxy) RT的时候没见到过带thread，这次难道是灵异了，哈哈。 [in reply to terryxxy](http://twitter.com/terryxxy/statuses/11286865116) [11:03:07, 2010-03-30](http://twitter.com/gfrog/statuses/11287093640)
+
+
+
+
+
+  * 讲一下最近在京东买东西的经历，大家参考 [http://j.mp/9QcIya](http://j.mp/9QcIya) [11:06:49, 2010-03-30](http://twitter.com/gfrog/statuses/11287268458)
+
+
+
+
+
+  * shell 脚本里锁文件的办法 [http://j.mp/bnenj8](http://j.mp/bnenj8) [13:17:49, 2010-03-30](http://twitter.com/gfrog/statuses/11292770897)
+
+
+
+
+
+  * 项目组总结大会，又是一下午。 [13:36:24, 2010-03-30](http://twitter.com/gfrog/statuses/11293422697)
+
+
+
+
+
+  * [@imCYL](http://twitter.com/imCYL) 显卡定了就没法改了，内存可以升级，cpu型号上的小差别带来的性能差距有限，而且也可以升级。 [in reply to imCYL](http://twitter.com/imCYL/statuses/11293432224) [13:40:55, 2010-03-30](http://twitter.com/gfrog/statuses/11293573040)
+
+
+
+
+
+  * 靠，原来是这样。回去干掉cnnic去。　RT [@iresetall](http://twitter.com/iresetall): 终于把cnnic给移除了..google https 立刻正常! [13:45:04, 2010-03-30](http://twitter.com/gfrog/statuses/11293709176)
+
+
+
+
+
+  * Milestone港行有啥特殊么，为什么买手机那小姑娘一个劲强调是港行。 [14:33:04, 2010-03-30](http://twitter.com/gfrog/statuses/11295231703)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) 但是只是德国版有差别吧，美国版还是正常键位啊。 [in reply to petefang](http://twitter.com/petefang/statuses/11295324636) [14:42:41, 2010-03-30](http://twitter.com/gfrog/statuses/11295513991)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) 哦，是这样。。。 [in reply to petefang](http://twitter.com/petefang/statuses/11295595424) [14:49:27, 2010-03-30](http://twitter.com/gfrog/statuses/11295707550)
+
+
+
+
+
+  * 还有这业务？哪里的联通？ RT [@imtao](http://twitter.com/imtao): [@Simon2048](http://twitter.com/Simon2048) 办了正式的照样可以领取体验卡，比如你这个月流量不够领取一张，拿着身份证领就行 [14:55:11, 2010-03-30](http://twitter.com/gfrog/statuses/11295872322)
+
+
+
+
+
+  * RT [@virushuo](http://twitter.com/virushuo) 用twitter还不注意安全，不如不用。既然想玩，就别怕麻烦，去找可信任的第三方，或是找可信任的ssh/vps/vpn。不然真的不要用了，这句话尤其送给喜欢rt政治和关心政治的推友们。你们现在会觉得我很烦，将来吃亏的时候别后悔就行了。 [15:01:44, 2010-03-30](http://twitter.com/gfrog/statuses/11296064102)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): 恍惚回到了西直门地铁换乘口 RT [@duck_1984](http://twitter.com/duck_1984): [http://img.ly/KPD](http://img.ly/KPD) SB会中国馆的安检隔离栏… [15:11:49, 2010-03-30](http://twitter.com/gfrog/statuses/11296351120)
+
+
+
+
+
+  * [@imtao](http://twitter.com/imtao) 哦，各地联通营业厅都可以办么？ [in reply to imtao](http://twitter.com/imtao/statuses/11295968972) [15:16:44, 2010-03-30](http://twitter.com/gfrog/statuses/11296489329)
+
+
+
+
+
+  * 唉，开会开的睡倒一片，怎么会搞出这么官僚的会议。 [15:39:55, 2010-03-30](http://twitter.com/gfrog/statuses/11297128896)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 我在的是传说中的上市公司耶，怎么搞的像国企。。。 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/11297162479) [15:48:18, 2010-03-30](http://twitter.com/gfrog/statuses/11297349900)
+
+
+
+
+
+  * RT [@kehao](http://twitter.com/kehao): RT [@slqqqq](http://twitter.com/slqqqq): 【抢劫醒目】最近开始出现一种新的入室抢劫方法，坏人会使劲敲门，你打开一个门缝他就会把一个东西扔进你家，然后闯进来，关上门，开始抢劫。有人敲门一定要看清楚了再开门！！！！ [15:49:27, 2010-03-30](http://twitter.com/gfrog/statuses/11297379638)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 也可以宅在家玩器材嘛。 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/11297387235) [15:53:33, 2010-03-30](http://twitter.com/gfrog/statuses/11297486953)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 啧啧，不靠谱的公司啊。 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/11297408259) [15:54:32, 2010-03-30](http://twitter.com/gfrog/statuses/11297512353)
+
+
+
+
+
+  * [@imtao](http://twitter.com/imtao) 哦，那这周去划拉一张。哈哈。 [in reply to imtao](http://twitter.com/imtao/statuses/11296587782) [15:55:35, 2010-03-30](http://twitter.com/gfrog/statuses/11297539703)
+
+
+
+
+
+  * 为什么大波上最近这么多空推捏。 [15:56:22, 2010-03-30](http://twitter.com/gfrog/statuses/11297559428)
+
+
+
+
+
+  * [@imtao](http://twitter.com/imtao) 非常有必要搞个功能强大的手机打发这种会议。 [in reply to imtao](http://twitter.com/imtao/statuses/11297245911) [15:58:02, 2010-03-30](http://twitter.com/gfrog/statuses/11297602357)
+
+
+
+
+
+  * 最近这么多出G1的，有什么情况？ [16:15:14, 2010-03-30](http://twitter.com/gfrog/statuses/11298062683)
+
+
+
+
+
+  * [@cooku](http://twitter.com/cooku) 噗，笑喷。 [in reply to cooku](http://twitter.com/cooku/statuses/11298145652) [16:19:57, 2010-03-30](http://twitter.com/gfrog/statuses/11298184337)
+
+
+
+
+
+  * [@imtao](http://twitter.com/imtao) 额，今天下午没有推还真不知道怎么过，哈哈。 [in reply to imtao](http://twitter.com/imtao/statuses/11297728919) [16:21:47, 2010-03-30](http://twitter.com/gfrog/statuses/11298233379)
+
+
+
+
+
+  * 应该设置自动开机功能，哈哈。　RT [@pipitu](http://twitter.com/pipitu): 为毛android关机后闹钟就不能响了啊为毛，我恨你！ [16:22:58, 2010-03-30](http://twitter.com/gfrog/statuses/11298263638)
+
+
+
+
+
+  * 被一些不靠谱的缩写打败了，UG这个词我想了半天，终于想到它是user guide [16:26:07, 2010-03-30](http://twitter.com/gfrog/statuses/11298343280)
+
+
+
+
+
+  * 甘心被打，造福人类，这是怎样的精神。　RT [@wubuntust](http://twitter.com/wubuntust): 我去当怪兽♻ [@Ctipar](http://twitter.com/Ctipar): 奥特曼，你是我的偶像RT [@Thinkqob](http://twitter.com/Thinkqob) 走好RT [@rickwwld](http://twitter.com/rickwwld): 我要去拯救世界。再会了，推友们。 [16:27:15, 2010-03-30](http://twitter.com/gfrog/statuses/11298372546)
+
+
+
+
+
+  * 晚上回去搞kdump，这东东看起来很好玩。 [16:44:59, 2010-03-30](http://twitter.com/gfrog/statuses/11298825730)
+
+
+
+
+
+  * 俺当年的西门子可以，现在在黑莓上，就要设置自动开机了。 [16:51:49, 2010-03-30](http://twitter.com/gfrog/statuses/11299002951)
+
+
+
+
+
+  * RT [@livid](http://twitter.com/livid): 大家推荐我一款最好的 SQLite 管理软件吧，平台不限，收费的也可以。 [16:56:59, 2010-03-30](http://twitter.com/gfrog/statuses/11299133040)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 晚上会被骚扰的，而且关机可以省电，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/11299112188) [16:58:09, 2010-03-30](http://twitter.com/gfrog/statuses/11299162382)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): RT [@cissysong](http://twitter.com/cissysong): RT [@iakula](http://twitter.com/iakula): 大连确认，就算什么都不搜也会重置 RT: [@aHexie](http://twitter.com/aHexie): 北京联通也被封。--->RT [@terryxxy](http://twitter.com/terryxxy): 很好，基本确认Google搜索被封 [#GoogleCN](http://search.twitter.com/search?q=%23GoogleCN) [17:19:00, 2010-03-30](http://twitter.com/gfrog/statuses/11299708783)
+
+
+
+
+
+  * 好吧，google真的被封了，我决定买vps。 [21:08:32, 2010-03-30](http://twitter.com/gfrog/statuses/11306895738)
+
+
+
+
+
+  * 太有想法了。　RT [@iresetall](http://twitter.com/iresetall): RT [@imom0](http://twitter.com/imom0): RT [@weigege1980](http://twitter.com/weigege1980): 自google被河蟹后，鄙视所有党员，坚决不和党员做爱。 [21:09:34, 2010-03-30](http://twitter.com/gfrog/statuses/11306937094)
+
+
+
+
+
+  * RT [@KrzyCube](http://twitter.com/KrzyCube): RT [@zellux](http://twitter.com/zellux): 这边有一堆vim的学习录像 [http://vimcasts.org/episodes/archive](http://vimcasts.org/episodes/archive) [22:38:47, 2010-03-30](http://twitter.com/gfrog/statuses/11311006131)
+
+
+
+
+
+  * RT [@lookon](http://twitter.com/lookon):
+		 Android版本QQ官方下载地址 APK文件 [http://dl_dir.qq.com/qqfile/web/QQ.apk](http://dl_dir.qq.com/qqfile/web/QQ.apk) [22:44:53, 2010-03-30](http://twitter.com/gfrog/statuses/11311302764)
+
+
+
+
+
+  * RT [@Missiu](http://twitter.com/Missiu): 房价上涨带来一个最直接的变化就是：我同学买彩票都开始一个号码买两注了！因为如果只买一注的话，即使中了5百万也就是够买套房子，想提前退休门儿都没有！ [23:09:43, 2010-03-30](http://twitter.com/gfrog/statuses/11312541926)
+
+
+
+

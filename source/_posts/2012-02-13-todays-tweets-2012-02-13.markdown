@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2012-02-13 01:00:00
+layout: post
+slug: todays-tweets-2012-02-13
+title: Today's tweets 2012-02-13
+wordpress_id: 2109
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 我擦，yahoo pipe这个东东完全用不明白啊，本来还想偷懒用这玩意抓一下水木的帖子，结果做起来比自己写代码都费劲。码农终究还要去自己写代码解决问题嘛？ [00:31:46, 2012-02-13](http://twitter.com/gfrog/statuses/168734047944716289)
+
+
+
+
+
+  * Cloud 101: What the heck do IaaS, PaaS and SaaS companies do? | VentureBeat: [http://t.co/m3mLcHxr](http://t.co/m3mLcHxr) via [@AddThis](http://twitter.com/AddThis) [00:45:56, 2012-02-13](http://twitter.com/gfrog/statuses/168737612390072320)
+
+
+
+
+
+  * 今天肺部很不舒服，而且还干咳，这是肿么了。。。 [10:13:28, 2012-02-13](http://twitter.com/gfrog/statuses/168880438281109504)
+
+
+
+
+
+  * RT [@wangpei](http://twitter.com/wangpei): 民国旅游书《怎样的游西湖》，介绍了一个吃饭防挨宰的办法。因为景区一到节日，游客甚多，饭店虽不明涨价，但会减少菜量，以赚昧心钱。此时有一个办法，点菜就都点整只整个的，就不会被当成“王瓜儿”（冤大头）了。比如，不要点龙井虾仁，而点西湖醋鱼，鱼是整条上 ... [10:25:25, 2012-02-13](http://twitter.com/gfrog/statuses/168883442371665922)
+
+
+
+
+
+  * RT [@hanmo93](http://twitter.com/hanmo93): 话说早晨上班时看到一辆改装的三轮车，与其它改装不同的是，它还可以倒车，且播放着「倒车请注意」... [10:59:47, 2012-02-13](http://twitter.com/gfrog/statuses/168892092519686145)
+
+
+
+
+
+  * RT [@zishuo](http://twitter.com/zishuo): 其实，2月14号是愚人节，4月1号才是情人节。2月14号多少人在用甜言蜜语骗着别人。4月1号又有多少男女以开玩笑为借口说出了真心话。（@糗事百科 ） [10:59:50, 2012-02-13](http://twitter.com/gfrog/statuses/168892105836609536)
+
+
+
+
+
+  * 蛋疼的做配置迁移中，头大如斗。 [11:25:38, 2012-02-13](http://twitter.com/gfrog/statuses/168898596631089153)
+
+
+
+
+
+  * 尼玛请贫困学生吃猪肉，这算是哪门子公益活动？ 一顿肉能顶神马用。。。 [http://t.co/dmhwd7KU](http://t.co/dmhwd7KU) [12:31:16, 2012-02-13](http://twitter.com/gfrog/statuses/168915116467830785)
+
+
+
+
+
+  * Linux下也可以的，lol 这也是我一直对交行印象还不错的原因。 RT [@Noir__](http://twitter.com/Noir__): 卧槽 交通银行网银能在chrome上完成付款！ [15:19:16, 2012-02-13](http://twitter.com/gfrog/statuses/168957394691432448)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 这是官方报价嘛，真正的合同价要低不少。要不你找销售唠唠？ 看看有没有内部价？ 哈哈 [in reply to gnudog](http://twitter.com/gnudog/statuses/168968171863289856) [16:32:00, 2012-02-13](http://twitter.com/gfrog/statuses/168975698743132160)
+
+
+
+

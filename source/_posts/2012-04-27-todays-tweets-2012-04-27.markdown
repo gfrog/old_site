@@ -1,0 +1,97 @@
+---
+comments: true
+date: 2012-04-27 23:59:00
+layout: post
+slug: todays-tweets-2012-04-27
+title: Today's tweets 2012-04-27
+wordpress_id: 2520
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:21, 2012-04-27](http://twitter.com/gfrog/statuses/195678736836857856)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 矮油，妹纸你伤到膝盖了，赶紧停止运动去医院检查。这事很严重啊。 [in reply to htgyj](http://twitter.com/htgyj/statuses/195696039116800000) [10:16:20, 2012-04-27](http://twitter.com/gfrog/statuses/195697859373441025)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 停车休息，避免爬楼梯。迅速去医院检查。 [in reply to htgyj](http://twitter.com/htgyj/statuses/195699392265715712) [13:19:58, 2012-04-27](http://twitter.com/gfrog/statuses/195744073238319105)
+
+
+
+
+
+  * 我了个去，邮件服务器挂了，杯了个具。 [13:29:53, 2012-04-27](http://twitter.com/gfrog/statuses/195746570589847552)
+
+
+
+
+
+  * 矮油，恭喜！ RT [@yoyicue](http://twitter.com/yoyicue): 过了临界点 个人所得税翻番了 :( [13:44:41, 2012-04-27](http://twitter.com/gfrog/statuses/195750294288728064)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 涨了就该恭喜，哈哈。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/195752356879675392) [14:01:52, 2012-04-27](http://twitter.com/gfrog/statuses/195754617433366528)
+
+
+
+
+
+  * $ cat /etc/issue
+Ubuntu 12.04 LTS n l [15:07:13, 2012-04-27](http://twitter.com/gfrog/statuses/195771064888987649)
+
+
+
+
+
+  * google drive收费空间涨价了，但是俺之前买了5刀20G/y的计划，看google的政策似乎我还可以继续5刀20G/y耶。 [15:38:22, 2012-04-27](http://twitter.com/gfrog/statuses/195778904139644929)
+
+
+
+
+
+  * +1 RT [@linuxtty](http://twitter.com/linuxtty): 健怡实在是难喝 [17:04:56, 2012-04-27](http://twitter.com/gfrog/statuses/195800689010675713)
+
+
+
+
+
+  * 更新到12.04之后的唯一一个好处是nvidia的官方驱动可以无痛安装上了，之前折腾的要死，还不一定成功。而且这货装上之后显示速度果然快了很多。 [18:06:11, 2012-04-27](http://twitter.com/gfrog/statuses/195816101018484736)
+
+
+
+
+
+  * 不过GNOME的程序在傲娇神马？ 为神马字体都变得这么大。。。 [18:06:55, 2012-04-27](http://twitter.com/gfrog/statuses/195816285953728512)
+
+
+
+
+
+  * RT [@cSarita](http://twitter.com/cSarita): 说起来早上进教学楼的时候,面前2只猫在交配,看到我上面的猫就下来了.我就说:"不要在意我,你们继续."结果真的继续做了啊！！！=口= [19:29:56, 2012-04-27](http://twitter.com/gfrog/statuses/195837177043755008)
+
+
+
+
+
+  * 矮油，小本子也要升级12.04才对，但是还要避免那个键盘鼠标认不出来的杯具。 [22:51:36, 2012-04-27](http://twitter.com/gfrog/statuses/195887930408046594)
+
+
+
+

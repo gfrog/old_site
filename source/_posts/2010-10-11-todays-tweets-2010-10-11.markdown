@@ -1,0 +1,72 @@
+---
+comments: true
+date: 2010-10-11 01:00:00
+layout: post
+slug: todays-tweets-2010-10-11
+title: Today's tweets 2010-10-11
+wordpress_id: 1004
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@Ivymichael](http://twitter.com/Ivymichael): 短信中女性的认真程度就是行数 × 表情文字 ÷ 回信时间 × 100 的出来的 from 自恋刑警 [10:30:48, 2010-10-11](http://twitter.com/gfrog/statuses/26994414742)
+
+
+
+
+
+  * 沈阳人民泪奔，总不能给同事带中街大果回来吧。。 RT [@niubro](http://twitter.com/niubro): 今天同事都回来上班了，带回来的东西有牛肉干，雅安猕猴桃 ，我带的是哈尔滨红肠 [10:32:36, 2010-10-11](http://twitter.com/gfrog/statuses/26994563912)
+
+
+
+
+
+  * I'm at Redhat＠融科资讯 (海淀区中关村科学院南路2号 融科资讯中心C座北楼, 北京市). [http://4sq.com/9MPIR0](http://4sq.com/9MPIR0) [10:34:40, 2010-10-11](http://twitter.com/gfrog/statuses/26994731932)
+
+
+
+
+
+  * [@onedow](http://twitter.com/onedow) 哦，对了，忘了这个了。那下次搞一批不老林回来。 [in reply to onedow](http://twitter.com/onedow/statuses/26995214083) [10:58:08, 2010-10-11](http://twitter.com/gfrog/statuses/26996692648)
+
+
+
+
+
+  * [@lnsoso](http://twitter.com/lnsoso) 熏肉大饼？ 李连贵么，这个也不错。 [in reply to lnsoso](http://twitter.com/lnsoso/statuses/26999958824) [12:47:36, 2010-10-11](http://twitter.com/gfrog/statuses/27004685197)
+
+
+
+
+
+  * 竟然fcitx了，膜拜。RT [@wubuntust](http://twitter.com/wubuntust): 哇哈哈，fcitx和mldonkey都如此给力！ [18:25:05, 2010-10-11](http://twitter.com/gfrog/statuses/27021406353)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) ubuntu里输入法基本都不用配置啊，fcitx不是bug一大堆么。。。 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/27021437681) [18:26:23, 2010-10-11](http://twitter.com/gfrog/statuses/27021473245)
+
+
+
+
+
+  * RT [@hotoo](http://twitter.com/hotoo): [http://hotoo.github.com/blog/vimmer-contact.html](http://hotoo.github.com/blog/vimmer-contact.html) [#Vim](http://search.twitter.com/search?q=%23Vim) 爱好者联系资料收集，欢迎 Vim 爱好者参与。 [18:36:29, 2010-10-11](http://twitter.com/gfrog/statuses/27021985055)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 恩，反正能用就成，我就是被bug一步步逼到ibus-sunpinyin上来的。 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/27021550726) [18:37:26, 2010-10-11](http://twitter.com/gfrog/statuses/27022032208)
+
+
+
+

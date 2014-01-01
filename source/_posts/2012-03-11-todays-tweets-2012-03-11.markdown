@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2012-03-11 01:00:00
+layout: post
+slug: todays-tweets-2012-03-11
+title: Today's tweets 2012-03-11
+wordpress_id: 2317
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@upsuperx](http://twitter.com/upsuperx): “@ppcelery: #箴言 RT [@singinrain](http://twitter.com/singinrain): RT [@bearice](http://twitter.com/bearice): 刚才被姑姑说你不要再做程序员这种低科技吃青春饭的工种了（” [16:40:29, 2012-03-11](http://twitter.com/gfrog/statuses/178762307030102016)
+
+
+
+

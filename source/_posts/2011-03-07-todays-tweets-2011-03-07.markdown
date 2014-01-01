@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2011-03-07 01:00:00
+layout: post
+slug: todays-tweets-2011-03-07
+title: Today's tweets 2011-03-07
+wordpress_id: 1680
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@WOHOM](http://twitter.com/WOHOM) 应该是blogbus没提供接口，国内服务普遍不开放，开个api似乎都怕被人利用。 [in reply to WOHOM](http://twitter.com/WOHOM/statuses/44589472372895744) [10:50:27, 2011-03-07](http://twitter.com/gfrog/statuses/44590707276644352)
+
+
+
+

@@ -1,0 +1,114 @@
+---
+comments: true
+date: 2011-05-31 01:00:00
+layout: post
+slug: todays-tweets-2011-05-31
+title: Today's tweets 2011-05-31
+wordpress_id: 1730
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 啊，好丢人，交bug交重复了。当然，gc是，跟自己之前提交的重复。我说我怎么记得这个bug眼熟。 [09:51:46, 2011-05-31](http://twitter.com/gfrog/statuses/75378905300742144)
+
+
+
+
+
+  * RT [@dlb2825](http://twitter.com/dlb2825): RT [@bezdommy](http://twitter.com/bezdommy): @刘润: 你一定不敢相信，眼前这3平方公里，是中国唯一特批的，高墙内数据中心与国内互联网物理隔离，不经防火长城（GFW）直接光缆连接国际互联网，是中国唯一的云特区。重庆是块神奇的土地。http://is.gd/quDcbS [12:15:55, 2011-05-31](http://twitter.com/gfrog/statuses/75415183878664192)
+
+
+
+
+
+  * 医用酒精不是75%嘛？买回来还要再堆水？ RT [@pityonline](http://twitter.com/pityonline): 药店里的 95% 医用酒精 7 块钱一瓶，比二锅头便宜呀…… [13:08:29, 2011-05-31](http://twitter.com/gfrog/statuses/75428412197572609)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 原来医用酒精也勾兑。 [in reply to pityonline](http://twitter.com/pityonline/statuses/75428673687261184) [13:10:25, 2011-05-31](http://twitter.com/gfrog/statuses/75428899126919168)
+
+
+
+
+
+  * 木有水木上的日子，真不爽。 [15:18:02, 2011-05-31](http://twitter.com/gfrog/statuses/75461012425424896)
+
+
+
+
+
+  * RT [@ouland](http://twitter.com/ouland): RT [@WSongw](http://twitter.com/WSongw): 女生常说：“男人没有一个是好东西。” 所以当一个女生对你说：“你是个好人”时，你基本上就死了，因为你在她心目中已经正式退出了男人的行列，从而失去了进一步发展的可能。只有当一个女生对你说：“你这个死鬼”时，你才真是个好人。。。 [15:18:14, 2011-05-31](http://twitter.com/gfrog/statuses/75461066380943360)
+
+
+
+
+
+  * 说明你够靠谱。 RT [@FuYun14](http://twitter.com/FuYun14): 呃。。。面试三间公司，得到两间offer，一间二次面试。。100%回复率。。。有木有夸张了点啊。。。 [17:22:19, 2011-05-31](http://twitter.com/gfrog/statuses/75492290264698880)
+
+
+
+
+
+  * RT [@news163](http://twitter.com/news163): 公告：因本账号两位持有人相继从网易离职，故news163永久停止使用。如有网易现职员工愿意接收，请DM [@bonnae](http://twitter.com/bonnae)。goodbye [22:36:12, 2011-05-31](http://twitter.com/gfrog/statuses/75571284473421825)
+
+
+
+
+
+  * 话说，自建api的话一定要带ssl，没有ssl的话很容易被干掉的。 [22:38:36, 2011-05-31](http://twitter.com/gfrog/statuses/75571887064883200)
+
+
+
+
+
+  * 显然，要不找相机对屏幕拍。 RT [@luogl](http://twitter.com/luogl): Android怎么截图！不要告诉我又要安软件！ [22:56:51, 2011-05-31](http://twitter.com/gfrog/statuses/75576478271668224)
+
+
+
+
+
+  * RT [@guao](http://twitter.com/guao): 谷安更新: 华硕 Memo 上手，世界首款 7 英寸 Honeycomb 平板 [http://guao.cc/5vR](http://guao.cc/5vR) by [@wode0835](http://twitter.com/wode0835) [22:57:20, 2011-05-31](http://twitter.com/gfrog/statuses/75576601135431680)
+
+
+
+
+
+  * 球真相。 RT [@kcome](http://twitter.com/kcome): RT [@bao3](http://twitter.com/bao3): 对面的女孩子居然真空。。。。 [23:08:54, 2011-05-31](http://twitter.com/gfrog/statuses/75579510837346304)
+
+
+
+
+
+  * Moto XOOM竟然要5k，一个平板，至于这么贵嘛！ [23:13:22, 2011-05-31](http://twitter.com/gfrog/statuses/75580637410635776)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  9 May 2011 - Flickr [http://j.mp/jba1XA](http://j.mp/jba1XA) [23:31:43, 2011-05-31](http://twitter.com/gfrog/statuses/75585253573529600)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  9 May 2011 - Flickr [http://j.mp/jba1XA](http://j.mp/jba1XA) [23:31:43, 2011-05-31](http://twitter.com/gfrog/statuses/75585253602897920)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 10 May 2011 - Flickr [http://j.mp/mca3jl](http://j.mp/mca3jl) [23:31:44, 2011-05-31](http://twitter.com/gfrog/statuses/75585256337584129)
+
+
+
+

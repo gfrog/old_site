@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2012-09-03 00:01:00
+layout: post
+slug: todays-tweets-2012-09-02
+title: Today's tweets 2012-09-02
+wordpress_id: 3377
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 擦，reset掉的系统，带的老版本菜市场app可以正常打开菜市场，结果升级到google play之后就一直提示无连接，这是神马状况…… 挂了全局goagent都不行呢。 [00:52:29, 2012-09-02](http://twitter.com/gfrog/statuses/241941607748861954)
+
+
+
+
+
+  * 再次鄙视自己，准备早起爬解字石，结果睁眼就10点了，擦的，难道今天又要宅在家？ [11:09:09, 2012-09-02](http://twitter.com/gfrog/statuses/242096797168852992)
+
+
+
+
+
+  * RT [@KenWong_](http://twitter.com/KenWong_): 蜘蛛侠才是真正的屌丝，因为，他整天吊着一根丝…… [12:40:53, 2012-09-02](http://twitter.com/gfrog/statuses/242119882622242817)
+
+
+
+
+
+  * 致电快递员，过去自提。 RT [@shilin0127](http://twitter.com/shilin0127): 啊啊啊啊啊 跳跳的猫砂盆今天要到了可是朋友在考试没法拿快递我又把地址和电话写了他的Ｏ(≧口≦)Ｏ ！！！！ [13:18:03, 2012-09-02](http://twitter.com/gfrog/statuses/242129237878902784)
+
+
+
+
+
+  * GAE乃又傲娇了，为毛我update的时候总出错啊总出错。 [13:20:40, 2012-09-02](http://twitter.com/gfrog/statuses/242129894920826880)
+
+
+
+
+
+  * proxychains竟然也core dump，乃们能不能正常点干活啊。。 [13:23:48, 2012-09-02](http://twitter.com/gfrog/statuses/242130683596771328)
+
+
+
+
+
+  * 他来北京那年月4块钱是笔巨款好吧。 RT [@likuku](http://twitter.com/likuku): RT [@xie107](http://twitter.com/xie107): 周其凤激励北大新生：我当年身揣4元钱到北京！呵呵，当年就是你没钱， 上大学也饿不死你。现在你就算拿着4000元上北大，照样饿死街头。 [16:24:38, 2012-09-02](http://twitter.com/gfrog/statuses/242176194693447681)
+
+
+
+

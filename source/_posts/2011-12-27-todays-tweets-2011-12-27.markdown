@@ -1,0 +1,96 @@
+---
+comments: true
+date: 2011-12-27 01:00:00
+layout: post
+slug: todays-tweets-2011-12-27
+title: Today's tweets 2011-12-27
+wordpress_id: 2014
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 真温拿，帮你推。 RT [@luzhaohui](http://twitter.com/luzhaohui): 球：LEICA M6 + LEICA SUMMICRON-M 35 mm f/2 ASPH [#cnc2c](http://search.twitter.com/search?q=%23cnc2c) [#cnphoto](http://search.twitter.com/search?q=%23cnphoto) cc [@iflea](http://twitter.com/iflea) 请 [@raptorz](http://twitter.com/raptorz) [@sdjkx](http://twitter.com/sdjkx) [@gfrog](http://twitter.com/gfrog) [@jyman](http://twitter.com/jyman) 帮推 [01:25:58, 2011-12-27](http://twitter.com/gfrog/statuses/151353069987307520)
+
+
+
+
+
+  * 禁不住台电P81HD的诱惑，定一台去，放床头当书看。 [01:26:35, 2011-12-27](http://twitter.com/gfrog/statuses/151353224723562496)
+
+
+
+
+
+  * [@yongsun](http://twitter.com/yongsun) ibus，发现是打包的问题了，没有标记依赖python-glade2，debian那有个对应的bug。 [in reply to yongsun](http://twitter.com/yongsun/statuses/151486334970757120) [10:43:09, 2011-12-27](http://twitter.com/gfrog/statuses/151493290364112896)
+
+
+
+
+
+  * 又一个补丁被upstream抢先了，郁闷！ [11:15:51, 2011-12-27](http://twitter.com/gfrog/statuses/151501519471116288)
+
+
+
+
+
+  * evernote看起来好贵啊，一个月5刀。。 [13:16:31, 2011-12-27](http://twitter.com/gfrog/statuses/151531883593871360)
+
+
+
+
+
+  * RT [@zellux](http://twitter.com/zellux): 京东商城用户资料完全泄漏 [http://t.co/NFuUrd2e](http://t.co/NFuUrd2e) [15:00:38, 2011-12-27](http://twitter.com/gfrog/statuses/151558088137244674)
+
+
+
+
+
+  * RT [@yoyicue](http://twitter.com/yoyicue): 美团：近日多个网站用户数据泄露，经核实，您的账户信息已泄露，请尽快修改美团网密码，以防账户被盗。【美团网】 [15:00:42, 2011-12-27](http://twitter.com/gfrog/statuses/151558102653730817)
+
+
+
+
+
+  * RT [@jasontj](http://twitter.com/jasontj): 彪悍！RT [@PeraLee](http://twitter.com/PeraLee): 但是室友才是真猛士，当初她背着手在大街上溜达消食，一二货猥琐的把自己勃起的铁杵放到室友手中。室友心狠手辣的握紧JJ，跟牵狗一样把二货牵进了警察局。内天公寓门前的路异常耀眼，成为一道亮丽的风景线~ [16:40:37, 2011-12-27](http://twitter.com/gfrog/statuses/151583247028064256)
+
+
+
+
+
+  * RT [@717amy](http://twitter.com/717amy): IT人也经常读错的词儿，我中枪了好几个啊！！http://t.co/oJ9RMZ90 [17:39:58, 2011-12-27](http://twitter.com/gfrog/statuses/151598185960316928)
+
+
+
+
+
+  * 傍上面试官。 RT [@freesisx](http://twitter.com/freesisx): 简历里放写真照的女孩啊，脑子里都是怎么想的 [17:40:14, 2011-12-27](http://twitter.com/gfrog/statuses/151598251357896704)
+
+
+
+
+
+  * RT [@iuui](http://twitter.com/iuui): 呃，才知道原来163邮箱也糟了啊，去邮箱设置里，找回密码，看看“通过QQ号码”那里，是不是被绑定了一个陌生的号码。。 [17:41:08, 2011-12-27](http://twitter.com/gfrog/statuses/151598479481901056)
+
+
+
+
+
+  * tcp的syslog协议会一直保持一个到server的链接嘛？ 换句话说，难道一条连接发送所有的log？ 被这东东搞的有些头疼，似乎用socket直接写简单些，用SocketServer封装反倒把事情搞复杂了。 [18:02:25, 2011-12-27](http://twitter.com/gfrog/statuses/151603835637477377)
+
+
+
+
+
+  * RT [@gejian747](http://twitter.com/gejian747): 真实故事：美国使馆签证厅内，突爆争吵。中年妇女“为什么拒签？”。签证官“因为你在计生委工作”。中年妇女“计生委工作就不给签吗?”。签证官“你肯定做过强迫人避孕，强迫人节育，强迫人流产的事情，你们严重侵犯人权，美国不欢迎你！”众人愕然。 [23:46:03, 2011-12-27](http://twitter.com/gfrog/statuses/151690310840352768)
+
+
+
+

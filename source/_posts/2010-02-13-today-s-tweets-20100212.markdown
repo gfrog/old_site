@@ -1,0 +1,37 @@
+---
+comments: true
+date: 2010-02-13 00:02:07
+layout: post
+slug: today-s-tweets-20100212
+title: Today's tweets 2010-02-12
+wordpress_id: 463
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+	
+  * _07:15_ RT @sogook: RT @kafeibai RT @老霍 火车会车时的抓拍，这女的太猛了！ [img.ly/u4Q](http://img.ly/u4Q) //RT @hecaitou 早知道春运那么快乐，我改坐火车好了。 (via @zhengyun) [#](http://twitter.com/gfrog/statuses/8982496311)
+
+	
+  * _19:34_ 额，原来今天冬奥会开幕。 [#](http://twitter.com/gfrog/statuses/9004913333)
+
+	
+  * _19:43_ 囧，听一下Google 翻译自动朗读的几段文字：莫装B，装B被lay 劈 [goo.gl/kDnI](http://goo.gl/kDnI) 这个，实在太J2有想象力了 [#](http://twitter.com/gfrog/statuses/9005141001)
+
+	
+  * _19:49_ 弱智 bug：Google Buzz 会快速让你的 Picasa Web Albums 达到使用上限 [goo.gl/AGo8](http://goo.gl/AGo8) [#](http://twitter.com/gfrog/statuses/9005286532)
+
+	
+  * _19:54_ 这是办公电脑么？ 放在办公室不会引起围观？ RT @ppmeme: [img.ly/uk3](http://img.ly/uk3) 我的桌面 请大家 交流下～ (via @GTPAD) #pp [#](http://twitter.com/gfrog/statuses/9005419911)
+
+	
+  * _19:54_ Buzz是个人肉社工的好入口。。。 [goo.gl/rVWi](http://goo.gl/rVWi) [#](http://twitter.com/gfrog/statuses/9005430789)
+
+
+Automatically shipped by [LoudTwitter](http://www.loudtwitter.com)

@@ -1,0 +1,180 @@
+---
+comments: true
+date: 2010-05-11 01:00:00
+layout: post
+slug: todays-tweets-2010-05-11
+title: Today's tweets 2010-05-11
+wordpress_id: 681
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 青年大街文化路以南全部堵车，进城和去浑南的同学注意绕道。 [08:18:57, 2010-05-11](http://twitter.com/gfrog/statuses/13757005398)
+
+
+
+
+
+  * [GR] VRMS: 你使用了多少非自由软件 [http://j.mp/c9LK1U](http://j.mp/c9LK1U) [08:58:17, 2010-05-11](http://twitter.com/gfrog/statuses/13759010430)
+
+
+
+
+
+  * [GR] [个人总结]怎上用term上水木 [http://j.mp/cTPqWI](http://j.mp/cTPqWI) [09:09:54, 2010-05-11](http://twitter.com/gfrog/statuses/13759640709)
+
+
+
+
+
+  * 我经常遇到这种问题。似乎时不时的就会发生一次。 RT [@TalentChris](http://twitter.com/TalentChris) 昨天SHARE的READER，今天全出现了，@lookon reader2twitter出现严重滞后现象。 [09:16:30, 2010-05-11](http://twitter.com/gfrog/statuses/13759985175)
+
+
+
+
+
+  * 同步的时候netstat -a -n -b -p tcp，应该是这么写吧，就可以看到进程对应的连接了。 RT [@hotoo](http://twitter.com/hotoo) 我昨天没有关机，今天还可以继续同步，请问有什么方法可以检测到Dropbox客户端现在是在用什么IP不？Windows XP [09:41:00, 2010-05-11](http://twitter.com/gfrog/statuses/13761243148)
+
+
+
+
+
+  * RT [@OrzGe](http://twitter.com/OrzGe): 我以后肯定先买车后买房，有车可以玩车震，有房的只能等地震… [12:59:50, 2010-05-11](http://twitter.com/gfrog/statuses/13770690585)
+
+
+
+
+
+  * [GR] 大乱斗第三章 89款显卡游戏性能比拼[zz] [http://j.mp/b3WrGC](http://j.mp/b3WrGC) [13:33:26, 2010-05-11](http://twitter.com/gfrog/statuses/13771976655)
+
+
+
+
+
+  * 到底是要说HTC还是摩托捏。 RT [@wubuntust](http://twitter.com/wubuntust) 可那是摩托的RT [@linrihui](http://twitter.com/linrihui): HTC确实很诱惑！早上一朋友拿着摩托旗舰机。系统还是谷歌。那手感很爽！ [14:46:22, 2010-05-11](http://twitter.com/gfrog/statuses/13774385358)
+
+
+
+
+
+  * 忙乱的下午。 [15:49:52, 2010-05-11](http://twitter.com/gfrog/statuses/13776287700)
+
+
+
+
+
+  * 额滴神啊，还是把 [@AVshare](http://twitter.com/AVshare) 扔进list吧，放在timeline里太可怕了。在办公室里显示图片，会惨死的。 [16:22:27, 2010-05-11](http://twitter.com/gfrog/statuses/13777240811)
+
+
+
+
+
+  * 我现在用xmind。freemind太不顺手了。 RT [@freesisx](http://twitter.com/freesisx) 求推荐一款思维导图软件 [16:28:26, 2010-05-11](http://twitter.com/gfrog/statuses/13777412961)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 惠普再爆服务器“质量门” - 这回银行急了 [http://j.mp/cLbLME](http://j.mp/cLbLME) 我十分怀疑这是篇枪文，说cpu都没装牢靠，这也就是国内公司才干的出来罢。 [16:38:43, 2010-05-11](http://twitter.com/gfrog/statuses/13777714845)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 我们应该拍什么？ [http://j.mp/aEOSo4](http://j.mp/aEOSo4) [16:45:46, 2010-05-11](http://twitter.com/gfrog/statuses/13777921952)
+
+
+
+
+
+  * 我这里不但无法使用翻墙软件，还要受公司代理的白名单限制，更加杯具。 RT [@frogin](http://twitter.com/frogin): 如果我辞职,那么辞职只有一个理由,就是公司无法使用任何翻墙软件.我没法忍受. [16:48:21, 2010-05-11](http://twitter.com/gfrog/statuses/13777997365)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 国家地理2010四月精彩壁纸 10P [http://j.mp/93tOyW](http://j.mp/93tOyW) [16:49:39, 2010-05-11](http://twitter.com/gfrog/statuses/13778034650)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) BT雷人的程序语言 [http://j.mp/aG1nmv](http://j.mp/aG1nmv) //试图读懂那段BF代码，未果。 [17:06:13, 2010-05-11](http://twitter.com/gfrog/statuses/13778532592)
+
+
+
+
+
+  * 太杯具了吧。 RT [@tenione](http://twitter.com/tenione) 工作了一个月之后，公司关门了。于是我失业了。。 [19:03:54, 2010-05-11](http://twitter.com/gfrog/statuses/13782333981)
+
+
+
+
+
+  * Orz 马鹿姐。 RT [@cooku](http://twitter.com/cooku) 现在很多孩子对自己的性取向都抱怀疑态度。。小鹿姐姐来为你们指点迷津。。都说，生男生女都一样，所以呢，无论是男男还是男女还是女女，也都一样，喜欢就追吧。。 [19:25:08, 2010-05-11](http://twitter.com/gfrog/statuses/13783124737)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) compad v3240au悲剧后续。。 [http://j.mp/bJ4ahS](http://j.mp/bJ4ahS) //杯具在持续上演着。 [19:31:28, 2010-05-11](http://twitter.com/gfrog/statuses/13783364657)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 谷奥: 最新 Google Apps 绑定 CN 域名的漏洞 [http://j.mp/d7aA2Q](http://j.mp/d7aA2Q) //深层次的技巧，但是现在还有人敢用cn域名么 [19:34:42, 2010-05-11](http://twitter.com/gfrog/statuses/13783490715)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 免费VPN简单实现翻墙 [http://j.mp/c7ByN2](http://j.mp/c7ByN2) [19:36:26, 2010-05-11](http://twitter.com/gfrog/statuses/13783561687)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Bzeek – 将无线网卡变成 WiFi 热点 | 小众软件 > 网络工具 [http://j.mp/cA2rKT](http://j.mp/cA2rKT) [19:38:39, 2010-05-11](http://twitter.com/gfrog/statuses/13783646360)
+
+
+
+
+
+  * 版本差的太多了吧，难道不用重新编译整个系统？ RT [@kDolphin](http://twitter.com/kDolphin) 我如果把libc-2.7.so替换成libc-2.10.1.so会有什么后果？ [19:49:25, 2010-05-11](http://twitter.com/gfrog/statuses/13784075343)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) [汽车世界] 躺下了，睡不着，几点安全忠告 [http://j.mp/afDQV7](http://j.mp/afDQV7) [19:58:00, 2010-05-11](http://twitter.com/gfrog/statuses/13784425143)
+
+
+
+
+
+  * 每天在greader里读完的feed不到订阅的10%，我是彻底的订阅狂。但是怎么样能解决这种信息爆炸的状态呢？ [20:15:18, 2010-05-11](http://twitter.com/gfrog/statuses/13785181918)
+
+
+
+
+
+  * 放到google code上，换到其他地方svn checkout出来，不比dropbox差。 RT [@whentp](http://twitter.com/whentp) 我很想把我的vim配置和插件同步到某个地方，去一个陌生的地方之后可以随时把那个同步下来，就像dropbox一样。 [22:20:41, 2010-05-11](http://twitter.com/gfrog/statuses/13790984119)
+
+
+
+
+
+  * RT [@hotoo](http://twitter.com/hotoo) 希望 Dropbox 的 API 强大到和 Twitter 一样，开放到极致的世界，完全无视独裁者。 [22:21:03, 2010-05-11](http://twitter.com/gfrog/statuses/13791001262)
+
+
+
+

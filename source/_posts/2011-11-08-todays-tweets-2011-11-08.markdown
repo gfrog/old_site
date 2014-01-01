@@ -1,0 +1,142 @@
+---
+comments: true
+date: 2011-11-08 01:00:00
+layout: post
+slug: todays-tweets-2011-11-08
+title: Today's tweets 2011-11-08
+wordpress_id: 1948
+categories:
+- twitter-backup[Twitter备份]
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * I'm at 嘉华大厦 [http://t.co/HwakYnTx](http://t.co/HwakYnTx) [02:09:25, 2011-11-08](http://twitter.com/gfrog/statuses/133607000838905856)
+
+
+
+
+
+  * I'm at 金隅嘉华大厦（上地三街） (上地三街9号) [http://t.co/z2xXrl5M](http://t.co/z2xXrl5M) [02:09:51, 2011-11-08](http://twitter.com/gfrog/statuses/133607109202948096)
+
+
+
+
+
+  * I just ousted Neaton as the mayor of 金隅嘉华 on [@foursquare](http://twitter.com/foursquare)! [http://t.co/BjsLxTZt](http://t.co/BjsLxTZt) [02:10:10, 2011-11-08](http://twitter.com/gfrog/statuses/133607185627353088)
+
+
+
+
+
+  * I'm at 金隅嘉华 [http://t.co/HjWHlvab](http://t.co/HjWHlvab) [02:10:10, 2011-11-08](http://twitter.com/gfrog/statuses/133607185635741696)
+
+
+
+
+
+  * 每天都被五毛党骚扰，他喵的，说那些P话，谁信哪，来点高等级五毛忽悠好伐？！ [09:55:29, 2011-11-08](http://twitter.com/gfrog/statuses/133724290028806144)
+
+
+
+
+
+  * 这几天帝都的空气还不算太差，难道是入冬了空气也变好了？ [10:14:53, 2011-11-08](http://twitter.com/gfrog/statuses/133729170558697472)
+
+
+
+
+
+  * 哎呀呀，早上路遇一辆birdy，可惜颜色不够骚，车主又没擦车，俺完全木有被毒到，哈哈。 [10:36:01, 2011-11-08](http://twitter.com/gfrog/statuses/133734487900176384)
+
+
+
+
+
+  * 今天就立冬了？ [10:37:06, 2011-11-08](http://twitter.com/gfrog/statuses/133734762299924481)
+
+
+
+
+
+  * RT [@iyogeev](http://twitter.com/iyogeev): 帝都生存指南之食材篇——白萝卜 [http://t.co/coToecId](http://t.co/coToecId) 在干燥寒冷的秋冬季节，尤其是在帝都现在的空气质量之下，具有润肺止咳功效的白胖大萝卜确实是价廉物美、赏心悦目，居家旅行求生必备食材啊！ [12:28:51, 2011-11-08](http://twitter.com/gfrog/statuses/133762886022602752)
+
+
+
+
+
+  * RT [@laoyang945](http://twitter.com/laoyang945): 投票站挂出了红底白字的醒目横幅：“珍惜民主权力，投好庄严一票”。于是领了选票在候选人姓名旁果断地画了叉，在下面端端正正地写上了“好庄严”三个字，并圆圆地画了一个圈，郑重地投入了票箱。回来的路上问邻居，“‘好庄严’是谁呀？” [14:30:56, 2011-11-08](http://twitter.com/gfrog/statuses/133793607546183680)
+
+
+
+
+
+  * 要一较长短。 RT [@movingtea1982](http://twitter.com/movingtea1982): 有话对你说 RT [@vbvb](http://twitter.com/vbvb):  我说这位骚年，厕所2个小便池，3个蹲坑。除了我在1号小便池寥寥，其它都没人，你说你非在我旁边的2号寥寥，你说你这是要闹哪样啊？ [16:22:13, 2011-11-08](http://twitter.com/gfrog/statuses/133821611907366913)
+
+
+
+
+
+  * BeautifulSoup真赞，之前用正则拆html要搞半天，还不一定准，这玩意刷刷几行代码就搞的服服贴贴。 [17:46:26, 2011-11-08](http://twitter.com/gfrog/statuses/133842808422412289)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 本来想写个简单点的脚本，就用正则自己拆了，现在要修改下继续加功能，正则就太纠结了。 [in reply to raptorz](http://twitter.com/raptorz/statuses/133846978198122496) [18:49:06, 2011-11-08](http://twitter.com/gfrog/statuses/133858576027484160)
+
+
+
+
+
+  * 果断入吧！ RT [@717amy](http://twitter.com/717amy): 我想买kindel啦 [18:53:32, 2011-11-08](http://twitter.com/gfrog/statuses/133859693096480768)
+
+
+
+
+
+  * RT [@stonehoo](http://twitter.com/stonehoo): 征人一起买kindle啦。大概580元到手价！需要一起买的童鞋请联系 [18:53:53, 2011-11-08](http://twitter.com/gfrog/statuses/133859782116388864)
+
+
+
+
+
+  * 不过我为神马有VPS了还要蛋疼的折腾PaaS的玩意。。。 [19:00:44, 2011-11-08](http://twitter.com/gfrog/statuses/133861506126319617)
+
+
+
+
+
+  * 啊哈，#dotcloud 原来也支持添加依赖包的，用pip直接装就是了。 嗯，麻烦解决，继续爽美汤 [19:03:11, 2011-11-08](http://twitter.com/gfrog/statuses/133862123448184832)
+
+
+
+
+
+  * 哎呀呀，到底是去奥园刷圈还是蹲在办公室码代码呢。。。 [19:11:37, 2011-11-08](http://twitter.com/gfrog/statuses/133864245753430017)
+
+
+
+
+
+  * RT [@ag108lau](http://twitter.com/ag108lau): 【职场绕口令】一些事没人做，一些人没事做。没事的人盯着做事的人议论做事的人做的事，使做事的人做不成事做不好事。于是，老板夸奖没事的人，因为他看到事做不成；于是，老板训诫做事的人，因为他做不成事。 一些没事的人总是滋事生事，一些做事的人总有做不完的事。 [22:52:00, 2011-11-08](http://twitter.com/gfrog/statuses/133919704363450368)
+
+
+
+
+
+  * 京东最近几天快递太不给力啦！ 上次买的电影这都快一周了还没寄到！ [22:59:13, 2011-11-08](http://twitter.com/gfrog/statuses/133921521663086592)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 恩，京东服务能力有限，非要搞神马半价活动，结果服务器崩溃、物流环节崩溃。 [in reply to gnudog](http://twitter.com/gnudog/statuses/133921701409992704) [23:15:09, 2011-11-08](http://twitter.com/gfrog/statuses/133925529219903488)
+
+
+
+

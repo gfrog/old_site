@@ -1,0 +1,150 @@
+---
+comments: true
+date: 2010-10-20 01:00:00
+layout: post
+slug: todays-tweets-2010-10-20
+title: Today's tweets 2010-10-20
+wordpress_id: 1014
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 哈，Fedora14上compiz没法用，但是gnome-shell很给力的跑起来了。不错。 [09:39:08, 2010-10-20](http://twitter.com/gfrog/statuses/27889456721)
+
+
+
+
+
+  * RT [@pipitu](http://twitter.com/pipitu): RT [@zieglar](http://twitter.com/zieglar): 无法退出移动硬盘的时候，关掉QQ就可以了，百试不爽 [09:50:30, 2010-10-20](http://twitter.com/gfrog/statuses/27890351231)
+
+
+
+
+
+  * RT [@wubuntust](http://twitter.com/wubuntust): 想到ysRT [@wx0](http://twitter.com/wx0): 这样说来…我看到美女会想她被多少人骑过…RT [@youthfilm](http://twitter.com/youthfilm): 做爱是不是可以改善女人的面部皮肤呢？看到一些女人粗糙的脸，就在想她们是不是很久没有XXOO了？ [11:05:44, 2010-10-20](http://twitter.com/gfrog/statuses/27896007927)
+
+
+
+
+
+  * 那位台湾大叔的作品吧？确实很有意思，他最近又写新的了么？RT [@sagasw](http://twitter.com/sagasw): 中华相机网上的“床舖底下翻相機"系列很好玩，推荐胶片机爱好者看看 [15:18:09, 2010-10-20](http://twitter.com/gfrog/statuses/27909566077)
+
+
+
+
+
+  * [@icyleaf](http://twitter.com/icyleaf) 刷的什么ROM？ 我的也有重启的现象。我感觉是ROM的问题，也可能是跟某些软件有关。 [in reply to icyleaf](http://twitter.com/icyleaf/statuses/27911805521) [16:12:42, 2010-10-20](http://twitter.com/gfrog/statuses/27911852074)
+
+
+
+
+
+  * [@icyleaf](http://twitter.com/icyleaf) 那大概是因为软件的问题，我感觉那个终极录音就很容易引起重启。 [in reply to icyleaf](http://twitter.com/icyleaf/statuses/27911953153) [16:22:48, 2010-10-20](http://twitter.com/gfrog/statuses/27912288319)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) liveCD+dd+tar 任何系统都通杀。 [in reply to raptorz](http://twitter.com/raptorz/statuses/27913441970) [16:51:46, 2010-10-20](http://twitter.com/gfrog/statuses/27913577483)
+
+
+
+
+
+  * 新版多出来那些就是为了做免费磁盘检查用的 XD RT [@gttnnn](http://twitter.com/gttnnn): ... 我用的是6.1英文版自己修改的，两个加起来才有新版一个的大小（多出来的代码是干什么的=_,=）。 [16:54:23, 2010-10-20](http://twitter.com/gfrog/statuses/27913695182)
+
+
+
+
+
+  * 为啥人家派军舰，我们只派渔政呢，难道主权问题渔政就能搞定？ RT [@dabao2000](http://twitter.com/dabao2000): 据中国渔政局透露，我东海区渔政局渔政202号船与黄渤海区渔政局渔政118号船两艘千吨级公务船，及江苏省渔政总队一艘500吨级公务船，已于10月14日下午出发前往钓鱼岛巡航。 [17:35:27, 2010-10-20](http://twitter.com/gfrog/statuses/27915659756)
+
+
+
+
+
+  * 有勇气有实力光腿的又有几个。 RT [@xiao_su](http://twitter.com/xiao_su): 我不喜欢。RT [@Kathy_Hsu](http://twitter.com/Kathy_Hsu): 男人怎么都喜欢黑丝，光腿流怎么办 [17:43:51, 2010-10-20](http://twitter.com/gfrog/statuses/27916068223)
+
+
+
+
+
+  * [@_](http://twitter.com/_)@ RT [@kyokyo8899](http://twitter.com/kyokyo8899): 黑丝派光腿流都敌不过胸前两大波 RT [@gfrog](http://twitter.com/gfrog): 有勇气有实力光腿的又有几个。 RT [@xiao_su](http://twitter.com/xiao_su): 我不喜欢。RT [@Kathy_Hsu](http://twitter.com/Kathy_Hsu): 男人怎么都喜欢黑丝，光腿流怎么办 [19:15:57, 2010-10-20](http://twitter.com/gfrog/statuses/27921136817)
+
+
+
+
+
+  * 我也有这感觉，哈哈。 RT [@raptorz](http://twitter.com/raptorz): 难道渔政就是传说中的海上城管？ RT [@gfrog](http://twitter.com/gfrog): 为啥人家派军舰，我们只派渔政呢，难道主权问题渔政就能搞定？ RT [@dabao2000](http://twitter.com/dabao2000): 据中国渔政局透露，…… [19:16:38, 2010-10-20](http://twitter.com/gfrog/statuses/27921178266)
+
+
+
+
+
+  * 加班。 (@ Redhat＠融科资讯) [http://4sq.com/9MPIR0](http://4sq.com/9MPIR0) [19:18:41, 2010-10-20](http://twitter.com/gfrog/statuses/27921305370)
+
+
+
+
+
+  * 好结实的家伙，我祈祷我的机器能到10万快门就行。 RT [@raptorz](http://twitter.com/raptorz): 看到有人出一台3K不到的S5PRO，进去一看，快门数已经将近24万。囧，居然用这么狠。 [19:28:28, 2010-10-20](http://twitter.com/gfrog/statuses/27921921294)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 我的40D已经err99一次了，我只能祈祷它能挺过5年。。。 [in reply to raptorz](http://twitter.com/raptorz/statuses/27922198045) [22:03:30, 2010-10-20](http://twitter.com/gfrog/statuses/27933781029)
+
+
+
+
+
+  * 问推神，现在有什么靠谱的pt网站么。。。。 [22:03:54, 2010-10-20](http://twitter.com/gfrog/statuses/27933813546)
+
+
+
+
+
+  * gnome这个烂玩意，竟然不支持触摸板的手势，郁闷。 [22:12:10, 2010-10-20](http://twitter.com/gfrog/statuses/27934530813)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 是，就是多点触控，gnome不支持竟然。在openbox里就好好的，不知道是哪个组件的问题。 [in reply to pityonline](http://twitter.com/pityonline/statuses/27934751881) [22:16:36, 2010-10-20](http://twitter.com/gfrog/statuses/27934904715)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 显然就是桌面环境的关系，我刚刚还在openbox里面用，logout然后登陆gnome就不行了。靠，烂玩意，难道还要我自己跟。。。 [in reply to pityonline](http://twitter.com/pityonline/statuses/27935565102) [22:26:49, 2010-10-20](http://twitter.com/gfrog/statuses/27935767712)
+
+
+
+
+
+  * 哦哦，晚上升级了一下，桌面字体变得超级有爱。难道apt偷偷把微米黑给我装上了？ [23:08:48, 2010-10-20](http://twitter.com/gfrog/statuses/27939361109)
+
+
+
+
+
+  * 折腾一下oauth proxy，哪位童鞋有经验？求指导。 [23:11:32, 2010-10-20](http://twitter.com/gfrog/statuses/27939608073)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 哦，对了，我现在在帝都，可以快修，哈。以前在沈阳，修一次快门来回要一个月。 [in reply to raptorz](http://twitter.com/raptorz/statuses/27939795630) [23:15:38, 2010-10-20](http://twitter.com/gfrog/statuses/27939969363)
+
+
+
+

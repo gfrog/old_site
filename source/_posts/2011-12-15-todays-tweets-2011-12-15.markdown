@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2011-12-15 01:00:00
+layout: post
+slug: todays-tweets-2011-12-15
+title: Today's tweets 2011-12-15
+wordpress_id: 1982
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@LostAbaddon](http://twitter.com/LostAbaddon) 地址栏传来的字符串先decode(ascii)再encode(utf-8) [00:16:22, 2011-12-15](http://twitter.com/gfrog/statuses/146986898345304065)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 这个是绝对木有滴！ [in reply to gnudog](http://twitter.com/gnudog/statuses/146895951095803904) [00:18:25, 2011-12-15](http://twitter.com/gfrog/statuses/146987417876963328)
+
+
+
+
+
+  * kindle排排队，话说touch的字体真的差了一截。 [http://t.co/XUJlXNd7](http://t.co/XUJlXNd7) [08:33:41, 2011-12-15](http://twitter.com/gfrog/statuses/147112053818130433)
+
+
+
+
+
+  * RT [@WOHOM](http://twitter.com/WOHOM): Kindle Touch修改字体教程 [http://t.co/BcMiSxeA](http://t.co/BcMiSxeA) [12:32:07, 2011-12-15](http://twitter.com/gfrog/statuses/147172055987654656)
+
+
+
+
+
+  * 苦逼码农编码忙。 [15:34:41, 2011-12-15](http://twitter.com/gfrog/statuses/147218001312223232)
+
+
+
+
+
+  * RT [@yegle](http://twitter.com/yegle): 【运维遇车祸成植物人，报警短信将他唤醒】北京某互联网公司运维王xx遭遇车祸成植物人，...他的Leader和亲人没放弃，他们根据王xx视工作如命的作风，每天都在他耳边放报警短信的声音，奇迹终于发生，王xx醒来了，第一句话，服务又挂了？ [15:47:38, 2011-12-15](http://twitter.com/gfrog/statuses/147221259594379264)
+
+
+
+
+
+  * 国内的傻缺杀毒厂商成天喊着Android的手机容易中毒，尼玛国内行货连个官方菜市场都没有，丫不中毒谁中毒。为国行的安卓苦逼们默哀。 [15:58:31, 2011-12-15](http://twitter.com/gfrog/statuses/147223998395191296)
+
+
+
+
+
+  * @微闻联播：【北京西直门西环广场凯德购物中心着火】北京西直门西环广场凯德购物中心下午15时30时分许发生火灾，现场浓烟滚滚。@騰雲駕霧terry [@MissCiacia](http://twitter.com/MissCiacia) @刘晓庆 @马旗戟 @细嗅蔷薇心 @莞迦F @牙查苏尔希哈拉姆德 @马嚼头 等网友正播发现场情况 [16:15:35, 2011-12-15](http://twitter.com/gfrog/statuses/147228293576392704)
+
+
+
+

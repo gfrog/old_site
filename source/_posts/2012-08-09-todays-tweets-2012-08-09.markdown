@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2012-08-09 23:59:00
+layout: post
+slug: todays-tweets-2012-08-09
+title: Today's tweets 2012-08-09
+wordpress_id: 2629
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@shenzhuxi](http://twitter.com/shenzhuxi) [@cdarlint](http://twitter.com/cdarlint) 找到解决方法了，多谢二位。 [in reply to shenzhuxi](http://twitter.com/shenzhuxi/statuses/233235456320479232) [00:21:20, 2012-08-09](http://twitter.com/gfrog/statuses/233236460340396034)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:42, 2012-08-09](http://twitter.com/gfrog/statuses/233367164353134592)
+
+
+
+
+
+  * 该死的rawhide，又把libvirt搞挂了。 [15:19:26, 2012-08-09](http://twitter.com/gfrog/statuses/233462476220555264)
+
+
+
+
+
+  * 最近rawhide变化还真大，连Presto都hold不住了，deltarpm才减小了22% [15:24:28, 2012-08-09](http://twitter.com/gfrog/statuses/233463743160397825)
+
+
+
+
+
+  * 想写文档，结果被一个同事外加一封邮件打断，没思路了呢。看书去算了。 [17:11:10, 2012-08-09](http://twitter.com/gfrog/statuses/233490592900976640)
+
+
+
+
+
+  * 上了心率表才明白，前一年都练错了。于是赶脚心率表实际是刚入车子时候就应该配备的必需品。 [22:57:37, 2012-08-09](http://twitter.com/gfrog/statuses/233577781894709248)
+
+
+
+
+
+  * RT [@coffeetang](http://twitter.com/coffeetang): 有一位88年的女孩，我中学同学，也是很好的朋友，在密云有稳定工作是做财务的，是个乖乖女，交友圈子比较小，也没有机会遇到合适的，所以一直没有男朋友。＃帝都 ＃北京 的 ＃单身 ＃靠谱 ＃男青年 给你们个机会哦～ [22:57:53, 2012-08-09](http://twitter.com/gfrog/statuses/233577850207354880)
+
+
+
+
+
+  * [@k_kica](http://twitter.com/k_kica) 呦，这是要开店了？ [in reply to k_kica](http://twitter.com/k_kica/statuses/233572308814540800) [22:59:08, 2012-08-09](http://twitter.com/gfrog/statuses/233578165086343168)
+
+
+
+

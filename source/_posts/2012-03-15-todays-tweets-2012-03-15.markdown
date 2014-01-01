@@ -1,0 +1,144 @@
+---
+comments: true
+date: 2012-03-15 01:00:00
+layout: post
+slug: todays-tweets-2012-03-15
+title: Today's tweets 2012-03-15
+wordpress_id: 2321
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 每日一求：求靠谱人肉 #翻墙 机会。 [09:00:51, 2012-03-15](http://twitter.com/gfrog/statuses/180096186450063360)
+
+
+
+
+
+  * RT [@luogl](http://twitter.com/luogl): "@kegns: 昨天一辽宁IP用户将中文维基百科「王立军事件」条目清空，并写上「在未被中央定性之前，一切说法均属谣言」" [12:36:53, 2012-03-15](http://twitter.com/gfrog/statuses/180150554775920640)
+
+
+
+
+
+  * 你妹的，搞定一个perfmon的包依赖问题之后才发现原来kernel根本不支持perfmon这货，那我还折腾个咩啊！ [14:15:01, 2012-03-15](http://twitter.com/gfrog/statuses/180175247876694016)
+
+
+
+
+
+  * RT [@717amy](http://twitter.com/717amy): 233 RT [@mys_721tx](http://twitter.com/mys_721tx): 突然发现了自己的另一个最没用的技能… 辨别虾的性别… [15:46:14, 2012-03-15](http://twitter.com/gfrog/statuses/180198205064093696)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 矮油，能在城里骑车的真幸福。帝都在市里骑车纯粹是不想活了。。 PM2.5伤不起啊。 [in reply to htgyj](http://twitter.com/htgyj/statuses/180198952975605760) [15:58:56, 2012-03-15](http://twitter.com/gfrog/statuses/180201401018875904)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 不过。。。 到底杭州的温度有多少啊。。 为神马有直接穿骑行服的，还有羽绒服的。。。 这反差。。 [in reply to htgyj](http://twitter.com/htgyj/statuses/180201565506899968) [16:01:10, 2012-03-15](http://twitter.com/gfrog/statuses/180201962493575168)
+
+
+
+
+
+  * 不想去做syslog啊啊啊啊啊，又要udp又要tcp的，还得考虑另外的线程同步保存日志，太麻烦了。 [16:03:38, 2012-03-15](http://twitter.com/gfrog/statuses/180202584437563392)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 帝都现在的天儿晚上还是有点冷吧。晚上的路。。。 怪吓人的。难道你又要恢复夜刷三环啦？ [in reply to ImSyls](http://twitter.com/ImSyls/statuses/180202730877489152) [16:07:45, 2012-03-15](http://twitter.com/gfrog/statuses/180203619902164992)
+
+
+
+
+
+  * RT [@ImSyls](http://twitter.com/ImSyls): 突然觉得“鞭辟入里”这样的词也透着一股内涵味 [16:07:58, 2012-03-15](http://twitter.com/gfrog/statuses/180203673526341632)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 天气有很潮湿嘛？ 矮油，冲锋衣加抓绒骑车会很热吧。。 [in reply to htgyj](http://twitter.com/htgyj/statuses/180203401454419968) [16:09:40, 2012-03-15](http://twitter.com/gfrog/statuses/180204101521514496)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 嘿，我起风那天傻了吧唧的跑了趟十三陵，直接被吹感冒了。本来想文艺一把感受下春天的气息，结果变成了第三种青年，感受到了鼻涕的气息。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/180203860885909504) [16:11:30, 2012-03-15](http://twitter.com/gfrog/statuses/180204562114813952)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 帝都呆的久了呼吸系统都会有麻烦的。。。 唉。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/180204726271483904) [16:14:07, 2012-03-15](http://twitter.com/gfrog/statuses/180205221195169793)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 可以直接考虑短袖骑行服啦，lol。 [in reply to htgyj](http://twitter.com/htgyj/statuses/180204807305441280) [16:14:35, 2012-03-15](http://twitter.com/gfrog/statuses/180205338165919744)
+
+
+
+
+
+  * 矮油，赞啊。不过今天只是媒体预览是嘛？ RT [@ImSyls](http://twitter.com/ImSyls): [http://t.co/XZxixMY0](http://t.co/XZxixMY0) 看起来得今天直接去看车展了，周六没谱的又要开会！ [16:22:54, 2012-03-15](http://twitter.com/gfrog/statuses/180207431807270913)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 还有队服。。。 赞啊。 [in reply to htgyj](http://twitter.com/htgyj/statuses/180206196987400192) [16:23:28, 2012-03-15](http://twitter.com/gfrog/statuses/180207574275207168)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 嗯，这周末有的玩了，哈哈。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/180207511213838336) [16:24:09, 2012-03-15](http://twitter.com/gfrog/statuses/180207744412946433)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) wow，看到图了，太亮骚了。。 [in reply to htgyj](http://twitter.com/htgyj/statuses/180207724947189760) [16:26:26, 2012-03-15](http://twitter.com/gfrog/statuses/180208322685829120)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls)  嗯，这种活动很适合我这种病人围观，哈哈。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/180207942467993600) [16:27:09, 2012-03-15](http://twitter.com/gfrog/statuses/180208502973796353)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) emmm，还是不要了，其实夏天我不穿骑行服的。。。 我太容易出汗了，所以用速干衣代替。 [in reply to htgyj](http://twitter.com/htgyj/statuses/180208958370365440) [16:32:22, 2012-03-15](http://twitter.com/gfrog/statuses/180209816042602496)
+
+
+
+
+
+  * 闲着蛋疼，去搞搞pylint。 [17:02:07, 2012-03-15](http://twitter.com/gfrog/statuses/180217299209420801)
+
+
+
+
+
+  * 帝都天气转暖啦，可以考虑开始刷奥园了。 [22:09:46, 2012-03-15](http://twitter.com/gfrog/statuses/180294722936508416)
+
+
+
+

@@ -1,0 +1,186 @@
+---
+comments: true
+date: 2011-11-02 01:00:00
+layout: post
+slug: todays-tweets-2011-11-02
+title: Today's tweets 2011-11-02
+wordpress_id: 1942
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 写个小bot每天抓小说扔进kindle，hiahia。 [00:37:05, 2011-11-02](http://twitter.com/gfrog/statuses/131409437134032896)
+
+
+
+
+
+  * 哎呀呀，京东还是不行啊，各种慢各种出错，太不给力了。 [10:40:05, 2011-11-02](http://twitter.com/gfrog/statuses/131561183579877376)
+
+
+
+
+
+  * 呦呦，原来京东后台用的.net，哼哼，windows平台不给力了吧？！ [10:42:41, 2011-11-02](http://twitter.com/gfrog/statuses/131561839023751169)
+
+
+
+
+
+  * gmail改的真还不错，gr改的。。。反正在我的小上网本上烂的不行。 RT [@kDolphin](http://twitter.com/kDolphin): 我 RT [@virushuo](http://twitter.com/virushuo): 我… RT [@sylvieluk](http://twitter.com/sylvieluk): 有人跟我一样反人类地觉得新版Gmail改得很不错，Google Reader改得还可以吗？ [10:44:40, 2011-11-02](http://twitter.com/gfrog/statuses/131562338624081920)
+
+
+
+
+
+  * 嗯，windows神马的弱爆了。 RT [@littlebena](http://twitter.com/littlebena): 京东今天还在用 .NET 架构的原因是什么？ [http://t.co/JMMkaEts](http://t.co/JMMkaEts) = = [10:46:12, 2011-11-02](http://twitter.com/gfrog/statuses/131562723531161600)
+
+
+
+
+
+  * 好不容易想买套蟒书，他喵的京东不给力呀。 [10:48:28, 2011-11-02](http://twitter.com/gfrog/statuses/131563296942862336)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) lol [in reply to raptorz](http://twitter.com/raptorz/statuses/131563747708899328) [10:53:39, 2011-11-02](http://twitter.com/gfrog/statuses/131564599387504640)
+
+
+
+
+
+  * 看来昨天京东的苦逼运维们确实没搞清楚到底哪里出了问题。实际瓶颈就在添加购物车流程那里呀。 [11:02:33, 2011-11-02](http://twitter.com/gfrog/statuses/131566841129734144)
+
+
+
+
+
+  * 为咩我的buzz还在。。。 RT [@717amy](http://twitter.com/717amy): 我也换到新版gmail了！第一眼，真好看啊！第二眼，我的contacts呢？第三眼，我靠，得点2下才能到contacts么！第四眼，你妹啊！把buzz还给我！贱人！ [11:11:06, 2011-11-02](http://twitter.com/gfrog/statuses/131568991792672769)
+
+
+
+
+
+  * oops，用instrapaper推送twitter上的链接内容到kindle上。。。 今天第一条就是成人内容，还是图片！！ 还有好多张！！ 囧 [11:20:01, 2011-11-02](http://twitter.com/gfrog/statuses/131571236756140032)
+
+
+
+
+
+  * 21？ 我估计是31吧。。。 RT [@qiibeta](http://twitter.com/qiibeta): 搞google的reader/gmail新版的人估计用的都是21寸显示器。 [11:20:53, 2011-11-02](http://twitter.com/gfrog/statuses/131571450883747842)
+
+
+
+
+
+  * 233 RT [@Ivymichael](http://twitter.com/Ivymichael): IMAX RT [@gfrog](http://twitter.com/gfrog): 21？ 我估计是31吧。。。 RT [@qiibeta](http://twitter.com/qiibeta): 搞google的reader/gmail新版的人估计用的都是21寸显示器。 [11:25:04, 2011-11-02](http://twitter.com/gfrog/statuses/131572505847664640)
+
+
+
+
+
+  * [@kyokyo8899](http://twitter.com/kyokyo8899) 一起来帝都吧！ [in reply to kyokyo8899](http://twitter.com/kyokyo8899/statuses/131574048412024832) [11:33:56, 2011-11-02](http://twitter.com/gfrog/statuses/131574735271235584)
+
+
+
+
+
+  * [@hanmo93](http://twitter.com/hanmo93) 还好是黑白屏。。 要是彩屏就没法在办公室看啦。 XD [in reply to hanmo93](http://twitter.com/hanmo93/statuses/131579367296995328) [12:38:42, 2011-11-02](http://twitter.com/gfrog/statuses/131591037247430656)
+
+
+
+
+
+  * [@kyokyo8899](http://twitter.com/kyokyo8899) 啧啧，猛禽想的太多啦，哈哈。 [in reply to kyokyo8899](http://twitter.com/kyokyo8899/statuses/131575859042729984) [12:39:02, 2011-11-02](http://twitter.com/gfrog/statuses/131591120848297984)
+
+
+
+
+
+  * 同时应该赶快发邮件报警给你，哈哈 RT [@gttnnn](http://twitter.com/gttnnn): 俺也搞了家庭GFW……为了杜绝老妈上那个看起来又贵又坑爹的电视购物网站，我把那个网站的域名加到hosts里了，指向127.0.0.1…… [14:24:54, 2011-11-02](http://twitter.com/gfrog/statuses/131617762136170496)
+
+
+
+
+
+  * 说起小规模GFW，俺当年在部门的出口路由上给baidu首页配上了google的IP。。。 [14:32:51, 2011-11-02](http://twitter.com/gfrog/statuses/131619761065951232)
+
+
+
+
+
+  * [@ljsabc](http://twitter.com/ljsabc) 当年打着测试需要的幌子这么用了好久，啊哈哈。 [in reply to ljsabc](http://twitter.com/ljsabc/statuses/131620092432748544) [14:39:30, 2011-11-02](http://twitter.com/gfrog/statuses/131621435830583296)
+
+
+
+
+
+  * [@ljsabc](http://twitter.com/ljsabc) 这倒不错，总比电信那个注入广告强多了。 [in reply to ljsabc](http://twitter.com/ljsabc/statuses/131622224955314176) [14:46:35, 2011-11-02](http://twitter.com/gfrog/statuses/131623218267172864)
+
+
+
+
+
+  * 说明它powered by nginx。 RT [@skyier](http://twitter.com/skyier): 打开这个网站，一片空白只有左上角一行字：It works!  啥意思？ [http://t.co/bav5kFMR](http://t.co/bav5kFMR) [15:35:33, 2011-11-02](http://twitter.com/gfrog/statuses/131635543548231680)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) apache嘛？ apache难道不是它的帮助页了？ nginx的是啥？ [in reply to yoyicue](http://twitter.com/yoyicue/statuses/131636306966089728) [15:40:49, 2011-11-02](http://twitter.com/gfrog/statuses/131636868935729153)
+
+
+
+
+
+  * RT [@dlb2825](http://twitter.com/dlb2825): 北京号外：据说台湾夜店很流行、淘宝网上卖断货的Jellybird果冻酒，內含 12%伏特加(Vodka) ，妹纸吃了三颗就晕，五颗就倒，汉纸吃了八颗就倒。是果冻，还是蒙汗药啊？ [15:41:17, 2011-11-02](http://twitter.com/gfrog/statuses/131636985298288640)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 哦，这样。。。 好久不玩，都忘啦，哈哈。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/131637526296395776) [15:56:58, 2011-11-02](http://twitter.com/gfrog/statuses/131640929995067392)
+
+
+
+
+
+  * 哎呀呀，这个小实习生。。。 是真笨啊还是装笨。。。 [15:58:18, 2011-11-02](http://twitter.com/gfrog/statuses/131641268253102081)
+
+
+
+
+
+  * instrapaper跟kindlereader使用3天的体验很不好，难道要自己打造一个收集rss然后推送到kindle的东东嘛。。。 [16:28:27, 2011-11-02](http://twitter.com/gfrog/statuses/131648854809513984)
+
+
+
+
+
+  * 他喵的，google plus的nick还是没通过审核，你丫的想让我起个啥名字？ 真名我肯定不会写啦！ [16:54:09, 2011-11-02](http://twitter.com/gfrog/statuses/131655320912134144)
+
+
+
+
+
+  * RT [@WCM](http://twitter.com/WCM): 有在/愿来南京工作的PHPer么，我们 SaaS 业务平台需要更多兄弟加盟。待遇定位10K，可再谈。如果你对当前工作不太满意，想寻一享受技术的团队、尊重技术的公司；如果你愿务实投身企业平台研发；如果你爱上了HTML5，想对IE6说掰掰⋯跟我联系吧 :)求RT，谢 [17:30:30, 2011-11-02](http://twitter.com/gfrog/statuses/131664469255401472)
+
+
+
+
+
+  * 我擦，他喵的功夫网，不会是真把dotcloud封了吧！！！ [23:38:39, 2011-11-02](http://twitter.com/gfrog/statuses/131757118016598017)
+
+
+
+

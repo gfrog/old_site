@@ -1,0 +1,74 @@
+---
+comments: true
+date: 2012-06-17 23:59:00
+layout: post
+slug: todays-tweets-2012-06-17
+title: Today's tweets 2012-06-17
+wordpress_id: 2577
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * dd if=xxx of=yyy bs=100M count=1，这是典型的过犹不及。 [00:28:00, 2012-06-17](http://twitter.com/gfrog/statuses/214031584100229121)
+
+
+
+
+
+  * China GFW blocks almost all .co.jp site. Chinese gov must be crazy. [01:27:46, 2012-06-17](http://twitter.com/gfrog/statuses/214046622001274880)
+
+
+
+
+
+  * RT [@clc4214](http://twitter.com/clc4214): 陈先生带女儿去商场，走散了，陈先生四处寻找，听到广播：“陈XX小朋友,你妈妈在1楼服务台等你，听到广播后请...”陈先生纳闷，这孩子名字咋跟自己一样？到一楼一看，女儿在那候着呢？问其：“为何不说陈XX先生，你女儿在一楼等你？”女儿说：“怕有坏人听 ... [12:40:29, 2012-06-17](http://twitter.com/gfrog/statuses/214215916899147776)
+
+
+
+
+
+  * 竟然不想吃饭… 不过还得逼自己吃饭去… [13:25:18, 2012-06-17](http://twitter.com/gfrog/statuses/214227196234051584)
+
+
+
+
+
+  * 我擦，高房租重灾区。RT [@ling0322](http://twitter.com/ling0322): 北京西北三环附近的房子, 能住两三个人单间大约多少钱啊? cc [@shellex](http://twitter.com/shellex) [@shellexy](http://twitter.com/shellexy) [@pipitu](http://twitter.com/pipitu) [@CSSlayer](http://twitter.com/CSSlayer) [14:57:28, 2012-06-17](http://twitter.com/gfrog/statuses/214250390445768704)
+
+
+
+
+
+  * RT [@Qian90](http://twitter.com/Qian90): 墙上，厕所，浴室，屏幕，鼠标，甚至满是纸巾的垃圾桶里都交替着传来一阵阵稚嫩的声音“爸爸，父亲节快乐…… [15:11:50, 2012-06-17](http://twitter.com/gfrog/statuses/214254007152164864)
+
+
+
+
+
+  * 去超市买了一袋柿子吃，看来我真是重度依赖超市的动物。 [15:17:45, 2012-06-17](http://twitter.com/gfrog/statuses/214255495404462080)
+
+
+
+
+
+  * 骑死飞的真是…祸害啊。 RT [@geuro](http://twitter.com/geuro): [视频]在城市里这样骑自行车这是不要命了吗？ [http://t.co/FGkmFPSo](http://t.co/FGkmFPSo) |掘图志 [15:24:42, 2012-06-17](http://twitter.com/gfrog/statuses/214257246543163392)
+
+
+
+
+
+  * 昨天竟然一天没摸车，太不正常了…这会儿虽然热，那也骑车出去转转吧，熟悉下附近路。 [15:25:53, 2012-06-17](http://twitter.com/gfrog/statuses/214257542891712512)
+
+
+
+
+
+  * 呦，元宝妹去Nike 5km挑战赛了？ RT [@k_kica](http://twitter.com/k_kica): 

@@ -1,0 +1,12 @@
+---
+comments: true
+date: 2009-01-01 00:00:51
+layout: post
+slug: happy-new-year-2009
+title: 2009新年快乐
+wordpress_id: 332
+categories:
+- gfrog-say[青蛙的杂烩]
+---
+
+**新年快乐！**

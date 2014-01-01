@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2011-07-20 01:00:00
+layout: post
+slug: todays-tweets-2011-07-20
+title: Today's tweets 2011-07-20
+wordpress_id: 1776
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): Quote: “当遇到一个Unix问题的时候，有的人会想‘我懂，我可以试试sed。’这下，他们有两个问题去对付了。” [08:36:41, 2011-07-20](http://twitter.com/gfrog/statuses/93479405388705792)
+
+
+
+
+
+  * RT [@songshinan](http://twitter.com/songshinan): 黑眼睛幸知：南都周刊描述了一个叫曹永文的根雕师傅，一心为了给党献礼，制作了“迎奥运”“迎世博”“建国60周年”“建党90周年”等作品，多次斥资十几万，运到北京，却被人当成上-访遣回。他只想把根雕献出去，但是欲献无门，家里背了一屁股债。 [08:40:05, 2011-07-20](http://twitter.com/gfrog/statuses/93480258417852419)
+
+
+
+

@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2011-12-08 01:00:00
+layout: post
+slug: todays-tweets-2011-12-08
+title: Today's tweets 2011-12-08
+wordpress_id: 1976
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 啧啧，CRC上还在免运费呢，要不要收个便宜骑行台哪。。。 [10:17:20, 2011-12-08](http://twitter.com/gfrog/statuses/144601424020512768)
+
+
+
+
+
+  * 难怪今天会议室这么热闹。 RT [@adam8157](http://twitter.com/adam8157): 培训中, Interviewing the Red Hat Way [13:39:26, 2011-12-08](http://twitter.com/gfrog/statuses/144652285358776320)
+
+
+
+
+
+  * 我擦，rsyslog里面的变量名怪爆了，看起来真闹心。 [13:59:23, 2011-12-08](http://twitter.com/gfrog/statuses/144657304862724096)
+
+
+
+
+
+  * 羡慕嫉妒恨 [http://t.co/F1nelErK](http://t.co/F1nelErK) [16:10:29, 2011-12-08](http://twitter.com/gfrog/statuses/144690295219564544)
+
+
+
+
+
+  * RT [@sdelayang](http://twitter.com/sdelayang): 两HR在筛简历，一个说“实在选不出了要不我们抓阄决定吧?”,另一个说“别忙我来看看这些人的星座再决定。”，于是我现在对我们公司绝望了。 [16:46:54, 2011-12-08](http://twitter.com/gfrog/statuses/144699460755275777)
+
+
+
+
+
+  * 写了个微型爬虫，用了BeautifulSoup，结果效率低到爆！ 摔！ 明天换lxml试试。 [21:53:07, 2011-12-08](http://twitter.com/gfrog/statuses/144776524732706816)
+
+
+
+

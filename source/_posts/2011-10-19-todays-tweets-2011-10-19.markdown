@@ -1,0 +1,204 @@
+---
+comments: true
+date: 2011-10-19 01:00:00
+layout: post
+slug: todays-tweets-2011-10-19
+title: Today's tweets 2011-10-19
+wordpress_id: 1896
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 测试推！ [00:16:38, 2011-10-19](http://twitter.com/gfrog/statuses/126330859858042880)
+
+
+
+
+
+  * [#CM7](http://search.twitter.com/search?q=%23CM7).1 确实非常给力！ [10:03:36, 2011-10-19](http://twitter.com/gfrog/statuses/126478574369771520)
+
+
+
+
+
+  * 啧啧，比起chrome，android进化的还不算快，哈哈。 RT [@ifanr](http://twitter.com/ifanr): Duarte：“难以置信Android目前才三岁。在这段时间里，它极速进化。6个月前我们才完成3.0” [#ifanrlive](http://search.twitter.com/search?q=%23ifanrlive)# [10:26:53, 2011-10-19](http://twitter.com/gfrog/statuses/126484435049791488)
+
+
+
+
+
+  * RT [@raptorz](http://twitter.com/raptorz): 233 RT [@mranti](http://twitter.com/mranti): RT [@cuishaoyu](http://twitter.com/cuishaoyu): 今天穿了一件GAP的帽衫，一进地铁车厢发现和一女孩撞衫。更尴尬的是，我俩面前的车门上赫然贴着一个大标语“MIND THE GAPS”。 [10:35:16, 2011-10-19](http://twitter.com/gfrog/statuses/126486543685787648)
+
+
+
+
+
+  * wow，卡面不错。 RT [@lymikko](http://twitter.com/lymikko): 上个月新办的建行变形金刚卡，我选了这张群英版的卡面。 [http://t.co/gOlPNfim](http://t.co/gOlPNfim) [10:39:08, 2011-10-19](http://twitter.com/gfrog/statuses/126487514390343681)
+
+
+
+
+
+  * RT [@xiaoyu1992](http://twitter.com/xiaoyu1992): 听说个事儿、一个大妈在草丛捡到一幅大婚纱照、以为遗落的、就根据摄影店铺找到了主人、才知道是那女孩儿丢了、她说我们都分手了还留着做什么、我不想天天看着哭啊……………………浪费钱啧啧、 [11:32:21, 2011-10-19](http://twitter.com/gfrog/statuses/126500910187819008)
+
+
+
+
+
+  * 哎呀呀，CM7.1的相册程序竟然造成手机死机了，按电源键都没反应。终于被2.3.7逼的第一次拔了电池，话说俺已经很久木有拔过电池啦。。 [13:38:38, 2011-10-19](http://twitter.com/gfrog/statuses/126532687753265152)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 安卓跟linux一样，要折腾啊！ [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/126534550259113984) [13:53:48, 2011-10-19](http://twitter.com/gfrog/statuses/126536504624414720)
+
+
+
+
+
+  * RT [@ImSyls](http://twitter.com/ImSyls): 阻止一切没有基础的人买单反的决心 [13:54:16, 2011-10-19](http://twitter.com/gfrog/statuses/126536623247736832)
+
+
+
+
+
+  * 想定个kindle touch送老爹。。。 [14:08:27, 2011-10-19](http://twitter.com/gfrog/statuses/126540194026487809)
+
+
+
+
+
+  * RT [@fannylawrenC](http://twitter.com/fannylawrenC): 囧…大家都白交稅… RT [@jameshyolong](http://twitter.com/jameshyolong): [@fannylawrenC](http://twitter.com/fannylawrenC) 没用的。我们这儿正在举办城市间的运动会，某日朋友出车祸被撞，报警，警察说警力不够，都去维护运动会场馆周边秩序了，你们自己处理吧。当时就气得吐血而亡啊～～ [14:19:11, 2011-10-19](http://twitter.com/gfrog/statuses/126542891337269248)
+
+
+
+
+
+  * RT [@cheeq](http://twitter.com/cheeq):生活在这里你要懂得更多，比如出事不能直接打120，要打110让他们叫救护车，还有发生车祸的责任划分，扶老人小孩的技巧，翻墙的能力等 [@SandLiu](http://twitter.com/SandLiu) [14:39:30, 2011-10-19](http://twitter.com/gfrog/statuses/126548004655202304)
+
+
+
+
+
+  * 为神马 [#ifttt](http://search.twitter.com/search?q=%23ifttt) 木有 remember the mile [#RTM](http://search.twitter.com/search?q=%23RTM) 的连接哪，如果有，俺就可以随时用 [#twitter](http://search.twitter.com/search?q=%23twitter) 给自己的 [#GTD](http://search.twitter.com/search?q=%23GTD) list添加内容啦！ [15:07:28, 2011-10-19](http://twitter.com/gfrog/statuses/126555045465563136)
+
+
+
+
+
+  * 给俺 #里程碑 的搜索键绑定为 短按 == 打开 [#twitter](http://search.twitter.com/search?q=%23twitter) tl， 长按 == 发推。 我真是重度推特用户嘛？ lol [15:09:16, 2011-10-19](http://twitter.com/gfrog/statuses/126555498353922048)
+
+
+
+
+
+  * 唉，还是逃不开做处理python import路径的问题，很麻烦很麻烦。 [15:34:36, 2011-10-19](http://twitter.com/gfrog/statuses/126561874593587200)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 木有用过tomato dualwan。。。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/126567293361717248) [15:59:37, 2011-10-19](http://twitter.com/gfrog/statuses/126568169254031360)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 似乎也可以搞出来。。。 给wlan、wifi、内网划到不同的vlan试试？ 哎呀呀，没试验环境，不确定是不是可行。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/126568925772251136) [16:11:45, 2011-10-19](http://twitter.com/gfrog/statuses/126571221486813185)
+
+
+
+
+
+  * RT [@lwyh](http://twitter.com/lwyh): 在公交车上站着，看见我身边座位上的女生掏出白色的iphone4，看见其在发短信，编辑完之后一点发送，屏幕上出现几个字：信息由sim卡1发送。我… [16:48:31, 2011-10-19](http://twitter.com/gfrog/statuses/126580475736244224)
+
+
+
+
+
+  * RT [@BreeStealth](http://twitter.com/BreeStealth): 不用眼馋Siri 安卓语音识别Iris问世http://t.co/SRHhksVM //这个速度也忒快了一点吧！ [16:49:13, 2011-10-19](http://twitter.com/gfrog/statuses/126580650827448320)
+
+
+
+
+
+  * RT [@horse](http://twitter.com/horse): 需要找地铁附近300平米左右办公地点。另外需要找可以办聋儿康复机构（可以理解成小的幼儿园）的地方。麻烦推荐地点。多谢多谢。求扩散。 [16:53:36, 2011-10-19](http://twitter.com/gfrog/statuses/126581753577091072)
+
+
+
+
+
+  * 这个时代的创造者们正在一个个慢慢老去。 RT [@bfishadow](http://twitter.com/bfishadow): 金山软件刚刚宣布，自10月24日起任命原微软亚洲工程院院长张宏江为CEO，求伯君同日将辞去所有执行性职务，正式退休。 [17:02:32, 2011-10-19](http://twitter.com/gfrog/statuses/126584001371705344)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 受赏没设备啊，没法细说。。。 放狗搜吧。。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/126586428695126016) [17:14:37, 2011-10-19](http://twitter.com/gfrog/statuses/126587042795765760)
+
+
+
+
+
+  * 真不错，但是一定要英文界面的google才行。 RT [@lnineone](http://twitter.com/lnineone): 在Google搜索框里面输入“what is my ip”，你可以看到自己当前的IP地址。 [17:26:50, 2011-10-19](http://twitter.com/gfrog/statuses/126590117971374080)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 用C# wrap一个vim算了，hiahia [in reply to Gyteng](http://twitter.com/Gyteng/statuses/126590395726565376) [17:34:19, 2011-10-19](http://twitter.com/gfrog/statuses/126592000240795648)
+
+
+
+
+
+  * 呦。 RT [@xiaoyu1992](http://twitter.com/xiaoyu1992): 扭～我是热爱游泳的好少女、 [17:57:38, 2011-10-19](http://twitter.com/gfrog/statuses/126597867585536001)
+
+
+
+
+
+  * I'm at 京味斋(双安店) (海淀区双榆树西里10号(双榆树宾馆旁)) [http://t.co/9VHLCBl7](http://t.co/9VHLCBl7) [19:31:06, 2011-10-19](http://twitter.com/gfrog/statuses/126621389313679360)
+
+
+
+
+
+  * RT [@Carlos_Gong](http://twitter.com/Carlos_Gong): 能找到最完整的发布会录像暂时也就这个了，只包括 Android 4.0 的 demo 部分，30分钟。http://t.co/PaL4dGce cc [@beterhans](http://twitter.com/beterhans) [20:20:40, 2011-10-19](http://twitter.com/gfrog/statuses/126633862934700033)
+
+
+
+
+
+  * 哎呀呀，才发现俺的 [#KDE](http://search.twitter.com/search?q=%23KDE) 竟然木有声音，这是神马状况。。。 [20:32:29, 2011-10-19](http://twitter.com/gfrog/statuses/126636838105522177)
+
+
+
+
+
+  * 哎呀哎呀，womai网上只有脱脂奶了，脱脂的比较好还是全脂的好呀？ [22:50:36, 2011-10-19](http://twitter.com/gfrog/statuses/126671595975606272)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) 原来是这个情况… 那好吧，还是买全脂的好啦。 [in reply to petefang](http://twitter.com/petefang/statuses/126672762617069568) [23:18:03, 2011-10-19](http://twitter.com/gfrog/statuses/126678505097412611)
+
+
+
+
+
+  * 哎呀呀， [#evernote](http://search.twitter.com/search?q=%23evernote) 在 [#ifttt](http://search.twitter.com/search?q=%23ifttt) 上竟然没法做为trigger channel，只能作为action channel，晕！ [23:31:49, 2011-10-19](http://twitter.com/gfrog/statuses/126681969428930560)
+
+
+
+

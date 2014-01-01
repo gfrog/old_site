@@ -1,0 +1,114 @@
+---
+comments: true
+date: 2010-10-17 01:00:00
+layout: post
+slug: todays-tweets-2010-10-17
+title: Today's tweets 2010-10-17
+wordpress_id: 1010
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 去西单。 (@ Renmin University Subway Station 地铁人民大学站) [http://4sq.com/8ZTm3w](http://4sq.com/8ZTm3w) [11:51:10, 2010-10-17](http://twitter.com/gfrog/statuses/27603916378)
+
+
+
+
+
+  * 参观水果店。 (@ Apple Store Beijing Joy City 北京西单大悦城苹果零售店) [http://4sq.com/aYcc6L](http://4sq.com/aYcc6L) [13:04:28, 2010-10-17](http://twitter.com/gfrog/statuses/27608938055)
+
+
+
+
+
+  * 西单水果店，黄牛果然很多。 [13:09:23, 2010-10-17](http://twitter.com/gfrog/statuses/27609251858)
+
+
+
+
+
+  * I'm at H&M 大悦城 (西单大悦城). [http://4sq.com/dqXSGB](http://4sq.com/dqXSGB) [15:30:23, 2010-10-17](http://twitter.com/gfrog/statuses/27617080355)
+
+
+
+
+
+  * 汹涌的人流。 (@ Xidan Subway Station • 地铁西单站) [http://4sq.com/ailYg4](http://4sq.com/ailYg4) [17:17:53, 2010-10-17](http://twitter.com/gfrog/statuses/27622567100)
+
+
+
+
+
+  * RT [@zhanghui8964](http://twitter.com/zhanghui8964): 【摘抄】你们高声叫骂，嬉皮笑脸，你们留下满地的垃圾，你们砸了自己同胞开的车，烧了自己同胞开的店，你们像一堆没用的干草，一点就着，只剩灰烬，你们扰乱了整个城市，你们完美暴露出劣根，最后还挂着爱国的名号扬长而去.. [17:33:58, 2010-10-17](http://twitter.com/gfrog/statuses/27623354767)
+
+
+
+
+
+  * RT [@pufei](http://twitter.com/pufei): 听说今日绵阳“爱国青年”又在绵阳也搞了一次“爱国”砸车大游行。在豆腐渣、死难学生、志愿者被捕等事情上绝不乱说乱动的“爱国青年”总算走上了街头，开始反日了，请大家为这种高尚情操鼓掌。 [17:34:25, 2010-10-17](http://twitter.com/gfrog/statuses/27623380646)
+
+
+
+
+
+  * 七饭。 (@ 麻辣诱惑) [http://4sq.com/cVxmQp](http://4sq.com/cVxmQp) [18:32:59, 2010-10-17](http://twitter.com/gfrog/statuses/27626280295)
+
+
+
+
+
+  * RT [@yuanshuai171](http://twitter.com/yuanshuai171): 昨天成都有两个女孩为了过重阳节拍照穿着汉服，遇到游行“爱国青年”，这些人偏说他们穿的是和服，还叫人家脱衣服，这些傻逼不仅不认识自己祖宗的东西，还耍流氓，充分暴露了其无耻嘴脸。” [18:49:35, 2010-10-17](http://twitter.com/gfrog/statuses/27627120138)
+
+
+
+
+
+  * 在帝都，购物的欲望很强烈啊。之前很遥远的购物网站，团购网站都在自己身边，很难克制这个冲动啊。 [22:10:15, 2010-10-17](http://twitter.com/gfrog/statuses/27640205513)
+
+
+
+
+
+  * 再次为sun默哀。Oracle这个不靠谱的家伙。 RT [@wubuntust](http://twitter.com/wubuntust): LibreOffice下载火爆 Oracle承诺改进和支持开源 - cnBeta全文版 [http://bit.ly/bdd4JJ](http://bit.ly/bdd4JJ) [22:17:09, 2010-10-17](http://twitter.com/gfrog/statuses/27640779027)
+
+
+
+
+
+  * 几个月不用C，现在看C代码竟然有点迷糊了。靠，技能不能荒废啊。 [23:06:17, 2010-10-17](http://twitter.com/gfrog/statuses/27645070179)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 囧。 [in reply to pityonline](http://twitter.com/pityonline/statuses/27640485609) [23:43:18, 2010-10-17](http://twitter.com/gfrog/statuses/27648286992)
+
+
+
+
+
+  * 很有道理。RT [@Wangzifan](http://twitter.com/Wangzifan): 冲动是魔鬼，团购是鬼窟。 RT [@gfrog](http://twitter.com/gfrog): 在帝都，购物的欲望很强烈啊。之前很遥远的购物网站，团购网站都在自己身边，很难克制这个冲动啊。 [23:43:49, 2010-10-17](http://twitter.com/gfrog/statuses/27648330772)
+
+
+
+
+
+  * RT [@_sluke_](http://twitter.com/_sluke_): OAuth关注的是授权，即：“用户能做什么”；而OpenID关注的是证明，即：“用户是谁”。  //mark一下 [23:46:24, 2010-10-17](http://twitter.com/gfrog/statuses/27648547948)
+
+
+
+
+
+  * RT [@Rex5652](http://twitter.com/Rex5652): 看来你还没有获得root，先找找wiki吧RT [@hdtv720p](http://twitter.com/hdtv720p): 小孩吐奶严重，找原因应该是奶瓶或者奶粉的原因，不人性化的是孩子出生居然不附带文档，现在没办法进入debug模式查找问题，只能使用排除法.. [23:46:50, 2010-10-17](http://twitter.com/gfrog/statuses/27648583768)
+
+
+
+

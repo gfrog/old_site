@@ -1,0 +1,162 @@
+---
+comments: true
+date: 2010-12-28 01:00:00
+layout: post
+slug: todays-tweets-2010-12-28
+title: Today's tweets 2010-12-28
+wordpress_id: 1502
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@fhwick](http://twitter.com/fhwick): 年度十大网络流行语【最无耻大奖】一个非常艰难的决定【最炫耀大奖】我爸是李刚【最主流大奖】给力【最佳美术大奖】神马都是浮云【最佳汉语语法大奖】我了个去【最佳修辞大奖】杯具。【最感同身受大奖】蛋疼。【最文明大奖】你妹。【最废话大奖】你懂的。【最简洁有力大奖】擦 [08:55:40, 2010-12-28](http://twitter.com/gfrog/statuses/19557058420412416)
+
+
+
+
+
+  * 什么情况？ RT [@hmsea](http://twitter.com/hmsea): 康师傅全国范围内停止向家乐福供货,那统一什么的还不高兴死啊 [10:11:51, 2010-12-28](http://twitter.com/gfrog/statuses/19576228402962432)
+
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): ARIN今天分配了152个C，回收0。根据目前状况估算IPv4中央地址池还剩48天用完，与本月22日的估值（58天）相比，提前了大约5天。 [11:18:02, 2010-12-28](http://twitter.com/gfrog/statuses/19592884722343936)
+
+
+
+
+
+  * 其实顺利的话2天就到了，但是据说年底快递公司都很忙。 RT [@movingtea1982](http://twitter.com/movingtea1982): 顺丰从深圳到大连要几天呢 [13:19:32, 2010-12-28](http://twitter.com/gfrog/statuses/19623460472881152)
+
+
+
+
+
+  * 我要红圈。。。 RT [@raptorz](http://twitter.com/raptorz): 我要哈苏～～～，掀桌 [13:20:08, 2010-12-28](http://twitter.com/gfrog/statuses/19623610922569728)
+
+
+
+
+
+  * 这是显然的。 RT [@sagasw](http://twitter.com/sagasw): 敬告各位外企的朋友，会干的不如会喊的，干点啥一定要让全世界都知道！ [13:20:50, 2010-12-28](http://twitter.com/gfrog/statuses/19623788387762177)
+
+
+
+
+
+  * 我擦，重装系统以后qterm没法输入中文了，这是神马状况。QT的程序敢不敢更不给力一些？！ [13:34:02, 2010-12-28](http://twitter.com/gfrog/statuses/19627111685820416)
+
+
+
+
+
+  * 换lftp试试？lftp的pget命令可以干同样的事。 RT [@icyleaf](http://twitter.com/icyleaf): axel 一个总忘记的软件... [13:57:56, 2010-12-28](http://twitter.com/gfrog/statuses/19633124514201600)
+
+
+
+
+
+  * [@hmsea](http://twitter.com/hmsea) 我擦，方便面都快吃不起啦。 in reply to hmsea [14:37:29, 2010-12-28](http://twitter.com/gfrog/statuses/19643076716793857)
+
+
+
+
+
+  * 我说的显然就是这个问题。 RT [@icyleaf](http://twitter.com/icyleaf): [@gfrog](http://twitter.com/gfrog) 我主要用来多线程下载的... [14:37:50, 2010-12-28](http://twitter.com/gfrog/statuses/19643167972261888)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) [@icyleaf](http://twitter.com/icyleaf) XD，原来有这么多工具可以干同一件事。 in reply to quakelee [14:49:50, 2010-12-28](http://twitter.com/gfrog/statuses/19646186541547520)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 囧。 in reply to raptorz [17:45:32, 2010-12-28](http://twitter.com/gfrog/statuses/19690401224982528)
+
+
+
+
+
+  * 这个。。。还是可拆卸版的。。。RT [@quakelee](http://twitter.com/quakelee): RT [@raptorz](http://twitter.com/raptorz) [@gfrog](http://twitter.com/gfrog) 红圈可以自己画一个。哈哈哈 //画多麻烦，绷个红皮筋就完了 [17:46:34, 2010-12-28](http://twitter.com/gfrog/statuses/19690661598986240)
+
+
+
+
+
+  * [@_J_Smith](http://twitter.com/_J_Smith) 木有化学污染么。。。。 in reply to _J_Smith [17:49:05, 2010-12-28](http://twitter.com/gfrog/statuses/19691297249951744)
+
+
+
+
+
+  * 擦，公交车上传来阵阵屎味，难道前面这哥们拉了。。。。 [21:46:36, 2010-12-28](http://twitter.com/gfrog/statuses/19751071127707649)
+
+
+
+
+
+  * 为啥? RT [@xyh67](http://twitter.com/xyh67): 别买moto机！RT [@jackbilldarren](http://twitter.com/jackbilldarren) 现在多少?RT [@xuluzdsy](http://twitter.com/xuluzdsy): 里程碑2降价也好快。 [21:47:18, 2010-12-28](http://twitter.com/gfrog/statuses/19751244276961280)
+
+
+
+
+
+  * 需要马上搞个路由做vpn了，功夫网最近有点发飙。 [21:52:03, 2010-12-28](http://twitter.com/gfrog/statuses/19752441088049153)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 姑且认为后面的两个小mm比较靠谱吧。 in reply to fxlt [21:53:11, 2010-12-28](http://twitter.com/gfrog/statuses/19752727496105984)
+
+
+
+
+
+  * 找房子的过程很无奈，很痛苦啊。 [21:54:19, 2010-12-28](http://twitter.com/gfrog/statuses/19753012507447296)
+
+
+
+
+
+  * [@kylinz](http://twitter.com/kylinz) 俺有。。 in reply to kylinz [22:56:02, 2010-12-28](http://twitter.com/gfrog/statuses/19768544271015937)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 没歧视，后面的一般不会飘到前边来吧。 in reply to fxlt [22:56:41, 2010-12-28](http://twitter.com/gfrog/statuses/19768707148414979)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 26 Dec 2010 - Flickr [http://j.mp/fhId4C](http://j.mp/fhId4C) [23:29:29, 2010-12-28](http://twitter.com/gfrog/statuses/19776962042003457)
+
+
+
+
+
+  * [@xyh67](http://twitter.com/xyh67) 俺的MS已经2.2好久了，虽然是伪的，但是耗电和速度都比2.1强很多。 in reply to xyh67 [23:47:03, 2010-12-28](http://twitter.com/gfrog/statuses/19781383035551744)
+
+
+
+
+
+  * 收了3GS套餐号码的飘过，核算下来比直接用联通套餐合适的多。 RT [@gamtin](http://twitter.com/gamtin): 倒霉联通，126以上套餐才开始提高流量，这让电话如此之少的我情何以堪。 [23:56:20, 2010-12-28](http://twitter.com/gfrog/statuses/19783717568389120)
+
+
+
+

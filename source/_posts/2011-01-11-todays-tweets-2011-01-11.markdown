@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2011-01-11 01:00:00
+layout: post
+slug: todays-tweets-2011-01-11
+title: Today's tweets 2011-01-11
+wordpress_id: 1629
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 精神分裂的典型? RT [@likuku](http://twitter.com/likuku): RT [@zhuobing](http://twitter.com/zhuobing): ＜壹•百度＞是传说的百度内部资料，开篇大谈专一，做擅长的事情，百度只做搜索，书后半部开始讲如何牛B地做百度有啊和百度Hi。 [01:06:13, 2011-01-11](http://twitter.com/gfrog/statuses/24512347712262144)
+
+
+
+
+
+  * 早上起床，有感冒的迹象，最近身边好多人感冒了，大家一定要注意身体啊。 [08:37:51, 2011-01-11](http://twitter.com/gfrog/statuses/24626001887625216)
+
+
+
+
+
+  * 话说我突然有了给kvm-autotest加一个freebsd guest的测试的想法。 RT [@sagasw](http://twitter.com/sagasw): [@delphij](http://twitter.com/delphij) 现在vps对freeBSD支持不好啊 [14:36:56, 2011-01-11](http://twitter.com/gfrog/statuses/24716371094929408)
+
+
+
+

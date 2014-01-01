@@ -1,0 +1,178 @@
+---
+comments: true
+date: 2011-11-07 01:00:00
+layout: post
+slug: todays-tweets-2011-11-07
+title: Today's tweets 2011-11-07
+wordpress_id: 1947
+categories:
+- twitter-backup[Twitter备份]
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 难得今天早上9点不到就来上班。 哎呀呀，办公室里没几个人呀，哈哈。 [09:01:07, 2011-11-07](http://twitter.com/gfrog/statuses/133348217214611456)
+
+
+
+
+
+  * 为神马选kindle不选nook？ 因为kindle的推送实在太tm强大啦！ [09:06:58, 2011-11-07](http://twitter.com/gfrog/statuses/133349690925252608)
+
+
+
+
+
+  * [@gttnnn](http://twitter.com/gttnnn) 嗯，pdf只能usb了，不过新闻和小说用推送定时推会爽歪歪的。哎呀呀，是时候把我的推送脚本扔到github上去了，哈哈。 [in reply to gttnnn](http://twitter.com/gttnnn/statuses/133352052486184960) [09:19:52, 2011-11-07](http://twitter.com/gfrog/statuses/133352935693365249)
+
+
+
+
+
+  * RT [@Ivymichael](http://twitter.com/Ivymichael): 我在FIFA12里为欧文专门重设了键位——A键：拉伤大腿肌肉。 B键：拉伤大腿肌肉。X键：从板凳席幽怨地望向赛场。Y键：拉伤大腿肌肉。 [10:26:19, 2011-11-07](http://twitter.com/gfrog/statuses/133369662091165696)
+
+
+
+
+
+  * HP现在怎么这么分裂。。 RT [@mwlind](http://twitter.com/mwlind): 惠普并未放弃webOS，向webOS开发者提供150美元的特价TouchPad [http://t.co/O1OHxOGG](http://t.co/O1OHxOGG) [11:07:11, 2011-11-07](http://twitter.com/gfrog/statuses/133379943253024770)
+
+
+
+
+
+  * RT [@BillGatesCN](http://twitter.com/BillGatesCN): 普通程序员：printf("hello world!");
+
+文艺程序员：printf("hello kitty!");
+
+2B程序员：printf("segmentation fault");
+
+by [@reincs](http://twitter.com/reincs) [11:11:39, 2011-11-07](http://twitter.com/gfrog/statuses/133381067703984128)
+
+
+
+
+
+  * 貌似很多电脑书籍都木有kindle版，6寸kindle只适合看文艺作品和小说。用来看大尺寸的电脑书籍、杂志、源代码太杯具。 [11:27:58, 2011-11-07](http://twitter.com/gfrog/statuses/133385173470420993)
+
+
+
+
+
+  * RT [@an1908](http://twitter.com/an1908): RT [@zkaip](http://twitter.com/zkaip): “@kratoto: 据法国媒体报道，一辆载有《使命召唤》游戏光盘的卡车竟然公然遭遇抢劫，约6000份游戏拷贝遭到泄露。” [11:33:48, 2011-11-07](http://twitter.com/gfrog/statuses/133386642860949504)
+
+
+
+
+
+  * 哎呀呀，坑爹的卧铺，昨晚果断没有睡好呀。现在好想睡觉。。。 [13:09:36, 2011-11-07](http://twitter.com/gfrog/statuses/133410750608846848)
+
+
+
+
+
+  * Expert Cheat Sheets & Tutorial Guides for Developers [http://t.co/yjHUdB0w](http://t.co/yjHUdB0w) via [@dzone](http://twitter.com/dzone) [13:25:48, 2011-11-07](http://twitter.com/gfrog/statuses/133414829879865344)
+
+
+
+
+
+  * 图书分享， Check out this in [#Dropbox](http://search.twitter.com/search?q=%23Dropbox) [http://t.co/xwG3YGlC](http://t.co/xwG3YGlC) （感谢irising .me的分享。） [14:03:07, 2011-11-07](http://twitter.com/gfrog/statuses/133424219815034880)
+
+
+
+
+
+  * RT [@darrenest](http://twitter.com/darrenest): 问：「朋友 Dropbox分享一个公共文件夹，我选择 Copy to my Dropbox，如果今后朋友更新内容我 Copy过来的文件夹也会更新吗？」 [14:27:07, 2011-11-07](http://twitter.com/gfrog/statuses/133430257683398656)
+
+
+
+
+
+  * [#Dropbox](http://search.twitter.com/search?q=%23Dropbox) 里面的文件能直接通过email发送就好啦，这样就可以直接寄给 [#kindle](http://search.twitter.com/search?q=%23kindle) 了。 [14:43:04, 2011-11-07](http://twitter.com/gfrog/statuses/133434273536540672)
+
+
+
+
+
+  * open mind？ RT [@childream](http://twitter.com/childream): 招聘前台的条件是什么？身材好还是长得漂亮？ [15:42:38, 2011-11-07](http://twitter.com/gfrog/statuses/133449262527819776)
+
+
+
+
+
+  * [#Kindle](http://search.twitter.com/search?q=%23Kindle) 的山寨皮套手感真的烂爆了，俺只把他当作携带用的套套，真正阅读的时候肯定是扒光了Kindle看，抓在手里又轻巧又细腻。 [16:07:25, 2011-11-07](http://twitter.com/gfrog/statuses/133455501638893568)
+
+
+
+
+
+  * RT [@linglingfa](http://twitter.com/linglingfa): 想要组织一组介绍和评述Chrome浏览器的文章，大约每篇文章1000～2000字，逐步介绍和剖析Chrome浏览器的历史和未来，安全性，效率和功能，以及应用技巧的介绍等，有稿费千字500RMB。谁能够来帮忙写一下？ [16:44:03, 2011-11-07](http://twitter.com/gfrog/statuses/133464719662125056)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 揉！ [in reply to movingtea1982](http://twitter.com/movingtea1982/statuses/133464404716040192) [16:44:13, 2011-11-07](http://twitter.com/gfrog/statuses/133464761223483392)
+
+
+
+
+
+  * 改名叫"避孕套一样的爱情"？ RT [@bigman510](http://twitter.com/bigman510): RT [@NvShao](http://twitter.com/NvShao): 同事的朋友拿电影剧本去总局审核，名字叫《0.08毫米的爱情》。审核没通过，名字需要换掉。我问同事名字有什么问题，他答，0.08毫米是避孕套的标准厚度。奶奶的，总局真有知识丰富的高人啊。。。（转） [16:57:33, 2011-11-07](http://twitter.com/gfrog/statuses/133468118218584064)
+
+
+
+
+
+  * [@yvonnecrab](http://twitter.com/yvonnecrab) 我买网上看看？ 中粮集团办的网站。 [in reply to yvonnecrab](http://twitter.com/yvonnecrab/statuses/133499921105043456) [19:06:56, 2011-11-07](http://twitter.com/gfrog/statuses/133500677770067970)
+
+
+
+
+
+  * [@yvonnecrab](http://twitter.com/yvonnecrab) 嗯，我在上边买过这个。 [http://t.co/ybiATAS8](http://t.co/ybiATAS8) [in reply to yvonnecrab](http://twitter.com/yvonnecrab/statuses/133502428636131328) [19:17:06, 2011-11-07](http://twitter.com/gfrog/statuses/133503234194161665)
+
+
+
+
+
+  * RT [@yegle](http://twitter.com/yegle): O‘reilly为了庆祝vim20周年，将Learning vi and Vim editor和Learning Emacs的电子版打5折。目前价格低于亚马逊的kindle版 [http://t.co/cj2xUWoo](http://t.co/cj2xUWoo) [http://t.co/QNS9dPvv](http://t.co/QNS9dPvv) [19:46:21, 2011-11-07](http://twitter.com/gfrog/statuses/133510597949140992)
+
+
+
+
+
+  * Check out Learning the vi and Vim Editors, 7th Edition [http://t.co/cj2xUWoo](http://t.co/cj2xUWoo) via [@oreillymedia](http://twitter.com/oreillymedia) [19:48:19, 2011-11-07](http://twitter.com/gfrog/statuses/133511091073462272)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 矮油，这么快就对学姐下手啦？ [in reply to Rex5652](http://twitter.com/Rex5652/statuses/133519908930732032) [20:24:45, 2011-11-07](http://twitter.com/gfrog/statuses/133520261931728896)
+
+
+
+
+
+  * 那儿卖东西好贵。。 RT [@shingle2011](http://twitter.com/shingle2011): 围观。。。→_→ RT [@edijason](http://twitter.com/edijason):  求邂逅 RT [@greghe728](http://twitter.com/greghe728): 最喜欢的超市是东大莘莘超市，嗯嗯 [20:25:16, 2011-11-07](http://twitter.com/gfrog/statuses/133520392609464321)
+
+
+
+
+
+  * [@dapeng35](http://twitter.com/dapeng35) nope [in reply to dapeng35](http://twitter.com/dapeng35/statuses/133520558708105216) [20:34:29, 2011-11-07](http://twitter.com/gfrog/statuses/133522708100161537)
+
+
+
+
+
+  * 哎呀呀，差点忘了给信用卡还款，罪过罪过。赶快找atm。 [21:10:02, 2011-11-07](http://twitter.com/gfrog/statuses/133531655863410688)
+
+
+
+

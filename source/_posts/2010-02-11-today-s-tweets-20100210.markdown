@@ -1,0 +1,81 @@
+---
+comments: true
+date: 2010-02-11 00:02:23
+layout: post
+slug: today-s-tweets-20100210
+title: Today's tweets 2010-02-10
+wordpress_id: 461
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+	
+  * _08:12_ 年前最后一天上班，不过会忙死，很多事情要收尾。忙碌的牛年。 [#](http://twitter.com/gfrog/statuses/8877774968)
+
+	
+  * _08:18_ @HZS_ 握手，劳碌命啊。。。 [#](http://twitter.com/gfrog/statuses/8878013045)
+
+	
+  * _08:41_ LLVM 与 Clang 介绍 [goo.gl/sreV](http://goo.gl/sreV) [#](http://twitter.com/gfrog/statuses/8878871151)
+
+	
+  * _09:01_ “话说给开发者专门使用的银行是哪家呢？ 广发银行啊，因为广发银行是gdb嘛。” 囧，自编冷笑话。。。 [#](http://twitter.com/gfrog/statuses/8879668417)
+
+	
+  * _09:54_ 囧，z开头邮箱的飘过。。。 RT @iijimaai RT @tinyfool: 靠，我是t开头的… RT @number5: buzz估计真是按照用户名字母顺序rollout的，我的一个b开头的gmail帐号已经有buzz了 [#](http://twitter.com/gfrog/statuses/8881720895)
+
+	
+  * _09:57_ RT @childream: RT @cattyhouse: 安装firefox的一个插件User Agent Switcher，将useragent切换为iphone3.0，再打开gmail，就能看到buzz标签了，暂时没有buzz的人有福了 #buzz [#](http://twitter.com/gfrog/statuses/8881851071)
+
+	
+  * _10:02_ 改了user agent，看到 #buzz 了。 [#](http://twitter.com/gfrog/statuses/8882028148)
+
+	
+  * _10:24_ User Agent Switcher插件。 RT @netfang2000: 哪里改？//RT @gfrog: 改了user agent，看到 #buzz 了。 [#](http://twitter.com/gfrog/statuses/8882889984)
+
+	
+  * _10:27_ 让我想起玩具总动员。。。 RT @ahaofz: buzz，buzz，buzz [#](http://twitter.com/gfrog/statuses/8883011914)
+
+	
+  * _10:33_ 看到 #buzz ，也就是这样，有了twitter，我们真的需要那么多其他的微博么？ [#](http://twitter.com/gfrog/statuses/8883258858)
+
+	
+  * _13:05_ RT @likuku: RT @raptorz 围观杯具 RT @zkaip: RT @chnp101: 路过和女友的野合场地，发现有人在那XXOO，于是兴起打电话给女友告诉她，然后XXOO的那里传来了我女友的手机铃声。What a fucking day!
+#草蛋网 [#](http://twitter.com/gfrog/statuses/8888889432)
+
+	
+  * _15:06_ RT @yangtao448: 刚看了校内的牛人，居然说：中国的大雪美国造成的。理由是盟军手里有天气控制器，最可恨的是他玩红警得出的结论。 [#](http://twitter.com/gfrog/statuses/8892092640)
+
+	
+  * _15:10_ 访问greader竟然被reset了，难道greader被墙？ [#](http://twitter.com/gfrog/statuses/8892197558)
+
+	
+  * _15:31_ 刚刚跟领导面谈，
+领导问：你的工资涨的有点少，你有啥想法？
+我：....
+领导这是故意玩我？ [#](http://twitter.com/gfrog/statuses/8892660647)
+
+	
+  * _17:51_ 每日一推。 RT @gfrog: 在推上推销自己：Linux开发，2年工作经验，熟悉TCP/IP协议及OSPF协议，寻找一份北方城市（黄河以北）的相关工作。 #CNjob [#](http://twitter.com/gfrog/statuses/8895667948)
+
+	
+  * _18:13_ RT @Rex5652: 围观围观，然后大家说咋办？RT @Showfom: 我手头有将近20名女推友的手机号码，一次性打包出售，劲爆价1000，不砍价！ [#](http://twitter.com/gfrog/statuses/8896138600)
+
+	
+  * _21:33_ RT @tenione: RT @yuishy: RT @xie107: 今天看一女的开一轿车，车牌：地区BRA36C，无语加黑线。。。。 [#](http://twitter.com/gfrog/statuses/8901311650)
+
+	
+  * _21:40_ 哈哈， 我的gmail里终于有 #buzz 了，这下不用改user agent了。 [#](http://twitter.com/gfrog/statuses/8901532140)
+
+	
+  * _21:44_ RT @hidigi: RT @duck_1984:
+这得出多少条人命啊！ 合肥查获今年最大销售假“金毓婷”案 [is.gd/858nM](http://is.gd/858nM) [#](http://twitter.com/gfrog/statuses/8901669409)
+
+
+Automatically shipped by [LoudTwitter](http://www.loudtwitter.com)

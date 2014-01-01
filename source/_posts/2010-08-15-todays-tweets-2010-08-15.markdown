@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2010-08-15 01:00:00
+layout: post
+slug: todays-tweets-2010-08-15
+title: Today's tweets 2010-08-15
+wordpress_id: 943
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 突然想起来，今天俺用android版的豆瓣电台是可以听歌的。 [20:30:28, 2010-08-15](http://twitter.com/gfrog/statuses/21227484239)
+
+
+
+

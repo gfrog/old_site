@@ -1,0 +1,180 @@
+---
+comments: true
+date: 2010-08-13 01:00:00
+layout: post
+slug: todays-tweets-2010-08-13
+title: Today's tweets 2010-08-13
+wordpress_id: 941
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@pagist](http://twitter.com/pagist): 火车站碰到一个看起来很真诚且又很忧郁的女孩，她自称是XX大学大三学生，钱包被扒，饥寒交迫，要我行善给她人民币若干，并掏出学生证要我验看。看着她真诚的双眼，我着实想掏钱，但突然我灵光闪现，问她一句：“a的四次方求导是多少...   via QQ微博 [08:09:50, 2010-08-13](http://twitter.com/gfrog/statuses/21017574538)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 10 Aug 2010 - Flickr [http://j.mp/buPJHv](http://j.mp/buPJHv) [08:49:35, 2010-08-13](http://twitter.com/gfrog/statuses/21020250973)
+
+
+
+
+
+  * 整理fo列表，超过2个月木有推过的，对不起了。。。 [08:51:57, 2010-08-13](http://twitter.com/gfrog/statuses/21020414591)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 移动是怎么赚钱的 [http://j.mp/9sjY7w](http://j.mp/9sjY7w) [09:05:38, 2010-08-13](http://twitter.com/gfrog/statuses/21021367326)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 如何在面对白痴老板和傻逼同事时一直保持微笑 [http://j.mp/cV9KAL](http://j.mp/cV9KAL) [09:08:06, 2010-08-13](http://twitter.com/gfrog/statuses/21021545208)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 刘亚洲：中国没有思想家，只有谋略家 [http://j.mp/bjexFa](http://j.mp/bjexFa) [09:24:03, 2010-08-13](http://twitter.com/gfrog/statuses/21022667897)
+
+
+
+
+
+  * 靠的，不让我离职，我准备大闹一场了。 [09:28:01, 2010-08-13](http://twitter.com/gfrog/statuses/21022944274)
+
+
+
+
+
+  * [@hedaors](http://twitter.com/hedaors) 是的，北漂。 [in reply to hedaors](http://twitter.com/hedaors/statuses/21023071855) [09:31:38, 2010-08-13](http://twitter.com/gfrog/statuses/21023203372)
+
+
+
+
+
+  * [@yvonnecrab](http://twitter.com/yvonnecrab) 要榨干我最后一点利用价值嘛，我偏不随他愿。。。 [in reply to yvonnecrab](http://twitter.com/yvonnecrab/statuses/21023017119) [09:32:11, 2010-08-13](http://twitter.com/gfrog/statuses/21023242395)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 网上抄来一个，也没简单多少。 ifconfig eth0 | sed -ne 's/(.*)addr:([[:digit:].]*)(.*)/2/p' [in reply to felixonmars](http://twitter.com/felixonmars/statuses/21023896879) [09:42:41, 2010-08-13](http://twitter.com/gfrog/statuses/21023986361)
+
+
+
+
+
+  * [@Mini_Dragon_CN](http://twitter.com/Mini_Dragon_CN) 其实支付宝是在掩饰丫的不支持Linux的这个事实。在Linux把它当屎就行了。 [in reply to Mini_Dragon_CN](http://twitter.com/Mini_Dragon_CN/statuses/21024034243) [09:44:57, 2010-08-13](http://twitter.com/gfrog/statuses/21024144167)
+
+
+
+
+
+  * Linux用户表示情绪稳定。在windows里玩git，也需要勇气。 RT [@ilikeyoutwo](http://twitter.com/ilikeyoutwo) nnd，在Windows下用git各种不爽，效率低下，资源占用高居不下，不知道在Linux下表现如何 [09:45:55, 2010-08-13](http://twitter.com/gfrog/statuses/21024214682)
+
+
+
+
+
+  * [@yvonnecrab](http://twitter.com/yvonnecrab) 其实满一个月基本能让我走，现在是有年假不让我休，非逼我干活。。。 [in reply to yvonnecrab](http://twitter.com/yvonnecrab/statuses/21023279515) [09:47:04, 2010-08-13](http://twitter.com/gfrog/statuses/21024294368)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 历史剧导演都该枪毙 别用你们的无知教坏我的孩子！ [http://j.mp/aEKwYZ](http://j.mp/aEKwYZ) [09:55:22, 2010-08-13](http://twitter.com/gfrog/statuses/21024874899)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 青蛙有那么蠢吗？——另一个“温水煮青蛙”的故事 [http://j.mp/b7Wk4W](http://j.mp/b7Wk4W) [10:12:37, 2010-08-13](http://twitter.com/gfrog/statuses/21026120632)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 真相原来如此：郭德纲拿到了船票 [http://j.mp/bXtJer](http://j.mp/bXtJer) [10:14:31, 2010-08-13](http://twitter.com/gfrog/statuses/21026253867)
+
+
+
+
+
+  * 我靠，果然是adblock把webqq给挡住了，我说qq也不能菜到连chrome也不支持。。。 [10:35:43, 2010-08-13](http://twitter.com/gfrog/statuses/21027760561)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 额，没看懂需求，nat不是在路由之后才做么？ [in reply to felixonmars](http://twitter.com/felixonmars/statuses/21027200645) [10:37:28, 2010-08-13](http://twitter.com/gfrog/statuses/21027884615)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 没文化：10道精彩的智力问题 [http://j.mp/bKNi4u](http://j.mp/bKNi4u) [13:29:25, 2010-08-13](http://twitter.com/gfrog/statuses/21039093543)
+
+
+
+
+
+  * 最后一句很雷人。 RT [@Orz_C](http://twitter.com/Orz_C): 10号线，见一巨美180以上洋妞抚门而立，一非主牛丑陋猥琐160男上前搭讪，曰：“嚎堵油犊？”洋妞一个甜美的微笑，答：“Do你妈Do！流氓！”…全车安静了…连卖唱的瞎大爷瞎的奶奶都投来了赞许的目光… [#Q](http://search.twitter.com/search?q=%23Q) [13:51:39, 2010-08-13](http://twitter.com/gfrog/statuses/21040298763)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 牛刀：99%的年轻白领灰色收入实为负数 [http://j.mp/aD3zjR](http://j.mp/aD3zjR) [14:04:04, 2010-08-13](http://twitter.com/gfrog/statuses/21040957677)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 令人恶心的快递公司——宅急送 [http://j.mp/9Wbftg](http://j.mp/9Wbftg) [14:17:06, 2010-08-13](http://twitter.com/gfrog/statuses/21041646239)
+
+
+
+
+
+  * 这种人就应该就地踹死。svn可以限制log的最小字数吧。 RT [@o_lll](http://twitter.com/o_lll): 一哥们儿svn commit从来不写log，最近好容易写log了，连着两次提交的log分别是：bug fix，fix bug。。。 [14:27:01, 2010-08-13](http://twitter.com/gfrog/statuses/21042146415)
+
+
+
+
+
+  * RT [@fly_hakka](http://twitter.com/fly_hakka) [博]几个ED2K搜索引擎  [http://zuosa.net/5nxlk.u](http://zuosa.net/5nxlk.u) [15:41:27, 2010-08-13](http://twitter.com/gfrog/statuses/21045737423)
+
+
+
+
+
+  * 阿里巴巴下面有阿里云这个公司么。。。 [15:54:36, 2010-08-13](http://twitter.com/gfrog/statuses/21046330088)
+
+
+
+
+
+  * 研究了一晚上，最后终于发现5100agn没办法开ap模式，靠的，郁闷了。 [21:47:34, 2010-08-13](http://twitter.com/gfrog/statuses/21065033133)
+
+
+
+
+
+  * OMG，我手上的各种客户端都没有完美支持oauth呢，做了两个api，目前手中这些客户端也不能完好支持。 RT [@Mini_Dragon_CN](http://twitter.com/Mini_Dragon_CN) 强制oauth 还有73小时 请大家做好各种准备 [23:02:24, 2010-08-13](http://twitter.com/gfrog/statuses/21070839392)
+
+
+
+

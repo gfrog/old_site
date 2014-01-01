@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2010-09-08 01:00:00
+layout: post
+slug: todays-tweets-2010-09-08
+title: Today's tweets 2010-09-08
+wordpress_id: 971
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  3 Sep 2010 - Flickr [http://j.mp/9iFb7k](http://j.mp/9iFb7k) [19:57:10, 2010-09-08](http://twitter.com/gfrog/statuses/23907486994)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Debian 7.0 被命名为 Wheezy [http://j.mp/cdXYYn](http://j.mp/cdXYYn) [19:57:11, 2010-09-08](http://twitter.com/gfrog/statuses/23907487662)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) mutt 带附件转发 [http://j.mp/9XEJ6G](http://j.mp/9XEJ6G) [19:57:14, 2010-09-08](http://twitter.com/gfrog/statuses/23907491136)
+
+
+
+

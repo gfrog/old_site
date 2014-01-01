@@ -1,0 +1,48 @@
+---
+comments: true
+date: 2011-07-05 01:00:00
+layout: post
+slug: todays-tweets-2011-07-05
+title: Today's tweets 2011-07-05
+wordpress_id: 1766
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * gplus.to/gfrog [09:32:10, 2011-07-05](http://twitter.com/gfrog/statuses/88057549848444928)
+
+
+
+
+
+  * google plus 真是不能在公司看啊，太可怕了！ [09:33:31, 2011-07-05](http://twitter.com/gfrog/statuses/88057888215539712)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 这真的是你自己的G+，只有你能看到自己，XD，发自己的profile或者nick吧。 [in reply to kareguing](http://twitter.com/kareguing/statuses/88127583987826688) [14:35:45, 2011-07-05](http://twitter.com/gfrog/statuses/88133949297135616)
+
+
+
+
+
+  * RT [@Houge_Langley](http://twitter.com/Houge_Langley): GNOME官方网站被中国电信封禁 [http://bit.ly/mhVW2C](http://bit.ly/mhVW2C) GNOME在中国遇到了麻烦，经测试，中国电信已封禁GNOME官方网站IP，通过 [http://www.gnome.org](http://www.gnome.org) 打开GNOME官方网站(IP:91.189.93.3) [17:02:58, 2011-07-05](http://twitter.com/gfrog/statuses/88170996502245376)
+
+
+
+
+
+  * 刚刚试了下，访问gnome主页正常啊。 cc [@Houge_Langley](http://twitter.com/Houge_Langley) [17:04:33, 2011-07-05](http://twitter.com/gfrog/statuses/88171394852061185)
+
+
+
+

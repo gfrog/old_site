@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2011-06-29 01:00:00
+layout: post
+slug: todays-tweets-2011-06-29
+title: Today's tweets 2011-06-29
+wordpress_id: 1761
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 这玩意跟普通vps没啥区别吧。 RT [@luzhaohui](http://twitter.com/luzhaohui): 有谁有在Amazon EC2上部署openvpn服务器的经验或教程？ [10:05:29, 2011-06-29](http://twitter.com/gfrog/statuses/85891607316004864)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 貌似记了一个流水帐，我找找。。。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/85898121980293120) [11:31:57, 2011-06-29](http://twitter.com/gfrog/statuses/85913365406433280)
+
+
+
+
+
+  * RT [@Houge_Langley](http://twitter.com/Houge_Langley): Thunderbird 5.0 正式发布http://bit.ly/jdX4Bmriku 写道 “自Beta 1 发布三周后，开源Email客户端 Mozilla Thunderbird 5.0 最终正式版于今日正式发布” [11:41:00, 2011-06-29](http://twitter.com/gfrog/statuses/85915644473786368)
+
+
+
+
+
+  * RT [@ksky](http://twitter.com/ksky): 10个任务不够？10个任务不够你不会邀请自己再开一个账户！#ifttt [11:41:13, 2011-06-29](http://twitter.com/gfrog/statuses/85915697103896576)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 找了一圈，木有找到当时的流水帐。貌似用源码编译一个openvpn就行，网上攻略大把大把的。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/85898121980293120) [11:42:03, 2011-06-29](http://twitter.com/gfrog/statuses/85915906500341760)
+
+
+
+
+
+  * 她会不会被吓死，一个死人天天跟她说话。 RT [@htgyj](http://twitter.com/htgyj) [@walkcn](http://twitter.com/walkcn) [@Doriscafe](http://twitter.com/Doriscafe): 我死后，请你替我照顾她。每天给她发短信叫早，订花，在推特上mention她，赞她，天气好提醒加衣，天气不好提醒带伞，请你替我照顾她，只要服务器不倒下，就直到永远。#ifttt [16:05:45, 2011-06-29](http://twitter.com/gfrog/statuses/85982272842502144)
+
+
+
+
+
+  * RT [@kDolphin](http://twitter.com/kDolphin): RT [@hhalloyy](http://twitter.com/hhalloyy): 小时候每当我伤风，母亲都会为我冲一杯咖啡。她温柔的说：“外国人都是这样的。”可我总是害怕咖啡的味道，酸甜苦涩交错，人生亦如是。如今我走遍两岸、上岛、星巴克都见不到小时候喝的那个牌子，还依稀记得它有一个很洋气的名字：板蓝根！ [18:02:23, 2011-06-29](http://twitter.com/gfrog/statuses/86011622929334273)
+
+
+
+

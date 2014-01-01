@@ -1,0 +1,222 @@
+---
+comments: true
+date: 2010-12-19 01:00:00
+layout: post
+slug: todays-tweets-2010-12-19
+title: Today's tweets 2010-12-19
+wordpress_id: 1087
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@lukachen](http://twitter.com/lukachen): 大陸地區人士取得外國永久居留權後，馬上就可以向臺灣駐外辦事處申請中華民國海外護照，留學生或在海外勞務者只要連續居留兩年以上(720天)，或是離開中國大陸地區4年以上，均可申請，其申請的中華民國海外護照有效期為3年。 [01:47:51, 2010-12-19](http://twitter.com/gfrog/statuses/16187904468451328)
+
+
+
+
+
+  * RT [@zhufengme](http://twitter.com/zhufengme): 联通3G在53端口上做了Qos，如果你的vpn是走53端口的，连接速度会相当缓慢。这个设定可能是为了防止跳过某些基于http认证蹭网的行为 [01:49:49, 2010-12-19](http://twitter.com/gfrog/statuses/16188396011520000)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) bc43便宜啊，这是broadcom的问题，现在可能需要自己编译个驱动。要想内核直接支持，要等到37内核才行。 in reply to Houge_Langley [10:52:02, 2010-12-19](http://twitter.com/gfrog/statuses/16324850297606144)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) The Social Media Infographics Of 2010 [http://j.mp/fmoO54](http://j.mp/fmoO54) [11:14:17, 2010-12-19](http://twitter.com/gfrog/statuses/16330450901401600)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 快递出问题了怎么办，投诉无门？？教你怎么投诉快递！！ [http://j.mp/dEi85q](http://j.mp/dEi85q) [11:14:31, 2010-12-19](http://twitter.com/gfrog/statuses/16330509151895552)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 在美国大学上“当代中国政治”课 [http://j.mp/hdaybG](http://j.mp/hdaybG) [11:40:36, 2010-12-19](http://twitter.com/gfrog/statuses/16337072885334016)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 强烈声讨淘宝皇冠卖家“东方久顺”！ (豆瓣 一二手相机市场小组) [http://j.mp/gs1ANz](http://j.mp/gs1ANz) [11:45:09, 2010-12-19](http://twitter.com/gfrog/statuses/16338220463693824)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 中华民国将满百岁 马称“国瑞” [http://j.mp/gP1UGn](http://j.mp/gP1UGn) [11:47:32, 2010-12-19](http://twitter.com/gfrog/statuses/16338819968139264)
+
+
+
+
+
+  * 把grader的所有未读统统标记为已读了，大概半个月没怎么看，6k条未读，光扫一遍标题都要好久。 [13:17:27, 2010-12-19](http://twitter.com/gfrog/statuses/16361447164477440)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 17 Dec 2010 - Flickr [http://j.mp/gTF0Sg](http://j.mp/gTF0Sg) [15:55:06, 2010-12-19](http://twitter.com/gfrog/statuses/16401121882939392)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): RT [@yuanshuai171](http://twitter.com/yuanshuai171): 受twitter影响，我现在写作文，写到140个字的时候就会思路全无。 [17:51:20, 2010-12-19](http://twitter.com/gfrog/statuses/16430370899632128)
+
+
+
+
+
+  * RT [@skyier](http://twitter.com/skyier): 傲娇手机，竟然可以翻译的这么暧昧RT [@avege](http://twitter.com/avege): [@hillwood](http://twitter.com/hillwood) [@skyier](http://twitter.com/skyier) 我没有傲娇手机。 [17:53:20, 2010-12-19](http://twitter.com/gfrog/statuses/16430875117883392)
+
+
+
+
+
+  * RT [@aheiii](http://twitter.com/aheiii): 有次会中跟同事说到了多用些bash下的快捷键能极大的提高工作效率, 同事让我会后把快捷键都发出来, 所以写了篇高效操作bash的文章, 有兴趣的同学可以看看: 高效操作Bash [http://ahei.info/bash.htm](http://ahei.info/bash.htm) [17:53:42, 2010-12-19](http://twitter.com/gfrog/statuses/16430967220600832)
+
+
+
+
+
+  * RT [@dning1](http://twitter.com/dning1): RT [@bearice](http://twitter.com/bearice): "大学谈了一个女朋友，谈了2个月之后突然得到消息他表哥其实是收养的，跟她没有血缘关系 ，于是她果断跟我分手，跟她表哥回老家结婚去了。这人生有时候比电视剧都像电视剧。"//噗哈哈哈 [18:01:27, 2010-12-19](http://twitter.com/gfrog/statuses/16432919190962176)
+
+
+
+
+
+  * RT [@pipitu](http://twitter.com/pipitu): RT [@saikahime](http://twitter.com/saikahime): 低调放上双猫耳无节操真相福利一张～ [http://is.gd/j06Mn](http://is.gd/j06Mn) [18:06:13, 2010-12-19](http://twitter.com/gfrog/statuses/16434116471816192)
+
+
+
+
+
+  * 对一个Oracle跳过来的同事很好奇，是什么促使他离开Oracle来到一家小公司呢？ [18:26:52, 2010-12-19](http://twitter.com/gfrog/statuses/16439314586009600)
+
+
+
+
+
+  * [@snowsky](http://twitter.com/snowsky) 木有，还是在帝都。 in reply to snowsky [21:32:32, 2010-12-19](http://twitter.com/gfrog/statuses/16486039652667393)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Symbian，倒在3G的门槛上 [http://j.mp/g4tZ6P](http://j.mp/g4tZ6P) [21:49:18, 2010-12-19](http://twitter.com/gfrog/statuses/16490256492658688)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Grub4DOS高级应用 [http://j.mp/gBKmd8](http://j.mp/gBKmd8) [22:18:02, 2010-12-19](http://twitter.com/gfrog/statuses/16497488630390784)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Facebook全球关系网 [http://j.mp/igkdhm](http://j.mp/igkdhm) [22:27:57, 2010-12-19](http://twitter.com/gfrog/statuses/16499985709277184)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 『视频』谷歌文档也能做动画 当450页Google Doc动在一起 [http://j.mp/gcwmS4](http://j.mp/gcwmS4) [22:30:08, 2010-12-19](http://twitter.com/gfrog/statuses/16500532919144448)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 当 Google Reader 遇上 Chrome——打造 GR 专属浏览器 [http://j.mp/fcEkUA](http://j.mp/fcEkUA) [22:34:29, 2010-12-19](http://twitter.com/gfrog/statuses/16501626894295041)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 又一份书单 [http://j.mp/fNnxhs](http://j.mp/fNnxhs) [22:40:35, 2010-12-19](http://twitter.com/gfrog/statuses/16503163427225600)
+
+
+
+
+
+  * 大家都知道的，所以我从来不在支付宝里面留钱。 RT [@raptorz](http://twitter.com/raptorz): 哎呀呀，果真如我几年前所猜的？ RT [@bang590](http://twitter.com/bang590): 转 [@Kevin](http://twitter.com/Kevin) 淘宝的盈利模式……是利用每天多达340亿的支付宝划账暂存金额的利息收益，此项现金流收入每年收入近10亿元。 [22:47:35, 2010-12-19](http://twitter.com/gfrog/statuses/16504924078608384)
+
+
+
+
+
+  * 爬床睡觉。 [22:48:06, 2010-12-19](http://twitter.com/gfrog/statuses/16505056979320832)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 理论上是可以的，9700内置了不少vpn连接方式，不过需要自己倒腾证书神马的。 in reply to pityonline [22:48:49, 2010-12-19](http://twitter.com/gfrog/statuses/16505233798594561)
+
+
+
+
+
+  * 哦，支付宝又办卡通支付送红包的活动了，睡觉之前先用卡通充10羊的话费。 [22:50:31, 2010-12-19](http://twitter.com/gfrog/statuses/16505663609905152)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 上帝的心思 [http://j.mp/fV5pKC](http://j.mp/fV5pKC) [23:20:37, 2010-12-19](http://twitter.com/gfrog/statuses/16513239038828545)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 中产万税 [http://j.mp/guJe7d](http://j.mp/guJe7d) [23:23:23, 2010-12-19](http://twitter.com/gfrog/statuses/16513934718668801)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 额，没细看，能绑定卡通就成。 in reply to ImSyls [23:37:12, 2010-12-19](http://twitter.com/gfrog/statuses/16517411742158848)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 其实我不看好这种比较底层的东西port到windows上，起个livecd装一个真正的grub不是更靠谱？ in reply to Gyteng [23:39:00, 2010-12-19](http://twitter.com/gfrog/statuses/16517866719285248)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 尽量让支付宝少赚点嘛 XD。存他那又不给我利息。 in reply to raptorz [23:39:59, 2010-12-19](http://twitter.com/gfrog/statuses/16518113214341120)
+
+
+
+
+
+  * 用的着这么麻烦嘛，安卓上一个marketaccess就搞定了 RT [@pityonline](http://twitter.com/pityonline): 通过前几天 [@yufenglu](http://twitter.com/yufenglu) 提醒，得知 [#Android](http://search.twitter.com/search?q=%23Android) 用wifi连接vpn将手机模拟成在国外，可享受完整的电子市场 cc [@localhost_8080](http://twitter.com/localhost_8080) [@_GummEr](http://twitter.com/_GummEr) [23:50:22, 2010-12-19](http://twitter.com/gfrog/statuses/16520726349619200)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 安卓还是黑莓？ 安卓小心些，黑莓尽管刷，刷不死的，大不了重刷一遍就好了。 in reply to pityonline [23:55:14, 2010-12-19](http://twitter.com/gfrog/statuses/16521951832973313)
+
+
+
+

@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2012-07-03 23:59:00
+layout: post
+slug: todays-tweets-2012-07-03
+title: Today's tweets 2012-07-03
+wordpress_id: 2591
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:25, 2012-07-03](http://twitter.com/gfrog/statuses/219958742261829633)
+
+
+
+
+
+  * @张国华_虚拟化在Lenovo 某开源软件公司近半年SA Team人员流失：张XX，精通Kernel和算法。 张XX，忽悠人员，较强架构设计能力和创造力。 李XX，云领域先锋之一，深度了解Opestack等云架构，对国内运营商中的Linux应用极其了解。（未完） [10:56:28, 2012-07-03](http://twitter.com/gfrog/statuses/219987947922014209)
+
+
+
+
+
+  * （接上推） @张国华_虚拟化在Lenovo XXX、淡XX，国内JBoss领域难得人才。 半年走了5人，而SA（大陆）满编也就是11人。 神奇的公司！ [10:56:53, 2012-07-03](http://twitter.com/gfrog/statuses/219988051894599682)
+
+
+
+

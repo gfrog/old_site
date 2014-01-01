@@ -1,0 +1,48 @@
+---
+comments: true
+date: 2011-11-23 01:00:00
+layout: post
+slug: todays-tweets-2011-11-23
+title: Today's tweets 2011-11-23
+wordpress_id: 1963
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 哎呀呀，年底了，竟然忙起来了，积攒的任务一大堆。 [00:38:58, 2011-11-23](http://twitter.com/gfrog/statuses/139020052929323008)
+
+
+
+
+
+  * RT [@shingle2011](http://twitter.com/shingle2011): 情何已堪RT [@duck__1984](http://twitter.com/duck__1984): 据扬子晚报，两名80后男子网上学到制毒方法，从800多盒新康泰克中提炼出原料制成冰毒95克。昨天南京市溧水县法院对这起江苏省首例感冒药制毒案一审宣判被判处有期徒刑15年。 [10:26:34, 2011-11-23](http://twitter.com/gfrog/statuses/139167930515587072)
+
+
+
+
+
+  * RT [@gamtin](http://twitter.com/gamtin): [Google Reader Starred] [来自异次元] Synergy 一套键鼠同时控制多台电脑的神器！超级方便！(开源免费，支持Win/Mac/Linux) [http://t.co/kEgEL7fi](http://t.co/kEgEL7fi) [10:34:31, 2011-11-23](http://twitter.com/gfrog/statuses/139169930087120896)
+
+
+
+
+
+  * 竟然有人说apache简单灵活，我拜，难道丫眼中的web服务器都需要像IIS的一坨坨那样才叫复杂难用嘛？ [11:27:43, 2011-11-23](http://twitter.com/gfrog/statuses/139183319546986496)
+
+
+
+
+
+  * 噗。22...还简单。。。 RT [@soulhacker](http://twitter.com/soulhacker): 22个简单步骤实现在 Kindle Fire 上截屏 [http://t.co/xT8J2YCg](http://t.co/xT8J2YCg) // 我真的不是 Kindle 黑… [17:58:35, 2011-11-23](http://twitter.com/gfrog/statuses/139281683823333376)
+
+
+
+

@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2011-09-16 01:00:00
+layout: post
+slug: todays-tweets-2011-09-16
+title: Today's tweets 2011-09-16
+wordpress_id: 1846
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 总算整明白ibus为啥不能用啦，原来我一时手贱，把gnome-icon-theme删掉了，ibus启动过程出错，擦里个擦，难道ibus不应该依赖一下这个包才对嘛？！ [17:44:43, 2011-09-16](http://twitter.com/gfrog/statuses/114635818664071168)
+
+
+
+
+
+  * 下午比较了一堆kde下的irc客户端，Konversation、Quassel、Kvirc，都不是很爽，前两个功能很强大，但是比较慢，第三个作为KDE4默认安装的客户端，功能比较单一。最后俺还是决定投入irssi的怀抱算了。 [17:49:08, 2011-09-16](http://twitter.com/gfrog/statuses/114636930087518209)
+
+
+
+
+
+  * emmm，ibus打字比fcitx舒服多了，fcitx一直把“乐”作为le的第一个备选字，而且不会自动调词频，这是神马做法？ [17:50:38, 2011-09-16](http://twitter.com/gfrog/statuses/114637307805569025)
+
+
+
+

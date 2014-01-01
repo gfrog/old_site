@@ -1,0 +1,1050 @@
+---
+comments: true
+date: 2011-02-02 01:00:00
+layout: post
+slug: todays-tweets-2011-02-02
+title: Today's tweets 2011-02-02
+wordpress_id: 1651
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 年龄暴露推，哈哈。RT [@htgyj](http://twitter.com/htgyj): 大清早接到姑姑的电话，说让妈妈给我买一套红色内衣裤以及保暖内衣裤，我脑海里一下子蹦出了个通红的龙虾形象，而且还脑残的回了姑姑一句：你要我假装龙虾吗？电话那头沉默，爸妈脸色也不好看，捂脸……＃老家 [09:25:27, 2011-02-02](http://twitter.com/gfrog/statuses/32610516857790465)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku): RT [@amelieonsea](http://twitter.com/amelieonsea): 马伯庸：过年了，有些年轻的宅朋友们手书“软妹”二字，倒糊在门口，谓之“软妹到了。” 窃以为这个还不够上等，这里建议使用透明胶固定，谓之“软妹倒贴”，境界更胜一筹。 [09:26:57, 2011-02-02](http://twitter.com/gfrog/statuses/32610894013792256)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku): RT [@gokeeper](http://twitter.com/gokeeper): Facebook 将和美帝7大提供机上wifi的航空公司合作，乘客可免费访问 facebook。而 Google 赞助的免费机上wifi可以访问所有网站。 [09:28:06, 2011-02-02](http://twitter.com/gfrog/statuses/32611180824502272)
+
+
+
+
+
+  * RT [@_J_Smith](http://twitter.com/_J_Smith): 囧rz.............RT [@nasiless](http://twitter.com/nasiless): 安检时，一大姐听说酸奶不让带上飞机，直接掏出来喝掉，人在囧途真人秀啊 [09:31:14, 2011-02-02](http://twitter.com/gfrog/statuses/32611972025417728)
+
+
+
+
+
+  * [@htgyj](http://twitter.com/htgyj) 好吧，从来不看bio的飘过。 [in reply to htgyj](http://twitter.com/htgyj/statuses/32611341285990400) [09:32:41, 2011-02-02](http://twitter.com/gfrog/statuses/32612336674017282)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 26 Jan 2011 - Flickr [http://j.mp/e263g8](http://j.mp/e263g8) [12:04:32, 2011-02-02](http://twitter.com/gfrog/statuses/32650551191670784)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 27 Jan 2011 - Flickr [http://j.mp/eXGxLA](http://j.mp/eXGxLA) [12:04:35, 2011-02-02](http://twitter.com/gfrog/statuses/32650562012979200)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 28 Jan 2011 - Flickr [http://j.mp/hRLHPz](http://j.mp/hRLHPz) [12:04:38, 2011-02-02](http://twitter.com/gfrog/statuses/32650574298091520)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 30 Jan 2011 - Flickr [http://j.mp/eNFQSq](http://j.mp/eNFQSq) [12:05:04, 2011-02-02](http://twitter.com/gfrog/statuses/32650684725723136)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 29 Jan 2011 - Flickr [http://j.mp/eetKQ4](http://j.mp/eetKQ4) [12:05:05, 2011-02-02](http://twitter.com/gfrog/statuses/32650687334584320)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Linux 下利用 base64 破解 Rayfile 专用链 [http://j.mp/fUXDYT](http://j.mp/fUXDYT) [12:10:35, 2011-02-02](http://twitter.com/gfrog/statuses/32652071249379328)
+
+
+
+
+
+  * 这么早拜年的短信就来了，这种群发短信真是一点营养也没有，无聊！ [18:07:21, 2011-02-02](http://twitter.com/gfrog/statuses/32741854231396352)
+
+
+
+
+
+  * android上国产软件精品不多。 RT [@EvilEver](http://twitter.com/EvilEver): 钛备份？RT [@xyh67](http://twitter.com/xyh67): 我擦...豌豆夹越做越差了啊...一直停留在欢迎画面...卡死了.. [18:08:04, 2011-02-02](http://twitter.com/gfrog/statuses/32742036255801344)
+
+
+
+
+
+  * 擦，现在给力泛滥，审美疲劳啦。 RT [@yegle](http://twitter.com/yegle): 春晚哪个傻逼说“给力”的时候，各位同学一定要吆喝一声啊！ [18:10:14, 2011-02-02](http://twitter.com/gfrog/statuses/32742580319952896)
+
+
+
+
+
+  * 上vps更新一下系统，似乎一直木有写自动更新和备份的脚本，不应该啊不应该。 [18:13:21, 2011-02-02](http://twitter.com/gfrog/statuses/32743365984387072)
+
+
+
+
+
+  * 兔年想去办套兔斯基信用卡，可惜时间太紧，木有办成。等春节放假结束就办去。 [18:14:52, 2011-02-02](http://twitter.com/gfrog/statuses/32743747787685888)
+
+
+
+
+
+  * 兔年，用傲兔发推，哇哈哈。 [18:15:30, 2011-02-02](http://twitter.com/gfrog/statuses/32743907175440384)
+
+
+
+
+
+  * [@jeanbritneyl](http://twitter.com/jeanbritneyl) nono，中信的。一套4枚。 [in reply to jeanbritneyl](http://twitter.com/jeanbritneyl/statuses/32744218648641536) [18:18:44, 2011-02-02](http://twitter.com/gfrog/statuses/32744722380365824)
+
+
+
+
+
+  * 擦，群发短信也不知道留个落款，谁知道你丫是谁。 [18:26:12, 2011-02-02](http://twitter.com/gfrog/statuses/32746599746641920)
+
+
+
+
+
+  * CCAV在读新浪微博，之前都是读短信的。 2010真是微博爆发的一年。 [18:29:36, 2011-02-02](http://twitter.com/gfrog/statuses/32747454524821504)
+
+
+
+
+
+  * RT [@jeanbritneyl](http://twitter.com/jeanbritneyl): 看吧看吧  我刚听见电视里赵本山的声音“南方雪灾的父老乡亲们...有政府在呢怕啥呀!”  我绝对记得小时候他跟范伟演过一个领导公款吃大餐没钱给学生教室安玻璃的小品... 这才过了几年啊就变SB了 [18:31:33, 2011-02-02](http://twitter.com/gfrog/statuses/32747946457964545)
+
+
+
+
+
+  * 好吧，疼讯竟然也在CCAV做广告了，是我out了嘛。 [18:32:11, 2011-02-02](http://twitter.com/gfrog/statuses/32748107758305280)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 是呀是呀，不知道今晚有偷菜没。。为神马说偷菜就能让我想起乐phone那个sb广告。。。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/32747892020088832) [18:33:56, 2011-02-02](http://twitter.com/gfrog/statuses/32748546465734656)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 疼讯这么大一个媒体竟然要向传统媒体低头，啧啧。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/32748339590070272) [18:35:00, 2011-02-02](http://twitter.com/gfrog/statuses/32748816327249920)
+
+
+
+
+
+  * oops，外边鞭炮响成片了，靠，最讨厌鞭炮声，扰民扰民。 [18:36:37, 2011-02-02](http://twitter.com/gfrog/statuses/32749220221947904)
+
+
+
+
+
+  * 嘿，还真有可能呀！ RT [@majunpu](http://twitter.com/majunpu): 想当年，百度几千万砸在春晚上，没想到一过了年，315晚会就把百度卖假药的事给曝光了。今年腾讯砸这么多钱在春晚上，不知道今年的315会不会有腾讯。土匪流氓的胃口是很大滴。 [in reply to majunpu](http://twitter.com/majunpu/statuses/32748573783232512) [18:37:12, 2011-02-02](http://twitter.com/gfrog/statuses/32749368746442752)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 怒鸟比较难吧，除非明年怒鸟登录疼讯平台 XD [in reply to ImSyls](http://twitter.com/ImSyls/statuses/32749246406983680) [18:39:05, 2011-02-02](http://twitter.com/gfrog/statuses/32749841406763009)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 确实，难怪是那么一个剧情。不知道父母知道QQ上会找到419之类的之后会怎么想。XD [in reply to yoyicue](http://twitter.com/yoyicue/statuses/32749952006356992) [18:41:13, 2011-02-02](http://twitter.com/gfrog/statuses/32750379796008961)
+
+
+
+
+
+  * 一年又一年这俩主持人太不给力啦！ 闷死人。 [18:42:53, 2011-02-02](http://twitter.com/gfrog/statuses/32750796814688256)
+
+
+
+
+
+  * [@jeanbritneyl](http://twitter.com/jeanbritneyl) 组团三国杀。 [in reply to jeanbritneyl](http://twitter.com/jeanbritneyl/statuses/32751533070229504) [18:46:56, 2011-02-02](http://twitter.com/gfrog/statuses/32751819507634176)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 大冬天的竟然有蝈蝈，好神奇。 [in reply to childream](http://twitter.com/childream/statuses/32751608097939456) [18:47:41, 2011-02-02](http://twitter.com/gfrog/statuses/32752007349538816)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 哦哦，我一直认为蝈蝈只有夏天的时候才有。。。 [in reply to childream](http://twitter.com/childream/statuses/32752114979577856) [18:48:47, 2011-02-02](http://twitter.com/gfrog/statuses/32752283359903744)
+
+
+
+
+
+  * 我擦，太凶悍了。 RT [@duck_1984](http://twitter.com/duck_1984): xxx 17:42:09 隔壁楼有一家放礼炮 xxx 17:42:24 轰到对面的房子里面去了 xxx 17:42:41 然后对面也拿了礼炮出来对轰 xxx 17:42:47 然后 救火车来了。 [18:51:04, 2011-02-02](http://twitter.com/gfrog/statuses/32752857669177344)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 难道是自己用虫卵孵？啧啧，out了out了。 [in reply to childream](http://twitter.com/childream/statuses/32752940066283520) [18:53:11, 2011-02-02](http://twitter.com/gfrog/statuses/32753389704060928)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 在我印象里蝈蝈秋天的时候就死掉了呀，难道帝都的大爷们有办法一直让它活到冬天。。。 [in reply to childream](http://twitter.com/childream/statuses/32753651135021056) [18:55:16, 2011-02-02](http://twitter.com/gfrog/statuses/32753915246149632)
+
+
+
+
+
+  * Orz RT [@tenione](http://twitter.com/tenione): RT [@Orz_Ta](http://twitter.com/Orz_Ta): 。。。RT [@iZLQ](http://twitter.com/iZLQ): 今夜0：00，所有女生必须脱下BRA，以保佑明年不会有凶兆 [18:58:16, 2011-02-02](http://twitter.com/gfrog/statuses/32754668270526464)
+
+
+
+
+
+  * 用 [#chunjie](http://search.twitter.com/search?q=%23chunjie) 还是 [#springfestival](http://search.twitter.com/search?q=%23springfestival) 做tag呢，说起来，汉语即使用汉语拼音也比英文短耶。 [19:00:08, 2011-02-02](http://twitter.com/gfrog/statuses/32755137948684288)
+
+
+
+
+
+  * 无语了，刚刚上推的同时就打开android主页准备下个sdk，结过搞了半天，连那网页也木有打开！ [19:02:30, 2011-02-02](http://twitter.com/gfrog/statuses/32755733208502272)
+
+
+
+
+
+  * 信推神，得永生。 RT [@Posy_m](http://twitter.com/Posy_m): 真的假的RT [@Q__lulu](http://twitter.com/Q__lulu): RT [@xyh67](http://twitter.com/xyh67): RT [@gfrog](http://twitter.com/gfrog): RT [@tenione](http://twitter.com/tenione): RT [@Orz_Ta](http://twitter.com/Orz_Ta): RT [@iZLQ](http://twitter.com/iZLQ): 今夜0：00，所有女生必须脱下BRA，以保佑明年不会有凶兆 [19:03:36, 2011-02-02](http://twitter.com/gfrog/statuses/32756012897275904)
+
+
+
+
+
+  * 今上又下基层慰问啦，但是怎么从来没听过今上在基层讲两句呢？都是新闻旁白。让我不得不怀疑今上的演讲能力不如太上。 [19:07:19, 2011-02-02](http://twitter.com/gfrog/statuses/32756948852015105)
+
+
+
+
+
+  * 要不要也三俗一把，制造些垃圾短信呢。。。 [19:09:41, 2011-02-02](http://twitter.com/gfrog/statuses/32757541930799104)
+
+
+
+
+
+  * 太不给力了，第一次重大节日就挂掉。 RT [@tenione](http://twitter.com/tenione): 哈哈哈哈，性浪微博挂了 [19:12:13, 2011-02-02](http://twitter.com/gfrog/statuses/32758181046259712)
+
+
+
+
+
+  * 哎呀呀，是呀是呀，名字也好萌。 RT [@queenprincewl](http://twitter.com/queenprincewl): 哎呀呀～ [#hotot](http://search.twitter.com/search?q=%23hotot) 新logo好萌～～～ [in reply to queenprincewl](http://twitter.com/queenprincewl/statuses/32758122971926528) [19:13:19, 2011-02-02](http://twitter.com/gfrog/statuses/32758456981135360)
+
+
+
+
+
+  * 包饺子去喽～～ [19:15:32, 2011-02-02](http://twitter.com/gfrog/statuses/32759013540102144)
+
+
+
+
+
+  * 那个福字贴歪了，哈哈。 RT [@niubro](http://twitter.com/niubro): 胡core贴了一个福字，那个门会被博物馆收走吧 [19:22:51, 2011-02-02](http://twitter.com/gfrog/statuses/32760857867845633)
+
+
+
+
+
+  * 垃圾短信制造完毕，还好，在套餐内。 [19:25:19, 2011-02-02](http://twitter.com/gfrog/statuses/32761475147767808)
+
+
+
+
+
+  * 门上的字贴错了，该直接贴个“拆”上去。 RT [@tenione](http://twitter.com/tenione): 那家人真可怜，贴个字门就被搬走了，比拆迁队还管用RT [@gfrog](http://twitter.com/gfrog): 那个福字贴歪了，哈哈。 RT [@niubro](http://twitter.com/niubro): 胡core贴了一个福字，那个门会被博物馆收走吧 [19:27:10, 2011-02-02](http://twitter.com/gfrog/statuses/32761940723900417)
+
+
+
+
+
+  * [@childream](http://twitter.com/childream) 囧，这样呀，去探索一下。 [in reply to childream](http://twitter.com/childream/statuses/32761419627765760) [19:27:39, 2011-02-02](http://twitter.com/gfrog/statuses/32762064183230464)
+
+
+
+
+
+  * 妈妈咪呀，赵家班还要上春晚啊，俺一个纯东北人都已经看恶心啦！ [19:28:34, 2011-02-02](http://twitter.com/gfrog/statuses/32762293209006080)
+
+
+
+
+
+  * 我决定去试试10010.。。 RT [@Kristy_xiao](http://twitter.com/Kristy_xiao): 刚刚打了10086，客服小姐问我有什么需要帮助，我对她说：“没事儿，就是给您拜个年。”我听见客服小姐都快哭出来了。By 饭否@萌先生 [19:41:21, 2011-02-02](http://twitter.com/gfrog/statuses/32765510240174080)
+
+
+
+
+
+  * 小心流量啊. RT [@xyh67](http://twitter.com/xyh67): 流量唰唰的RT [@UncleClassic](http://twitter.com/UncleClassic): 今天刚入的联通3G喇很给力，用手机当路由器本本来上网，设备费都省了 [19:43:17, 2011-02-02](http://twitter.com/gfrog/statuses/32765998549434369)
+
+
+
+
+
+  * 像不像刚经历一场战争。。。 哈哈哈。RT [@iThink](http://twitter.com/iThink): 一路上弥漫着火药的味道。 [19:44:11, 2011-02-02](http://twitter.com/gfrog/statuses/32766225691971585)
+
+
+
+
+
+  * 像不像刚经历一场战争。。。 哈哈哈。RT [@iThink](http://twitter.com/iThink): 一路上弥漫着火药的味道。 [19:44:11, 2011-02-02](http://twitter.com/gfrog/statuses/32766225817800704)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 好犀利的号码，期待结果。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/32765881608052736) [19:51:29, 2011-02-02](http://twitter.com/gfrog/statuses/32768061836623872)
+
+
+
+
+
+  * [@rockmanx2](http://twitter.com/rockmanx2) [@Posy_m](http://twitter.com/Posy_m) [@lyzgeorge](http://twitter.com/lyzgeorge) [@xyh67](http://twitter.com/xyh67) [@CNTIAN](http://twitter.com/CNTIAN) 虽然在推删掉了，但是已经晚了，早被同步到全世界去了。 [19:52:49, 2011-02-02](http://twitter.com/gfrog/statuses/32768397305454592)
+
+
+
+
+
+  * [@UncleClassic](http://twitter.com/UncleClassic) [@xyh67](http://twitter.com/xyh67) QQ会上传硬盘的，更要小心，哈哈 [in reply to UncleClassic](http://twitter.com/UncleClassic/statuses/32767197793230848) [19:53:40, 2011-02-02](http://twitter.com/gfrog/statuses/32768609965051905)
+
+
+
+
+
+  * 疼讯广告的大漏洞啊，儿子在公司里登录QQ，没几个公司会允许员工在公司登录QQ的。 [19:55:23, 2011-02-02](http://twitter.com/gfrog/statuses/32769042502647808)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 真不错的公司，俺公司就不准用加密传输的聊天软件。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/32769125583421440) [19:58:17, 2011-02-02](http://twitter.com/gfrog/statuses/32769774945570817)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan)# 开始了 [20:00:47, 2011-02-02](http://twitter.com/gfrog/statuses/32770402346344448)
+
+
+
+
+
+  * [@hELLoELL](http://twitter.com/hELLoELL) CNTV不可以嘛？ [in reply to hELLoELL](http://twitter.com/hELLoELL/statuses/32770251317837824) [20:01:24, 2011-02-02](http://twitter.com/gfrog/statuses/32770558709997568)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan)# 我擦，过年回家距离不是问题，问题就是买不着票啊票啊！ [20:02:38, 2011-02-02](http://twitter.com/gfrog/statuses/32770866798395393)
+
+
+
+
+
+  * RT [@tenione](http://twitter.com/tenione): [#chunwan](http://search.twitter.com/search?q=%23chunwan)  回家回家回家，丫的他们居然买到票了 [20:04:27, 2011-02-02](http://twitter.com/gfrog/statuses/32771327219732480)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan)# 果然大家第一想到的就是票的问题，啊哈哈。 [20:05:40, 2011-02-02](http://twitter.com/gfrog/statuses/32771632623783936)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan)# 主持人竟然没人扮兔女郎，太不敬业啦！ [20:06:11, 2011-02-02](http://twitter.com/gfrog/statuses/32771762659786753)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 俺一直在用group sms  pro。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/32771807467536384) [20:07:39, 2011-02-02](http://twitter.com/gfrog/statuses/32772131993423872)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 国母这么早就出场了。。。 [20:08:25, 2011-02-02](http://twitter.com/gfrog/statuses/32772322951700480)
+
+
+
+
+
+  * 按住alt显示血条. RT [@zhufengme](http://twitter.com/zhufengme): 墙裂建议CCAV给每个演员脑袋上方做个气泡提示，各种不认识 [20:09:00, 2011-02-02](http://twitter.com/gfrog/statuses/32772468884111360)
+
+
+
+
+
+  * RT [@chon219](http://twitter.com/chon219): 祝大家在以后的日子里，男生象Oracle般健壮；女生象Ubuntu般漂亮；桃花运象IE中毒般频繁；钱包如Gmail容量般壮大；升职速度赶上微软打补丁；追女朋友像木马一样猖獗；生活像重装电脑后一样幸福；写程序敲代码和聊天一样有激情。祝大家新年快乐！ [20:09:27, 2011-02-02](http://twitter.com/gfrog/statuses/32772583497666560)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 我擦，果然姜昆会第一个说给力。。。 [20:11:57, 2011-02-02](http://twitter.com/gfrog/statuses/32773212534210560)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 姜昆穿个长袍套个西装，果然像小月月。 [20:12:45, 2011-02-02](http://twitter.com/gfrog/statuses/32773413785305088)
+
+
+
+
+
+  * 过气了罢。现在姜昆比较火 RT [@Carlos_Gong](http://twitter.com/Carlos_Gong): 第一个曲艺类节目不是冯巩？？？？？  [#chunwan](http://search.twitter.com/search?q=%23chunwan) [20:13:34, 2011-02-02](http://twitter.com/gfrog/statuses/32773621067808769)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 姜昆的相声果然无聊。 [20:16:56, 2011-02-02](http://twitter.com/gfrog/statuses/32774466438172672)
+
+
+
+
+
+  * 春节快乐。 RT [@yoyicue](http://twitter.com/yoyicue): 同祝～ RT [@kcome](http://twitter.com/kcome): 同祝～ RT [@doubleaf](http://twitter.com/doubleaf): 祝刘晓波新年快乐 [20:18:34, 2011-02-02](http://twitter.com/gfrog/statuses/32774879434506242)
+
+
+
+
+
+  * 铜球，hotot竟然没法调刷新时间。 RT [@Hc95](http://twitter.com/Hc95): 谁有RABR给我一个 [20:19:25, 2011-02-02](http://twitter.com/gfrog/statuses/32775091058122752)
+
+
+
+
+
+  * 小月月嘛。 RT [@xyh67](http://twitter.com/xyh67): 卧槽，姜昆是里面一件大褂，外头套个橙色的外套？！够傻逼的啊...... [#chunwan](http://search.twitter.com/search?q=%23chunwan) [20:19:50, 2011-02-02](http://twitter.com/gfrog/statuses/32775194728730624)
+
+
+
+
+
+  * RT [@rainux](http://twitter.com/rainux): RT [@bzcai](http://twitter.com/bzcai): 顶 RT [@oran_ge](http://twitter.com/oran_ge): 原来 apple 才是最大的赞助商 …… [20:20:50, 2011-02-02](http://twitter.com/gfrog/statuses/32775447997587456)
+
+
+
+
+
+  * RT [@Greendamn](http://twitter.com/Greendamn): RT [@ninayan](http://twitter.com/ninayan): RT [@Nowthursday](http://twitter.com/Nowthursday): 我去……憋不住了……春晚越来越低俗了，普通老百姓怎么会知道小月月这么低俗重口的人物，春晚越来越努力用低俗的笑点担负起传播低俗内容的艰巨任务…… [20:21:44, 2011-02-02](http://twitter.com/gfrog/statuses/32775675110752256)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): RT [@ringryu](http://twitter.com/ringryu): RT [@zieglar](http://twitter.com/zieglar): RT [@LiuYaping](http://twitter.com/LiuYaping): 春晚居然没有德艺双馨的人民艺术家苍井空！ [#chunwan](http://search.twitter.com/search?q=%23chunwan) [20:25:11, 2011-02-02](http://twitter.com/gfrog/statuses/32776541108699136)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 第一流行词，“卖”起来。 [20:26:06, 2011-02-02](http://twitter.com/gfrog/statuses/32776773099847680)
+
+
+
+
+
+  * 朱军对马圈，多工整。 [20:27:16, 2011-02-02](http://twitter.com/gfrog/statuses/32777065828716544)
+
+
+
+
+
+  * 冒出了更重口味的小月月。 RT [@xyh67](http://twitter.com/xyh67): 没说给力啊.... [#chunwan](http://search.twitter.com/search?q=%23chunwan) [20:27:54, 2011-02-02](http://twitter.com/gfrog/statuses/32777225967239168)
+
+
+
+
+
+  * 同问 RT [@zhufengme](http://twitter.com/zhufengme): 这女的是谁 [20:29:19, 2011-02-02](http://twitter.com/gfrog/statuses/32777583288393728)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): 有节操ノ RT [@charliechou](http://twitter.com/charliechou): 有节操/ RT [@Beeful](http://twitter.com/Beeful): 朱军赶快说给力，我拿贞操压你了 [20:35:41, 2011-02-02](http://twitter.com/gfrog/statuses/32779187039248385)
+
+
+
+
+
+  * 太无聊，我去找零食。 RT [@yoyicue](http://twitter.com/yoyicue): 为什么这个节目没人吐槽阿~~~ [#chunwan](http://search.twitter.com/search?q=%23chunwan) [20:36:43, 2011-02-02](http://twitter.com/gfrog/statuses/32779446415007745)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 我了个去，董清那句非常好看的节目，我以为刘谦上场了呢。 [20:42:57, 2011-02-02](http://twitter.com/gfrog/statuses/32781012253544448)
+
+
+
+
+
+  * RT [@zhufengme](http://twitter.com/zhufengme): 党的政策亚克西第二季？ [#chunwan](http://search.twitter.com/search?q=%23chunwan) [20:44:07, 2011-02-02](http://twitter.com/gfrog/statuses/32781307075371008)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 擦，民族歌舞竟然没字幕，谁知道唱的是啥。 [20:46:04, 2011-02-02](http://twitter.com/gfrog/statuses/32781797859270656)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 只有藏族的歌有字幕，难道其他民族的都是乱唱的？前咕噜不转后咕噜转之类。 [20:55:32, 2011-02-02](http://twitter.com/gfrog/statuses/32784183029932033)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 这嘴型对的，真不靠谱。 [20:57:02, 2011-02-02](http://twitter.com/gfrog/statuses/32784558470463488)
+
+
+
+
+
+  * RT [@gamtin](http://twitter.com/gamtin): RT [@evillions](http://twitter.com/evillions): 意思是"小姐"已经被官方认可是妓女的代名词了？！央视真混蛋 [21:02:49, 2011-02-02](http://twitter.com/gfrog/statuses/32786012451110912)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 请三个老专家，擦，果然把社会上的丑恶现象都说出来了。 [21:05:56, 2011-02-02](http://twitter.com/gfrog/statuses/32786799394824192)
+
+
+
+
+
+  * 哇，围观一下去。 RT [@Carlos_Gong](http://twitter.com/Carlos_Gong): 这个时候 Ubuntu-cn IRC 频道里还有兄弟在淡定地折腾 KVM.... 太钦佩了..... [21:06:42, 2011-02-02](http://twitter.com/gfrog/statuses/32786990625718273)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 球专家解释，替人买彩票，中奖了到底算谁的。。。 [21:09:32, 2011-02-02](http://twitter.com/gfrog/statuses/32787704609509376)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 我擦，真身出现。 [21:12:46, 2011-02-02](http://twitter.com/gfrog/statuses/32788517763416067)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 再擦，这个破小屁就这么结束了，真tm没劲。费了半天劲算计怎么秘下别人的钱，CCAV道德无底线。 [21:13:59, 2011-02-02](http://twitter.com/gfrog/statuses/32788824228626432)
+
+
+
+
+
+  * 看到这条推然后一抬头，正好看到电视里在给管子特写，我直接乐喷了。 RT [@chengr28](http://twitter.com/chengr28): RT [@charliechou](http://twitter.com/charliechou) 请您欣赏杂技节目：撸管 [#chunwan](http://search.twitter.com/search?q=%23chunwan) [21:16:28, 2011-02-02](http://twitter.com/gfrog/statuses/32789447690944512)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 朱军，给力出现。 [21:18:18, 2011-02-02](http://twitter.com/gfrog/statuses/32789912017178625)
+
+
+
+
+
+  * RT [@hengdm](http://twitter.com/hengdm): 哇嚓，原来这也是内涵啊。杂技叫“慰问”，周围的伴舞狰狞的表情象征城管与强拆大队…… [21:19:13, 2011-02-02](http://twitter.com/gfrog/statuses/32790139885330432)
+
+
+
+
+
+  * RT [@Hc95](http://twitter.com/Hc95): 爱我你就爆爆我！！！ [#chunwan](http://search.twitter.com/search?q=%23chunwan) [21:20:56, 2011-02-02](http://twitter.com/gfrog/statuses/32790573362454528)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 冯巩会说神马都是浮云？ [21:21:34, 2011-02-02](http://twitter.com/gfrog/statuses/32790732670509056)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) "爱我你就呸呸我，爱我你就暴暴我。" [21:22:29, 2011-02-02](http://twitter.com/gfrog/statuses/32790964791681024)
+
+
+
+
+
+  * 哦，真的，刚刚没注意。 RT [@pizzaliker](http://twitter.com/pizzaliker): 神马出现！ [21:24:24, 2011-02-02](http://twitter.com/gfrog/statuses/32791445542801409)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 再次证明CCAV智商无下限，整完骗人，又整假离婚 [21:31:11, 2011-02-02](http://twitter.com/gfrog/statuses/32793153790545920)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 又来给力。 [21:32:08, 2011-02-02](http://twitter.com/gfrog/statuses/32793391876014080)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 神马都是浮云出现。 [21:33:12, 2011-02-02](http://twitter.com/gfrog/statuses/32793661385220096)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 真乱糟的小品啊。 [21:39:43, 2011-02-02](http://twitter.com/gfrog/statuses/32795301530042368)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 擦，脑残出现。 黄宏 [21:40:30, 2011-02-02](http://twitter.com/gfrog/statuses/32795498322595841)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) “我看不起你” 会流行嘛？ [21:41:17, 2011-02-02](http://twitter.com/gfrog/statuses/32795695756869632)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 眼睛一红，心就黑了。 [21:41:43, 2011-02-02](http://twitter.com/gfrog/statuses/32795804045414400)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 魔术又是董卿负责，又是托嘛？ [21:44:42, 2011-02-02](http://twitter.com/gfrog/statuses/32796553026473985)
+
+
+
+
+
+  * 刘谦也很娘嘛。现在娘化正太流行。  RT [@kevinou2007](http://twitter.com/kevinou2007): 这魔术师真娘 [21:47:58, 2011-02-02](http://twitter.com/gfrog/statuses/32797375747596290)
+
+
+
+
+
+  * RT [@gokeeper](http://twitter.com/gokeeper): 233 RT [@heqian](http://twitter.com/heqian): 这些鱼儿真惨……被动了手脚……搞不好就是被绑磁铁了…… [#chunwan](http://search.twitter.com/search?q=%23chunwan) [21:50:02, 2011-02-02](http://twitter.com/gfrog/statuses/32797897414156289)
+
+
+
+
+
+  * OMG， 没事摸摸头。。。我擦，太重口了。 RT [@xyh67](http://twitter.com/xyh67): 兽交！！！！！！！！ [#chunwan](http://search.twitter.com/search?q=%23chunwan) RT [@dqbao](http://twitter.com/dqbao): 春晚太H了！单相思女人养条狗叫前男友名字，想他的时候就… [21:51:43, 2011-02-02](http://twitter.com/gfrog/statuses/32798319491162112)
+
+
+
+
+
+  * RT [@xddcc](http://twitter.com/xddcc): 转：@maggielee237：据说现在春晚放的是备播带。据说央视里面炸锅了，别问我原因，我也不知道。 [21:53:49, 2011-02-02](http://twitter.com/gfrog/statuses/32798847650504704)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 我擦，唱跑调了，要是备播带，就更不可饶恕了。 [21:59:21, 2011-02-02](http://twitter.com/gfrog/statuses/32800240562081792)
+
+
+
+
+
+  * RT [@qiheizhiya](http://twitter.com/qiheizhiya): RT [@heqian](http://twitter.com/heqian): 董卿，用带着悲惨、同情的语调介绍“西单女孩儿”，人家也是有尊严的人，并不比你低一个头。有种你用这种语调介绍一下宋祖英啊？ [#chunwan](http://search.twitter.com/search?q=%23chunwan) [21:59:40, 2011-02-02](http://twitter.com/gfrog/statuses/32800318676803584)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 刚刚有一个群众镜头，貌似之前一直没有呀。 [22:01:16, 2011-02-02](http://twitter.com/gfrog/statuses/32800723351642113)
+
+
+
+
+
+  * 无责任围观。 RT [@xyh67](http://twitter.com/xyh67): 真的假的？RT [@S_pang](http://twitter.com/S_pang): 您这算不算泄密？木有签保密协议？RT [@AstroProfundis](http://twitter.com/AstroProfundis): RT [@havefu](http://twitter.com/havefu): RT [@xvzan](http://twitter.com/xvzan): 那个金鱼是我们物院做的机器鱼 [#chunwan](http://search.twitter.com/search?q=%23chunwan) [22:01:54, 2011-02-02](http://twitter.com/gfrog/statuses/32800883959930880)
+
+
+
+
+
+  * 继续八卦，哈哈 RT [@EasonZhang](http://twitter.com/EasonZhang): 转: @衣锦夜行的燕公子 朱军和冯巩私交甚好，黄宏把给力神马浮云都说完了，冯巩没词了。朱军为了给哥们出口气故意提前把“给力”第一说抢下了！这才是本场春晚隐含的最大八卦。 [22:02:58, 2011-02-02](http://twitter.com/gfrog/statuses/32801149794910209)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 艹，40年前唱的是咱们工人有力量，现在唱的是农民工有力量，那工人呢？都下岗了。 [22:03:55, 2011-02-02](http://twitter.com/gfrog/statuses/32801391969832960)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 德云社的俩叛徒，跟郭德纲划清界线就上春晚了。 [22:06:01, 2011-02-02](http://twitter.com/gfrog/statuses/32801919319670784)
+
+
+
+
+
+  * 果然是才艺表演，啧啧。没个主题 RT [@movingtea1982](http://twitter.com/movingtea1982): 这算是相声，还是才艺展示？ [22:10:34, 2011-02-02](http://twitter.com/gfrog/statuses/32803062087155712)
+
+
+
+
+
+  * [#chuwan](http://search.twitter.com/search?q=%23chuwan) 相声真的完蛋了，就上春晚这些货，纯粹就是毁相声呢。 [22:11:19, 2011-02-02](http://twitter.com/gfrog/statuses/32803251346743297)
+
+
+
+
+
+  * 郭德纲真的不要上 [#chunwan](http://search.twitter.com/search?q=%23chunwan) ，保持相声的原汁原味吧。 [22:13:25, 2011-02-02](http://twitter.com/gfrog/statuses/32803779682238464)
+
+
+
+
+
+  * RT [@ahaofz](http://twitter.com/ahaofz): RT [@yumimao](http://twitter.com/yumimao) RT [@chnp101](http://twitter.com/chnp101): RT [@zhangjiachen123](http://twitter.com/zhangjiachen123): 这个吐槽好RT [@siiickcat](http://twitter.com/siiickcat): 哎呀哎呀 金鱼贪吃蛇附体！ [22:14:45, 2011-02-02](http://twitter.com/gfrog/statuses/32804116090593280)
+
+
+
+
+
+  * 很期待。 RT [@ImSyls](http://twitter.com/ImSyls): 我觉得过两天就该传德云社开箱，郭德纲吐槽何云伟李菁的视频了。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/32804092401164288) [22:15:55, 2011-02-02](http://twitter.com/gfrog/statuses/32804410669137920)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 周董上台了，又是中国风。 [22:16:36, 2011-02-02](http://twitter.com/gfrog/statuses/32804580878196736)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 周董真的没有一点舞蹈细胞啊。 [22:17:27, 2011-02-02](http://twitter.com/gfrog/statuses/32804793999163392)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 我擦，林志玲就这么出场了。 [22:19:30, 2011-02-02](http://twitter.com/gfrog/statuses/32805311211376641)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 志玲姐果然就是一花瓶。 [22:20:20, 2011-02-02](http://twitter.com/gfrog/statuses/32805521748660224)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): RT [@CorndogCN](http://twitter.com/CorndogCN): 现在的这个相声节目的用意，估计是安排给观众去上洗手间的，即传说中的尿点 [#Chunwan](http://search.twitter.com/search?q=%23Chunwan)# [22:22:13, 2011-02-02](http://twitter.com/gfrog/statuses/32805995876978688)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 志玲表演大变自己？ [22:22:55, 2011-02-02](http://twitter.com/gfrog/statuses/32806173035995136)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 哦，没有变自己丫，变出来这人叫啥？ [22:23:40, 2011-02-02](http://twitter.com/gfrog/statuses/32806362069073920)
+
+
+
+
+
+  * RT [@chnp101](http://twitter.com/chnp101): 董卿想拉林大姐的手，林大姐两个闪避然后头上两个miss跳出 [22:25:51, 2011-02-02](http://twitter.com/gfrog/statuses/32806911086694400)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 基本无力吐槽了，还是围观timeline算了。 [22:27:46, 2011-02-02](http://twitter.com/gfrog/statuses/32807392655704064)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 主持人的衣服是不是也可以说明备播带啊，毕竟彩排不会像正式直播一样不停换衣服吧。 [22:32:39, 2011-02-02](http://twitter.com/gfrog/statuses/32808621049905152)
+
+
+
+
+
+  * 一句话，老了！ RT [@ahaofz](http://twitter.com/ahaofz): RT [@NetPuter](http://twitter.com/NetPuter) 哎，志玲姐你怎么了，腿怎么粗了，胸怎么小了，你怎么了…… [22:33:33, 2011-02-02](http://twitter.com/gfrog/statuses/32808848418934784)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 哦，澳门那个mm叫啥来着。。。 [22:35:30, 2011-02-02](http://twitter.com/gfrog/statuses/32809339274141696)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 额地神啊，志玲姐的声音嗲起来真麻呀。 [22:36:36, 2011-02-02](http://twitter.com/gfrog/statuses/32809613703254017)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 冯巩来了，期待雷词。 [22:37:21, 2011-02-02](http://twitter.com/gfrog/statuses/32809804711862272)
+
+
+
+
+
+  * 本来就很丑。 RT [@luzhaohui](http://twitter.com/luzhaohui): [#chunwan](http://search.twitter.com/search?q=%23chunwan) 容祖儿怎么这么丑？ [22:37:43, 2011-02-02](http://twitter.com/gfrog/statuses/32809895082332160)
+
+
+
+
+
+  * RT [@Carlos_Gong](http://twitter.com/Carlos_Gong): ...... RT [@MashiMaro811](http://twitter.com/MashiMaro811): 转自校内：据传 金鱼节目失败 播出是使用备播带 目前现场已经 恢复LIVE [22:38:59, 2011-02-02](http://twitter.com/gfrog/statuses/32810213178347521)
+
+
+
+
+
+  * RT [@fcctt](http://twitter.com/fcctt): FullCircle杂志所有同仁，向热爱开源，热爱Linux，热爱Ubuntu的所有朋友，所有程序员拜年，预祝在新春，身体健康，天天快乐，心想事成。 [22:39:23, 2011-02-02](http://twitter.com/gfrog/statuses/32810314340761600)
+
+
+
+
+
+  * 对，太丑。 RT [@wubuntust](http://twitter.com/wubuntust): 容祖儿不要~RT [@chnp101](http://twitter.com/chnp101): 包围中央台，活捉容祖儿、余翠芝、林志玲、李小冉 [#chunwan](http://search.twitter.com/search?q=%23chunwan) [22:40:50, 2011-02-02](http://twitter.com/gfrog/statuses/32810680247648257)
+
+
+
+
+
+  * 会变布袋。 RT [@luzhaohui](http://twitter.com/luzhaohui): 老了胸会小吗？ RT [@gfrog](http://twitter.com/gfrog): 一句话，老了！ RT [@ahaofz](http://twitter.com/ahaofz): RT [@NetPuter](http://twitter.com/NetPuter) 哎，志玲姐你怎么了，腿怎么粗了，胸怎么小了，你怎么了…… [22:41:49, 2011-02-02](http://twitter.com/gfrog/statuses/32810930106531842)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 蛋定出现。 冯巩。 [22:42:56, 2011-02-02](http://twitter.com/gfrog/statuses/32811209015173120)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 天才比人才就多个二。二傻子遇到了大傻子。 [22:45:41, 2011-02-02](http://twitter.com/gfrog/statuses/32811901683499009)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 牛莉果然带了一个城管帽。 [22:47:17, 2011-02-02](http://twitter.com/gfrog/statuses/32812303158083584)
+
+
+
+
+
+  * RT [@Carlos_Gong](http://twitter.com/Carlos_Gong): 真的是....  RT [@Houge_Langley](http://twitter.com/Houge_Langley): 大家看看 [http://www.ubuntu.com](http://www.ubuntu.com) 的主页……相当给力 [22:50:15, 2011-02-02](http://twitter.com/gfrog/statuses/32813050599841792)
+
+
+
+
+
+  * 抢董卿当托嘛。 RT [@Orz_Ta](http://twitter.com/Orz_Ta): 枪在手，跟我走，抢董卿，占志玲！ [22:52:52, 2011-02-02](http://twitter.com/gfrog/statuses/32813706765148160)
+
+
+
+
+
+  * 确实会有老人家很喜欢。 RT [@whentp](http://twitter.com/whentp): 不是我不爱国。很讨厌春晚里面“民族特色”节目和京剧国粹类的节目。 [#chunwan](http://search.twitter.com/search?q=%23chunwan) [22:57:24, 2011-02-02](http://twitter.com/gfrog/statuses/32814850979667968)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 大山竟然都冒出来了，没人愿意上春晚了嘛。 [22:58:32, 2011-02-02](http://twitter.com/gfrog/statuses/32815136800509953)
+
+
+
+
+
+  * RT [@suiyueruge99](http://twitter.com/suiyueruge99): RT [@CCAV](http://twitter.com/CCAV): RT [@Iris32004](http://twitter.com/Iris32004): RT [@aixinrock](http://twitter.com/aixinrock):中国驻埃及大使馆发来贺电:"我草,我们这比过年还热闹啊,快来看啊!" [#chunwan](http://search.twitter.com/search?q=%23chunwan) [22:59:04, 2011-02-02](http://twitter.com/gfrog/statuses/32815267620855808)
+
+
+
+
+
+  * [@Greendamn](http://twitter.com/Greendamn) 其实丫之前就说的不错，不过后来消失了。 [in reply to Greendamn](http://twitter.com/Greendamn/statuses/32815139795238912) [22:59:47, 2011-02-02](http://twitter.com/gfrog/statuses/32815449016115201)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 为什么大山一脸卢瑟相。 [23:01:35, 2011-02-02](http://twitter.com/gfrog/statuses/32815903175348225)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 妈的，这帮老外学过汉语嘛，知道自己在说什么嘛！ [23:02:55, 2011-02-02](http://twitter.com/gfrog/statuses/32816239508197376)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 蔡明出没，期待坑爹。 [23:05:32, 2011-02-02](http://twitter.com/gfrog/statuses/32816896420093953)
+
+
+
+
+
+  * RT [@epizza](http://twitter.com/epizza): 完蛋了, 看到他们说网上流行的拜年手势, 我发现我上的网跟他们的不一样... [23:06:28, 2011-02-02](http://twitter.com/gfrog/statuses/32817130487414786)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 又一次微博的嵌入广告。 [23:08:21, 2011-02-02](http://twitter.com/gfrog/statuses/32817606951964672)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): “你怎么现在才到呀？”“堵车呀”内涵了… [#Chunwan](http://search.twitter.com/search?q=%23Chunwan) [23:08:45, 2011-02-02](http://twitter.com/gfrog/statuses/32817704595357696)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): RT: [@horse](http://twitter.com/horse): 在每一个春晚的后台，都有一个扫地的老太太，在演员下台之后，小声对他说，你又丢人了。 [23:11:58, 2011-02-02](http://twitter.com/gfrog/statuses/32818517489221634)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi): 猪涨价了,我值钱了 [#chunwan](http://search.twitter.com/search?q=%23chunwan) [23:13:35, 2011-02-02](http://twitter.com/gfrog/statuses/32818924139585537)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 杯具出现，蔡明。 [23:15:47, 2011-02-02](http://twitter.com/gfrog/statuses/32819477695438848)
+
+
+
+
+
+  * RT [@yoyicue](http://twitter.com/yoyicue): 靠 爱情买卖 靠!! [#chunwan](http://search.twitter.com/search?q=%23chunwan) [23:17:21, 2011-02-02](http://twitter.com/gfrog/statuses/32819868252250112)
+
+
+
+
+
+  * RT [@CorndogCN](http://twitter.com/CorndogCN): 预告：春晚现场，西单女孩表演时我会冲上去给她两巴掌！ [http://goo.gl/HfjT1](http://goo.gl/HfjT1) [23:21:15, 2011-02-02](http://twitter.com/gfrog/statuses/32820849744543744)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 我擦，这破小品太闹剧了吧。都神马诡异的剧情啊。 [23:43:14, 2011-02-02](http://twitter.com/gfrog/statuses/32826385978363904)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 这他马的跟同桌有P关系，神马乱糟的剧情。小沈阳就是一个傻子，就靠最后这段歌出彩么？！ [23:49:49, 2011-02-02](http://twitter.com/gfrog/statuses/32828040174108673)
+
+
+
+
+
+  * RT [@harrygg](http://twitter.com/harrygg): RT [@newsshanghai](http://twitter.com/newsshanghai): 据说今年春晚真正的魔术是把志玲姐姐的胸变到了蔡明姐姐身上 [#chunwan](http://search.twitter.com/search?q=%23chunwan) [23:50:49, 2011-02-02](http://twitter.com/gfrog/statuses/32828293963059200)
+
+
+
+
+
+  * 俺生活过的地区没有过，东北话一般不会有太强力的词，比较平淡。 RT [@Houge_Langley](http://twitter.com/Houge_Langley): 哦，好久没有待在东北了 ♺ [@yangzhe1991](http://twitter.com/yangzhe1991): 东北也有类似“给劲”的说法 [23:52:16, 2011-02-02](http://twitter.com/gfrog/statuses/32828657881849856)
+
+
+
+
+
+  * 似乎第二次掉地上摔坏了，可惜。 RT [@taotian](http://twitter.com/taotian): Yashica TL-Super“@duck_1984: RT [@tihu](http://twitter.com/tihu): 现场有奖问答：小沈阳胸前的胶片机型号。#chunwan” [23:53:56, 2011-02-02](http://twitter.com/gfrog/statuses/32829077584879616)
+
+
+
+
+
+  * [#chunjie](http://search.twitter.com/search?q=%23chunjie) 鞭炮声暂时告一段落，可以安安稳稳的看倒计时了。 [23:55:55, 2011-02-02](http://twitter.com/gfrog/statuses/32829576170176512)
+
+
+
+
+
+  * [#chunwan](http://search.twitter.com/search?q=%23chunwan) 要倒计时了，仍然没有兔女郎出现，纠结。 [23:57:40, 2011-02-02](http://twitter.com/gfrog/statuses/32830015016009728)
+
+
+
+

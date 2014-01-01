@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2011-06-20 01:00:00
+layout: post
+slug: todays-tweets-2011-06-20
+title: Today's tweets 2011-06-20
+wordpress_id: 1754
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 你是在炫耀猛禽同学咩？ XD RT [@kyokyo8899](http://twitter.com/kyokyo8899): xx以后子宫疼…是怎么回事哦 [09:37:12, 2011-06-20](http://twitter.com/gfrog/statuses/82623000146489344)
+
+
+
+
+
+  * 真丢人，今天忘带钥匙了，挂了一车锁，结果打不开 [09:57:45, 2011-06-20](http://twitter.com/gfrog/statuses/82628169802321921)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 我这OK，chromium 14.786.0 [in reply to pityonline](http://twitter.com/pityonline/statuses/82629937156198400) [10:06:34, 2011-06-20](http://twitter.com/gfrog/statuses/82630388702380032)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 我发现开了compiz以后chromium会有一些诡异的现象，你可以先关了compiz试验一下。 [in reply to pityonline](http://twitter.com/pityonline/statuses/82630613785522176) [10:09:22, 2011-06-20](http://twitter.com/gfrog/statuses/82631095186755584)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 啊，我可能没说清楚，不是关特效，而是直接关compiz的服务，即便你关掉了特效，compiz一样是接管着窗口管理的任务。当然这个方法也只是撞运气，最好是能trace一下，不知道strace会不会有点收获。 [in reply to pityonline](http://twitter.com/pityonline/statuses/82635753972170752) [11:06:08, 2011-06-20](http://twitter.com/gfrog/statuses/82645377655898112)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 囧，我一直都是killall compiz的，不过这样kill之后后果未知，所以也没法跟你说。。。 或者去gnome 那个safe mode试试？ [in reply to pityonline](http://twitter.com/pityonline/statuses/82646396687237120) [12:43:53, 2011-06-20](http://twitter.com/gfrog/statuses/82669978423279616)
+
+
+
+
+
+  * 虽然看过2年两空格缩进的代码，但是现在看这种缩进格式仍然好怪哦。 [14:42:35, 2011-06-20](http://twitter.com/gfrog/statuses/82699851791466496)
+
+
+
+
+
+  * RT [@Raul_Wong](http://twitter.com/Raul_Wong): RT [@kowry](http://twitter.com/kowry): “现在的女生都怎么了，上半身穿棉袄，下半身穿丝袜。”“因为鲜奶要保温，火腿要冷藏。” [17:31:53, 2011-06-20](http://twitter.com/gfrog/statuses/82742458190008320)
+
+
+
+
+
+  * 回家懒得开本子了，这是厌倦电脑的反应嘛。。 [19:37:23, 2011-06-20](http://twitter.com/gfrog/statuses/82774040284102657)
+
+
+
+
+
+  * web auth，不是wifi的技术，是认证技术的一种。 RT [@CorndogCN](http://twitter.com/CorndogCN): 请教一下各位，那像种公用网络，比如外面的咖啡店啥的，他们的无线都是没有密码的，但连上之后，会要求你打开浏览器，再输入一些信息，才可以正常上网。请问这种WIFI叫什么？我 [23:51:12, 2011-06-20](http://twitter.com/gfrog/statuses/82837913125126144)
+
+
+
+

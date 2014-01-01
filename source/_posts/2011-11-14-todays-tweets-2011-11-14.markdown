@@ -1,0 +1,139 @@
+---
+comments: true
+date: 2011-11-14 01:00:00
+layout: post
+slug: todays-tweets-2011-11-14
+title: Today's tweets 2011-11-14
+wordpress_id: 1954
+categories:
+- twitter-backup[Twitter备份]
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@billwoods](http://twitter.com/billwoods) 我也很好奇帝都的污染源到底是神马，而且汽车排放的颗粒物到底是神马性质。 既然没答案，那就油性非油性一起防就是了。 [in reply to billwoods](http://twitter.com/billwoods/statuses/135759607879581696) [00:45:27, 2011-11-14](http://twitter.com/gfrog/statuses/135760194574622720)
+
+
+
+
+
+  * 唉，网上发现的抓取feed推送到kindle的套路都是生成epub然后转换为mobi格式，但是这动作需要Amazon的kindlegen工具呀，有没有开源工具/库让我可以直接放到我的包里面，我可不想部署的时候还要去下一个10几M的第三方工具。。。 [00:47:52, 2011-11-14](http://twitter.com/gfrog/statuses/135760803042304001)
+
+
+
+
+
+  * [@billwoods](http://twitter.com/billwoods) 建议画曲线的时候同时加上天气/风速变化曲线。 看起来确实是有一部分油性颗粒呀。 [in reply to billwoods](http://twitter.com/billwoods/statuses/135762670782656512) [01:12:21, 2011-11-14](http://twitter.com/gfrog/statuses/135766966806917120)
+
+
+
+
+
+  * 蛋疼的百度文档，慢的想屎。 [01:13:10, 2011-11-14](http://twitter.com/gfrog/statuses/135767168716517376)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 这个，哎呀呀，突然想起来这个东东的gae版本还没看，抽时间去看看它怎么实现的。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/135767027246825472) [10:23:41, 2011-11-14](http://twitter.com/gfrog/statuses/135905712042819584)
+
+
+
+
+
+  * 观察了几天手机耗电情况，前三甲一直是显示屏、手机待机（手机本身）、手机待机（网络）。。。。 这已经不是我能搞定的了，摊手 [11:24:37, 2011-11-14](http://twitter.com/gfrog/statuses/135921045227044864)
+
+
+
+
+
+  * 我怎么感觉kindle touch用起来会不爽。。。 单手拿的时候要按屏幕翻页，一定不会有按键的kindle4舒服吧。。 [13:51:42, 2011-11-14](http://twitter.com/gfrog/statuses/135958061083922432)
+
+
+
+
+
+  * 昨天有人问我kindle为啥没那种翻页效果。唉，这年头的人都被表面迷惑住了，再牛逼的翻页效果到最后不还是看书，难道还有人盯着翻页效果看个没完？ [14:05:00, 2011-11-14](http://twitter.com/gfrog/statuses/135961410168569856)
+
+
+
+
+
+  * [@titanzzf](http://twitter.com/titanzzf) 山寨党威武。 [in reply to titanzzf](http://twitter.com/titanzzf/statuses/135959622241628160) [14:09:46, 2011-11-14](http://twitter.com/gfrog/statuses/135962609609474049)
+
+
+
+
+
+  * [@iadnab](http://twitter.com/iadnab) 真的这么神奇嘛？求图求真相。 [in reply to iadnab](http://twitter.com/iadnab/statuses/135984209608187904) [15:39:25, 2011-11-14](http://twitter.com/gfrog/statuses/135985169034256384)
+
+
+
+
+
+  * 这这。。 不折腾会死是嘛。。。 RT [@lnsoso](http://twitter.com/lnsoso): 又要换架构 // RT [@webchina](http://twitter.com/webchina):苹果准备和Intel分手 有意收购AMD: [http://t.co/lvVBlwk5](http://t.co/lvVBlwk5) [15:43:30, 2011-11-14](http://twitter.com/gfrog/statuses/135986198048022528)
+
+
+
+
+
+  * 求曝光！ RT [@hengdm](http://twitter.com/hengdm): 易讯51buy .com 竟然也卖山寨货！妈的以后见一次骂一次！懒得在淘宝分辨才特意从易讯直接买，果然还是送来假货。客服竟然舔着脸保证是真的让我去开证明，证明你妹啊！要求退货竟要10%手续费，我艹你丫网站上说7日退货玩什么文字游戏啊！ [15:45:27, 2011-11-14](http://twitter.com/gfrog/statuses/135986688605425664)
+
+
+
+
+
+  * 这牌子就是这样的货色吧，跟瑞士没关系的。 RT [@hengdm](http://twitter.com/hengdm): [@debtofmoney](http://twitter.com/debtofmoney) [@gfrog](http://twitter.com/gfrog) 买的这个背包 [http://t.co/iUcZNaVr](http://t.co/iUcZNaVr) [16:12:21, 2011-11-14](http://twitter.com/gfrog/statuses/135993459109662721)
+
+
+
+
+
+  * RT [@gttnnn](http://twitter.com/gttnnn): 刚刚把脚本里处理小数的bug改掉，于是中枪了……RT [@yegle](http://twitter.com/yegle): 写bash
+普通青年：i=$((i+1)) 或者 i=$[i+1]
+文艺青年：((i++))
+2B青年：i=$(echo $i+1|bc) [17:13:16, 2011-11-14](http://twitter.com/gfrog/statuses/136008786434461696)
+
+
+
+
+
+  * [@dokoma](http://twitter.com/dokoma) 闪嘛？ 你看pdf吧？ pdf每页都是全刷，其他文荡格式都是5页全刷一次，所以现在K4刷新巨快。 [in reply to dokoma](http://twitter.com/dokoma/statuses/136010662815084544) [17:29:33, 2011-11-14](http://twitter.com/gfrog/statuses/136012887180328960)
+
+
+
+
+
+  * [@dokoma](http://twitter.com/dokoma) 俺表示毫无压力。 [in reply to dokoma](http://twitter.com/dokoma/statuses/136013560944926720) [17:33:08, 2011-11-14](http://twitter.com/gfrog/statuses/136013786854326272)
+
+
+
+
+
+  * 有些电子书在Kindle里面没办法取词，大概是书的原因吧，但是都转换为mobi格式了呀，还有什么地方需要特殊设置嘛？ [18:03:34, 2011-11-14](http://twitter.com/gfrog/statuses/136021447196938241)
+
+
+
+
+
+  * RT [@librevim](http://twitter.com/librevim): 好消息！——Android 4.0系统源代码11月17日放出 [http://t.co/lo7A0tyP](http://t.co/lo7A0tyP) [18:17:54, 2011-11-14](http://twitter.com/gfrog/statuses/136025052729716736)
+
+
+
+
+
+  * 为神马我一定要每天下班之后才能安心编码呢。。。 真是个苦逼货啊。。。 [20:58:51, 2011-11-14](http://twitter.com/gfrog/statuses/136065558826332160)
+
+
+
+
+
+  * 今天好奇怪啊，访问国外网站怎么慢成这样。。。 莫非GFW在调试？ [23:14:18, 2011-11-14](http://twitter.com/gfrog/statuses/136099644655673344)
+
+
+
+

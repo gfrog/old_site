@@ -1,0 +1,163 @@
+---
+comments: true
+date: 2012-08-26 23:59:00
+layout: post
+slug: todays-tweets-2012-08-26
+title: Today's tweets 2012-08-26
+wordpress_id: 2674
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 擦，完蛋了，犯了远程管理的大忌，在没有备份线路的时候改动网络连接，这下彻底把自己关在门外了。 [11:42:39, 2012-08-26](http://twitter.com/gfrog/statuses/239568513763794945)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 求安慰。 [@_](http://twitter.com/_)@ [in reply to likuku](http://twitter.com/likuku/statuses/239575535456505856) [12:34:03, 2012-08-26](http://twitter.com/gfrog/statuses/239581448418504704)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) …… 坚决不去，硬挺着，明儿再说。 [in reply to likuku](http://twitter.com/likuku/statuses/239581794930933760) [12:36:21, 2012-08-26](http://twitter.com/gfrog/statuses/239582027349909504)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 只是我自己的一台测试机，没必要紧张。XD 如果是服务器的话都会有ipmi和console switch的，也无压力。 [in reply to likuku](http://twitter.com/likuku/statuses/239582220782821376) [12:42:33, 2012-08-26](http://twitter.com/gfrog/statuses/239583590084665345)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku): … RT [@flenilune](http://twitter.com/flenilune): ……… RT [@o_lll](http://twitter.com/o_lll): 拍婚纱照新娘掉河里但是浸了水的婚纱太沉两个人都没拉上来于是新娘被冲走最后溺水而亡这种事情… [12:52:54, 2012-08-26](http://twitter.com/gfrog/statuses/239586194277691392)
+
+
+
+
+
+  * 话说用openshiftp部署wordpress的感觉真是怪怪的，wordpress自己生成了很多文件，如果不把这些文件放在openshift的git repo里，下次更新app这些文件就全没了。如果要放在git repo里呢，就要随时scp回来再git add。 [13:32:19, 2012-08-26](http://twitter.com/gfrog/statuses/239596113005522944)
+
+
+
+
+
+  * 赶脚openshift对于程序自动生成的文件管理这个地方好奇怪啊，难道是我理解错误？ 明天要去问问业内人士。 [13:33:21, 2012-08-26](http://twitter.com/gfrog/statuses/239596371273998337)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 有可能，大概PaaS本身就不太适合wordpress这种用老式方法（自己管理文件/插件/版本控制）设计的程序。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/239596528908513280) [13:35:48, 2012-08-26](http://twitter.com/gfrog/statuses/239596987945730048)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 那看起来确实就是wordpress的问题了，各种文件挤到一起，外加内置升级机制。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/239599117674889216) [13:45:30, 2012-08-26](http://twitter.com/gfrog/statuses/239599432260284416)
+
+
+
+
+
+  * 反过来想，有个软软的垫子垫在胸口趴着一定很舒服。 RT [@hengdm](http://twitter.com/hengdm): 好奇胸大的妹子趴着睡会觉得压迫不舒服吗？RT [@rbttt](http://twitter.com/rbttt): 小时候想有胸了就不能趴着睡了长大了发现自己想多了 [13:51:22, 2012-08-26](http://twitter.com/gfrog/statuses/239600907233406977)
+
+
+
+
+
+  * 我了个去，水袋好久没用，竟然发霉了，求解救方法。 [15:08:33, 2012-08-26](http://twitter.com/gfrog/statuses/239620330216374272)
+
+
+
+
+
+  * 这真的是北京站的正常状态。。 RT [@tualatrix](http://twitter.com/tualatrix): 我被北京站吓得不轻啊！春运时有会何等壮观呢？
+ [http://t.co/dOskGvVk](http://t.co/dOskGvVk) [22:08:58, 2012-08-26](http://twitter.com/gfrog/statuses/239726133233451009)
+
+
+
+
+
+  * 二号线？是回库车吧？ RT [@tualatrix](http://twitter.com/tualatrix): 原来北京的环线地铁在到站后会有乘务员来赶人下车啊，哈哈。 [22:35:56, 2012-08-26](http://twitter.com/gfrog/statuses/239732916660355072)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) [@tualatrix](http://twitter.com/tualatrix) 13号线不是环线呢，它的车库在霍营。不过赶人下车这个好奇葩，反正就是2块，何必呢。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/239733188128305152) [22:38:36, 2012-08-26](http://twitter.com/gfrog/statuses/239733589254750208)
+
+
+
+
+
+  * 擦，telnet 断了，md写了一半的东西啊。为毛bbs就不能搞个screen啥的套着。 [22:52:00, 2012-08-26](http://twitter.com/gfrog/statuses/239736961810706433)
+
+
+
+
+
+  * 32核呢，装windows真浪费。 RT [@chengr28](http://twitter.com/chengr28): 完全无法直视…… [https://t.co/0B96Npdz](https://t.co/0B96Npdz) [22:53:02, 2012-08-26](http://twitter.com/gfrog/statuses/239737221928861697)
+
+
+
+
+
+  * 我猜很多北方方言里很多特有的词都是跟少数民族语言有关。 RT [@gttnnn](http://twitter.com/gttnnn): 耷拉、帅、倒腾都是满语传入汉语的。 [http://t.co/vL2U2L6i](http://t.co/vL2U2L6i) [#Kindle](http://search.twitter.com/search?q=%23Kindle) [22:54:17, 2012-08-26](http://twitter.com/gfrog/statuses/239737537168568320)
+
+
+
+
+
+  * [@chengr28](http://twitter.com/chengr28) [@kcome](http://twitter.com/kcome) [@bigman510](http://twitter.com/bigman510) [@_J_Smith](http://twitter.com/_J_Smith) 单从这里看不出来，根据我的经验，似乎windows分不清cores跟threads，统统都认为是LogicalProcess。是32G内存。 [in reply to chengr28](http://twitter.com/chengr28/statuses/239737940723499008) [22:58:47, 2012-08-26](http://twitter.com/gfrog/statuses/239738671006351360)
+
+
+
+
+
+  * [@upsuperx](http://twitter.com/upsuperx) [@chengr28](http://twitter.com/chengr28) 那32*1cores*1threads的怎么摆？ [in reply to upsuperx](http://twitter.com/upsuperx/statuses/239740209967800320) [23:06:05, 2012-08-26](http://twitter.com/gfrog/statuses/239740507020988416)
+
+
+
+
+
+  * [@upsuperx](http://twitter.com/upsuperx) [@chengr28](http://twitter.com/chengr28) 曲线难道不就是负载情况，还能看出是啥物理拓扑？ [in reply to upsuperx](http://twitter.com/upsuperx/statuses/239740682758135808) [23:07:58, 2012-08-26](http://twitter.com/gfrog/statuses/239740980448854018)
+
+
+
+
+
+  * [@upsuperx](http://twitter.com/upsuperx) [@chengr28](http://twitter.com/chengr28) 求不是超线程的时候曲线真相。 [in reply to upsuperx](http://twitter.com/upsuperx/statuses/239741150188154880) [23:12:54, 2012-08-26](http://twitter.com/gfrog/statuses/239742221258199042)
+
+
+
+
+
+  * evernote clearly真是个看网页文档的好东西。 [23:23:25, 2012-08-26](http://twitter.com/gfrog/statuses/239744870128955392)
+
+
+
+
+
+  * 喵的，poppler竟然是cpp代码，只好硬着头皮去读了。 [23:48:41, 2012-08-26](http://twitter.com/gfrog/statuses/239751224986071040)
+
+
+
+
+
+  * 最近突然感脚实际上各种语言都没啥太大差别，而且对各种语言最好都有所了解才好，这样google找代码的时候可以迅速读懂然后翻译到自己正在使用的语言中。XD [23:50:04, 2012-08-26](http://twitter.com/gfrog/statuses/239751575671803906)
+
+
+
+

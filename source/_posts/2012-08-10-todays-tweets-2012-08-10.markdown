@@ -1,0 +1,84 @@
+---
+comments: true
+date: 2012-08-10 23:59:00
+layout: post
+slug: todays-tweets-2012-08-10
+title: Today's tweets 2012-08-10
+wordpress_id: 2631
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@Boreas](http://twitter.com/Boreas): 向站长们推荐「WordPress Backup to Dropbox」插件，功能一如其名：将 WordPress 数据备份至 Dropbox。可设定按日、按周或其他时长增量备份，云端全自动处理，体验超棒！ [00:05:25, 2012-08-10](http://twitter.com/gfrog/statuses/233594845950795776)
+
+
+
+
+
+  * RT [@StyleMind](http://twitter.com/StyleMind): “成昆，你 杀我全家，今日我要对你果断取消关 注！”“我萧峰大好男儿，竟与你这种人 齐名！从此路人转黑！”“张无忌，你敢跟这个妖 女走，我立刻把你拉黑不解释！”//尹志平V:我刚刚在@微盘 发现了一个很不错的文件“古墓丽人小 龙女.avi”， ... [00:07:32, 2012-08-10](http://twitter.com/gfrog/statuses/233595375968190464)
+
+
+
+
+
+  * 肚子很痛。难道吹风吹到肚子疼？ [00:08:45, 2012-08-10](http://twitter.com/gfrog/statuses/233595681028337665)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) [@Boreas](http://twitter.com/Boreas) 我之前用一个插件每天备份数据库扔进gmail，文件干脆不管了，反正没用wp自己的上传功能，出问题删掉重装。 [in reply to pityonline](http://twitter.com/pityonline/statuses/233595448730988544) [00:10:43, 2012-08-10](http://twitter.com/gfrog/statuses/233596176497250304)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) [@Boreas](http://twitter.com/Boreas) 记笔记？ evernote啊。 [in reply to pityonline](http://twitter.com/pityonline/statuses/233597394183397376) [00:31:09, 2012-08-10](http://twitter.com/gfrog/statuses/233601320278429696)
+
+
+
+
+
+  * RT [@hzpower](http://twitter.com/hzpower): 沈阳网友：通知全体开门，但是没人会相信共产党的话，还是一片萧条。区长下来动员开门，看来顶不住压力了。这群禽兽连我们市场楼下卖苞米的老太太都罚款500，还有什么事做不出来？他们就好比当年的皇军还不如。谁来拯救老百姓 [http://t.co/2mkuh6Fs](http://t.co/2mkuh6Fs) [00:31:31, 2012-08-10](http://twitter.com/gfrog/statuses/233601410384670722)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:47, 2012-08-10](http://twitter.com/gfrog/statuses/233729572443656192)
+
+
+
+
+
+  * [@gttnnn](http://twitter.com/gttnnn) 吃沙子？ [in reply to gttnnn](http://twitter.com/gttnnn/statuses/233885771361312768) [19:41:32, 2012-08-10](http://twitter.com/gfrog/statuses/233890824340004864)
+
+
+
+
+
+  * RT [@kcome](http://twitter.com/kcome): 绑腿… “@vikivone: 招运维，资深的。工作地点朝阳门，帮转啊” [19:41:38, 2012-08-10](http://twitter.com/gfrog/statuses/233890847354138625)
+
+
+
+
+
+  * 我擦。。 [http://t.co/7C7fmozb](http://t.co/7C7fmozb) RT [@BreeStealth](http://twitter.com/BreeStealth): [@raptorz](http://twitter.com/raptorz) 事情的起源是TextMate2开源了，然后某个Emacs脑残提交了一个pull request，删除了TM2所有代码，提交了Emacs代码。然后这事儿被捅到了国内，… [19:45:19, 2012-08-10](http://twitter.com/gfrog/statuses/233891774744100864)
+
+
+
+
+
+  * [@gttnnn](http://twitter.com/gttnnn) 可以做CPU那种么，哈哈。 [in reply to gttnnn](http://twitter.com/gttnnn/statuses/233894257373609984) [20:05:19, 2012-08-10](http://twitter.com/gfrog/statuses/233896807808237568)
+
+
+
+

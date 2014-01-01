@@ -1,0 +1,102 @@
+---
+comments: true
+date: 2010-07-10 01:00:00
+layout: post
+slug: todays-tweets-2010-07-10
+title: Today's tweets 2010-07-10
+wordpress_id: 897
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 搞个busybox放上去。RT [@Houge_Ubuntu](http://twitter.com/Houge_Ubuntu): 我昨晚也发现，只有最常用的几个命令，很多命令都用不鸟，过两天看看有没有高级的terminal程序可以安装到iTouch上 ♺ [@zongsen](http://twitter.com/zongsen): [2010-07-10](http://twitter.com/gfrog/statuses/18167215703)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 那天建的api，就随手写了一个，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18167334510) [2010-07-10](http://twitter.com/gfrog/statuses/18168134057)
+
+
+
+
+
+  * 继续捣鼓api [2010-07-10](http://twitter.com/gfrog/statuses/18169450275)
+
+
+
+
+
+  * 哦，不知不觉，要7k推了。 [2010-07-10](http://twitter.com/gfrog/statuses/18169673163)
+
+
+
+
+
+  * RT [@luzhaohui](http://twitter.com/luzhaohui): 我想看看你快门下的深圳 [http://is.gd/dmkP5](http://is.gd/dmkP5) [#cnphoto](http://search.twitter.com/search?q=%23cnphoto) [2010-07-10](http://twitter.com/gfrog/statuses/18169791816)
+
+
+
+
+
+  * RT木有问题，现在看来就是回复不行了。 [2010-07-10](http://twitter.com/gfrog/statuses/18169958943)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 浮云，都是浮云，自己的每个推都是唯一的，都可以做纪念嘛。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18169815372) [2010-07-10](http://twitter.com/gfrog/statuses/18170305284)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 手机上只有dabr一个靠谱的客户端了，不搞定不行啊，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18170092220) [2010-07-10](http://twitter.com/gfrog/statuses/18170727014)
+
+
+
+
+
+  * 囧，为什么dabr不改api就没问题，改了api就直接出错呢，twip不行，gtap也不行。 [2010-07-10](http://twitter.com/gfrog/statuses/18170770714)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 我是为了过几天只支持oauth作准备啊。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18171139139) [2010-07-10](http://twitter.com/gfrog/statuses/18174993560)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 什么相机？数码只有单反一部，胶片倒是很多。 [in reply to Hc95](http://twitter.com/Hc95/statuses/18172397744) [2010-07-10](http://twitter.com/gfrog/statuses/18175083287)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 黑莓啊，木有vpn，很悲剧。虽说有UT，但是跑起来很慢很吃流量。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18175401629) [2010-07-10](http://twitter.com/gfrog/statuses/18201854828)
+
+
+
+
+
+  * 奶瓶腿也不行？ 现在找不到头绪，不知道哪出错了。 RT [@luzhaohui](http://twitter.com/luzhaohui) [@jyman](http://twitter.com/jyman) 我也在境外，只是因为 [@gfrog](http://twitter.com/gfrog) 老搞不定，所以才折腾一下的，我用奶瓶腿源码试了一下，结果果然有问题，gtap和twip的都不行。已经将问题反馈给 [@NetPuter](http://twitter.com/NetPuter) 了 [2010-07-10](http://twitter.com/gfrog/statuses/18201917867)
+
+
+
+
+
+  * [@Houge_Ubuntu](http://twitter.com/Houge_Ubuntu) suse有公司支持，基本是在redhat企业版那级别，fedora跟他没法比。 [in reply to Houge_Ubuntu](http://twitter.com/Houge_Ubuntu/statuses/18204480774) [2010-07-10](http://twitter.com/gfrog/statuses/18204767914)
+
+
+
+

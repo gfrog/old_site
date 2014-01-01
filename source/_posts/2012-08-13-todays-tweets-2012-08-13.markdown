@@ -1,0 +1,148 @@
+---
+comments: true
+date: 2012-08-13 23:59:00
+layout: post
+slug: todays-tweets-2012-08-13
+title: Today's tweets 2012-08-13
+wordpress_id: 2634
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:26, 2012-08-13](http://twitter.com/gfrog/statuses/234816650967396352)
+
+
+
+
+
+  * 对面幼儿园周一搞升旗仪式，然后有个小朋友上去唱了首歌，真的没一句有调啊，好吧，我只能为小朋友的勇气而赞叹了。 [09:06:47, 2012-08-13](http://twitter.com/gfrog/statuses/234818245864062976)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) twitter api调用有数量限制啊，大概是200条？ 数数是不是这玩意刚好抓了200条推？ [in reply to pityonline](http://twitter.com/pityonline/statuses/234814346771968000) [09:08:44, 2012-08-13](http://twitter.com/gfrog/statuses/234818738703171584)
+
+
+
+
+
+  * 刘先生亮了。 RT [@yelumine](http://twitter.com/yelumine): 英国两个小伙子花了一下午的时间在西瓜身上勒上橡皮筋，当被勒到第500条时，西瓜终于爆了……最后被他们用慢镜拍了下来。在场目睹了整个事件的刘先生称：“我活了42年，他们是我见过最无聊的两个人。” [http://t.co/D0NrdlZ5](http://t.co/D0NrdlZ5) [09:17:47, 2012-08-13](http://twitter.com/gfrog/statuses/234821016294141952)
+
+
+
+
+
+  * 8点就爬起来了，结果趴家里上网上到现在，为毛我一定要赶着天儿热起来了才去上班呢… 明明在公司也可以上网啊。 [09:20:32, 2012-08-13](http://twitter.com/gfrog/statuses/234821707116969984)
+
+
+
+
+
+  * RT [@shellex](http://twitter.com/shellex): 我看过最浪漫的小说是女主想要一对蔡司眼睛，男主是职业黑客没钱，就伙同好基友把当地黑社会头子干死了，从香港洗钱银行后了后面十几个零。而这时候女主刚从那个黑社会头子经营的夜总会走出来，她通过卖淫赚到了买蔡司眼睛的钱表示很开心。 [10:32:21, 2012-08-13](http://twitter.com/gfrog/statuses/234839780402274305)
+
+
+
+
+
+  * 不知不觉俺已经重度Python依赖了，想算个数都不用bc了，直接开ipython。 [11:08:13, 2012-08-13](http://twitter.com/gfrog/statuses/234848805168746496)
+
+
+
+
+
+  * 东西学杂了真难受，在Fedora里经常敲成yum show，ubuntu里总打成aptitude info，然后对着出错信息发呆。 [11:13:59, 2012-08-13](http://twitter.com/gfrog/statuses/234850258482499584)
+
+
+
+
+
+  * [@shilin0127](http://twitter.com/shilin0127) 北方男人表示有时候都受不了粗犷的北方妹，神经大条到爆。 [in reply to shilin0127](http://twitter.com/shilin0127/statuses/234849459304017920) [11:14:50, 2012-08-13](http://twitter.com/gfrog/statuses/234850471188246529)
+
+
+
+
+
+  * [@adam8157](http://twitter.com/adam8157) RT [@eexp01](http://twitter.com/eexp01): adam8157 fucking keyboard = afk [11:24:55, 2012-08-13](http://twitter.com/gfrog/statuses/234853007530012672)
+
+
+
+
+
+  * 同样无图有真相。 RT [@tualatrix](http://twitter.com/tualatrix): 今天北京的天气太好了！无图但有真相。 [12:12:24, 2012-08-13](http://twitter.com/gfrog/statuses/234864957890625536)
+
+
+
+
+
+  * 灰鸽子名声还真响，但是这货已经是远古的传说了，就像流光。 [14:23:26, 2012-08-13](http://twitter.com/gfrog/statuses/234897936738287616)
+
+
+
+
+
+  * 难道struct这货在64bit和32bit机器上还要分别计算int大小？ 不会这么弱吧。好吧，虽然有个struct.calcsize()，不过看起来还是弱弱的，要自己把那一堆字长定义字符处理一遍呢。 [14:57:14, 2012-08-13](http://twitter.com/gfrog/statuses/234906440022761472)
+
+
+
+
+
+  * [@yuanyi_wang](http://twitter.com/yuanyi_wang) 我再说python的struct模块，跟sizeof没关哦。 [in reply to yuanyi_wang](http://twitter.com/yuanyi_wang/statuses/234908017425006592) [15:37:17, 2012-08-13](http://twitter.com/gfrog/statuses/234916518742355969)
+
+
+
+
+
+  * 自从当年玩freebsd不小心删掉了从初中开始就珍藏的各种游戏/存档/攻略/图儿/片儿/码的烂码/做的文档，俺就再也打不起兴趣去玩windows了。于是对windows的了解也仅限于windows2000, xp都没细细的去玩。 [17:22:44, 2012-08-13](http://twitter.com/gfrog/statuses/234943055340396544)
+
+
+
+
+
+  * 今天好凉爽呢，晚上不用开空调啊。 RT [@tualatrix](http://twitter.com/tualatrix): 北京的秋天居然真的来了？不可思议啊，八月是南方最热的一月啊… [18:55:44, 2012-08-13](http://twitter.com/gfrog/statuses/234966462706618369)
+
+
+
+
+
+  * RT [@tianshanml](http://twitter.com/tianshanml): [http://t.co/78djXCsN](http://t.co/78djXCsN) 可爱三花求抱养。小猫在帝都北四环临时收养，想收养的请@本人。求RT。多谢！ [18:57:09, 2012-08-13](http://twitter.com/gfrog/statuses/234966816852684800)
+
+
+
+
+
+  * 老段子，但是充分说明了中国人的山寨天赋。 RT [@xie107](http://twitter.com/xie107): 一个犹太人开了一家加油站，接踵而至的犹太人在它旁边陆续开办了快餐店、洗衣店、便利店……一个繁华的小社区就此形成。一个中国人开了一家加油站，其他中国人在它旁边接着开了一长溜加油站，最终大家一起死翘翘。 [19:06:09, 2012-08-13](http://twitter.com/gfrog/statuses/234969081198026754)
+
+
+
+
+
+  * 丫扯蛋。
+——gfrog
+ RT [@fragroute](http://twitter.com/fragroute): 有两种方式构建软件设计：一种是把软件做得很简单以至于明显找不到缺陷；另一种是把它做得很复杂以至于找不到明显的缺陷。
+
+——C.A.R. Hoare [19:06:59, 2012-08-13](http://twitter.com/gfrog/statuses/234969293022978048)
+
+
+
+
+
+  * 家里网竟然断了，还好俺有3G，先顶一晚上再说。 [22:28:30, 2012-08-13](http://twitter.com/gfrog/statuses/235020004171583488)
+
+
+
+
+
+  * 天哪！跟大学同学比起来，俺真的就是真.屌丝啊。 [22:49:25, 2012-08-13](http://twitter.com/gfrog/statuses/235025271584063488)
+
+
+
+

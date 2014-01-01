@@ -1,0 +1,103 @@
+---
+comments: true
+date: 2012-03-26 23:59:00
+layout: post
+slug: todays-tweets-2012-03-26
+title: Today's tweets 2012-03-26
+wordpress_id: 2474
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@chyachyamaru](http://twitter.com/chyachyamaru): #译自日语推 对女孩子“我和工作哪个更重要”的问题，正确的答案是“（紧紧抱住她）我真没用，竟然让你问出这样的问题……”。对于女性提出的难以回答的问题都可以这样解答。“今天晚上吃米饭还吃吃面条？”“（紧紧抱住她）我真没用，竟然让你问出这样 ... [08:27:07, 2012-03-26](http://twitter.com/gfrog/statuses/184073962928619520)
+
+
+
+
+
+  * RT [@Tworoom](http://twitter.com/Tworoom): 近日一些央企内部发文通知全国各地分公司，不惜降价也务必要在今年7月前卖完手上所有存量房，猜测京城或许会在6、7月出台一些重磅型的调控政策，导致央企开始甩货快跑。今日看到广州深圳或许将成为第二批房产税试点城市，且华润置地等五大地产央总企库存超300 ... [08:28:56, 2012-03-26](http://twitter.com/gfrog/statuses/184074419667349506)
+
+
+
+
+
+  * RT [@bimzcy](http://twitter.com/bimzcy): 白鸽无意中找到的后门——GoldenDict付费版官方下载入口。好消息是以后最新的付费版都可以从这个后面后门链接直接下载；坏消息是1.2以上的付费版本目前没有完美破解的：http://t.co/6BnhzROF [08:35:23, 2012-03-26](http://twitter.com/gfrog/statuses/184076044393910273)
+
+
+
+
+
+  * RT [@Meecn](http://twitter.com/Meecn): 终于知道武汉人为何不
+创业了，这两天帮朋友注册一公司，凡是盖章地方都遇到敲诈，社区盖章要买灭火器120一个，工商所盖章要交个体协会会费380~1000，还要订报纸，一个注册10万的公司，执照、代码证、税务证，验资、银行开户要花去好几千，这是让人创业吗 ... [08:38:19, 2012-03-26](http://twitter.com/gfrog/statuses/184076782113267713)
+
+
+
+
+
+  * RT [@WCM](http://twitter.com/WCM): RT [@Jasey_Wang](http://twitter.com/Jasey_Wang): 女同事喝醉了我没办法背她回家，给她倒水，喝茶好半天她好了一点，醉眼朦胧的对我说“你难道不想做你们男人最想做的事情吗，今天晚上我是不会走的了。”我擦，终于等到这句话了！我热泪盈眶“你太了解我了！你睡吧”拿被子把她一包，打开电 ... [08:38:21, 2012-03-26](http://twitter.com/gfrog/statuses/184076790321516544)
+
+
+
+
+
+  * RT [@mapel_uc](http://twitter.com/mapel_uc): RT [@nyliulei](http://twitter.com/nyliulei): 233 RT [@Scswga](http://twitter.com/Scswga): 今天领儿子去动物园玩，不知道1岁半的儿子用什么语言跟猴子交流，只听见叽歪几句后，猴子从地上捡起块饼干，要递给儿子。。。 [08:39:33, 2012-03-26](http://twitter.com/gfrog/statuses/184077090935676930)
+
+
+
+
+
+  * [@chjuheng](http://twitter.com/chjuheng) 短的话是指哪种距离呢？我只知道一条城东的经典腐败路线，温榆河绕圈。 [in reply to chjuheng](http://twitter.com/chjuheng/statuses/183772388264120320) [08:42:19, 2012-03-26](http://twitter.com/gfrog/statuses/184077787659911169)
+
+
+
+
+
+  * 每日一求：求靠谱人肉 #翻墙 机会。 [09:00:21, 2012-03-26](http://twitter.com/gfrog/statuses/184082327868153856)
+
+
+
+
+
+  * RT [@wanghaoxuan](http://twitter.com/wanghaoxuan): 我们要警惕中国变成一个不是拥有强大军队的国家，而是一个拥有国家的强大军队，就像现在的朝鲜。 [14:34:22, 2012-03-26](http://twitter.com/gfrog/statuses/184166384975097856)
+
+
+
+
+
+  * 把python当成C用的全都应该拖出去tjjtds，木jj的就nmmnds。真无奈了，C里面处理字符串麻烦，才搞出一坨常量对应错误字符串，python里搞字符串简单到爆，还像C里一样干不是nc是神马。。 [15:00:42, 2012-03-26](http://twitter.com/gfrog/statuses/184173013493743617)
+
+
+
+
+
+  * 一行真惨，被干了这么多年。 RT [@rebelboy](http://twitter.com/rebelboy): 。。。 RT [@erosself](http://twitter.com/erosself): RT [@Toma_Ken](http://twitter.com/Toma_Ken): 尼玛一拍三级片的居然觉得拍三级片可耻，是屈辱是下作，有没有一点职业操守了？毛主席不是教育过我们么！干一行爱一行！ [15:05:14, 2012-03-26](http://twitter.com/gfrog/statuses/184174154382196736)
+
+
+
+
+
+  * 继续吐槽，话说你写C就写的像点好伐，搞个 1 << N之类的，弄出来x += 2^N 算神马。。。 [15:07:18, 2012-03-26](http://twitter.com/gfrog/statuses/184174674291335168)
+
+
+
+
+
+  * [@xyh67](http://twitter.com/xyh67) 同感。 [in reply to xyh67](http://twitter.com/xyh67/statuses/184174536739135488) [15:07:28, 2012-03-26](http://twitter.com/gfrog/statuses/184174715340980225)
+
+
+
+
+
+  * IBM的这帮山炮，真没治了，裂开嘴神马都敢说。 [20:45:32, 2012-03-26](http://twitter.com/gfrog/statuses/184259790535528449)
+
+
+
+

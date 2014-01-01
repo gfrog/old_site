@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2010-05-31 01:00:00
+layout: post
+slug: todays-tweets-2010-05-31
+title: Today's tweets 2010-05-31
+wordpress_id: 753
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 周一早上注定会堵车。 [07:46:56, 2010-05-31](http://twitter.com/gfrog/statuses/15071754589)
+
+
+
+
+
+  * RT [@wubuntust](http://twitter.com/wubuntust) 记得有一次，早上刚买了滚热的包子，正好看见院里一挺熟的狗狗，于是一高兴，想也没想就把热包子扔出一个去，扔偏了...狗狗姿态很优美地斜刺里一跃，一头撞树上了...- -||~ [10:13:11, 2010-05-31](http://twitter.com/gfrog/statuses/15078854470)
+
+
+
+
+
+  * [@fannylawrenC](http://twitter.com/fannylawrenC) 其实我是想说金二胖的，手机打的，原谅我偷懒了一下吧，囧。 [in reply to fannylawrenC](http://twitter.com/fannylawrenC/statuses/15080152731) [10:43:31, 2010-05-31](http://twitter.com/gfrog/statuses/15080389981)
+
+
+
+
+
+  * 靠，Mozilla出的玩意怎么总那么操蛋，点关闭还要再留下几个进程当尾巴，下次再启动的时候就告诉你已经有一个程序在运行了。 [10:45:02, 2010-05-31](http://twitter.com/gfrog/statuses/15080467091)
+
+
+
+
+
+  * [@Greendamn](http://twitter.com/Greendamn) wine显然是不行滴，虚拟机吧。 [in reply to Greendamn](http://twitter.com/Greendamn/statuses/15080687242) [10:51:05, 2010-05-31](http://twitter.com/gfrog/statuses/15080773899)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 翻开女朋友钱包的一瞬间，哥杯具了....囧 (豆瓣 我们爱讲冷笑话小组) [http://j.mp/clSZOw](http://j.mp/clSZOw) //我觉得第23个最逗…… [11:22:50, 2010-05-31](http://twitter.com/gfrog/statuses/15082389986)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 三鹿算什么？看过这个你还有吃的欲望吗？(二） [http://j.mp/9Een3M](http://j.mp/9Een3M) [13:33:47, 2010-05-31](http://twitter.com/gfrog/statuses/15088405655)
+
+
+
+
+
+  * 检查文件的格式和编码，使用enca命令，如果系统上木有的话，apt-get install enca。 [14:38:32, 2010-05-31](http://twitter.com/gfrog/statuses/15090938595)
+
+
+
+

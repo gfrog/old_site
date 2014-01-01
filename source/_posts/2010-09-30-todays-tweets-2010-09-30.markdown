@@ -1,0 +1,162 @@
+---
+comments: true
+date: 2010-09-30 01:00:00
+layout: post
+slug: todays-tweets-2010-09-30
+title: Today's tweets 2010-09-30
+wordpress_id: 994
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 给我寄过来的机器算得上完美。据说是个满靠谱的商家。我还有个同事在他家买的9700，也不错。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/25871051383) [09:39:49, 2010-09-30](http://twitter.com/gfrog/statuses/25937769350)
+
+
+
+
+
+  * 所以才有了ipad。 RT [@wubuntust](http://twitter.com/wubuntust): "itouch 闲置中。不知道要来干什么。看书太小，mp3太大，游戏太小，上网太小."有点道理... [09:41:43, 2010-09-30](http://twitter.com/gfrog/statuses/25937924955)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 已经买完了。。。 对此无念。嘿 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/25943118590) [12:35:17, 2010-09-30](http://twitter.com/gfrog/statuses/25950546939)
+
+
+
+
+
+  * 实际就是半夜从北京南站下车以后没公交了呗，找不到通宵公交么。 RT [@Arilelee](http://twitter.com/Arilelee): 如果在凌晨2点从外地到了北京南三环附近，但北京的家却在北四环，这时候已经没有地铁和公交了，打车回去又太夸张，求大家的解决办法。 [13:03:53, 2010-09-30](http://twitter.com/gfrog/statuses/25952127515)
+
+
+
+
+
+  * report bug罢。 RT [@pipitu](http://twitter.com/pipitu): Symbol `PL_sv_yes' has different size in shared object, consider re-linking。。。urxvt居然segmentation fault让我去死吧> < [13:57:36, 2010-09-30](http://twitter.com/gfrog/statuses/25954801599)
+
+
+
+
+
+  * RT [@yuyexuanlv](http://twitter.com/yuyexuanlv): 卧去~！HTC将发布一款新Android手机名为“HTC Bee”。之前有款G8 Wildfire 来着。  以后，男的用G8 ，女的用Bee 。HTC老总好YD啊~ [13:58:08, 2010-09-30](http://twitter.com/gfrog/statuses/25954825568)
+
+
+
+
+
+  * RT [@pipitu](http://twitter.com/pipitu): RT [@alexwwang](http://twitter.com/alexwwang): 铁股铮铮啊～！RT [@huoouh](http://twitter.com/huoouh): 去上个厕所，一屁股就把马桶圈坐裂了。这简直是对我屁股的极大侮辱啊 [13:59:59, 2010-09-30](http://twitter.com/gfrog/statuses/25954911908)
+
+
+
+
+
+  * RT [@childream](http://twitter.com/childream): 下班前记得把自己的东西收拾好，电脑屏幕也关掉。杯子带盖的盖好盖子，没盖的扣过来放。吃的东西都收起来或带回家。重要文件放好。嗯 就这样了吧。要注意的。 [14:39:49, 2010-09-30](http://twitter.com/gfrog/statuses/25956718697)
+
+
+
+
+
+  * [@Arilelee](http://twitter.com/Arilelee) 去google地图上搜搜，公交路线可以按时间查询的。 [in reply to Arilelee](http://twitter.com/Arilelee/statuses/25952199922) [15:18:47, 2010-09-30](http://twitter.com/gfrog/statuses/25958464045)
+
+
+
+
+
+  * 现在就开始堵了。。。 RT [@luzhaohui](http://twitter.com/luzhaohui): 正中早晨交通广播的预测，现在北京的交通整个就是大便不畅的症状 [#FuckBJ](http://search.twitter.com/search?q=%23FuckBJ) [15:36:39, 2010-09-30](http://twitter.com/gfrog/statuses/25959240068)
+
+
+
+
+
+  * I just became the mayor of Redhat＠融科资讯 on [@foursquare](http://twitter.com/foursquare)! [http://4sq.com/9MPIR0](http://4sq.com/9MPIR0) [15:57:40, 2010-09-30](http://twitter.com/gfrog/statuses/25960132149)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) adw能快不少，但是似乎没法自动转换为横屏，让我很九届。 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/25959743959) [16:03:31, 2010-09-30](http://twitter.com/gfrog/statuses/25960381293)
+
+
+
+
+
+  * I just unlocked the "Adventurer" badge on [@foursquare](http://twitter.com/foursquare)! [http://4sq.com/csaBn5](http://4sq.com/csaBn5) [20:06:42, 2010-09-30](http://twitter.com/gfrog/statuses/25972746849)
+
+
+
+
+
+  * 方叔 [@peterfang](http://twitter.com/peterfang) 经常路过北京站啊，哈哈。 (@ Beijing Railway Station 北京站) [http://4sq.com/a3duxc](http://4sq.com/a3duxc) [20:06:42, 2010-09-30](http://twitter.com/gfrog/statuses/25972746986)
+
+
+
+
+
+  * 用光流量的好办法。 RT [@wubuntust](http://twitter.com/wubuntust): 正在市场里狂下软件 [20:09:40, 2010-09-30](http://twitter.com/gfrog/statuses/25972960319)
+
+
+
+
+
+  * 还有80多m流量，怎么用光呢。 [20:13:39, 2010-09-30](http://twitter.com/gfrog/statuses/25973236165)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) 那看来用4sq的人确实也不多，这么繁华的地方。。。 [in reply to petefang](http://twitter.com/petefang/statuses/25974147412) [20:42:24, 2010-09-30](http://twitter.com/gfrog/statuses/25975306652)
+
+
+
+
+
+  * [@ksky](http://twitter.com/ksky) 看来沃很需要双枪。 [in reply to ksky](http://twitter.com/ksky/statuses/25975041182) [20:44:14, 2010-09-30](http://twitter.com/gfrog/statuses/25975442807)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) 估计应该是反复坐火车的不多，哈哈。 [in reply to petefang](http://twitter.com/petefang/statuses/25975411467) [20:45:09, 2010-09-30](http://twitter.com/gfrog/statuses/25975512153)
+
+
+
+
+
+  * RT [@Elvasiu](http://twitter.com/Elvasiu): 蜂鸟某人的签名：没单反，你拿卡片拍沟女你就是色狼；有单反，你拍裸女都是艺术……” [20:53:19, 2010-09-30](http://twitter.com/gfrog/statuses/25976141965)
+
+
+
+
+
+  * [@ksky](http://twitter.com/ksky) 双卡双待吧， [in reply to ksky](http://twitter.com/ksky/statuses/25975924855) [20:53:43, 2010-09-30](http://twitter.com/gfrog/statuses/25976172388)
+
+
+
+
+
+  * 在车站偷拍mm未果，光线太差，快门时滞太长。 [20:54:56, 2010-09-30](http://twitter.com/gfrog/statuses/25976264968)
+
+
+
+
+
+  * 北京站等车的人越来越多，有点困了竟然，我要睡觉。 [21:04:04, 2010-09-30](http://twitter.com/gfrog/statuses/25976978825)
+
+
+
+
+
+  * [@WolfX700](http://twitter.com/WolfX700) 这种机器能用来偷拍么，太扎眼。还是要莱卡。 [in reply to WolfX700](http://twitter.com/WolfX700/statuses/25981324733) [22:03:19, 2010-09-30](http://twitter.com/gfrog/statuses/25981975656)
+
+
+
+

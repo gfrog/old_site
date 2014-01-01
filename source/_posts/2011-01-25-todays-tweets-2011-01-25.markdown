@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2011-01-25 01:00:00
+layout: post
+slug: todays-tweets-2011-01-25
+title: Today's tweets 2011-01-25
+wordpress_id: 1645
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 又被堵在路上了，帝都的堵车还真说不好什么时候就来了。 [09:28:32, 2011-01-25](http://twitter.com/gfrog/statuses/29712189849870336)
+
+
+
+
+
+  * 想申请张中信的兔斯基卡，结果申请页面在Chrome里没法提交，直接放弃。 [15:31:06, 2011-01-25](http://twitter.com/gfrog/statuses/29803431573065728)
+
+
+
+
+
+  * 英文字母在电话中的读法，很有用，B、D、P、这种字母很难在电话中分清楚。 [http://en.wikipedia.org/wiki/NATO_phonetic_alphabet#Letters](http://en.wikipedia.org/wiki/NATO_phonetic_alphabet#Letters) [15:51:53, 2011-01-25](http://twitter.com/gfrog/statuses/29808661803048960)
+
+
+
+
+
+  * openswan问题多的是，啥时候好用了才是不正常状态 XD RT [@diamondtin](http://twitter.com/diamondtin): 试验了半天发现还是openswan的问题，很见鬼。原先2.6.26版本在lucid不行了，升到最新的2.6.32也不行，后来发现2.6.28可以用……见鬼。 [16:06:21, 2011-01-25](http://twitter.com/gfrog/statuses/29812303859818496)
+
+
+
+
+
+  * 俺第一次用电子优惠券也被人当成了怪物。 RT [@felixonmars](http://twitter.com/felixonmars): 第一次在麦当劳用电子优惠卷，伸出爪机给店员看，被旁边一圈人投来异样的目光。。。 [16:19:14, 2011-01-25](http://twitter.com/gfrog/statuses/29815543959650305)
+
+
+
+
+
+  * 公司的邮件系统终于支持android的push mail了，但是仅仅支持$20的touchdown，为啥不能直接用内置的email app。。。 [17:43:32, 2011-01-25](http://twitter.com/gfrog/statuses/29836761244901376)
+
+
+
+
+
+  * 不过同时还支持software RSA token 还是很给力的，估计不需要随身带那个硬件token了。 [17:44:36, 2011-01-25](http://twitter.com/gfrog/statuses/29837029332226048)
+
+
+
+

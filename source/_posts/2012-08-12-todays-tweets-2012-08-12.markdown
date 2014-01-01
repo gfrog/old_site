@@ -1,0 +1,126 @@
+---
+comments: true
+date: 2012-08-12 23:59:00
+layout: post
+slug: todays-tweets-2012-08-12
+title: Today's tweets 2012-08-12
+wordpress_id: 2633
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 刘翔在摸哪里？！这个牛氓，公开秀基情。 RT [@sogook](http://twitter.com/sogook): Liked / 落后青年李三海: … ! [http://t.co/tWH4jvVl](http://t.co/tWH4jvVl) [http://t.co/28tQIrTJ](http://t.co/28tQIrTJ) [10:43:31, 2012-08-12](http://twitter.com/gfrog/statuses/234480204737814529)
+
+
+
+
+
+  * RT [@Jasey_Wang](http://twitter.com/Jasey_Wang): 【云骗局】1、整个IDC弄个VPS就叫云中心；2、弄个网络存储空间就叫云存储；3、来个上传病毒样本就叫云杀毒；4、收集联网用户病历就叫云医疗；5、架个网页游戏就叫云游戏；6、放台数据库服务器就叫云数据；7、建栋房子扯根光纤居然叫云产业。 [15:49:58, 2012-08-12](http://twitter.com/gfrog/statuses/234557323169906688)
+
+
+
+
+
+  * 程序员不学无术，只凭字面意义就扯神马云计算；外加老百姓太好忽悠了，一听这是自己不知道的玩意啊，还是洋人那里来的，肯定是牛逼货。于是中国式的云计算骗局产生了。 [15:54:23, 2012-08-12](http://twitter.com/gfrog/statuses/234558433930661888)
+
+
+
+
+
+  * 无论哪种云计算，还真的跟普通老百姓（最终用户）一毛钱关系都没有呢。 [15:55:16, 2012-08-12](http://twitter.com/gfrog/statuses/234558655519932416)
+
+
+
+
+
+  * 重点不在上面。 RT [@_yupo_](http://twitter.com/_yupo_): RT [@yelumine](http://twitter.com/yelumine): 黑眼圈◑▂◐ [http://t.co/sMm42DC0](http://t.co/sMm42DC0) [15:56:35, 2012-08-12](http://twitter.com/gfrog/statuses/234558987335512065)
+
+
+
+
+
+  * 多谢右边帮我证明我对某些程序员的论断。 RT [@kissChina](http://twitter.com/kissChina): 云主机不由vps等等虚拟化主机构成，还能是什么？只是管理方式变向超大规模和高复用。以前是一堆网管，现在是一套系统。@gfrog [@jasey_wang](http://twitter.com/jasey_wang) [16:05:21, 2012-08-12](http://twitter.com/gfrog/statuses/234561195204550656)
+
+
+
+
+
+  * 买了块天福号的酱牛肉吃，果然很爽。 [16:07:10, 2012-08-12](http://twitter.com/gfrog/statuses/234561652744392704)
+
+
+
+
+
+  * 擦，对面楼大半夜的竟然锯木头，想报警啊啊啊啊。 [21:44:58, 2012-08-12](http://twitter.com/gfrog/statuses/234646662323257344)
+
+
+
+
+
+  * [@pityonline](http://twitter.com/pityonline) 电锯惊魂… [in reply to pityonline](http://twitter.com/pityonline/statuses/234650991755137024) [22:09:03, 2012-08-12](http://twitter.com/gfrog/statuses/234652724090769408)
+
+
+
+
+
+  * 还是没找到靠谱的python库可以直接分析一个hex string形式的Group4 压缩TIFF，这步是关键啊，求推荐靠谱的库，我可不想再去抠TIFF的文档了，看PDF的文档已经很吐血了呢。 [22:11:17, 2012-08-12](http://twitter.com/gfrog/statuses/234653284529479680)
+
+
+
+
+
+  * Android的gmail推送速度很快呢，这边刚在Instagram点了reset password，那边手机马上有新邮件提醒了，时间间隔不超过1s。 [22:15:28, 2012-08-12](http://twitter.com/gfrog/statuses/234654336821628928)
+
+
+
+
+
+  * 准备把几个app都从dotcloud/vps迁到openshift上去，虽然俺很喜欢dotcloud，因为客户端是python的嘛。不过毕竟openshift的东西，有问题找人吐槽也容易些，XD。 [22:41:29, 2012-08-12](http://twitter.com/gfrog/statuses/234660885971468288)
+
+
+
+
+
+  * RT [@ibuick](http://twitter.com/ibuick): 中国网友的一些臭逼毛病，，真是让我觉得恶心，跑到 Github 一看，什么豆瓣观光团，什么他妈逼的围观。我操你们妈，，围观你妈逼啊，好好的地方都他妈让你们这帮孙子毁了，，比他妈那个Pull Request的傻逼还恶心。 [23:15:08, 2012-08-12](http://twitter.com/gfrog/statuses/234669352060866561)
+
+
+
+
+
+  * 可以当作汉语四级考试题了。 RT [@clc4214](http://twitter.com/clc4214): “我们宿舍热得快炸了。”“怎么会热的快炸了？”“他就是突然就炸了。”“谁热的炸了？？？！！！”“热得快啊。”“………” 【转】 [23:43:13, 2012-08-12](http://twitter.com/gfrog/statuses/234676418989154304)
+
+
+
+
+
+  * 为毛手头上有这么多没码完的码儿… 看来还是编码速度不够，目前每天大概只能写30-40行码，完全没有python迅速高效的效果啊。 [23:45:26, 2012-08-12](http://twitter.com/gfrog/statuses/234676976781234177)
+
+
+
+
+
+  * 其实码这30多行代码之前可能需要在网上搜索一整天，搞清楚来龙去脉，最好能找到标准库，如果有前人的码可以借鉴更好。当年写C的时候才是真的闷头自己造轮子啊，每天代码行数更低。 [23:47:32, 2012-08-12](http://twitter.com/gfrog/statuses/234677508828692481)
+
+
+
+
+
+  * 从upstream的code看，俺2年Add了3500lines+，Delete1800+，每年add 1750行，平均每天…4.79行，擦。 [23:53:41, 2012-08-12](http://twitter.com/gfrog/statuses/234679055243436032)
+
+
+
+
+
+  * 怨念完毕，退散。 [23:54:34, 2012-08-12](http://twitter.com/gfrog/statuses/234679278107766784)
+
+
+
+

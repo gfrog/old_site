@@ -1,0 +1,126 @@
+---
+comments: true
+date: 2011-01-07 01:00:00
+layout: post
+slug: todays-tweets-2011-01-07
+title: Today's tweets 2011-01-07
+wordpress_id: 1563
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@bjxiaoc](http://twitter.com/bjxiaoc):[ROM更新]Vodafone Essar发布黑莓9700 OS6.0.0.380东亚语言正式版 本地下载稍后给出: 这可是惊天动地的好消息啊，黑莓9700的OS6.0正式版终于发布了，http://bit.ly/i3Wq8L [00:01:03, 2011-01-07](http://twitter.com/gfrog/statuses/23046394612817920)
+
+
+
+
+
+  * 爬床，睡。 [00:33:36, 2011-01-07](http://twitter.com/gfrog/statuses/23054585941725184)
+
+
+
+
+
+  * RT [@woojay33](http://twitter.com/woojay33): RT [@CorndogCN](http://twitter.com/CorndogCN) 泪流满面，Picasa相册于今天开始支持Https，可以墙内直接访问了。https://picasaweb.google.com/home [09:02:14, 2011-01-07](http://twitter.com/gfrog/statuses/23182587702808576)
+
+
+
+
+
+  * RT [@kDolphin](http://twitter.com/kDolphin): RT [@tinyfool](http://twitter.com/tinyfool): 当人们提供给你了一个不需要磁盘整理的操作系统Mac/Linux，你却总是去论坛跪求一个Mac或者Linux下的磁盘整理软件（还想要注册码）。我早说了，虽然是新生活，奈何你不断的走老路啊。（讽刺，举个牌子给看不懂的） [09:14:37, 2011-01-07](http://twitter.com/gfrog/statuses/23185704511086592)
+
+
+
+
+
+  * 我擦，原来在公司里连mplayer都不能用，因为有版权问题。 呼唤赶快出一套Free的解码器包吧。 [10:50:36, 2011-01-07](http://twitter.com/gfrog/statuses/23209858517958656)
+
+
+
+
+
+  * [@icyleaf](http://twitter.com/icyleaf) 我的在Atlanta，难道带宽跟机房有关，要是这样，似乎该考虑迁移一下了。 in reply to icyleaf [12:34:52, 2011-01-07](http://twitter.com/gfrog/statuses/23236098016677888)
+
+
+
+
+
+  * [@edijason](http://twitter.com/edijason) 似乎解码器似乎有版权和专利问题，上午没搞清楚这个问题，在网上搜了一圈也未果。 in reply to edijason [12:40:08, 2011-01-07](http://twitter.com/gfrog/statuses/23237426264678400)
+
+
+
+
+
+  * RT [@quakelee](http://twitter.com/quakelee): RT [@lingyumeng](http://twitter.com/lingyumeng): 发改委成立至今只做过两件事：1.涨价，2.替涨价辩护！ [12:54:13, 2011-01-07](http://twitter.com/gfrog/statuses/23240969595912192)
+
+
+
+
+
+  * 记下了，多谢。晚上回家就发ticket迁移去。 RT [@icyleaf](http://twitter.com/icyleaf): [@gfrog](http://twitter.com/gfrog) 嗯，得看机房哪些里国内几个光缆出口近： San Jose 》 Fremont  》 Los Angles  》 Las Vegas  》 Dallas  》 Pennsylvania [12:54:55, 2011-01-07](http://twitter.com/gfrog/statuses/23241144901046272)
+
+
+
+
+
+  * 可以超到这么高。。 电池呢，还能用多久？RT [@felixonmars](http://twitter.com/felixonmars): 超频我的g2到1.5g，目前感觉。。。。甚爽 [15:58:48, 2011-01-07](http://twitter.com/gfrog/statuses/23287422049583104)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku): RT [@supermonkeyboy](http://twitter.com/supermonkeyboy): 好屌！！镜头放大镜点火评测！！！http://t.co/gDC6xQ4 [16:04:06, 2011-01-07](http://twitter.com/gfrog/statuses/23288755708239872)
+
+
+
+
+
+  * [@edijason](http://twitter.com/edijason) 看之前debian-gb-list里的讨论，有人说mplayer里面很多代码是复制过来的，但是来源不明，不过这点没有讨论结果。。。 in reply to edijason [16:15:41, 2011-01-07](http://twitter.com/gfrog/statuses/23291670065848320)
+
+
+
+
+
+  * RT [@xie107](http://twitter.com/xie107): 过马路,朋友没注意红灯直往前走,我急道：灯！等灯等灯！他扭头：就你有intel i7！ [16:50:33, 2011-01-07](http://twitter.com/gfrog/statuses/23300445715832832)
+
+
+
+
+
+  * RT [@biantaishabi](http://twitter.com/biantaishabi): 英国的烟盒子上面印了很多恶心的照片，比如说死在腹中的胎儿，或者是得了癌症的肺。有一次一个同学在排队买烟，售货员给他一包烟，他很礼貌的把烟退回给了售货员，说：对不起啊，我不要这一包。他用手指着柜台上的另一包烟说：我要那个肺癌。。。 [16:50:46, 2011-01-07](http://twitter.com/gfrog/statuses/23300498551476224)
+
+
+
+
+
+  * [@Greendamn](http://twitter.com/Greendamn) intel广告的音乐。 in reply to Greendamn [16:56:00, 2011-01-07](http://twitter.com/gfrog/statuses/23301814996705280)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  5 Jan 2011 - Flickr [http://j.mp/edsxWI](http://j.mp/edsxWI) [22:40:23, 2011-01-07](http://twitter.com/gfrog/statuses/23388484551049216)
+
+
+
+
+
+  * RT [@chnp101](http://twitter.com/chnp101): RT [@theodore666hu](http://twitter.com/theodore666hu): 辛苦的摄影师 [http://img.ly/2Lw9](http://img.ly/2Lw9) [22:48:47, 2011-01-07](http://twitter.com/gfrog/statuses/23390596190183424)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 玩家用物理学原理解析《愤怒的小鸟》得惊人结论 [http://j.mp/dM1Wcc](http://j.mp/dM1Wcc) [23:56:19, 2011-01-07](http://twitter.com/gfrog/statuses/23407592495648768)
+
+
+
+

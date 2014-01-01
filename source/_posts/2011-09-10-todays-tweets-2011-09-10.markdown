@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2011-09-10 01:00:00
+layout: post
+slug: todays-tweets-2011-09-10
+title: Today's tweets 2011-09-10
+wordpress_id: 1841
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 帝都的雨天好烦躁，下不大停不了，就是让人郁闷。 [14:20:14, 2011-09-10](http://twitter.com/gfrog/statuses/112410028950036481)
+
+
+
+

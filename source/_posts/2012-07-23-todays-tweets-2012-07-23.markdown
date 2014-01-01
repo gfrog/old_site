@@ -1,0 +1,48 @@
+---
+comments: true
+date: 2012-07-23 23:59:00
+layout: post
+slug: todays-tweets-2012-07-23
+title: Today's tweets 2012-07-23
+wordpress_id: 2611
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@disinfeqt](http://twitter.com/disinfeqt): 大致来说，新浪微博是一个别人说什么你就转什么的地方。总有人想操纵你的眼球和转发的贱手来达到他们的目的，好的和坏的。我是个不喜欢被人操纵的人，只是管不住眼球和贱手，于是干脆不用了。 [00:42:22, 2012-07-23](http://twitter.com/gfrog/statuses/227081162596691969)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:24, 2012-07-23](http://twitter.com/gfrog/statuses/227206494511321090)
+
+
+
+
+
+  * 再次搞一个猥琐流的patch，/sys算cpu的thread比较麻烦，那就数/sys/devices/system/cpu/cpu0/topology/thread_siblings_list里面有几个逗号好了，XD。 [15:03:24, 2012-07-23](http://twitter.com/gfrog/statuses/227297849103245312)
+
+
+
+
+
+  * 主流这个词二爆了。所谓主流，全是尼玛找借口的，啥叫主流？ 你能代表哪个主流？ [15:15:40, 2012-07-23](http://twitter.com/gfrog/statuses/227300936148725760)
+
+
+
+
+
+  * 干掉香蕉2枚，味道真的很好呢。 [21:29:58, 2012-07-23](http://twitter.com/gfrog/statuses/227395129214910465)
+
+
+
+

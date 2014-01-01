@@ -1,0 +1,156 @@
+---
+comments: true
+date: 2010-07-15 01:00:00
+layout: post
+slug: todays-tweets-2010-07-15
+title: Today's tweets 2010-07-15
+wordpress_id: 902
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@skyscribe](http://twitter.com/skyscribe) 天翼虽然带宽比adsl稍高，但是延迟很大，对延迟敏感的应用没法用。而且信号质量不稳定，速度波动很大。 [in reply to skyscribe](http://twitter.com/skyscribe/statuses/18520924417) [2010-07-15](http://twitter.com/gfrog/statuses/18558895076)
+
+
+
+
+
+  * RT [@huwyo](http://twitter.com/huwyo): 蜘蛛听觉在脚上，做对比实验：1大学生把一只蜘蛛放在实验台上，然后冲蜘蛛大吼了一声，蜘蛛吓跑了!2：之后把这只可怜的蜘蛛又抓了回来，放在实验台上，把蜘蛛的脚全部割掉!他再冲蜘蛛大吼了一声，蜘蛛不动了！由此证明蜘蛛的听觉在脚上… [2010-07-15](http://twitter.com/gfrog/statuses/18558954136)
+
+
+
+
+
+  * TG还能想出啥招？他们的思想还停留在40年前阶级斗争那个年代。 RT [@wolfmeimei](http://twitter.com/wolfmeimei): 《湖南娄底公捕公判数十盗窃犯 6千人观看》，什么年代了，还在搞这一套 [2010-07-15](http://twitter.com/gfrog/statuses/18562263441)
+
+
+
+
+
+  * 关注一下KVM和其他虚拟化技术，一直对半虚拟化这类的概念不理解，求达人解惑。 [2010-07-15](http://twitter.com/gfrog/statuses/18562323972)
+
+
+
+
+
+  * 这些基层警察没有上面的命令，会蛋疼的去找事么？新官出来做个秀混个政绩，就不要当真了。要从体制内解决这些败类基本就是奢望 RT [@wlh832](http://twitter.com/wlh832): 新上任的北京公安局头领要开围脖要与意见领袖沟通要重建警察形象。那就先从处分剔除警察中的这些败类开始吧。 ... [2010-07-15](http://twitter.com/gfrog/statuses/18568174937)
+
+
+
+
+
+  * 这么爽。。 RT [@Rex5652](http://twitter.com/Rex5652): 你妹啊，学校教育网挂我的VPN 480P缓冲不要等，还会多出来 [2010-07-15](http://twitter.com/gfrog/statuses/18569648384)
+
+
+
+
+
+  * [@pipitu](http://twitter.com/pipitu) [@Gyteng](http://twitter.com/Gyteng) 我用dev channel的chrome，代理挂switchy插件，基本没遇到过问题。 [in reply to pipitu](http://twitter.com/pipitu/statuses/18569322628) [2010-07-15](http://twitter.com/gfrog/statuses/18569694503)
+
+
+
+
+
+  * 大囧，RT跑到原推前面去了。。。 [2010-07-15](http://twitter.com/gfrog/statuses/18569812692)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 电梯突然断电下坠时，一定要这么做--能捡回一条命 [http://j.mp/a3GMBi](http://j.mp/a3GMBi) [2010-07-15](http://twitter.com/gfrog/statuses/18569944703)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 遇事最有水平的处理方法 [http://j.mp/9vMN2Y](http://j.mp/9vMN2Y) [2010-07-15](http://twitter.com/gfrog/statuses/18581392046)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 食品安全靠运气？ [http://j.mp/as1rnn](http://j.mp/as1rnn) [2010-07-15](http://twitter.com/gfrog/statuses/18582536992)
+
+
+
+
+
+  * RT [@hanmo93](http://twitter.com/hanmo93): 新ipad可能在5个月内发烧，将会有3种款式，分别是7寸屏版本、5.6寸屏版本和3.5寸屏版，7寸与5.6寸直逼电子书市场，3.5寸版本就是4代i-touch的化身。 [2010-07-15](http://twitter.com/gfrog/statuses/18586373239)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 先找你显示器对应的色彩定义文件，一般能好一些。当然终极解决方案就是换显示器了。 [in reply to Hc95](http://twitter.com/Hc95/statuses/18587430257) [2010-07-15](http://twitter.com/gfrog/statuses/18587581056)
+
+
+
+
+
+  * 淘宝积分啥时候这么值钱了。 RT [@piao_2010](http://twitter.com/piao_2010) RT [@rednaxelafx](http://twitter.com/rednaxelafx): 淘宝技术大学好猛！上个月跟@bluedavy老大一起做了次JVM培训，一下赚了5000积分；1积分=1RMB于是够换iPad了。激动哇！ [2010-07-15](http://twitter.com/gfrog/statuses/18589248853)
+
+
+
+
+
+  * RT [@nuochan](http://twitter.com/nuochan): 什么叫包容，香港的地铁用粤语英语国语报站，台湾则讲台语国语日语英语。包容从来都不是以这样那样的理由消灭不同的东西，让全国讲同一种话就叫包容。 [2010-07-15](http://twitter.com/gfrog/statuses/18590970088)
+
+
+
+
+
+  * java如果一开始就不靠谱，那就会是永久的杯具。 RT [@laogao](http://twitter.com/laogao): 我要再吼一次：别看到处都是Java+Spring的宣传，别看Java是静态类型，别看Java的IDE支持多么"先进"多么完善，别看IoC是多么酷的缩写，这里是重构的地狱，请随时做好自救的准备。 [2010-07-15](http://twitter.com/gfrog/statuses/18591595480)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 按照这篇文档做呢？  [http://www.google.com/support/blogger/bin/answer.py?hl=cn&answer=55373](http://www.google.com/support/blogger/bin/answer.py?hl=cn&answer=55373) [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18590775943) [2010-07-15](http://twitter.com/gfrog/statuses/18591929077)
+
+
+
+
+
+  * RT [@lxkrock](http://twitter.com/lxkrock) 看了的确很经典RT [@wenyunchao](http://twitter.com/wenyunchao) 郭力的《南方周末》独家专访章鱼帝保罗一文可谓是字字用典啊。 官网：http://is.gd/dsIyl 拷贝：http://is.gd/dsIzg [2010-07-15](http://twitter.com/gfrog/statuses/18592028559)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 改a记录呢？应该还能找到木有被盾的IP，等我回家测试一下。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18592125818) [2010-07-15](http://twitter.com/gfrog/statuses/18593228804)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 基本是的，不过不要填那条默认路由就成，然后写一下post-up post-down 的脚本，自己加路由。 [in reply to wubuntust](http://twitter.com/wubuntust/statuses/18592500142) [2010-07-15](http://twitter.com/gfrog/statuses/18593428954)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 我有godaddy，先测试一下看。如果最后不行的话，我在dreamhost上分你个帐户装wordpress吧。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18593411816) [2010-07-15](http://twitter.com/gfrog/statuses/18593509176)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 写个cname指向wordpress呗，反正现在已经在墙外了。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/18593627488) [2010-07-15](http://twitter.com/gfrog/statuses/18593725302)
+
+
+
+
+
+  * 啊啊啊啊，电脑放在窗口，键盘上全是灰。这破空气质量！ [2010-07-15](http://twitter.com/gfrog/statuses/18597090153)
+
+
+
+

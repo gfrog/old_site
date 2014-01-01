@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2011-09-11 01:00:00
+layout: post
+slug: todays-tweets-2011-09-11
+title: Today's tweets 2011-09-11
+wordpress_id: 1842
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 其实是绿头苍蝇。RT [@717amy](http://twitter.com/717amy): 为什么餐饮行业服务员要涂绿色眼影？为了表示绿色环保？还是有机无害？ [19:33:49, 2011-09-11](http://twitter.com/gfrog/statuses/112851333488455680)
+
+
+
+

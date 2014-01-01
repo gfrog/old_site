@@ -1,0 +1,132 @@
+---
+comments: true
+date: 2010-11-04 01:00:00
+layout: post
+slug: todays-tweets-2010-11-04
+title: Today's tweets 2010-11-04
+wordpress_id: 1028
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * QQ和360之争影响面真广啊，在某Linux公司，大家早上谈论的话题也是这个。啧啧，毒害了一代中国人的两样产品。 [10:05:49, 2010-11-04](http://twitter.com/gfrog/statuses/29630257298)
+
+
+
+
+
+  * RT [@fenng](http://twitter.com/fenng): Google 发布 mod_pagespeed ，自动化 Apache 优化模块，对很多中小站长来说，是个好消息。这个模块很低碳，很环保。或许那些嘴上喊着低碳的企业应该反思一点什么。 [12:12:30, 2010-11-04](http://twitter.com/gfrog/statuses/29639077471)
+
+
+
+
+
+  * 求推荐靠谱的vps提供商，谢谢。 [12:13:58, 2010-11-04](http://twitter.com/gfrog/statuses/29639163005)
+
+
+
+
+
+  * 砸了。 RT [@Hc95](http://twitter.com/Hc95): 9000你个悲剧，9000你个悲催，9000你个完蛋… [12:17:34, 2010-11-04](http://twitter.com/gfrog/statuses/29639374316)
+
+
+
+
+
+  * 我擦，我刚升级到2.2，2.3就冒出来了。 RT [@wubuntust](http://twitter.com/wubuntust): 待机更持久 Android 2.3新功能首次曝光 - cnBeta全文版 - [http://bit.ly/aZarXL](http://bit.ly/aZarXL) [12:31:43, 2010-11-04](http://twitter.com/gfrog/statuses/29640186852)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) .... 孩子，淡定。 [in reply to Hc95](http://twitter.com/Hc95/statuses/29639604960) [12:33:02, 2010-11-04](http://twitter.com/gfrog/statuses/29640259361)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 里程碑刷了2.2 [in reply to fxlt](http://twitter.com/fxlt/statuses/29640448055) [13:07:09, 2010-11-04](http://twitter.com/gfrog/statuses/29642030268)
+
+
+
+
+
+  * RT [@quakelee](http://twitter.com/quakelee): 澳航A380客机因引擎爆炸迫降新加坡 [http://is.gd/gHbnj](http://is.gd/gHbnj) //我想澳航这次验证了A380在一个引擎爆炸的情况下可以保持安全降落 [13:29:35, 2010-11-04](http://twitter.com/gfrog/statuses/29643124874)
+
+
+
+
+
+  * RT [@pipitu](http://twitter.com/pipitu): RT [@CattiRock](http://twitter.com/CattiRock): 转ACF： 当QQ娘指着我的鼻子叫嚣道:“我和360那个贱人,你到底要哪个? 今天我把话摆在这里了,有她没我,有我没她! 只能选一个！”的时候,360娘贴过来轻轻地拉了拉我的袖子,温柔地说:没事的,我会努力和姐姐好好相处的. [13:48:54, 2010-11-04](http://twitter.com/gfrog/statuses/29643995177)
+
+
+
+
+
+  * 好吧，我承认被bugzilla惯坏了，在launchpad上不会搜索bug了。。。 [13:50:26, 2010-11-04](http://twitter.com/gfrog/statuses/29644063304)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 还好啦，屏幕很赞的。 [in reply to fxlt](http://twitter.com/fxlt/statuses/29642187938) [13:54:53, 2010-11-04](http://twitter.com/gfrog/statuses/29644258005)
+
+
+
+
+
+  * [@DroidCN](http://twitter.com/DroidCN) 里程碑用户表示苦苦等了N久2.2，结果可以2.2了，2.3又来了。难道还要继续苦苦等待。。。 [in reply to DroidCN](http://twitter.com/DroidCN/statuses/29642701697) [13:55:38, 2010-11-04](http://twitter.com/gfrog/statuses/29644290875)
+
+
+
+
+
+  * 基本这个字用的真没底气。XD 我们公司全部在用Linux，没遇到任何问题，在特定的平台上用特定的技术，要是在Linux上跑微软的服务，那就是找虐。 RT [@Houge_Langley](http://twitter.com/Houge_Langley): 其实ubuntu现在完全能够满足一个人的基本操作了 [15:05:39, 2010-11-04](http://twitter.com/gfrog/statuses/29647276748)
+
+
+
+
+
+  * RT [@klx1204](http://twitter.com/klx1204): 我擦，菜市场Twitter for Android的评论里面居然有一句是“女孩们，遇到能给你免费VPN的男人，就嫁了吧”… [17:39:54, 2010-11-04](http://twitter.com/gfrog/statuses/29653974008)
+
+
+
+
+
+  * [@DroidCN](http://twitter.com/DroidCN) 啧啧，2.2有flash，就这一点，让2.1用户情何以堪。 [in reply to DroidCN](http://twitter.com/DroidCN/statuses/29654349401) [18:14:27, 2010-11-04](http://twitter.com/gfrog/statuses/29655695589)
+
+
+
+
+
+  * [@beasthang](http://twitter.com/beasthang) 这东东很简单啊，怎么能把U盘都搞挂掉呢。。。 [in reply to beasthang](http://twitter.com/beasthang/statuses/29580119765) [18:15:37, 2010-11-04](http://twitter.com/gfrog/statuses/29655757329)
+
+
+
+
+
+  * 貌似今天163和sohu的源都出问题了？为啥俺的fedora14木法更新了呢。 [18:19:18, 2010-11-04](http://twitter.com/gfrog/statuses/29655947865)
+
+
+
+
+
+  * [@fragroute](http://twitter.com/fragroute) fedora木有内部源啊，那东东是社区版。RHEL么。。 嘿，反正确实很爽。。。 [in reply to fragroute](http://twitter.com/fragroute/statuses/29656626437) [18:46:29, 2010-11-04](http://twitter.com/gfrog/statuses/29657422617)
+
+
+
+
+
+  * 拧了50多个螺丝，手果然磨起泡了。 [22:42:24, 2010-11-04](http://twitter.com/gfrog/statuses/29672617117)
+
+
+
+

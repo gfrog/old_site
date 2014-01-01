@@ -1,0 +1,96 @@
+---
+comments: true
+date: 2011-12-21 01:00:00
+layout: post
+slug: todays-tweets-2011-12-21
+title: Today's tweets 2011-12-21
+wordpress_id: 2007
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 人家掌握诀窍了。 [in reply to gnudog](http://twitter.com/gnudog/statuses/149329010655105024) [11:29:12, 2011-12-21](http://twitter.com/gfrog/statuses/149330552422547456)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 他们自己说的啊，掌握诀窍神马神马的。 [in reply to gnudog](http://twitter.com/gnudog/statuses/149330823223578624) [11:31:24, 2011-12-21](http://twitter.com/gfrog/statuses/149331104107737088)
+
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 它还要神马qa，能安装就成呗。 [in reply to gnudog](http://twitter.com/gnudog/statuses/149331708192374784) [11:58:00, 2011-12-21](http://twitter.com/gfrog/statuses/149337797961072641)
+
+
+
+
+
+  * 二逼的戴了半小时耳机，但是忘了开播放器，这是要装哪般啊。。。 [14:22:25, 2011-12-21](http://twitter.com/gfrog/statuses/149374142519578624)
+
+
+
+
+
+  * 询价。 RT [@stonehoo](http://twitter.com/stonehoo): 过几天将会有一堆touch到货，估计会有5台的样子，求预订啊。 [14:43:00, 2011-12-21](http://twitter.com/gfrog/statuses/149379321713274880)
+
+
+
+
+
+  * [@stonehoo](http://twitter.com/stonehoo) [@brit_punk](http://twitter.com/brit_punk) 这价格。。。 去村里提现货也才800块呢。。 [in reply to stonehoo](http://twitter.com/stonehoo/statuses/149379713947795456) [14:52:16, 2011-12-21](http://twitter.com/gfrog/statuses/149381653939224576)
+
+
+
+
+
+  * [@FourSoil](http://twitter.com/FourSoil) [@Fatal1tyV](http://twitter.com/Fatal1tyV) [@FourSoil](http://twitter.com/FourSoil) [@movingtea1982](http://twitter.com/movingtea1982) [@stonehoo](http://twitter.com/stonehoo) 苹果的touch还需要拿推上来卖嘛。。。 想买去水果店哪，敞开了卖的。 [in reply to FourSoil](http://twitter.com/FourSoil/statuses/149381056762617856) [14:53:20, 2011-12-21](http://twitter.com/gfrog/statuses/149381921477103616)
+
+
+
+
+
+  * [@stonehoo](http://twitter.com/stonehoo) good idea [in reply to stonehoo](http://twitter.com/stonehoo/statuses/149382335685599232) [14:58:09, 2011-12-21](http://twitter.com/gfrog/statuses/149383136852185089)
+
+
+
+
+
+  * 哎呀，今天Amazon有满100减10啊，还剩最后1小时，要不要去收touch呢。。。 [14:59:06, 2011-12-21](http://twitter.com/gfrog/statuses/149383375218679809)
+
+
+
+
+
+  * RT [@tifan](http://twitter.com/tifan): CSDN 的数据库里明文密码，有黑客dump了库公开之了。大家抓紧改密码 [15:58:23, 2011-12-21](http://twitter.com/gfrog/statuses/149398293787586560)
+
+
+
+
+
+  * 俺自己都想不起来CSDN的密码了，哪有那个数据库下，我去查查俺的密码是啥。 [16:23:14, 2011-12-21](http://twitter.com/gfrog/statuses/149404545146044416)
+
+
+
+
+
+  * 我也该做个规划。 RT [@jyman](http://twitter.com/jyman): 貌似不简单RT [@jzp914](http://twitter.com/jzp914): 今晚不该来健身，该赶紧回家改密码，重新设计密码规则。比如网站网址取奇数字符和自己常用密码交织等方法，生成每个网站都不同但容易记起的密码… [21:07:12, 2011-12-21](http://twitter.com/gfrog/statuses/149476008779722752)
+
+
+
+
+
+  * RT [@waterye](http://twitter.com/waterye): awk -F# '{a[$2]++}END{for(i in a){print a[i] ":" i }}' [http://t.co/TUKikDIE.sql](http://t.co/TUKikDIE.sql) | sort -rn > a.log [21:48:17, 2011-12-21](http://twitter.com/gfrog/statuses/149486350679277568)
+
+
+
+

@@ -1,0 +1,110 @@
+---
+comments: true
+date: 2012-09-05 00:01:00
+layout: post
+slug: todays-tweets-2012-09-04
+title: Today's tweets 2012-09-04
+wordpress_id: 3380
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:40, 2012-09-04](http://twitter.com/gfrog/statuses/242789239648030721)
+
+
+
+
+
+  * RT [@liuqiangben](http://twitter.com/liuqiangben): RT [@gaoyu200812](http://twitter.com/gaoyu200812): 昨天下午4点日大使汽车在北四环被袭，何家栋先生生前一句话又浮现脑际：“义和团是不识字的红卫兵，红卫兵是识字的义和团。”未来十年，不知有啥新变种。 [10:02:44, 2012-09-04](http://twitter.com/gfrog/statuses/242804860280524800)
+
+
+
+
+
+  * [@zongsen](http://twitter.com/zongsen) 有模拟器，也在培训班交钱定机架了。 [in reply to zongsen](http://twitter.com/zongsen/statuses/242806030407450624) [10:15:43, 2012-09-04](http://twitter.com/gfrog/statuses/242808126875791361)
+
+
+
+
+
+  * 原来交法规定自行车通过路口需要下车推行，这都是啥龟腚啊。于是骑自行车通过路口发生事故自行车一定有责任。看来以后过路口还是小心得好。 [10:43:00, 2012-09-04](http://twitter.com/gfrog/statuses/242814993727381504)
+
+
+
+
+
+  * 看了下维基百科的 #中蘇友好同盟條約 没有发现关于海参崴的条目，只有有关库页岛的。不过倒是发现当年共党跟苏联背地里干的见不得人的事儿确实不少。 [http://t.co/2vGmTTNc中蘇友好同盟條約](http://t.co/2vGmTTNc中蘇友好同盟條約) [15:43:29, 2012-09-04](http://twitter.com/gfrog/statuses/242890611315834880)
+
+
+
+
+
+  * 乳糖不耐受这事太坑爹了，牛奶一喝多就拉肚子。下次不能一次喝太多了。 [16:01:24, 2012-09-04](http://twitter.com/gfrog/statuses/242895120570134528)
+
+
+
+
+
+  * [@jasontj](http://twitter.com/jasontj) 咖啡不耐受。。。第一次听说，人真奇妙呢。 [in reply to jasontj](http://twitter.com/jasontj/statuses/242895962887049216) [16:06:56, 2012-09-04](http://twitter.com/gfrog/statuses/242896515096510464)
+
+
+
+
+
+  * “果粉”纪念乔布斯 欲让孩子姓乔_cnBeta [http://t.co/8dWEk879](http://t.co/8dWEk879) // 神评论 
+匿名人士 发表于 2012-09-04 14:11:40
+    孩子他母亲知道为什么姓乔 [16:30:02, 2012-09-04](http://twitter.com/gfrog/statuses/242902328120840192)
+
+
+
+
+
+  * 见过在生产代码里变量命名写成s ss sss ssss这样的。 [16:36:59, 2012-09-04](http://twitter.com/gfrog/statuses/242904076604542976)
+
+
+
+
+
+  * 他是被邻居家张大伯fork出来的。 RT [@levin108](http://twitter.com/levin108): 刚在人人网上看到同学在吐槽「今天在论坛上看到有人说他痛恨曰本人，因为他爷爷五岁就被曰本人杀死了。我想对他说，你爷爷五岁就死了，你是网上下载的？」 [20:25:54, 2012-09-04](http://twitter.com/gfrog/statuses/242961686993178624)
+
+
+
+
+
+  * [@eexp01](http://twitter.com/eexp01) 是呢，搞个openshift的fork版本吧。 [in reply to eexp01](http://twitter.com/eexp01/statuses/242961218581721088) [20:32:56, 2012-09-04](http://twitter.com/gfrog/statuses/242963454946840576)
+
+
+
+
+
+  * RT [@chengr28](http://twitter.com/chengr28): 今天目睹了两位同事的iPhone传歌，一个打开播放，另一个打开录音，我看的目瞪口呆…( #自古CB出评论 [21:58:40, 2012-09-04](http://twitter.com/gfrog/statuses/242985032535392256)
+
+
+
+
+
+  * 钢髯倒竖，豹眼圆睁有没有。 RT [@childream](http://twitter.com/childream): 市场那边刚找来一个姑娘，市场的头儿给人介绍说，我们这儿新来一美眉……blablabla…… （要我说这哪儿是美眉，这是女大汉啊！就是个长头发的大汉啊！ Omg [22:02:10, 2012-09-04](http://twitter.com/gfrog/statuses/242985911242092544)
+
+
+
+
+
+  * 看到写的跟屎一样的python代码我就想抓狂，国内的某些开源应用代码质量真是烂爆了。 [22:23:31, 2012-09-04](http://twitter.com/gfrog/statuses/242991284606869504)
+
+
+
+
+
+  * 三观毁灭推。 RT [@StarKnight](http://twitter.com/StarKnight): 一只乌鸦口渴了，到处找水喝。 乌鸦看见一口大水缸，可是里边的水不多，它喝不着。这时有个小孩爬到缸沿上玩，一不小心，掉到了缸里。缸里的水渐渐升高了，乌鸦就喝着水了。 [22:29:18, 2012-09-04](http://twitter.com/gfrog/statuses/242992739866775553)
+
+
+
+

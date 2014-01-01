@@ -1,0 +1,450 @@
+---
+comments: true
+date: 2010-06-10 01:00:00
+layout: post
+slug: todays-tweets-2010-06-10
+title: Today's tweets 2010-06-10
+wordpress_id: 763
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): RT [@startx](http://twitter.com/startx): RT [@quakelee](http://twitter.com/quakelee): 这世界上有一群人，饭喂到嘴边了，居然连咽都不会咽，还得帮着他们把饭咽下去，这真是让人太崩溃了。他们都有一个共同的特点，都是华为的人，或者曾经是华为的人 [06:53:23, 2010-06-10](http://twitter.com/gfrog/statuses/15806947327)
+
+
+
+
+
+  * RT [@mathena](http://twitter.com/mathena): RT [@cnbuff](http://twitter.com/cnbuff): 推上说的锂电池保养最好在40% - 80%之间的解释(不能过高过低)，可以参考http://bit.ly/cuBmUS。关于概括性的内部原理，SOC（电量）和温度影响的公式表达，可以参考　http://bit.ly/9r9y1a [06:57:13, 2010-06-10](http://twitter.com/gfrog/statuses/15807159230)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 这更加显示出windows的弱智来，这么贵的系统，竟然什么都没有，用户拿到手还要自己解决一大堆问题。 [in reply to likuku](http://twitter.com/likuku/statuses/15769396948) [07:01:24, 2010-06-10](http://twitter.com/gfrog/statuses/15807398528)
+
+
+
+
+
+  * 班车少了一辆，结果现在还木有上去班车。 [08:11:03, 2010-06-10](http://twitter.com/gfrog/statuses/15811429684)
+
+
+
+
+
+  * [@Fotuo](http://twitter.com/Fotuo) 木有班车的话，上班要2个小时。我们公司在市区边上。 [in reply to Fotuo](http://twitter.com/Fotuo/statuses/15811531608) [08:19:27, 2010-06-10](http://twitter.com/gfrog/statuses/15811932176)
+
+
+
+
+
+  * [@yuanyi_wang](http://twitter.com/yuanyi_wang) 额，现在已经么有5xx路了，现在都是大公交，150，154，333，188啥的。 [in reply to yuanyi_wang](http://twitter.com/yuanyi_wang/statuses/15811898355) [08:23:49, 2010-06-10](http://twitter.com/gfrog/statuses/15812192178)
+
+
+
+
+
+  * 我在ubuntu里面没问题啊，字体相当漂亮。　RT [@Fotuo](http://twitter.com/Fotuo): 搞不定 ubuntu下 chrome 的字体阿？谁有好的办法 [08:26:10, 2010-06-10](http://twitter.com/gfrog/statuses/15812331210)
+
+
+
+
+
+  * [@Fotuo](http://twitter.com/Fotuo) 恩，不过在街上晒的也不爽。不过现在已经在路上了。 [in reply to Fotuo](http://twitter.com/Fotuo/statuses/15812104765) [08:27:23, 2010-06-10](http://twitter.com/gfrog/statuses/15812402379)
+
+
+
+
+
+  * 昨天遇到evince显示中文乱码的问题，不知道是不是普遍现象。RT [@Fotuo](http://twitter.com/Fotuo): 使用ubuntu10.04桌面版碰到的问题与解决方案 [http://is.gd/cJrH6](http://is.gd/cJrH6) --转 [08:32:30, 2010-06-10](http://twitter.com/gfrog/statuses/15812709331)
+
+
+
+
+
+  * [@yuanyi_wang](http://twitter.com/yuanyi_wang) 有一年沈阳取缔小公交，所以都换大车了。 [in reply to yuanyi_wang](http://twitter.com/yuanyi_wang/statuses/15812855722) [08:54:15, 2010-06-10](http://twitter.com/gfrog/statuses/15813987720)
+
+
+
+
+
+  * [@Fotuo](http://twitter.com/Fotuo) [@ouland](http://twitter.com/ouland) 后来搜到其实是要装poppler-data这个包。 [in reply to Fotuo](http://twitter.com/Fotuo/statuses/15812779422) [08:55:34, 2010-06-10](http://twitter.com/gfrog/statuses/15814064959)
+
+
+
+
+
+  * [@Fotuo](http://twitter.com/Fotuo) 其实现在ubuntu默认的字体配置不错，自己改的话稍不小心就出错了。所以我现在干脆不动字体设置了。 [in reply to Fotuo](http://twitter.com/Fotuo/statuses/15814161082) [09:00:25, 2010-06-10](http://twitter.com/gfrog/statuses/15814349502)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 翻墙方法大全 [http://j.mp/d0js5A](http://j.mp/d0js5A) [10:54:59, 2010-06-10](http://twitter.com/gfrog/statuses/15821051612)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos -  8 Jun 2010 - Flickr [http://j.mp/9gJLzI](http://j.mp/9gJLzI) [10:55:01, 2010-06-10](http://twitter.com/gfrog/statuses/15821052949)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 中国帮会的末日时刻 [http://j.mp/ac5Nzv](http://j.mp/ac5Nzv) [11:10:38, 2010-06-10](http://twitter.com/gfrog/statuses/15822003281)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 殷德义：彻底诀别QQ软件 [http://j.mp/aSSjp0](http://j.mp/aSSjp0) [11:10:39, 2010-06-10](http://twitter.com/gfrog/statuses/15822004095)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 支撑高房价的购买力来自于哪里？ [http://j.mp/cooUPe](http://j.mp/cooUPe) [11:17:10, 2010-06-10](http://twitter.com/gfrog/statuses/15822423298)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 挂了VPN仍旧不能访问墙外网站(如facebook twitter)？解决方案在此 [http://j.mp/baqTnm](http://j.mp/baqTnm) [11:17:13, 2010-06-10](http://twitter.com/gfrog/statuses/15822426582)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 新美国媒体：在毛114岁生日时，前红卫兵队长被往事缠扰 [http://j.mp/auyIZt](http://j.mp/auyIZt) [11:27:54, 2010-06-10](http://twitter.com/gfrog/statuses/15823071436)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 19岁苏州杂技系纯真美少女林美 [http://j.mp/cF2q9t](http://j.mp/cF2q9t) [11:27:56, 2010-06-10](http://twitter.com/gfrog/statuses/15823073864)
+
+
+
+
+
+  * 围观。RT [@ksky](http://twitter.com/ksky) 今天中午我替大家去KFC试吃盖饭。这附件的这个餐厅有么有还不知道。回来给大家一个评测结果。专心等吧。 [11:28:54, 2010-06-10](http://twitter.com/gfrog/statuses/15823131648)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 《肖申克的救赎》:Wall [http://j.mp/aEqhUa](http://j.mp/aEqhUa) [11:31:45, 2010-06-10](http://twitter.com/gfrog/statuses/15823305583)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 【双语】北韩村庄的罕见镜头 [http://j.mp/bcWzmc](http://j.mp/bcWzmc) [11:38:09, 2010-06-10](http://twitter.com/gfrog/statuses/15823680395)
+
+
+
+
+
+  * 今天很热，猫在屋里不想出去。 RT [@leeyow](http://twitter.com/leeyow) 沈阳胖子感觉压力很大。/RT [@rtmeme](http://twitter.com/rtmeme): RT [@nowindxdw](http://twitter.com/nowindxdw) RT [@Aro_Carter](http://twitter.com/Aro_Carter): 四大火炉：武汉21℃、南京22℃、重庆25℃、南昌23℃。 三大冰城 哈尔滨35℃。长春34℃，沈阳33℃。 [13:10:41, 2010-06-10](http://twitter.com/gfrog/statuses/15828580770)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 囧，好低。早知道我接盘了，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/15827320556) [13:12:25, 2010-06-10](http://twitter.com/gfrog/statuses/15828665019)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 这不一直纠结中么。。。 再加上看了你的日志，有点担心。 囧。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/15828732388) [13:15:38, 2010-06-10](http://twitter.com/gfrog/statuses/15828816334)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 新的机型越来越费电是肯定的，我感觉在厂商没有修改这个问题之前，回归到开始的机型还是比较靠谱的做法。所以我考虑是不是入一部G1，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/15828939719) [13:21:44, 2010-06-10](http://twitter.com/gfrog/statuses/15829103211)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 如何刷牙最科学 [http://j.mp/d6Bbi4](http://j.mp/d6Bbi4) [13:21:46, 2010-06-10](http://twitter.com/gfrog/statuses/15829104406)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 迪拜人民发来贺电 [http://j.mp/9bjHm1](http://j.mp/9bjHm1) [13:28:41, 2010-06-10](http://twitter.com/gfrog/statuses/15829420825)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) G1 app2sd之后速度还不错，哈哈。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/15829199219) [13:29:06, 2010-06-10](http://twitter.com/gfrog/statuses/15829439689)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) [分享] 昨天跟一位富士康朋友聊iPhone 4G [http://j.mp/d7mdPS](http://j.mp/d7mdPS) [13:37:12, 2010-06-10](http://twitter.com/gfrog/statuses/15829807535)
+
+
+
+
+
+  * 传说中的IM+不行？ RT [@Cevicxiao](http://twitter.com/Cevicxiao) 谁能给我介绍一个用touch上退特的方法。要客户端好用的  家用自带wifi [13:53:13, 2010-06-10](http://twitter.com/gfrog/statuses/15830522031)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 中国GFW预作新技术储备 用大奖赛招徕人才 [http://j.mp/btvgxO](http://j.mp/btvgxO) [14:20:53, 2010-06-10](http://twitter.com/gfrog/statuses/15831723653)
+
+
+
+
+
+  * 不要指望着TX能做啥了，呼吁身边的人不用QQ才是。 RT [@Fotuo](http://twitter.com/Fotuo) qq的linux版本去年发布，到现在还没更新。这速度可以和gtalk比拉。 [14:23:27, 2010-06-10](http://twitter.com/gfrog/statuses/15831830229)
+
+
+
+
+
+  * [@laogao](http://twitter.com/laogao) 对，是只有32位的。webqq现在在Linux系统里能用的这几个浏览器上表现也不是很好 [in reply to laogao](http://twitter.com/laogao/statuses/15831901833) [14:29:10, 2010-06-10](http://twitter.com/gfrog/statuses/15832064162)
+
+
+
+
+
+  * cpp啊，围观大牛解答，哈哈。 RT [@skyier](http://twitter.com/skyier) 你太牛了 RT [@xiaomo0326](http://twitter.com/xiaomo0326): 拜托拜托大家… [http://twitpic.com/1vgnf5](http://twitpic.com/1vgnf5) [14:34:40, 2010-06-10](http://twitter.com/gfrog/statuses/15832289503)
+
+
+
+
+
+  * 确实有些人要四年一次犯神经病。 RT [@raptorz](http://twitter.com/raptorz) 刚发现：世界杯＝SJB＝神经病。囧 [14:52:55, 2010-06-10](http://twitter.com/gfrog/statuses/15833024878)
+
+
+
+
+
+  * 围观不破解的小童鞋。 RT [@Cevicxiao](http://twitter.com/Cevicxiao) 谁还能告诉我im+弄着呢。去APP STORE下吗  可是收费耶。。。 [14:54:13, 2010-06-10](http://twitter.com/gfrog/statuses/15833075610)
+
+
+
+
+
+  * 一个破bug，就这么被我搞定了，很奇怪当年写这段代码的时候为什么木有人看出来这里会出问题呢。。。 [15:01:10, 2010-06-10](http://twitter.com/gfrog/statuses/15833353182)
+
+
+
+
+
+  * 喜欢听老歌的时候，是不是说明自己已经老了。。。 [15:13:27, 2010-06-10](http://twitter.com/gfrog/statuses/15833841953)
+
+
+
+
+
+  * RT [@hotoo](http://twitter.com/hotoo) Vim 中文本行内跳转到指定百分比的列 [http://blog.chinaunix.net/u/8681/showart_1226043.html](http://blog.chinaunix.net/u/8681/showart_1226043.html) [15:29:50, 2010-06-10](http://twitter.com/gfrog/statuses/15834472042)
+
+
+
+
+
+  * 测试发推。 [15:35:13, 2010-06-10](http://twitter.com/gfrog/statuses/15834674020)
+
+
+
+
+
+  * 测试失败，囧。 [15:40:22, 2010-06-10](http://twitter.com/gfrog/statuses/15834865713)
+
+
+
+
+
+  * 研究一下quagga的vtysh。 [15:52:41, 2010-06-10](http://twitter.com/gfrog/statuses/15835327025)
+
+
+
+
+
+  * 珍惜最后这几天吧，自由的学生时光。 RT [@tenione](http://twitter.com/tenione) 答辩完毕。大学再见。。 [15:53:16, 2010-06-10](http://twitter.com/gfrog/statuses/15835348246)
+
+
+
+
+
+  * [@yuanyi_wang](http://twitter.com/yuanyi_wang) 在虚拟机里还能找到吧。。。 [in reply to yuanyi_wang](http://twitter.com/yuanyi_wang/statuses/15835417233) [15:57:26, 2010-06-10](http://twitter.com/gfrog/statuses/15835498796)
+
+
+
+
+
+  * 缅怀 日。 RT [@raptorz](http://twitter.com/raptorz) 今天终于可耻滴顺大便把VBOX升级到最新的Oracle VM VBOX了。唉，日 的大杯具啊。 [16:58:11, 2010-06-10](http://twitter.com/gfrog/statuses/15837722498)
+
+
+
+
+
+  * 搞懂quagga的vtysh，一个unix socket的应用，很不错，很不错啊，哈哈。 [18:07:44, 2010-06-10](http://twitter.com/gfrog/statuses/15840396180)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 老药物，新用途 ——万艾可那些有爱的副作用 [http://j.mp/c7acuV](http://j.mp/c7acuV) [18:20:18, 2010-06-10](http://twitter.com/gfrog/statuses/15840902564)
+
+
+
+
+
+  * 帮推，做啥测试？　RT [@unruliness](http://twitter.com/unruliness): 诶，测试啊测试啊，测试人员您在哪儿呢? 测试简历砸过来吧，location @烟台，见到帮推吧！ [18:39:49, 2010-06-10](http://twitter.com/gfrog/statuses/15841691686)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 长平：为“罢工”正名 [http://j.mp/9aDjmX](http://j.mp/9aDjmX) //在和谐社会，一切以稳定为主，罢工是上面不想看到的 [18:43:42, 2010-06-10](http://twitter.com/gfrog/statuses/15841857690)
+
+
+
+
+
+  * [@hedaors](http://twitter.com/hedaors) 叮！好熟悉的地点。 [in reply to hedaors](http://twitter.com/hedaors/statuses/15841884623) [18:47:28, 2010-06-10](http://twitter.com/gfrog/statuses/15842013809)
+
+
+
+
+
+  * 班车，回家。今天quagga那里有眉目了，性混。 [18:48:40, 2010-06-10](http://twitter.com/gfrog/statuses/15842063947)
+
+
+
+
+
+  * [@hedaors](http://twitter.com/hedaors) 幸福。这么多core，发起UDP来一定会爽死。 [in reply to hedaors](http://twitter.com/hedaors/statuses/15842124518) [18:53:14, 2010-06-10](http://twitter.com/gfrog/statuses/15842255083)
+
+
+
+
+
+  * 下车，步行回家。 [18:54:37, 2010-06-10](http://twitter.com/gfrog/statuses/15842312081)
+
+
+
+
+
+  * 求脚本！RT [@wubuntust](http://twitter.com/wubuntust): 加个脚本,豆瓣音乐有下载链接了 [21:29:11, 2010-06-10](http://twitter.com/gfrog/statuses/15850286598)
+
+
+
+
+
+  * [@wubuntust](http://twitter.com/wubuntust) 收到！ [in reply to wubuntust](http://twitter.com/wubuntust/statuses/15850576235) [21:46:02, 2010-06-10](http://twitter.com/gfrog/statuses/15851177973)
+
+
+
+
+
+  * 似乎oauth的api速度快了一些，这是怎么个原理呢。 [21:50:39, 2010-06-10](http://twitter.com/gfrog/statuses/15851423313)
+
+
+
+
+
+  * 马上300fo了，会是谁呢。。。。 [21:53:04, 2010-06-10](http://twitter.com/gfrog/statuses/15851557095)
+
+
+
+
+
+  * 互相围观。RT [@freesisx](http://twitter.com/freesisx): 围观APP名 RT [@gfrog](http://twitter.com/gfrog): 似乎oauth的api速度快了一些，这是怎么个原理呢。 [21:55:54, 2010-06-10](http://twitter.com/gfrog/statuses/15851722948)
+
+
+
+
+
+  * 现在比较适应触摸屏操作，但是不适应触摸屏打字。我还是需要一部全键盘的手机。 [22:01:29, 2010-06-10](http://twitter.com/gfrog/statuses/15852072215)
+
+
+
+
+
+  * 好强大的问题。RT [@Hc95](http://twitter.com/Hc95): －＿＿－RT [@elliotly](http://twitter.com/elliotly): 各位女同学，你们小时候扒过男生裤子么？ = = [22:04:09, 2010-06-10](http://twitter.com/gfrog/statuses/15852240834)
+
+
+
+
+
+  * RT [@zkaip](http://twitter.com/zkaip): RT [@freessh002](http://twitter.com/freessh002): [@zkaip](http://twitter.com/zkaip)轻松突破封锁，高速免费SSH账号。永久地址见http://freessh.us 临时账号，请勿follow，永久推特地址见主页。欢迎帮推 [22:06:55, 2010-06-10](http://twitter.com/gfrog/statuses/15852417346)
+
+
+
+
+
+  * [@freesisx](http://twitter.com/freesisx) 囧。 [in reply to freesisx](http://twitter.com/freesisx/statuses/15852275779) [22:07:32, 2010-06-10](http://twitter.com/gfrog/statuses/15852455997)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 多谢围观。 [in reply to Hc95](http://twitter.com/Hc95/statuses/15852330369) [22:08:26, 2010-06-10](http://twitter.com/gfrog/statuses/15852513686)
+
+
+
+
+
+  * [@cooku](http://twitter.com/cooku) 木有回味下胶片机？ [in reply to cooku](http://twitter.com/cooku/statuses/15852480424) [22:10:55, 2010-06-10](http://twitter.com/gfrog/statuses/15852674629)
+
+
+
+
+
+  * 难道不适应触摸屏打字是因为屏幕太窄？果然把屏幕横过来就舒服一些了。但是还是经常打错。 [22:13:45, 2010-06-10](http://twitter.com/gfrog/statuses/15852860576)
+
+
+
+
+
+  * RT [@wangpei](http://twitter.com/wangpei): RT [@tongkaisi](http://twitter.com/tongkaisi) 针对北京17万学前儿童能否纳入义务教育，政府称需要投入34亿，“这样一笔数额巨大的财政支出，政府目前尚无力支付。”一个可以拿出巨额公款来消费、维稳、做面子工程的政府，一涉及教育这样的公共品，永远是没钱没钱没钱。 [22:14:35, 2010-06-10](http://twitter.com/gfrog/statuses/15852915555)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 木有，体验媳妇的G1中。 [in reply to Hc95](http://twitter.com/Hc95/statuses/15852905334) [22:16:04, 2010-06-10](http://twitter.com/gfrog/statuses/15853014285)
+
+
+
+
+
+  * 推了20分钟，手机开始发烫，撤退。 [22:18:39, 2010-06-10](http://twitter.com/gfrog/statuses/15853183366)
+
+
+
+
+
+  * [@cooku](http://twitter.com/cooku) 支持胶片单反。 [in reply to cooku](http://twitter.com/cooku/statuses/15853093025) [22:31:00, 2010-06-10](http://twitter.com/gfrog/statuses/15854010244)
+
+
+
+
+
+  * 跳楼。RT [@hahahu](http://twitter.com/hahahu): RT [@guodaxia](http://twitter.com/guodaxia): 杀你全家。RT [@zhmeadow](http://twitter.com/zhmeadow): 据说本公司老板最怕的中国员工在和他讨价还价时来这么一句”according to chinese law"。不知道中国BOSS们最怕的是员工来哪一句？ [22:42:33, 2010-06-10](http://twitter.com/gfrog/statuses/15854785056)
+
+
+
+

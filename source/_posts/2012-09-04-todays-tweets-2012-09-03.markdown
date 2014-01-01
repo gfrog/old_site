@@ -1,0 +1,120 @@
+---
+comments: true
+date: 2012-09-04 00:01:00
+layout: post
+slug: todays-tweets-2012-09-03
+title: Today's tweets 2012-09-03
+wordpress_id: 3378
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:36, 2012-09-03](http://twitter.com/gfrog/statuses/242426837261746176)
+
+
+
+
+
+  * [@flower_mix](http://twitter.com/flower_mix) 咦，看起来好便宜。外省使用的话话费上网时长怎么算？ [09:24:05, 2012-09-03](http://twitter.com/gfrog/statuses/242432746083987456)
+
+
+
+
+
+  * 转：华商报消息，《机动车运行安全技术条件》新国标9月1日起实施，时速在20公里以上、50公里以下，重量超过40公斤的电动车被作为轻便摩托车而纳入机动车管理范畴。新国标实施后，驾驶者要办理上牌照、考驾照、买保险等手续后才可以上路。http://t.co/jl2skNzy [11:06:47, 2012-09-03](http://twitter.com/gfrog/statuses/242458591783706625)
+
+
+
+
+
+  * 擦的，早该限制电动车了。 [11:07:09, 2012-09-03](http://twitter.com/gfrog/statuses/242458683567652866)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 就应该跟汽车一样管理，超速拍照，逆行拍照，违规变线拍照。罚几次以后这些祸害就该老实了。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/242460622992863232) [11:17:35, 2012-09-03](http://twitter.com/gfrog/statuses/242461309407485952)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 这个不太现实，在我朝，乃懂得，任何限制都可以作假，所以不如限制稍微宽松但是规范化。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/242461503767339008) [11:22:25, 2012-09-03](http://twitter.com/gfrog/statuses/242462524375715840)
+
+
+
+
+
+  * “smart那车我开过，真心是个三蹦子” // 笑喷了。 [11:27:37, 2012-09-03](http://twitter.com/gfrog/statuses/242463836093964288)
+
+
+
+
+
+  * 中午不睡，下午崩溃。 [12:42:51, 2012-09-03](http://twitter.com/gfrog/statuses/242482768037154816)
+
+
+
+
+
+  * 中了MBA的毒了，如果年底之前搞定CCIE，就奖励自己一台MBA。 [13:42:38, 2012-09-03](http://twitter.com/gfrog/statuses/242497810778427392)
+
+
+
+
+
+  * RT [@ruohanc](http://twitter.com/ruohanc): 我在 Alipay 运维部工作. 部门有单独的校招通道(2013毕业), 不知道有没有人熟悉 linux.并且愿意做与之相关的工作. 可以和我联系. 请将简历发至: crhan123(at)google mail [13:43:22, 2012-09-03](http://twitter.com/gfrog/statuses/242497995654967296)
+
+
+
+
+
+  * 一个域名要到期了呢，没想好还要不要续费了。 [19:25:01, 2012-09-03](http://twitter.com/gfrog/statuses/242583975393112065)
+
+
+
+
+
+  * RT [@jackbilldarren](http://twitter.com/jackbilldarren): RT [@iumx](http://twitter.com/iumx): 有没有人主力台式机是ddr2的？理出来两条ddr2接口的内存，2x2g，1066(可以降頻当800用)带马甲条子。白送不包邮。注意是ddr2，注意是白送。熟人优先。 [http://t.co/Nux6Sr19](http://t.co/Nux6Sr19) [19:26:40, 2012-09-03](http://twitter.com/gfrog/statuses/242584389953921026)
+
+
+
+
+
+  * RT [@QiubaiBot](http://twitter.com/QiubaiBot) 某女，身高1米73，漂亮、开朗、有心计。大二辍学，后为一机票代售点工作，但凡发现头等舱有要客，她就买张机票同飞，两年下来花了不到5万元机票钱，搞定几位大佬，名下光跑车就值2000多万，她说:"我部级以上官员认识50多位呢，郭美美真没见过世面!" [19:27:42, 2012-09-03](http://twitter.com/gfrog/statuses/242584649220624384)
+
+
+
+
+
+  * 当年故意把一个类的方法设成private的 ，结果现在在另外一个类里要调用这个方法，不会让我再去改成public吧。。 [20:10:48, 2012-09-03](http://twitter.com/gfrog/statuses/242595498257707008)
+
+
+
+
+
+  * RT [@RedHatNL](http://twitter.com/RedHatNL): Check out new [#IBM](http://search.twitter.com/search?q=%23IBM) [#RedHat](http://search.twitter.com/search?q=%23RedHat) tech paper showing how enterprise-ready KVM delivers the best virtualized I/O performance: http ... [20:53:16, 2012-09-03](http://twitter.com/gfrog/statuses/242606183687520256)
+
+
+
+
+
+  * RT [@Fenng](http://twitter.com/Fenng): 经济严重不景气，和2008年也相差不太多了，互联网公司裁员此起彼伏。奉劝没有新的工作岗位不要轻易离职，建议用人单位也要善待新招聘的员工，一旦招到了人才到团队中，就要一直走下去，可别看形势不好就一脚踢开。对于职场新人来说，想办法穿厚实一点的棉袄 --  ... [22:34:48, 2012-09-03](http://twitter.com/gfrog/statuses/242631735735627776)
+
+
+
+
+
+  * RT [@hidigi](http://twitter.com/hidigi): 「据工信部最新资料显示，2012年6月，SUV车型销量排行本田CR-V以18692辆的月销量名列第一。紧随其后的大众途观、东风日产逍客、长城哈弗H6和丰田的RAV4分列2~5位。」 [22:35:46, 2012-09-03](http://twitter.com/gfrog/statuses/242631978090897408)
+
+
+
+

@@ -1,0 +1,50 @@
+---
+comments: true
+date: 2010-08-11 16:51:15
+layout: post
+slug: gfrog-tips-4
+title: 一堆小Tips （4）
+wordpress_id: 937
+categories:
+- linux[Linux]
+tags:
+- kvm
+- Linux
+- networking
+- shell
+---
+
+今天的Tip是关于虚拟化的。
+问题的起因是青蛙当时使用的VirtualBox的网络配置很不方便，
+guset系统启动之后不能改网络连接类型不说（后来的版本做了改进，但是用着还是不够舒服），
+NAT模式下还不能直接跟Host系统通信。
+于是青蛙痛下决心，学习了一下Linux tap和br设备的用法，写了一个小脚本来搞定虚拟机的网络问题。
+这个脚本同样也可以用于KVM的虚拟机。
+
+这个脚本会根据配置文件建立一系列的tap设备，然后桥街到几个br设备上去，然后在br上设置好IP，如果需要NAT功能则配置iptables规则。
+脚本文件在这里： [http://gfrog.googlecode.com/hg/script/vnet.sh](http://gfrog.googlecode.com/hg/script/vnet.sh)
+
+配置文件如下：
+`
+USER=gfrog           #指定建立tap设备时所用的用户名
+VNET_NUM=2         #需要建立的虚拟网络数
+EXITIF=eth0           #SNAT的出口接口
+
+#以下是每个虚拟网络的配置
+[vnet1]
+VETH_NUM=4          #虚拟网络中包含的tap设备数
+VNET_IP=11.11.1.1/24  #虚拟网络br设备上配置的ip地址
+DONAT=no                  #是否需要做nat
+
+[vnet2]
+VETH_NUM=4
+VNET_IP=11.11.2.1/24
+DONAT=yes
+EXITIF=wlan0             #针对这个虚拟网络指定专门的SNAT出口
+`
+
+此配置脚本需要一个名为confget的程序解析配置文件，这个程序在debian/ubuntu源上有，fedora系需要自己找一下。
+
+还要注意一点，因为每次建立tap设备的MAC地址都会变化，
+所以使用KVM虚拟机的时候需要在启动虚拟机时给网卡指定MAC地址，
+防止guest系统里的网卡名称变化。

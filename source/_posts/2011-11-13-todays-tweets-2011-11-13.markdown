@@ -1,0 +1,46 @@
+---
+comments: true
+date: 2011-11-13 01:00:00
+layout: post
+slug: todays-tweets-2011-11-13
+title: Today's tweets 2011-11-13
+wordpress_id: 1953
+categories:
+- twitter-backup[Twitter备份]
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@billwoods](http://twitter.com/billwoods): 补：愤怒的蒙古人挥着马鞭踏上欧洲的土地为猫报仇。于是…… RT [@virushuo](http://twitter.com/virushuo):  跟猫最敌对的大概就是中世纪的欧洲人吧，他们烧死了不知道多少猫，后来，后来，老鼠传染的黑死病几乎把欧洲灭了种。 [22:36:13, 2011-11-13](http://twitter.com/gfrog/statuses/135727674579628032)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 你再试一层，估计就不行啦，KVM还没牛逼到可以传递VMX flag的地步，不过不久以后也会支持的。所以虚拟机的盗梦空间时代要来了。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/135707971668807680) [22:39:52, 2011-11-13](http://twitter.com/gfrog/statuses/135728589990670336)
+
+
+
+
+
+  * 看 [@guoxintao](http://twitter.com/guoxintao) 桑说起口罩，忽然想起来俺也得买口罩了。。。 但是买啥型号呢？ P3的会不会太夸张。。。 P2应该能对付北京的空气了吧？ [22:53:31, 2011-11-13](http://twitter.com/gfrog/statuses/135732024425197569)
+
+
+
+
+
+  * [@billwoods](http://twitter.com/billwoods) N95是针对非油性颗粒的防护标准，汽车尾气主要是油性颗粒吧？ 所以针对油性/非油性气体的过滤标准p2（94%过滤）和p3（99%过滤）标准更加适用。 [in reply to billwoods](http://twitter.com/billwoods/statuses/135735421136142336) [23:14:44, 2011-11-13](http://twitter.com/gfrog/statuses/135737365544185857)
+
+
+
+
+
+  * RT [@xier1988](http://twitter.com/xier1988): @被打飞：既然大家对美国官到底怎么坐飞机仍感兴趣，我就责无旁贷向大家奉献我了解的情况。《骆家辉使用经济舱到底是不是作秀——完整介绍下美国公务旅行的规定与监察》 [http://t.co/mVX9MO9y](http://t.co/mVX9MO9y) 介绍相关法条，官方监察，民间监察，并和中国情... [23:21:20, 2011-11-13](http://twitter.com/gfrog/statuses/135739025402241024)
+
+
+
+

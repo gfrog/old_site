@@ -1,0 +1,42 @@
+---
+comments: true
+date: 2012-06-11 23:59:00
+layout: post
+slug: todays-tweets-2012-06-11
+title: Today's tweets 2012-06-11
+wordpress_id: 2571
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:01:29, 2012-06-11](http://twitter.com/gfrog/statuses/211986479419883520)
+
+
+
+
+
+  * RT [@abingor](http://twitter.com/abingor): 今天有关北韩难民的辩论课，我很荣幸分到了中国政府一组，为中国​政府辩护。韩国政府组发问：“至少按照韩国宪法，那些人是韩国国​民，要遣返也应该给我们南韩啊~”我定了定神说：“我们中国政府​连中国宪法 (...) [http://t.co/r3pLHZTH](http://t.co/r3pLHZTH) [12:41:37, 2012-06-11](http://twitter.com/gfrog/statuses/212041875899691008)
+
+
+
+
+
+  * 为神马周末过完突然觉得自己变笨了呢。 做神马东东都木有思路。 [13:49:39, 2012-06-11](http://twitter.com/gfrog/statuses/212058996323008513)
+
+
+
+
+
+  * RT [@mathwuyue](http://twitter.com/mathwuyue): 今天算是明白了，在中国搞网络，设计基本靠拍屁股决定，后台基本.Net，数据库基本是sql05，服务器都是盗版03，防火墙基本靠360，服务器维护基本靠重装。前台都是实习生写的，后台都是民工赶的，架构都是没有架构，至于用户体验？我去，哪个用户不 ... [16:27:23, 2012-06-11](http://twitter.com/gfrog/statuses/212098693543899136)
+
+
+
+

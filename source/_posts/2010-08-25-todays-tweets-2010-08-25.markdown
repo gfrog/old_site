@@ -1,0 +1,73 @@
+---
+comments: true
+date: 2010-08-25 01:00:00
+layout: post
+slug: todays-tweets-2010-08-25
+title: Today's tweets 2010-08-25
+wordpress_id: 957
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 最牛B的 Linux Shell 命令 系列连载（三） - Wow! Ubuntu / Ubuntu 新闻、技巧、软件及游戏！ - 注：本来这个系列连载文章是转载自 Isspy 的，但自从发布了前两篇... [http://j.mp/cf0UdS](http://j.mp/cf0UdS) [10:04:08, 2010-08-25](http://twitter.com/gfrog/statuses/22051525328)
+
+
+
+
+
+  * RT [@ImAzmonden](http://twitter.com/ImAzmonden): 楞次定律和女人一样，插的时候不让插，拔的时候也不让拔。 [10:35:22, 2010-08-25](http://twitter.com/gfrog/statuses/22053827856)
+
+
+
+
+
+  * RT [@aihihi](http://twitter.com/aihihi): 宝成铁路火车坠河，告诉我们坐火车不一定是安全的；菲律宾劫持人质事件，告诉我们坐汽车不一定是安全的；黑龙江伊春飞机失事，告诉我们坐飞机不一定是安全的；长沙税务大楼爆炸，告诉我们坐在办公室里不一定是安全的；南京丙烯管道发生爆炸，告诉我们坐在家里也是不安全的 [10:36:34, 2010-08-25](http://twitter.com/gfrog/statuses/22053918839)
+
+
+
+
+
+  * RT [@Zzyzxd](http://twitter.com/Zzyzxd): 早上出门，看到个小正太，左手拎书包，右手拎垃圾袋，走到垃圾箱前，嗖的一下把书包扔进去了…可怜的孩子… [10:37:52, 2010-08-25](http://twitter.com/gfrog/statuses/22054016619)
+
+
+
+
+
+  * 额。。。
+RT [@wubuntust](http://twitter.com/wubuntust): 编段子成瘾的上辈子都是折jb的天使 [10:44:12, 2010-08-25](http://twitter.com/gfrog/statuses/22054497504)
+
+
+
+
+
+  * 好大，有专门裁剪过的lib么 RT [@ouland](http://twitter.com/ouland): 保守的Python嵌入将包含4个部分：1. python25.dll 2. MSVCR71.dll 3. Lib 4. 贵程序。缺省安装的python库Lib目录包含了16.5M的内容。 [10:51:16, 2010-08-25](http://twitter.com/gfrog/statuses/22055015834)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 额，貌似现在ok了？ [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/22078146100) [20:21:37, 2010-08-25](http://twitter.com/gfrog/statuses/22083708837)
+
+
+
+
+
+  * 现在去超市什么都不敢买了，啧啧，国产货恐惧症产生。 RT [@daatoo](http://twitter.com/daatoo) 除了肉身made in china无法更改，我想拜托一切made in china [20:23:38, 2010-08-25](http://twitter.com/gfrog/statuses/22083831670)
+
+
+
+
+
+  * 叫你这么说，确实是这么回事耶。 RT [@freesisx](http://twitter.com/freesisx) 可以在图形化界面的软件源里安装的嘛，我觉得这是软件商店的鼻祖 RT [@Lvics](http://twitter.com/Lvics) 玩Ubuntu必備 sudo apt-get install …… [21:47:56, 2010-08-25](http://twitter.com/gfrog/statuses/22089627602)
+
+
+
+

@@ -1,0 +1,48 @@
+---
+comments: true
+date: 2012-07-06 23:59:00
+layout: post
+slug: todays-tweets-2012-07-06
+title: Today's tweets 2012-07-06
+wordpress_id: 2594
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:21, 2012-07-06](http://twitter.com/gfrog/statuses/221045888204800000)
+
+
+
+
+
+  * [@chjuheng](http://twitter.com/chjuheng) 不上，目前刚刚练习上锁，不太熟练。不过有考虑过通勤上锁的问题，感觉不太用得着。 [in reply to chjuheng](http://twitter.com/chjuheng/statuses/221127849124438016) [14:27:53, 2012-07-06](http://twitter.com/gfrog/statuses/221128314516013056)
+
+
+
+
+
+  * [@chjuheng](http://twitter.com/chjuheng) 不清楚，还没用锁鞋刷过长线，不过刷奥园锁鞋确实很给力很舒服。 [in reply to chjuheng](http://twitter.com/chjuheng/statuses/221129756240908288) [14:38:40, 2012-07-06](http://twitter.com/gfrog/statuses/221131029753233408)
+
+
+
+
+
+  * [@chjuheng](http://twitter.com/chjuheng) 锁在山地车上，折叠没锁。 [in reply to chjuheng](http://twitter.com/chjuheng/statuses/221135345704632320) [14:57:02, 2012-07-06](http://twitter.com/gfrog/statuses/221135649514860545)
+
+
+
+
+
+  * 研究下virtio serial到底是个神马东东 [21:56:04, 2012-07-06](http://twitter.com/gfrog/statuses/221241104304046081)
+
+
+
+

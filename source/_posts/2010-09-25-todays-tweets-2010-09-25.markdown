@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2010-09-25 01:00:00
+layout: post
+slug: todays-tweets-2010-09-25
+title: Today's tweets 2010-09-25
+wordpress_id: 989
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 22 Sep 2010 - Flickr [http://j.mp/b7Mq5d](http://j.mp/b7Mq5d) [07:40:44, 2010-09-25](http://twitter.com/gfrog/statuses/25449261367)
+
+
+
+

@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2011-03-02 01:00:00
+layout: post
+slug: todays-tweets-2011-03-02
+title: Today's tweets 2011-03-02
+wordpress_id: 1676
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) VimRepress - 用 Vim 写 Blog (WordPress) [http://bit.ly/hyDbKT](http://bit.ly/hyDbKT) [00:27:56, 2011-03-02](http://twitter.com/gfrog/statuses/42622106453815296)
+
+
+
+
+
+  * 哎呀呀，现在虚拟机应用的好普遍了 RT [@raptorz](http://twitter.com/raptorz): 4G同时开两上虚拟机跑三个系统开三个不同浏览器的飘过 RT [@loverain9999](http://twitter.com/loverain9999): 4G 同时运行两系统的，发推。RT 6G 64位飘过 RT [@BreeStealth](http://twitter.com/BreeStealth) [@ninickck](http://twitter.com/ninickck) [@stardu](http://twitter.com/stardu) [11:06:31, 2011-03-02](http://twitter.com/gfrog/statuses/42782809210888192)
+
+
+
+
+
+  * RT [@Gh0ster](http://twitter.com/Gh0ster): RT [@na_sheishei](http://twitter.com/na_sheishei): 发现一个免费vpn 每月680Mb流量，速度还行，有备无患，感兴趣的童鞋可以试试。http://www.vpn1010.com/referral/777801b5 [16:16:22, 2011-03-02](http://twitter.com/gfrog/statuses/42860785290063872)
+
+
+
+

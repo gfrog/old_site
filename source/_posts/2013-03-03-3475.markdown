@@ -1,0 +1,13 @@
+---
+comments: true
+date: 2013-03-03 01:17:25
+layout: post
+published: false
+slug: '3475'
+title: None
+wordpress_id: 3475
+categories:
+- gfrog-ride[骑行笔记]
+---
+
+[gallery type='picasa' user_id='zhouqt' kind='photo' album='2013-01-30 新车Focus' thumbsize='75']

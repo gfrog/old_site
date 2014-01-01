@@ -1,0 +1,156 @@
+---
+comments: true
+date: 2011-05-30 01:00:00
+layout: post
+slug: todays-tweets-2011-05-30
+title: Today's tweets 2011-05-30
+wordpress_id: 1729
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 一个固定密码+abc、bcd、cde这样的序列是对付这种密码规则的好方法。 RT [@iThink](http://twitter.com/iThink): 公司的密码规则太坑爹了，改个密码累得我够呛。 [10:10:42, 2011-05-30](http://twitter.com/gfrog/statuses/75021284492324865)
+
+
+
+
+
+  * 你还没明白嘛？ Linux内核马上就要 2.6.4x 了， 看出关键字没？ RT [@Gyteng](http://twitter.com/Gyteng): 3.0的内核是有质的飞跃还是像chrome那样只是个版本号？ [10:19:25, 2011-05-30](http://twitter.com/gfrog/statuses/75023476926324737)
+
+
+
+
+
+  * [@Gyteng](http://twitter.com/Gyteng) 恩，python还在继续杯具着。 [in reply to Gyteng](http://twitter.com/Gyteng/statuses/75024805350473728) [10:30:57, 2011-05-30](http://twitter.com/gfrog/statuses/75026380236144640)
+
+
+
+
+
+  * RT [@rchsea](http://twitter.com/rchsea): 转：环球时报社评：反对报复性杀戮是真正普世价值。真应了那个段子：你跟他讲道理，他跟你耍流氓。你跟他耍流氓，他跟你讲法制。你跟他讲法制，他跟你讲国情。你跟他讲国情，他跟你讲接轨。你跟他讲接轨，他跟你讲政策。…你什么都不讲直接炸他了，他开始跟你讲普世价值了。 [13:55:20, 2011-05-30](http://twitter.com/gfrog/statuses/75077815153860608)
+
+
+
+
+
+  * 帝都下的这叫神马雨啊，下起来哗哗的大雨点能拍死人，结果不到2分钟就停了。 [13:56:11, 2011-05-30](http://twitter.com/gfrog/statuses/75078027658268672)
+
+
+
+
+
+  * [@gamtin](http://twitter.com/gamtin) 帝都的联通客服热线遇到座席忙时可以按1等待。 [in reply to gamtin](http://twitter.com/gamtin/statuses/75081516530671616) [14:12:07, 2011-05-30](http://twitter.com/gfrog/statuses/75082036976693248)
+
+
+
+
+
+  * [@Lin_Cong](http://twitter.com/Lin_Cong) 哦，好吧，还好不是洗脚水 XD [in reply to Lin_Cong](http://twitter.com/Lin_Cong/statuses/75078379371626496) [14:13:53, 2011-05-30](http://twitter.com/gfrog/statuses/75082480914403329)
+
+
+
+
+
+  * [@middlefeng](http://twitter.com/middlefeng) 原来还有典故哪。 [@Houge_Langley](http://twitter.com/Houge_Langley) [@Lin_Cong](http://twitter.com/Lin_Cong) [in reply to middlefeng](http://twitter.com/middlefeng/statuses/75080145152643072) [14:14:37, 2011-05-30](http://twitter.com/gfrog/statuses/75082665161793536)
+
+
+
+
+
+  * 那个。。。 ubuntu 11.04不是LTS版本咩？ [14:15:16, 2011-05-30](http://twitter.com/gfrog/statuses/75082830190874624)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) [@felixonmars](http://twitter.com/felixonmars) 好吧，我以为每个.04版本都是LTS呢，那就不纠结vps的问题了，继续10.04 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/75084555689799680) [14:27:44, 2011-05-30](http://twitter.com/gfrog/statuses/75085969111527424)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 我觉得也是，2011年的ubuntu一定是在折腾中度过。 [in reply to felixonmars](http://twitter.com/felixonmars/statuses/75087176626487296) [14:34:56, 2011-05-30](http://twitter.com/gfrog/statuses/75087779956137984)
+
+
+
+
+
+  * 忽然发现chromium里面鼠标经常点不到东西，难道这是俺启用nvidia官方驱动，开启compiz之后的后遗症？！ [15:22:49, 2011-05-30](http://twitter.com/gfrog/statuses/75099830283808768)
+
+
+
+
+
+  * [@gamtin](http://twitter.com/gamtin) 投诉提意见。联通就是欠骂，骂过几次它就会改改的。 [in reply to gamtin](http://twitter.com/gamtin/statuses/75090134973956096) [15:25:54, 2011-05-30](http://twitter.com/gfrog/statuses/75100606158737408)
+
+
+
+
+
+  * [@felixonmars](http://twitter.com/felixonmars) 八成是compiz的问题，有可能还是ubuntu特有的。 [in reply to felixonmars](http://twitter.com/felixonmars/statuses/75099948739338240) [15:26:26, 2011-05-30](http://twitter.com/gfrog/statuses/75100739281756160)
+
+
+
+
+
+  * 嫁完抢回来，交足钱下个月再嫁。 RT [@htgyj](http://twitter.com/htgyj): 233～～RT [@_free2go](http://twitter.com/_free2go): 有才！"@fatotaku: 喝完表姐的喜酒，姑妈还发2000给我们一家三口。 表姐要是每个月都嫁一次那该多好啊！ [http://4sq.com/lZMUpQ&quot](http://4sq.com/lZMUpQ&quot); [15:28:17, 2011-05-30](http://twitter.com/gfrog/statuses/75101206065848321)
+
+
+
+
+
+  * 那几个孩子检查检查，兴许还能找对爹妈。 RT [@zongsen](http://twitter.com/zongsen): 可怜那几个孩子啦RT [@ag108lau](http://twitter.com/ag108lau): “如果张柏芝离婚后和陈冠希复合，谢霆锋再跟王菲结婚，李亚鹏最后和周迅在一起的话，我想我还是相信爱情的！” [16:17:42, 2011-05-30](http://twitter.com/gfrog/statuses/75113640298151936)
+
+
+
+
+
+  * RT [@iThink](http://twitter.com/iThink): RT [@laoyang945](http://twitter.com/laoyang945): RT [@wuwukai](http://twitter.com/wuwukai): RT [@fxd701029](http://twitter.com/fxd701029): 中国联通正在计划将沃Phone操作系统逐渐移植到除手机之外的其他终端，并将呼吁全球运营商合作，组建操作系统联盟——简称“沃操”。 [16:52:28, 2011-05-30](http://twitter.com/gfrog/statuses/75122392049004544)
+
+
+
+
+
+  * [@gamtin](http://twitter.com/gamtin) 要把投诉升级，找个理由跟值班经理谈。底层的接线员p事也管不了。 [in reply to gamtin](http://twitter.com/gamtin/statuses/75114138224959488) [16:53:18, 2011-05-30](http://twitter.com/gfrog/statuses/75122601814528001)
+
+
+
+
+
+  * 同想收。 截止到什么时候？ RT [@yvonnecrab](http://twitter.com/yvonnecrab): 现在还有吗？RT [@Alex_Petrelli](http://twitter.com/Alex_Petrelli): 说到麦当当，我都好久木有吃了。。。想去收集个可乐瓶 [17:03:28, 2011-05-30](http://twitter.com/gfrog/statuses/75125158418972672)
+
+
+
+
+
+  * 杭州不是全城禁烟嘛？ RT [@wangpei](http://twitter.com/wangpei): 吃外婆家难，难于上青天。下午五点半，怀着试试看的心情，来到杭州大厦D座的外婆家，居然不用等座。更赞的是，外婆家旗下所有餐馆全都执行禁烟令，终于可以摆脱公共场合吸烟的讨厌鬼。真棒。让有道德的企业都发达起来！ [18:01:56, 2011-05-30](http://twitter.com/gfrog/statuses/75139875032137728)
+
+
+
+
+
+  * [@movingtea1982](http://twitter.com/movingtea1982) 唉，五月竟然忘了这事情了，是不是要到极偏僻的麦当当才有希望找到。。。 [in reply to movingtea1982](http://twitter.com/movingtea1982/statuses/75126717353705472) [18:30:41, 2011-05-30](http://twitter.com/gfrog/statuses/75147110516928512)
+
+
+
+
+
+  * RT [@kyokyo8899](http://twitter.com/kyokyo8899): 我想给老婆买飞机杯，可他非不要，我嘴巴好酸哦。。。 [21:24:09, 2011-05-30](http://twitter.com/gfrog/statuses/75190763302035456)
+
+
+
+
+
+  * Nokia 1100. RT [@houge_langley](http://twitter.com/houge_langley): 用DHD的推荐Sensation RT [@enforest](http://twitter.com/enforest) Desire HD RT [@fanfou110](http://twitter.com/fanfou110) 买NEXUS S 还不如买_____？填空～ [21:27:10, 2011-05-30](http://twitter.com/gfrog/statuses/75191523972624384)
+
+
+
+

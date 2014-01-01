@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2012-05-03 23:59:00
+layout: post
+slug: todays-tweets-2012-05-03
+title: Today's tweets 2012-05-03
+wordpress_id: 2526
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:23, 2012-05-03](http://twitter.com/gfrog/statuses/197853074025484290)
+
+
+
+
+
+  * 帝都的天儿啊，迅速换代成夏天了，我刚刚才适应春天啊！！ [09:27:30, 2012-05-03](http://twitter.com/gfrog/statuses/197859897675759617)
+
+
+
+
+
+  * 矮油，据说喵星人真的能听懂人说话，这是真的嘛喵？ [10:13:00, 2012-05-03](http://twitter.com/gfrog/statuses/197871348779991044)
+
+
+
+
+
+  * RT [@ghosTM55](http://twitter.com/ghosTM55): “@tifan: Google 电话面试被鄙视了，开始让我解释一大堆算法，根本没听过，然后让我用汇编写一个Web的Hello World，不会，然后就没有然后了…” 那么凶残... [10:27:36, 2012-05-03](http://twitter.com/gfrog/statuses/197875023212580864)
+
+
+
+
+
+  * 矮油，水木上有一个哥们问到了quagga的一个移植问题，是俺之前做过的一个项目，似乎遇到的问题都一样。找出quagga的代码，每个文件都似曾相识，但是具体到哪个函数在哪里，已经彻底忘光啦。 [10:36:38, 2012-05-03](http://twitter.com/gfrog/statuses/197877297531981825)
+
+
+
+
+
+  * RT [@yurii_yu](http://twitter.com/yurii_yu): 听说企鹅公司内网崩溃了，原因是机房水管爆炸——噢，原来服务器不能在水下工作啊 [15:21:17, 2012-05-03](http://twitter.com/gfrog/statuses/197948932389740544)
+
+
+
+
+
+  * 到了每日固定的迷糊时间。看不进去码了。。。 [17:02:17, 2012-05-03](http://twitter.com/gfrog/statuses/197974347246346240)
+
+
+
+
+
+  * RT [@unclenine](http://twitter.com/unclenine): 工信部关于Google使用通知 [http://t.co/p00Ptq5s](http://t.co/p00Ptq5s) [23:57:17, 2012-05-03](http://twitter.com/gfrog/statuses/198078787873812481)
+
+
+
+

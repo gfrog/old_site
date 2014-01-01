@@ -1,0 +1,108 @@
+---
+comments: true
+date: 2010-10-25 01:00:00
+layout: post
+slug: todays-tweets-2010-10-25
+title: Today's tweets 2010-10-25
+wordpress_id: 1019
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 这也太狠了。RT [@Mini_Dragon_CN](http://twitter.com/Mini_Dragon_CN): 配合IE6挂掉代码 可以把防止IE访问搞得非常好 参见小白白的博客 [http://vikivone.com](http://vikivone.com) [16:12:55, 2010-10-25](http://twitter.com/gfrog/statuses/28671031058)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku): RT [@JobsInChinese](http://twitter.com/JobsInChinese): 盖茨在家拿着iPod跳舞没什么可耻的，去年冬天我自己在家的时候，也经常把一个Windows笔记本放在地上暖脚。 [16:14:18, 2010-10-25](http://twitter.com/gfrog/statuses/28671093024)
+
+
+
+
+
+  * RT [@WOHOM](http://twitter.com/WOHOM): 白居易写完诗后，都要先念给乡村老妪听，老妪都能听懂了，诗才算完成。判断一项设计是否实用很简单，只要想，我老妈看到这个，会不会觉得很方便，会不会想买？会的话，OK，通过！比如这把伸缩剪，我老妈肯定会嫌它不够结实。  [http://goo.gl/Ozb4](http://goo.gl/Ozb4) [16:15:38, 2010-10-25](http://twitter.com/gfrog/statuses/28671152027)
+
+
+
+
+
+  * 笨办法，cp到别处，hg rm，cp回来。写成脚本。 RT [@oceanboo](http://twitter.com/oceanboo): 在 hg 里，怎么删除某一个文件的版本控制，但是却不删除这个文件。 [16:17:57, 2010-10-25](http://twitter.com/gfrog/statuses/28671254767)
+
+
+
+
+
+  * 华信欢迎您，东软欢迎您。 XD RT [@gucs](http://twitter.com/gucs) 离职申请陈述：在海辉工作快六年了，在不同的部门做过各种各样的项目，我还是不太习惯外包，所以想换个行业，不想继续做外包了。 [16:20:58, 2010-10-25](http://twitter.com/gfrog/statuses/28671391281)
+
+
+
+
+
+  * 就是忽悠要忽悠到点子上，哈。 RT [@ksky](http://twitter.com/ksky): 给找工作的应届大学生一点经验：写简历的自我评价的时候一定要把自己会什么写上，哪怕你写上你爱玩iPhone等等。不要叫别人去猜你会做什么，当然写那些自强自立什么什么标语的更没用。除非你要求职的是保险公司销售。 [16:22:30, 2010-10-25](http://twitter.com/gfrog/statuses/28671459798)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 要做投影仪？ [in reply to raptorz](http://twitter.com/raptorz/statuses/28691608791) [21:46:32, 2010-10-25](http://twitter.com/gfrog/statuses/28692218445)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 多大功率？之前我看那种30W的LED点 起来就非常可怕了。亮的吓人。 [in reply to raptorz](http://twitter.com/raptorz/statuses/28692777573) [22:02:13, 2010-10-25](http://twitter.com/gfrog/statuses/28693591329)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 具有超级牛力的dd命令-详解 [http://j.mp/cTJyoy](http://j.mp/cTJyoy) [23:04:59, 2010-10-25](http://twitter.com/gfrog/statuses/28699166480)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 15 Oct 2010 - Flickr [http://j.mp/aDMiCa](http://j.mp/aDMiCa) [23:05:03, 2010-10-25](http://twitter.com/gfrog/statuses/28699171997)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 16 Oct 2010 - Flickr [http://j.mp/aaZiCM](http://j.mp/aaZiCM) [23:05:20, 2010-10-25](http://twitter.com/gfrog/statuses/28699198253)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 17 Oct 2010 - Flickr [http://j.mp/cCkjtv](http://j.mp/cCkjtv) [23:05:27, 2010-10-25](http://twitter.com/gfrog/statuses/28699208774)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 18 Oct 2010 - Flickr [http://j.mp/a42KEf](http://j.mp/a42KEf) [23:05:29, 2010-10-25](http://twitter.com/gfrog/statuses/28699211741)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 19 Oct 2010 - Flickr [http://j.mp/coXedu](http://j.mp/coXedu) [23:05:33, 2010-10-25](http://twitter.com/gfrog/statuses/28699216500)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 23 Oct 2010 - Flickr [http://j.mp/9uFvmS](http://j.mp/9uFvmS) [23:05:39, 2010-10-25](http://twitter.com/gfrog/statuses/28699226001)
+
+
+
+

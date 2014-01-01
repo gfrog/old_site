@@ -1,0 +1,86 @@
+---
+comments: true
+date: 2011-11-04 01:00:00
+layout: post
+slug: todays-tweets-2011-11-04
+title: Today's tweets 2011-11-04
+wordpress_id: 1944
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 六一神棍节 [http://t.co/eWMxzX0F](http://t.co/eWMxzX0F) [10:33:26, 2011-11-04](http://twitter.com/gfrog/statuses/132284282688376833)
+
+
+
+
+
+  * [@billwoods](http://twitter.com/billwoods) 转的图，哎呀，忘标记转载了。 [in reply to billwoods](http://twitter.com/billwoods/statuses/132289322106880000) [10:57:25, 2011-11-04](http://twitter.com/gfrog/statuses/132290322133827585)
+
+
+
+
+
+  * [@billwoods](http://twitter.com/billwoods) 好吧。。。 这是个好主意。 [in reply to billwoods](http://twitter.com/billwoods/statuses/132291743025610752) [11:03:35, 2011-11-04](http://twitter.com/gfrog/statuses/132291875515277313)
+
+
+
+
+
+  * RT [@cuddly_v](http://twitter.com/cuddly_v): 考公务员…吧~"@r475: 投了CISCO，发现CISCO宣布裁员；投了Intel，简历提交三天以后该部门整个被砍；想着AMD起码能作救命稻草，面试沉寂了两周一觉醒来裁员10%……我只想找个地方混口饭吃，要不要这样苦其心智劳其筋骨挑其中二啊…TAT" [11:13:05, 2011-11-04](http://twitter.com/gfrog/statuses/132294266448908289)
+
+
+
+
+
+  * Red Hat Challenge 2011 [http://t.co/7ONacZ10](http://t.co/7ONacZ10) [11:22:59, 2011-11-04](http://twitter.com/gfrog/statuses/132296755185328128)
+
+
+
+
+
+  * RT [@phoeagon](http://twitter.com/phoeagon): 突然发现我ping不通。。RT [@williamlong](http://twitter.com/williamlong): Follow5即将关闭 - 今天接到follow5通知：我们将会在2011年11月起一个月内停止所有api接口服务，网站届时也会下线，感谢贵公司一直以来对follow5的支持。 [12:16:12, 2011-11-04](http://twitter.com/gfrog/statuses/132310150278160384)
+
+
+
+
+
+  * RT [@gttnnn](http://twitter.com/gttnnn): 反过来作为Linux权限的例子也易懂而且好记XD 刚刚讲给老妈听，老妈一下子就明白了。 RT [@yegle](http://twitter.com/yegle): 用最简洁的语言描述中国法律。
+答案是rwxr-xr--。
+owner可读可写可执行，group可读不可写可执行，others只可读不可写不可执行。 [12:23:00, 2011-11-04](http://twitter.com/gfrog/statuses/132311862304972800)
+
+
+
+
+
+  * 本来想买本原版The C Programming Language，纪念下 Ritchie的，结果到Amazon上一看，68刀，我擦，直接打消这念头。。。 买个kindle版看看算了。 [13:25:20, 2011-11-04](http://twitter.com/gfrog/statuses/132327548431515648)
+
+
+
+
+
+  * 啧啧，竟然木有Kindle版，放弃。。。 [13:28:30, 2011-11-04](http://twitter.com/gfrog/statuses/132328344418127872)
+
+
+
+
+
+  * 看来大家对乔帮主的热衷程度远高过 Ritchie [13:29:14, 2011-11-04](http://twitter.com/gfrog/statuses/132328527914745857)
+
+
+
+
+
+  * RT [@soulhacker](http://twitter.com/soulhacker): Siri 后端遭受的访问压力说明了 iPhone 4S 的销量有多好以及 Siri 有多火，不过这也是 Apple 必须尽快迈过去的坎，毕竟在云基础架构方面他们远不如 Google、Amazon 等有经验 [13:46:40, 2011-11-04](http://twitter.com/gfrog/statuses/132332917052538880)
+
+
+
+

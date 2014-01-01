@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2012-07-02 23:59:00
+layout: post
+slug: todays-tweets-2012-07-02
+title: Today's tweets 2012-07-02
+wordpress_id: 2590
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:18, 2012-07-02](http://twitter.com/gfrog/statuses/219596326369890306)
+
+
+
+
+
+  * 因为七月一号是周六，估计今早上会有更多的人报告遭遇NTP那个bug，哈哈。 [11:08:31, 2012-07-02](http://twitter.com/gfrog/statuses/219628590931787777)
+
+
+
+
+
+  * dpkg装linux-image这个包的时候行为真是太二了，如果同时有几个版本的image在的话，丫就会反复的找当前的kernel, 更新grub，如果有DKMS module的话，还要来来回回的卸载、编译，太不智能了吧。 [13:23:09, 2012-07-02](http://twitter.com/gfrog/statuses/219662473039593472)
+
+
+
+
+
+  * 想睡觉… 每天都是特困生… [14:47:33, 2012-07-02](http://twitter.com/gfrog/statuses/219683713968123904)
+
+
+
+
+
+  * 下次打车去上地该肿么说… “师傅，去上地十字路口” “滚下去” RT [@yoyicue](http://twitter.com/yoyicue): 上地环岛消失了 [http://t.co/b4OBIyIB](http://t.co/b4OBIyIB) [14:48:34, 2012-07-02](http://twitter.com/gfrog/statuses/219683970382696448)
+
+
+
+
+
+  * [@eexp01](http://twitter.com/eexp01) 以前没太注意，这次留了几个老版本kernel，赶脚更新的好慢好蛋疼啊。 [in reply to eexp01](http://twitter.com/eexp01/statuses/219686530384531456) [15:01:52, 2012-07-02](http://twitter.com/gfrog/statuses/219687315709239296)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 于是出租车就在上地七街粗现了，lol。 上地那地方咋改都得堵，还是道路拓宽靠谱。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/219684892907274240) [15:02:54, 2012-07-02](http://twitter.com/gfrog/statuses/219687574543937536)
+
+
+
+
+
+  * 木有想好几年以后该去继续做Develop类还是做Support类的工作。换句话说，对人生毫无规划。。 [15:14:30, 2012-07-02](http://twitter.com/gfrog/statuses/219690495343992832)
+
+
+
+
+
+  * 为神马睡的越多越困呢。。大概屋子密闭性太好了，睡多了氧气不足，反而变傻了。今晚开始窗子开个小缝再睡觉。 [15:30:34, 2012-07-02](http://twitter.com/gfrog/statuses/219694538317496322)
+
+
+
+
+
+  * 我了个去，两圈奥园刷下来就热的不行了，直接奔回家冲凉。另外周六摔那一下，右膝虽然没破多少，但是八成摔出内伤了，发力时膝盖隐隐作痛。 [22:19:57, 2012-07-02](http://twitter.com/gfrog/statuses/219797565288361984)
+
+
+
+

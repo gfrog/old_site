@@ -1,0 +1,63 @@
+---
+comments: true
+date: 2010-08-06 10:17:49
+layout: post
+slug: gfrog-tips-1
+title: 一堆小Tips （1）
+wordpress_id: 922
+categories:
+- linux[Linux]
+tags:
+- IPSec
+- Linux
+---
+
+青蛙离职在即，在东软混了三年，在工作中积累的一些小技巧。估计这些技巧到了其他公司基本上用不到了。记录一下，方便后来人。青蛙准备分几天写完，每天一个小Tips。
+
+今天要说的是IPsec VPN的密码问题。搞安全的部门自然有安全部门的特色，所有的服务器都需要拨VPN才能访问。用Windows的童鞋们都很幸福，第一次连接的时候输入帐号密码，然后选保存密码，下次就可以直接登录了。但是Linux的童鞋就比较麻烦了，按照部门攻略上的办法，每次都要输入密码。
+
+青蛙在ipsec.conf(5)里面找到了这个问题的解决办法。
+
+首先要编辑一下/etc/ipsec.conf
+
+
+> conn work
+
+>
+>> left=10.x.x.xxx
+leftnexthop=10.x.x.1
+leftid="C=cn,ST=liaoning,O=neusoft,OU=nsd,CN=xxx_l/emailAddress=xxx_l@neusoft.com"
+leftcert=cert.pem
+leftxauthclient=yes
+leftmodecfgclient=yes
+leftxauthusername=xxx_linux
+modecfgpull=no
+right=10.x.x.254
+rightsubnet=10.xxx.x.0/24
+rightxauthserver=yes
+rightmodecfgserver=yes
+rightid="C=cn,ST=liaoning,O=neusoft,OU=nsd,CN=vpnser,E=vpnser@neusoft.com"
+auto=add
+> 
+> 
+
+
+
+注意leftxauthusername=xxx_linux这行，关键就在这里了，这句话就指定了这个vpn 连接所用的用户名。
+
+然后再编辑一下/etc/ipsec.secrets
+
+
+> : RSA /etc/ipsec.d/private/key.pem
+@xxx_linux : XAUTH "password"
+
+
+@xxx_linux : XAUTH "password" 这行指定了用户名对应的密码。
+
+修改完这两个文件以后，下次再连接VPN的时候就会自动连接了。
+
+PS. /etc/ipsec.conf 还有一句auto=add，加上这句话之后，就可以使用#ipsec auto --up connname这种命令格式连接vpn了，命令格式简单些。
+
+PS2. 为了更进一步达到偷懒的目的，继续包装一下连接vpn的流程，建立一个alias：
+alias vpn='/etc/init.d/ipsec restart && ipsec auto --up work'
+然后每次sudo vpn就成了，偷懒目的达到。

@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2011-04-30 01:00:00
+layout: post
+slug: todays-tweets-2011-04-30
+title: Today's tweets 2011-04-30
+wordpress_id: 1721
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 神哪，chromium竟然已经到13.0.x了。。。 [11:54:38, 2011-04-30](http://twitter.com/gfrog/statuses/64175802614419456)
+
+
+
+
+
+  * 几天没看新闻，Delicious果然被卖掉了啊，yahoo这个败家玩意，真不给力！ [15:19:55, 2011-04-30](http://twitter.com/gfrog/statuses/64227465559683072)
+
+
+
+

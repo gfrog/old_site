@@ -1,0 +1,227 @@
+---
+comments: true
+date: 2010-03-08 01:00:00
+layout: post
+slug: todays-tweets-2010-03-08
+title: Today's tweets 2010-03-08
+wordpress_id: 535
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 记得谁跟我说过，招行专业版能识别出来是不是在虚拟机里运行，不知道是不是真的。 [in reply to likuku](http://twitter.com/likuku/statuses/10123305759) [08:16:59, 2010-03-08](http://twitter.com/gfrog/statuses/10143186086)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 额，我的文件证书注销了，要不应该试验下。移动证书可以用？那很好很好，哈哈。 [in reply to yoyicue](http://twitter.com/yoyicue/statuses/10143272134) [08:21:12, 2010-03-08](http://twitter.com/gfrog/statuses/10143360551)
+
+
+
+
+
+  * 飞一样的快感-Android系统终极加速 [http://j.mp/bO3raR](http://j.mp/bO3raR) [08:51:21, 2010-03-08](http://twitter.com/gfrog/statuses/10144627450)
+
+
+
+
+
+  * 国家地理2010二月精彩壁纸 28P [http://j.mp/9LtY56](http://j.mp/9LtY56) [08:51:23, 2010-03-08](http://twitter.com/gfrog/statuses/10144628324)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) [@yoyicue](http://twitter.com/yoyicue) [@jiehanzheng](http://twitter.com/jiehanzheng) 刚刚折腾了一下lucid里面virtualbox usb的问题，先开个终端执行sudo hald --daemon=no，然后再开vbox就可以了。 [in reply to jiehanzheng](http://twitter.com/jiehanzheng/statuses/10124691835) [08:58:51, 2010-03-08](http://twitter.com/gfrog/statuses/10144938555)
+
+
+
+
+
+  * 机器人手机成长为机器人大脑 [http://j.mp/aXOY2r](http://j.mp/aXOY2r) [09:03:32, 2010-03-08](http://twitter.com/gfrog/statuses/10145148004)
+
+
+
+
+
+  * RT [@webird2010](http://twitter.com/webird2010):
+		 在相继推出粥、油条、烧饼之后，“开封菜”的中国本土化之路越走越快。今日，本人获悉，肯德基在上海8家餐厅率先推出“培根蘑菇鸡肉饭”和“巧手麻婆鸡肉饭”两款米饭类产品，如果销售情况理想，肯德基或将在全国开卖米饭，Orz… [09:10:28, 2010-03-08](http://twitter.com/gfrog/statuses/10145462763)
+
+
+
+
+
+  * 额，我用ssh tunnel做代理，然后拨免费的openvpn，是不是有点变态。。。。 [09:25:31, 2010-03-08](http://twitter.com/gfrog/statuses/10146150453)
+
+
+
+
+
+  * RT [@sdra0516](http://twitter.com/sdra0516): 太邪恶了！这是本人吗？RT [@liveshenzhen](http://twitter.com/liveshenzhen) [http://img.ly/ACc](http://img.ly/ACc) [@rez0041](http://twitter.com/rez0041) 如果露脸就跟好了，已经证据保全，期待套图。 [09:38:23, 2010-03-08](http://twitter.com/gfrog/statuses/10146774971)
+
+
+
+
+
+  * smc 太苦玛35/2入手，拿到手里沉甸甸的，长相好有爱，马上就爱上它了。 [09:56:36, 2010-03-08](http://twitter.com/gfrog/statuses/10147639113)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 其实是vpn比ssh tunnel更方便，哈哈。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/10147143089) [10:34:21, 2010-03-08](http://twitter.com/gfrog/statuses/10149462699)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 就是，反正blog空间的流量根本用不完，还不如拿来翻墙。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/10150035612) [11:07:17, 2010-03-08](http://twitter.com/gfrog/statuses/10151086064)
+
+
+
+
+
+  * RT [@lengxiaohua](http://twitter.com/lengxiaohua): RT [@Yishuihan](http://twitter.com/Yishuihan): 阿凡达大败给拆弹部队的真实原因：今天是三八妇女节 BTW:本届奥斯卡告诉我们 还是前妻比较厉害 [13:28:48, 2010-03-08](http://twitter.com/gfrog/statuses/10157657745)
+
+
+
+
+
+  * 妇女节嘛。 RT [@duck_1984](http://twitter.com/duck_1984):
+		 吓死我了，连着2辆公交，除了驾驶员都是女的 [13:35:39, 2010-03-08](http://twitter.com/gfrog/statuses/10157885842)
+
+
+
+
+
+  * 额，这个布局俺媳妇常用。。。 RT [@terryxxy](http://twitter.com/terryxxy): [http://img.ly/C5X](http://img.ly/C5X) 植物大战僵尸，普通地刺版 [13:44:07, 2010-03-08](http://twitter.com/gfrog/statuses/10158150038)
+
+
+
+
+
+  * RT [@nicolas1030](http://twitter.com/nicolas1030):
+		 RT [@tonejam](http://twitter.com/tonejam): <拆弹部队>是奥斯卡历史上最不受观众喜欢的最佳影片.其票房总数仅为1470万美元. [13:50:29, 2010-03-08](http://twitter.com/gfrog/statuses/10158343635)
+
+
+
+
+
+  * 那玩意似乎就是一个完全密封的塑料壳子，我很好奇它的电池怎么换。 RT [@rewinx](http://twitter.com/rewinx): 刚才不小心将“SecurID动态令牌卡”掉进了水池，捞出来后竟然没进水，数字显示仍然正常。 [13:51:14, 2010-03-08](http://twitter.com/gfrog/statuses/10158366766)
+
+
+
+
+
+  * 确实，就是稀里哗啦打了半天，光看场面了。 RT [@skyier](http://twitter.com/skyier): 其实阿凡达只拿些技术性的奖项是实至名归的。内涵嘛，真没有！ [13:51:42, 2010-03-08](http://twitter.com/gfrog/statuses/10158380802)
+
+
+
+
+
+  * 软指标 [http://j.mp/ab7h08](http://j.mp/ab7h08) [13:56:00, 2010-03-08](http://twitter.com/gfrog/statuses/10158507455)
+
+
+
+
+
+  * 看机器还不错，帮推。 RT [@yushenfeng](http://twitter.com/yushenfeng) RT [@himark](http://twitter.com/himark): 帮同事买的8900，买来之后他不会用。适当降价卖掉。2200元，全新机，通话5分钟。推友的话送一个白色全新轨迹球。链接在此 [http://aa.cx/idt](http://aa.cx/idt) [13:56:57, 2010-03-08](http://twitter.com/gfrog/statuses/10158534979)
+
+
+
+
+
+  * 就是摆拍也拍不出这样的效果 [http://j.mp/aZpxkN](http://j.mp/aZpxkN) [13:58:57, 2010-03-08](http://twitter.com/gfrog/statuses/10158593378)
+
+
+
+
+
+  * 这里提到的图右边那俩人光线不对劲，疑似是PS上去的。RT [@gfrog](http://twitter.com/gfrog): 就是摆拍也拍不出这样的效果 [http://j.mp/aZpxkN](http://j.mp/aZpxkN) [14:00:14, 2010-03-08](http://twitter.com/gfrog/statuses/10158633027)
+
+
+
+
+
+  * 实名 实名制 [http://j.mp/btZvxE](http://j.mp/btZvxE) [14:03:26, 2010-03-08](http://twitter.com/gfrog/statuses/10158734953)
+
+
+
+
+
+  * RT [@qiheizhiya](http://twitter.com/qiheizhiya): RT [@54xiao3](http://twitter.com/54xiao3): 同学告诉我说破处了，终结了27年的处男生涯..他说女友也是处“一开始都找不到地方”“不会吧，你也没少看X片啊”“真的，怎么也找不到，她也不知道”“那最后怎么破的处啊？“停下来先google了一下 [14:56:15, 2010-03-08](http://twitter.com/gfrog/statuses/10160159608)
+
+
+
+
+
+  * 在没有X-Window下工作 [http://j.mp/9zvn7q](http://j.mp/9zvn7q) [15:20:53, 2010-03-08](http://twitter.com/gfrog/statuses/10160764580)
+
+
+
+
+
+  * RT [@Rex5652](http://twitter.com/Rex5652): RT [@Mystryl](http://twitter.com/Mystryl): RT [@kcome](http://twitter.com/kcome): 帝都联通客户代表：“北京联通！”；江苏移动客户代表：“您好，很高兴为您服务”；招商银行信用卡，“晚上好，李先生，请问有什么可以为您服务的麽？” [15:50:29, 2010-03-08](http://twitter.com/gfrog/statuses/10161435638)
+
+
+
+
+
+  * RT [@Showfom](http://twitter.com/Showfom):
+		 으후루꾸十卞丁下丁卞十꾸루후으工으후 루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁下丁卞十꾸루후으工으후루꾸十卞丁 [16:02:42, 2010-03-08](http://twitter.com/gfrog/statuses/10161708745)
+
+
+
+
+
+  * 一般的本子都会带这玩意的。 RT [@cooku](http://twitter.com/cooku): = = 灵异了。。我把麦克风拔掉，竟然还能出声。。妈呀。。我不记得我笔记本有自带mic啊 [16:10:52, 2010-03-08](http://twitter.com/gfrog/statuses/10161893146)
+
+
+
+
+
+  * 找了一份The C Programming Language的练习题答案，十分的不靠谱，看到的第一个题目就是错的，还不如俺自己写的。 [16:51:53, 2010-03-08](http://twitter.com/gfrog/statuses/10162864757)
+
+
+
+
+
+  * [@HideSecret](http://twitter.com/HideSecret) 虽然我能实现，但是写的很丑陋，远远达不到精巧的程度，期待哪位大师级人物可以搞一份。 [in reply to HideSecret](http://twitter.com/HideSecret/statuses/10162997499) [17:06:46, 2010-03-08](http://twitter.com/gfrog/statuses/10163216812)
+
+
+
+
+
+  * 下班的班车上竟然有不少女童鞋，可怜啊，自己独有的假日还要象爷们一样上班。 [17:33:26, 2010-03-08](http://twitter.com/gfrog/statuses/10163841473)
+
+
+
+
+
+  * 果然烧的很厉害。　RT [@wolfmeimei](http://twitter.com/wolfmeimei): 今天高烧中，哈苏……哈苏…… [17:34:33, 2010-03-08](http://twitter.com/gfrog/statuses/10163868078)
+
+
+
+
+
+  * 好神奇，感觉今天天翼出奇的快，这是为什么捏。。。 [18:25:36, 2010-03-08](http://twitter.com/gfrog/statuses/10165065366)
+
+
+
+
+
+  * RT [@zkaip](http://twitter.com/zkaip): 几款让你在不同电脑间保持 Chrome 同步的扩展
+[http://is.gd/9Xfmp](http://is.gd/9Xfmp) [21:34:06, 2010-03-08](http://twitter.com/gfrog/statuses/10170595554)
+
+
+
+

@@ -1,0 +1,90 @@
+---
+comments: true
+date: 2012-06-25 23:59:00
+layout: post
+slug: todays-tweets-2012-06-25
+title: Today's tweets 2012-06-25
+wordpress_id: 2584
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@gnudog](http://twitter.com/gnudog) 始发车，发电车没给送电。 [in reply to gnudog](http://twitter.com/gnudog/statuses/216895618277318656) [07:28:16, 2012-06-25](http://twitter.com/gfrog/statuses/217036448635949056)
+
+
+
+
+
+  * 我擦，竟然晚点了，颠覆了我进京车不晚点的认知。 [07:43:31, 2012-06-25](http://twitter.com/gfrog/statuses/217040288420610048)
+
+
+
+
+
+  * 又回到帝都的毒雾中了。 [07:50:12, 2012-06-25](http://twitter.com/gfrog/statuses/217041968520372224)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:25, 2012-06-25](http://twitter.com/gfrog/statuses/217059641325142016)
+
+
+
+
+
+  * 在地铁上纠结了很久是不是要回家骑车上班，最后在有信号的地方查了一下今天的天气预报，鉴于降水概率持续大于50%，还是直接地铁来公司了。 [09:31:19, 2012-06-25](http://twitter.com/gfrog/statuses/217067416721702913)
+
+
+
+
+
+  * 于是今天就吃到了果仁面包，外加可乐。虽然公司提供伊利牛奶，不过还是不要去尝试那种玩意了。 [09:32:40, 2012-06-25](http://twitter.com/gfrog/statuses/217067755692761088)
+
+
+
+
+
+  * [@upsuperx](http://twitter.com/upsuperx) 大概是为了规避法律风险啊，童鞋。你去看看给gcc贡献代码的流程吧，复杂到爆，还要自己的公司开证明，证明你提交的patch贵公司已经放弃了版权。 [in reply to upsuperx](http://twitter.com/upsuperx/statuses/217071660132610048) [10:17:08, 2012-06-25](http://twitter.com/gfrog/statuses/217078946427191297)
+
+
+
+
+
+  * [@upsuperx](http://twitter.com/upsuperx) 找家靠谱的公司是正道。有些公司的合同里会明确写明合同期内员工的代码作品所有权都属于公司，在这些公司就别提给开源社区贡献代码了。 [in reply to upsuperx](http://twitter.com/upsuperx/statuses/217079275273203712) [10:24:37, 2012-06-25](http://twitter.com/gfrog/statuses/217080830676312066)
+
+
+
+
+
+  * [@upsuperx](http://twitter.com/upsuperx) 别去某些国内知名民企就成。貌似各大互联网企业对于开源事业还是很支持的。这些企业也从开源项目中实实在在得到了甜头。 [in reply to upsuperx](http://twitter.com/upsuperx/statuses/217081776747712512) [10:34:24, 2012-06-25](http://twitter.com/gfrog/statuses/217083292556591104)
+
+
+
+
+
+  * RT [@freesisx](http://twitter.com/freesisx): 据说亚丁湾护航现在变得尴尬了，海军年初没有这部分预算，护航开支巨大。搞得现在雷达不开机，直升机不起飞，似乎是为了省油……为了面子哦 [12:25:52, 2012-06-25](http://twitter.com/gfrog/statuses/217111344502161411)
+
+
+
+
+
+  * 联通你是肿么了？Edge干脆没法上网，开3G基本就是1-2格信号 。当年信号满满，速度爆棚的地方，都变成没信号的地区了。 [12:39:13, 2012-06-25](http://twitter.com/gfrog/statuses/217114701765681152)
+
+
+
+
+
+  * 帝都，外头跟寂静岭似的。 [18:02:56, 2012-06-25](http://twitter.com/gfrog/statuses/217196168667607040)
+
+
+
+

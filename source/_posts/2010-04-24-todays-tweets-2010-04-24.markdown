@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2010-04-24 01:00:00
+layout: post
+slug: todays-tweets-2010-04-24
+title: Today's tweets 2010-04-24
+wordpress_id: 664
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * Dreamhost主机共享计划 [http://j.mp/ay2Zfj](http://j.mp/ay2Zfj) // 免费，提供ftp空间，限量10名用户。 [11:17:50, 2010-04-24](http://twitter.com/gfrog/statuses/12741729173)
+
+
+
+
+
+  * 关注一下，是用java重写的还是仅仅移植呢？　RT [@wubuntust](http://twitter.com/wubuntust): Dosbox android 移植版 alpha 版本http://code.google.com/p/adosbox/ [21:37:40, 2010-04-24](http://twitter.com/gfrog/statuses/12762907603)
+
+
+
+

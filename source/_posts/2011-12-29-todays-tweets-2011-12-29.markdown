@@ -1,0 +1,84 @@
+---
+comments: true
+date: 2011-12-29 01:00:00
+layout: post
+slug: todays-tweets-2011-12-29
+title: Today's tweets 2011-12-29
+wordpress_id: 2016
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@DarkMourn](http://twitter.com/DarkMourn): 当当网1200万用户资料泄漏，支付宝超过1500万用户资料泄漏：由CSDN引发的“泄密门”事件如今仍然在不断扩大，除了不久前天涯和京东卷入其中，最新当当网和支付宝也被曝光用户资料大量泄漏。 [10:35:31, 2011-12-29](http://twitter.com/gfrog/statuses/152216143648657408)
+
+
+
+
+
+  * 最近总收到一个奇怪的座机电话，接起来就是说电话打错了，这是啥情况？ 有人试图破解俺的手机号嘛？ [12:11:38, 2011-12-29](http://twitter.com/gfrog/statuses/152240331025428481)
+
+
+
+
+
+  * 【传交行民生银行数千万用户数据泄露 含卡号密码】 [http://t.co/kDaDQjYT](http://t.co/kDaDQjYT) [14:39:33, 2011-12-29](http://twitter.com/gfrog/statuses/152277559353147392)
+
+
+
+
+
+  * [@zongsen](http://twitter.com/zongsen) 699，台电那个坑爹p81hd [in reply to zongsen](http://twitter.com/zongsen/statuses/151966797401305088) [14:43:19, 2011-12-29](http://twitter.com/gfrog/statuses/152278503323222016)
+
+
+
+
+
+  * 看成了公司里的好男人都出差了。。 RT [@pityonline](http://twitter.com/pityonline): 公司里的男人好像都出差了…… [15:08:53, 2011-12-29](http://twitter.com/gfrog/statuses/152284938337652736)
+
+
+
+
+
+  * 真不错，可惜没法回大连，帮推了。 RT [@gamtin](http://twitter.com/gamtin): RT: [@fndhrt](http://twitter.com/fndhrt): 寻一个靠谱的C程序员，做LTE/3G基站的基带开发。我们是有腔调的外包团队，从上游设计做起，不浪费时间在帮人堆砌代码上。…空缺岗位适合2-3年经验者。#dalian [15:55:50, 2011-12-29](http://twitter.com/gfrog/statuses/152296756644818944)
+
+
+
+
+
+  * ezpdf reader简直是神器啊，跟这东西比起来，其他阅读器都弱爆了。不过不知道这玩意记得笔记可不可以在PC上的阅读器上打开。 [16:32:17, 2011-12-29](http://twitter.com/gfrog/statuses/152305928010600449)
+
+
+
+
+
+  * 每天不按时更新Ticket的下场就是过了一周完全想不起来当时干了神马。 [17:01:08, 2011-12-29](http://twitter.com/gfrog/statuses/152313189432963073)
+
+
+
+
+
+  * 大概是因为我用了mutt-patched，每次切换邮箱都会假死好半天，我纠结了，有sidebar好方便啊！ [18:00:45, 2011-12-29](http://twitter.com/gfrog/statuses/152328191267184640)
+
+
+
+
+
+  * 用平板的时候，真有心去买几个app了，某些软件做的确实太给力了，例如ezpad、例如钛备份。 [21:00:52, 2011-12-29](http://twitter.com/gfrog/statuses/152373519165030400)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) TCP/IP详解第一卷就够了，直接看RFC多闹心。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/152379831814848512) [21:39:05, 2011-12-29](http://twitter.com/gfrog/statuses/152383136318238720)
+
+
+
+

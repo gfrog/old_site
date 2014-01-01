@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2012-07-10 23:59:00
+layout: post
+slug: todays-tweets-2012-07-10
+title: Today's tweets 2012-07-10
+wordpress_id: 2597
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:27, 2012-07-10](http://twitter.com/gfrog/statuses/222495466099707905)
+
+
+
+
+
+  * Why we don't have jacket in China RT [@karlarao](http://twitter.com/karlarao): whoshaa! finally got my awesome RHCE jacket ;)  [http://t.co/6Jx00zsn](http://t.co/6Jx00zsn) [@REDHat_Training](http://twitter.com/REDHat_Training) [21:28:19, 2012-07-10](http://twitter.com/gfrog/statuses/222683673152077824)
+
+
+
+

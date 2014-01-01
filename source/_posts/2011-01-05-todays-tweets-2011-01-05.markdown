@@ -1,0 +1,84 @@
+---
+comments: true
+date: 2011-01-05 01:00:00
+layout: post
+slug: todays-tweets-2011-01-05
+title: Today's tweets 2011-01-05
+wordpress_id: 1512
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 又趴在北京东站了。 (@ Beijing East Railway Station 北京东站) [http://4sq.com/ijh80o](http://4sq.com/ijh80o) [07:11:44, 2011-01-05](http://twitter.com/gfrog/statuses/22430003236966400)
+
+
+
+
+
+  * RT [@yongsun](http://twitter.com/yongsun): RT [@harrygg](http://twitter.com/harrygg): 【武汉惊现代堵公司 专代人堵车驾车】急着赴约，却被堵在路上动弹不得。代堵公司派两人来到车旁，一个替车主继续开车挨堵，另一人骑摩托车护送车主迅速前往目的http://sinaurl.cn/hGtRuf 楚天都市报 [11:26:03, 2011-01-05](http://twitter.com/gfrog/statuses/22472258958139392)
+
+
+
+
+
+  * oops，刚刚那段显示git branch的脚本证明未经严格测试的代码拿出来发布是一件多么愚蠢的事情。 [14:13:13, 2011-01-05](http://twitter.com/gfrog/statuses/22536074240724992)
+
+
+
+
+
+  * 买个安卓手机绑手腕上。 RT [@_J_Smith](http://twitter.com/_J_Smith): ipad nano功能太少了,否则拿来做智能手表还是相当不错的,PS:球基于LINUX的智能手表 [14:53:22, 2011-01-05](http://twitter.com/gfrog/statuses/22546176561647616)
+
+
+
+
+
+  * RT [@luzhe315](http://twitter.com/luzhe315): 给自己个英文名，叫压力山大 [15:36:54, 2011-01-05](http://twitter.com/gfrog/statuses/22553326356795392)
+
+
+
+
+
+  * 代码又有冲突了，我讨厌合并冲突！ [16:35:49, 2011-01-05](http://twitter.com/gfrog/statuses/22571962282811392)
+
+
+
+
+
+  * 搞个kdiff3，我是工具党。 [16:42:34, 2011-01-05](http://twitter.com/gfrog/statuses/22573659990261760)
+
+
+
+
+
+  * 额，如果去干专业对口的工作，恐怕我早就饿死了。 RT [@OMGrz](http://twitter.com/OMGrz): 唔～各位已经工作的推油，你们干的是本专业的工作吗？ [17:31:31, 2011-01-05](http://twitter.com/gfrog/statuses/22585976693989376)
+
+
+
+
+
+  * 今天赶车很杯具，爬上13号线站台，刚好走了一辆。由此可见，10号线在知春路赶东直门方向13号线的要诀：站对门，跑的快，走左侧楼梯。 [20:04:21, 2011-01-05](http://twitter.com/gfrog/statuses/22620057917984768)
+
+
+
+
+
+  * [@middlefeng](http://twitter.com/middlefeng) 哦? 回去体验一下。 in reply to middlefeng [21:49:23, 2011-01-05](http://twitter.com/gfrog/statuses/22650871737225216)
+
+
+
+
+
+  * 哇，猫会解屏幕锁嘛? RT [@movingtea1982](http://twitter.com/movingtea1982): 回家一看，早晨出门挂上的电驴里大部分任务都变成了"暂停"的状态，这两只猫又调皮了 [21:53:32, 2011-01-05](http://twitter.com/gfrog/statuses/22651915355557888)
+
+
+
+

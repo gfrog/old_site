@@ -1,0 +1,223 @@
+---
+comments: true
+date: 2011-10-26 01:00:00
+layout: post
+slug: todays-tweets-2011-10-26
+title: Today's tweets 2011-10-26
+wordpress_id: 1934
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 好吧，完全找不到靠谱的 [#firefox](http://search.twitter.com/search?q=%23firefox) [#qt](http://search.twitter.com/search?q=%23qt) build，试了很多个包，全部段错误退出。只能放弃啦。 [00:29:20, 2011-10-26](http://twitter.com/gfrog/statuses/128870771509563393)
+
+
+
+
+
+  * [#KDE](http://search.twitter.com/search?q=%23KDE) 的苦逼青年们离开 [#GTK](http://search.twitter.com/search?q=%23GTK) 连浏览器都没得使。 [#firefox](http://search.twitter.com/search?q=%23firefox) 和 [#chrome](http://search.twitter.com/search?q=%23chrome) 都是只有GTK版本。 firefox虽然有qt build，但是各种crash，真是弱爆了。 [09:57:37, 2011-10-26](http://twitter.com/gfrog/statuses/129013783510261760)
+
+
+
+
+
+  * [@Houge_Langley](http://twitter.com/Houge_Langley) 需要GTK [in reply to Houge_Langley](http://twitter.com/Houge_Langley/statuses/129015046989824000) [10:06:50, 2011-10-26](http://twitter.com/gfrog/statuses/129016104201895937)
+
+
+
+
+
+  * RT [@CorndogCN](http://twitter.com/CorndogCN): 我在Amazon上帮妹子买了一个化妆品，Amazon发错颜色了，然后我提交售后请求的之后，Amazon竟然连任何证明都没有看，就把钱退给我，并说我可以保留送错的商品做为致歉的礼物。妈B，我这时深刻体会到，一个拥有契约精神国家的力量。我觉得这才是正常的 [10:23:28, 2011-10-26](http://twitter.com/gfrog/statuses/129020286350802944)
+
+
+
+
+
+  * Google Buzz is gone. [10:40:25, 2011-10-26](http://twitter.com/gfrog/statuses/129024555703484417)
+
+
+
+
+
+  * 卡片拍不出好片的问题是感光部不够大，导致快门慢没光圈容易糊；单反不是因为叫单反而牛逼，是厂商没把那块CMOS减配了，电子时代还搞神马反光板五棱镜，纯有病。于是微单华丽出场，大感光部小机身可换镜头，秒杀低端单反。只说秒杀低端单反，因为微单感光部小操作不够方便没法兼容牛逼镜头群。 [11:22:08, 2011-10-26](http://twitter.com/gfrog/statuses/129035052028932096)
+
+
+
+
+
+  * 233 RT [@Gyteng](http://twitter.com/Gyteng): 手抄 RT [@walkcn](http://twitter.com/walkcn): Google reader RT [@omi0604](http://twitter.com/omi0604): Google Buzz退休之后拿什么来备份tweets呢… [11:23:00, 2011-10-26](http://twitter.com/gfrog/statuses/129035271302942720)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 哦，对了，微单对焦是犹豫，不过俺今年P&E的时候对比了下阿花的低端型号，对焦也面的不行，所以差距并不明显。可能对焦这个问题在跟高端单反对比的时候会立刻表现出来，速度不够、精度不够、对焦点选择少。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/129035647238406144) [11:30:31, 2011-10-26](http://twitter.com/gfrog/statuses/129037164121047040)
+
+
+
+
+
+  * 【北京市中关村等7地区未来三年将免费无线上网】 [http://t.co/lLJzF5Kw](http://t.co/lLJzF5Kw) [12:34:29, 2011-10-26](http://twitter.com/gfrog/statuses/129053260085608448)
+
+
+
+
+
+  * RT [@KenWong_](http://twitter.com/KenWong_): 据路边社报道，苹果获得滑动解锁专利后，安卓改成同时按电源键、音量键、返回键、home键、菜单键解锁，WP7改成双手狂摇手机100次解锁（kinect技术哦），而诺基亚只好更改解锁方式为狂砸核桃三颗解锁，砸两颗是直接进入拍照哦。 [12:43:26, 2011-10-26](http://twitter.com/gfrog/statuses/129055510581354496)
+
+
+
+
+
+  * 直接封IP呀，哪个国产bot遵守robots.txt了。 RT [@kentzhu](http://twitter.com/kentzhu): 我正在看: 一淘网：京东商城没有技术能力屏蔽抓取http://t.co/PmeaO5Ki //一淘这话太煞笔了，当年淘宝就有能力屏蔽百度抓取吗？有些事情是防君子的！ [13:16:26, 2011-10-26](http://twitter.com/gfrog/statuses/129063817761144832)
+
+
+
+
+
+  * RT [@cxiaoji](http://twitter.com/cxiaoji): 太贵不是盗版的理由。你们盗PS的用了有5%的功能吗？在正版化的社会里，PS替代工具从十刀的轻量级到一百刀的全能都有。Adobe和MS不在乎少卖这一份。盗版真正杀死的是生态圈里的小公司。那些抱怨国软流氓和弹窗的，在某种程度上都是自食其果。 [13:26:26, 2011-10-26](http://twitter.com/gfrog/statuses/129066333236232192)
+
+
+
+
+
+  * 招聘网站的推荐有能信的嘛 RT [@movingtea1982](http://twitter.com/movingtea1982): 某招聘网站自动给我推荐的职位是美工……你确定没发错吗 [13:59:52, 2011-10-26](http://twitter.com/gfrog/statuses/129074745210703873)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 所以只是说微单可以秒低端单反嘛，消费级单反的对焦性能也一样烂。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/129038726629294080) [14:01:02, 2011-10-26](http://twitter.com/gfrog/statuses/129075040489705472)
+
+
+
+
+
+  * [@yoyicue](http://twitter.com/yoyicue) 看来baidu、etao还有更bt的方法？ [in reply to yoyicue](http://twitter.com/yoyicue/statuses/129064312978411520) [14:01:33, 2011-10-26](http://twitter.com/gfrog/statuses/129075169359695872)
+
+
+
+
+
+  * 竟然看懂了。 RT [@whentp](http://twitter.com/whentp): 好强大：521是女生向男生表白，520是男生向女生表白。。。 [14:23:13, 2011-10-26](http://twitter.com/gfrog/statuses/129080624823795712)
+
+
+
+
+
+  * RT [@lostfigo](http://twitter.com/lostfigo): 刚才倒车被吉普车堵路强卖望远镜，几个操北方口音的上来就扒车窗，刚刚开始说换几个烟钱，到后面直接变成“我就问你要几个烟钱咋的？”我锁着车不为所动，最后他们踹了一脚车走了。临走时候还丢了一句“杭州地震死光光”，SB杭州不是地震带上面的。 [14:32:55, 2011-10-26](http://twitter.com/gfrog/statuses/129083064155521024)
+
+
+
+
+
+  * 哎呀呀，发现某功能在fedora15的qemu-kvm上都不支持，真是弱爆了，难道逼我搞个fedora16？ [14:45:03, 2011-10-26](http://twitter.com/gfrog/statuses/129086118204407808)
+
+
+
+
+
+  * 果然是fedora15的qemu-kvm太旧太旧，自己编译一个qemu-kvm，问题轻松解决。 [15:44:46, 2011-10-26](http://twitter.com/gfrog/statuses/129101144441098240)
+
+
+
+
+
+  * qemu-kvm的git repo地址： [http://t.co/U6YJZPU0](http://t.co/U6YJZPU0) [15:46:16, 2011-10-26](http://twitter.com/gfrog/statuses/129101522398220288)
+
+
+
+
+
+  * 某些角度来说国人营养过剩很严重。 RT [@liumiao](http://twitter.com/liumiao): 今年2月底开始吃素，坚持到9月破戒，后来虽然吃肉，但仍然较清淡，从个人角度看，还是有益于健康的。去年体检的脂肪肝今年减为轻度脂肪肝，偏高的胆固醇也恢复正常。 [15:47:08, 2011-10-26](http://twitter.com/gfrog/statuses/129101741676445696)
+
+
+
+
+
+  * RT [@dlb2825](http://twitter.com/dlb2825): RT [@liweimin](http://twitter.com/liweimin): 京东商城30万一条被子，被子没火 客服妹纸火了 [http://t.co/MTZLYYKl](http://t.co/MTZLYYKl) [16:17:47, 2011-10-26](http://twitter.com/gfrog/statuses/129109456284942336)
+
+
+
+
+
+  * 跟ktorrent比起来， transmission真是弱爆了！ [#KDE](http://search.twitter.com/search?q=%23KDE) [16:20:06, 2011-10-26](http://twitter.com/gfrog/statuses/129110038198501376)
+
+
+
+
+
+  * RT [@movingtea1982](http://twitter.com/movingtea1982): 大神所言即是 RT [@fndhrt](http://twitter.com/fndhrt): 提醒有装逼情结的科技文青们：把kindle借出去之前，别忘了把没看过的书往后翻一翻，否则朋友看到每本都停留在封面，显得咱阅读量不够。 [16:30:03, 2011-10-26](http://twitter.com/gfrog/statuses/129112543032647680)
+
+
+
+
+
+  * 233 RT [@ImSyls](http://twitter.com/ImSyls): 关于放水前先吐痰的解释RT [@LION4733](http://twitter.com/LION4733): [@ImSyls](http://twitter.com/ImSyls) 以炮兵的说法就是齐射前需要用基准炮来校方位和标尺，校正好了再开始万炮齐发。 [18:05:50, 2011-10-26](http://twitter.com/gfrog/statuses/129136647664177152)
+
+
+
+
+
+  * My [#twitter](http://search.twitter.com/search?q=%23twitter) age is 4 years 135 days 23 hours 48 minutes 13 seconds. Find out yours at [http://t.co/7h7s4crS](http://t.co/7h7s4crS) [#twittertime](http://search.twitter.com/search?q=%23twittertime) [20:34:22, 2011-10-26](http://twitter.com/gfrog/statuses/129174025938288641)
+
+
+
+
+
+  * 哎呀呀，竟然用了4年多推特啦。。。 [20:39:48, 2011-10-26](http://twitter.com/gfrog/statuses/129175392652230656)
+
+
+
+
+
+  * [@717amy](http://twitter.com/717amy) [http://t.co/7h7s4crS](http://t.co/7h7s4crS) 这里查 [in reply to 717amy](http://twitter.com/717amy/statuses/129176506860707840) [20:50:18, 2011-10-26](http://twitter.com/gfrog/statuses/129178034799525888)
+
+
+
+
+
+  * RT [@StarKnight](http://twitter.com/StarKnight): #译自日语推 日本人「我擦！电车居然比时刻表晚了10秒钟！」意大利人「我擦！电车居然准时来了！」罗马尼亚人「我擦！电车居然来了！」津巴布韦人「我擦！电车！」 [20:56:42, 2011-10-26](http://twitter.com/gfrog/statuses/129179647312273408)
+
+
+
+
+
+  * 岁月如梭。 RT [@Hc95](http://twitter.com/Hc95): time fly so damn quick RT [@gfrog](http://twitter.com/gfrog): 哎呀呀，竟然用了4年多推特啦。。。 [21:02:29, 2011-10-26](http://twitter.com/gfrog/statuses/129181101125148674)
+
+
+
+
+
+  * RT [@Linuxtoy](http://twitter.com/Linuxtoy): 金山将推 WPS for Linux [http://t.co/ThcEuplq](http://t.co/ThcEuplq) [21:28:56, 2011-10-26](http://twitter.com/gfrog/statuses/129187759645655040)
+
+
+
+
+
+  * 喵了个咪的，bluez你依赖python-gobject包干咩？ 一个bluetooth包竟然还要跟gtk/gnome绑定，尼玛你能不能不这么反人类！  [#KDE](http://search.twitter.com/search?q=%23KDE) [23:11:53, 2011-10-26](http://twitter.com/gfrog/statuses/129213665919500289)
+
+
+
+
+
+  * [#KDE4](http://search.twitter.com/search?q=%23KDE4) 的蓝牙组件叫做 [#bluedevil](http://search.twitter.com/search?q=%23bluedevil) ，这玩意依赖底层bluetooth栈 bluez，bluez又依赖 python-gobject，于是 [#KDE](http://search.twitter.com/search?q=%23KDE) 需要 [#GTK](http://search.twitter.com/search?q=%23GTK)才能打开蓝牙支持。 [#KDE](http://search.twitter.com/search?q=%23KDE) 完败！ [23:30:38, 2011-10-26](http://twitter.com/gfrog/statuses/129218384960307200)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) gnome里面用qt库的东西很少呀，KDE离了gtk简直活不下去了。 [in reply to quakelee](http://twitter.com/quakelee/statuses/129219481850490880) [23:36:17, 2011-10-26](http://twitter.com/gfrog/statuses/129219808196689920)
+
+
+
+
+  * [@sleetdrop](http://twitter.com/sleetdrop) 于是gnome桌面现在成了一坨屎，KDE环境风格保持非常好。但是基于qt的程序不多，特别是重量级/关键部位的程序缺失，是KDE的致命缺陷。比方说浏览器/输入法。 [in reply to sleetdrop](http://twitter.com/sleetdrop/statuses/129220093954637824) [23:41:40, 2011-10-26](http://twitter.com/gfrog/statuses/129221162722013187)

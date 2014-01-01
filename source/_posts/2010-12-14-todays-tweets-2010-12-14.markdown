@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2010-12-14 01:00:00
+layout: post
+slug: todays-tweets-2010-12-14
+title: Today's tweets 2010-12-14
+wordpress_id: 1066
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 豆瓣电台一到半夜就开始放各种老歌，丫的是让我半夜怀旧么。 [00:19:50, 2010-12-14](http://twitter.com/gfrog/statuses/14353812382818304)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 啊!Geek: 吃豆人里面的鬼的行动模式研究 [http://j.mp/eVdkfM](http://j.mp/eVdkfM) [09:01:19, 2010-12-14](http://twitter.com/gfrog/statuses/14485048178769920)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 为什么蔬菜这么贵？ [http://j.mp/i6MiNE](http://j.mp/i6MiNE) [09:01:21, 2010-12-14](http://twitter.com/gfrog/statuses/14485059025248256)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 从孔融让梨看现代中国教育体系的幼稚与浅薄 [http://j.mp/ffRR7W](http://j.mp/ffRR7W) [09:01:30, 2010-12-14](http://twitter.com/gfrog/statuses/14485094676828160)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 超级细菌全球反攻 [http://j.mp/dWXLpG](http://j.mp/dWXLpG) [09:01:33, 2010-12-14](http://twitter.com/gfrog/statuses/14485105938530304)
+
+
+
+
+
+  * 脱！ RT [@quakelee](http://twitter.com/quakelee): 这医院别的还行，就是太tmd热了，又不敢开窗户 ＝＝b [21:32:41, 2010-12-14](http://twitter.com/gfrog/statuses/14674137054183424)
+
+
+
+
+
+  * 我擦，我说今晚豆瓣电台怎么一个劲的给我放周董的歌，原来是忘登录了。 [21:34:17, 2010-12-14](http://twitter.com/gfrog/statuses/14674538189037568)
+
+
+
+
+
+  * 有木有vps达人可以给我介绍下vps上的邮件解决方案啊，或者说vps的php怎么样可以用某个指定的邮箱发信呢？ [21:35:55, 2010-12-14](http://twitter.com/gfrog/statuses/14674952259108864)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) nginx中的TLS/SSL配置 [http://j.mp/dYd76Q](http://j.mp/dYd76Q) [23:04:26, 2010-12-14](http://twitter.com/gfrog/statuses/14697228396404736)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 如何：申请用于服务器SSL/TLS的X.509证书 [http://j.mp/ggwmEk](http://j.mp/ggwmEk) [23:04:40, 2010-12-14](http://twitter.com/gfrog/statuses/14697283731853313)
+
+
+
+

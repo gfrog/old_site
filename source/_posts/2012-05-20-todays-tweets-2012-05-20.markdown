@@ -1,0 +1,20 @@
+---
+comments: true
+date: 2012-05-20 23:59:00
+layout: post
+slug: todays-tweets-2012-05-20
+title: Today's tweets 2012-05-20
+wordpress_id: 2552
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 唔，应该写个手机应用，发现机主每月买衣服超过2件，直接放电电醒机主。 RT [@k_kica](http://twitter.com/k_kica): 翻出一堆没摘掉牌的T恤

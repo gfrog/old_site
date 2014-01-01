@@ -1,0 +1,120 @@
+---
+comments: true
+date: 2012-08-22 23:59:00
+layout: post
+slug: todays-tweets-2012-08-22
+title: Today's tweets 2012-08-22
+wordpress_id: 2656
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * deltarpm真的很好用呢，但是为毛RHEL默认没开这玩意？ [22:29:22, 2012-08-22](http://twitter.com/gfrog/statuses/238281713950797827)
+
+
+
+
+
+  * [@guaneryu](http://twitter.com/guaneryu) 可惜这货decode的数据在某些情况下不是太靠谱，比方说丫认错协议类型啥的，时有发生。 [in reply to guaneryu](http://twitter.com/guaneryu/statuses/237918375945326592) [22:06:05, 2012-08-22](http://twitter.com/gfrog/statuses/238275855145660416)
+
+
+
+
+
+  * 话说我应该跑个fedora的guest试试wayland。 [22:05:59, 2012-08-22](http://twitter.com/gfrog/statuses/238275830969688064)
+
+
+
+
+
+  * 擦，趴在屏幕上看cisco网站那个小破字，眼睛快瞎了。为毛我总想不起来用Clearly… [17:12:01, 2012-08-22](http://twitter.com/gfrog/statuses/238201852443885568)
+
+
+
+
+
+  * RT [@asusmt](http://twitter.com/asusmt): 大学都这样了，这个国家时日不多了 RT [@lihlii](http://twitter.com/lihlii): 女朋友被北大院长在饭桌上惨遭一个小时强奸 [http://t.co/rNNaxjzF](http://t.co/rNNaxjzF) [http://t.co/kDm7a3d0](http://t.co/kDm7a3d0) [16:15:33, 2012-08-22](http://twitter.com/gfrog/statuses/238187640950771712)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) -_- [in reply to likuku](http://twitter.com/likuku/statuses/238186187561525248) [16:15:08, 2012-08-22](http://twitter.com/gfrog/statuses/238187536076386304)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 不是，就是服务器堆叠。 [in reply to likuku](http://twitter.com/likuku/statuses/238184873590931456) [16:08:06, 2012-08-22](http://twitter.com/gfrog/statuses/238185766860251137)
+
+
+
+
+
+  * ASUS Dual-Socket LGA2011 Motherboard Pictured  [http://t.co/7OJqyEuG](http://t.co/7OJqyEuG) // 毒物。 [15:30:43, 2012-08-22](http://twitter.com/gfrog/statuses/238176356616265728)
+
+
+
+
+
+  * 好奇机器堆叠是怎么堆起来的。 [15:21:15, 2012-08-22](http://twitter.com/gfrog/statuses/238173977095307265)
+
+
+
+
+
+  * RT [@hengdm](http://twitter.com/hengdm): RT [@zqweb](http://twitter.com/zqweb): 左边是杨振宁的已故前妻，名将杜聿明之女杜致礼，右边是他现在的妻子翁帆。#我突然就原谅他了…… [http://t.co/qpvzqsW7](http://t.co/qpvzqsW7) [15:11:13, 2012-08-22](http://twitter.com/gfrog/statuses/238171451629391872)
+
+
+
+
+
+  * pc = poor‘s computer [15:10:25, 2012-08-22](http://twitter.com/gfrog/statuses/238171250185355264)
+
+
+
+
+
+  * 弱爆了，直接插smartcard啊 RT [@likuku](http://twitter.com/likuku): 厉害 RT [@StarKnight](http://twitter.com/StarKnight): [@goldengrape](http://twitter.com/goldengrape) 想起来中学计算机老师为防止学生偷窥，每次把键盘倒扣过来输密码。 [14:21:38, 2012-08-22](http://twitter.com/gfrog/statuses/238158973528850432)
+
+
+
+
+
+  * 我了个去，Multicast的题明明看过了啊啊啊啊啊啊，为毛还是一道也不会。 [14:20:48, 2012-08-22](http://twitter.com/gfrog/statuses/238158761422909440)
+
+
+
+
+
+  * 在Mobile01上看到一个自行车改电动车的，虽然那大叔玩的看似都是高科技，但是我怀疑用的配件都是大陆产的，上面都是简体呢，哈哈。但是为毛大陆就没人烧电动车啥的呢？ 太简单了没人玩儿？ [13:14:39, 2012-08-22](http://twitter.com/gfrog/statuses/238142117745147904)
+
+
+
+
+
+  * 求漫画证据真相。lol RT [@gttnnn](http://twitter.com/gttnnn): RT [@5ula5](http://twitter.com/5ula5): …前段时间有个瑞典人因为家里的几本日本漫画含有几页带H性质的内容而被瑞典警方认定是私藏儿童色情作品给抓起来了，问题是那人还是个专门翻译漫画的… [09:41:16, 2012-08-22](http://twitter.com/gfrog/statuses/238088415172771841)
+
+
+
+
+
+  * 刚刚对一个占用自行车道不走的起亚竖中指了。擦，为毛这些怪大叔都喜欢占道不走呢。 [09:39:25, 2012-08-22](http://twitter.com/gfrog/statuses/238087949479198720)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:48, 2012-08-22](http://twitter.com/gfrog/statuses/238078231268425728)
+
+
+
+

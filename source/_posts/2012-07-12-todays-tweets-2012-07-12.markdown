@@ -1,0 +1,79 @@
+---
+comments: true
+date: 2012-07-12 23:59:00
+layout: post
+slug: todays-tweets-2012-07-12
+title: Today's tweets 2012-07-12
+wordpress_id: 2598
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:28, 2012-07-12](http://twitter.com/gfrog/statuses/223220244553007104)
+
+
+
+
+
+  * 每个月40%的收入都要花在吃饭和租房上，在中国活不下去了有没有。
+I must spend 40% of my salary on feeding myself and house renting every month. How could I live in China? [11:23:50, 2012-07-12](http://twitter.com/gfrog/statuses/223256325709234177)
+
+
+
+
+
+  * [@eexp01](http://twitter.com/eexp01) [@iTenzu](http://twitter.com/iTenzu) 我木有欧美水平的工资啊啊啊啊！ [in reply to eexp01](http://twitter.com/eexp01/statuses/223257333671804928) [11:33:04, 2012-07-12](http://twitter.com/gfrog/statuses/223258648309268480)
+
+
+
+
+
+  * RT [@bigman510](http://twitter.com/bigman510): 新京报：廖丹，97年下岗。为尿毒症妻子治病，私刻医院收费章，用这章做了四年免费透析，逃费17.2万。面临3—10年刑期。庭上七尺男儿泪流满面：“我承认都是我干的，我得救媳妇命啊。” [http://t.co/bElmhMJy](http://t.co/bElmhMJy) [12:35:32, 2012-07-12](http://twitter.com/gfrog/statuses/223274367239467010)
+
+
+
+
+
+  * RT [@OMGrz](http://twitter.com/OMGrz): 段先生在淘宝网买了一台三星手机,收到后发现是水货.在多次跟卖家沟通退货未果后,段先生给了卖家一个“差”评.这个“差”评激怒了卖家,卖家回复称：“三个小时到珠海砍你！”果然,卖家带着3名同伙从深圳驱车来到珠海,将段先生砍伤. via 南方都市报 [12:36:22, 2012-07-12](http://twitter.com/gfrog/statuses/223274580255571968)
+
+
+
+
+
+  * RT [@k_kica](http://twitter.com/k_kica): 一同事钻桌子下，不一会儿惨叫：“完了，我按错钮了，我按了所有电脑插线板的总开关！” 大家诧异：“但是我们的电脑还都亮着啊？！” 同事苦逼的声音从桌下传出：“我手还没抬起来呢，全办公室沉默两秒！！” “关机！！快关机！！！” “保存！！” “你挺住， ... [15:22:32, 2012-07-12](http://twitter.com/gfrog/statuses/223316395721625600)
+
+
+
+
+
+  * 其实现在KDE很好用啊，为毛那么多人还都捏着鼻子跟Gnome3较劲？ [15:24:09, 2012-07-12](http://twitter.com/gfrog/statuses/223316804951478272)
+
+
+
+
+
+  * 本来想启动一个Fedora的guest，guest起来vnc连上去一看，尼玛肿么成了Ubuntu @@ 这才发现guest选错了… [15:26:04, 2012-07-12](http://twitter.com/gfrog/statuses/223317285308346368)
+
+
+
+
+
+  * [@eexp01](http://twitter.com/eexp01) 总比奇葩的Gnome强吧。。 [in reply to eexp01](http://twitter.com/eexp01/statuses/223317904089817088) [15:32:15, 2012-07-12](http://twitter.com/gfrog/statuses/223318843123171328)
+
+
+
+
+
+  * 翻旧帖子竟然看到有人说没WMI是linux的缺陷，擦，/proc跟/sys比WMI好用的多好吧。 [20:24:11, 2012-07-12](http://twitter.com/gfrog/statuses/223392310199730177)
+
+
+
+

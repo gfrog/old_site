@@ -1,0 +1,108 @@
+---
+comments: true
+date: 2011-09-26 01:00:00
+layout: post
+slug: todays-tweets-2011-09-26
+title: Today's tweets 2011-09-26
+wordpress_id: 2608
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * test from follow5 [13:43:10, 2011-09-26](http://twitter.com/gfrog/statuses/118198906613006336)
+
+
+
+
+
+  * 啊啊啊啊啊！ 好吵好吵，想听歌，不敢用豆瓣电台啊啊啊啊啊啊！！！！！ [14:09:27, 2011-09-26](http://twitter.com/gfrog/statuses/118205521219158016)
+
+
+
+
+
+  * follow5可以把消息同步到其他平台上了，但是怎么在回复里带twitter的线索？ 这玩意弱爆了。 [14:13:59, 2011-09-26](http://twitter.com/gfrog/statuses/118206665353994240)
+
+
+
+
+
+  * RT [@delphij](http://twitter.com/delphij): FreeBSD 10.0-CURRENT amd64... [14:23:26, 2011-09-26](http://twitter.com/gfrog/statuses/118209041674674176)
+
+
+
+
+
+  * RT [@dlb2825](http://twitter.com/dlb2825): RT [@twimorn](http://twitter.com/twimorn): 233 RT [@silsien](http://twitter.com/silsien): RT: [@g_dot_cn](http://twitter.com/g_dot_cn): 某网友：qq游戏上下象棋，一不小心走错了，车被吃了，正在后悔中，对方突然要悔棋不吃了，赶紧同意了，结果这孙子悔棋后还是杀车，还来句：太爽了，在杀一次。你大爷！！” [14:42:52, 2011-09-26](http://twitter.com/gfrog/statuses/118213934674214913)
+
+
+
+
+
+  * [@petefang](http://twitter.com/petefang) WOW，恭喜！ [in reply to petefang](http://twitter.com/petefang/statuses/118164166962970624) [15:23:48, 2011-09-26](http://twitter.com/gfrog/statuses/118224234475560960)
+
+
+
+
+
+  * oops，用钛备份把google voice转换成用户app的时候出错了，然后这玩意竟然没法重新安装，哦，麻烦大了。 [17:03:55, 2011-09-26](http://twitter.com/gfrog/statuses/118249430498553856)
+
+
+
+
+
+  * 哦，被机器人骚扰，发送了一堆国庆信息。真讨厌！ [17:14:23, 2011-09-26](http://twitter.com/gfrog/statuses/118252062424309760)
+
+
+
+
+
+  * [@iMurMur](http://twitter.com/iMurMur) Oh, Hi from Beijing. [in reply to iMurMur](http://twitter.com/iMurMur/statuses/118249434046935040) [17:14:47, 2011-09-26](http://twitter.com/gfrog/statuses/118252164081655808)
+
+
+
+
+
+  * [@gamtin](http://twitter.com/gamtin) 山姆会员店里采购大宗商品很给力，例如家庭装或者公司装。个人去买点东西会不爽的，因为都是大包装，lol [in reply to gamtin](http://twitter.com/gamtin/statuses/118257420416974848) [17:39:55, 2011-09-26](http://twitter.com/gfrog/statuses/118258488215482368)
+
+
+
+
+
+  * 哎呀妈呀，可算把google voice搞回来了，钛备份出错的时候没有把gvoice清理干净，剩下的这点零碎导致重新安装的时候失败。在设置里清除所有的gvoice更新包，世界和平了。 [17:54:12, 2011-09-26](http://twitter.com/gfrog/statuses/118262082880798720)
+
+
+
+
+
+  * [@gamtin](http://twitter.com/gamtin) 俺之前学校门口有个山姆会员店，价格确实便宜些，可惜包装都太大只了，洗衣粉用麻袋装，饮料至少6只一联，一挂20只一捆。。。。 麦德龙也是这种风格嘛？ [in reply to gamtin](http://twitter.com/gamtin/statuses/118261812188823552) [17:56:11, 2011-09-26](http://twitter.com/gfrog/statuses/118262582745366528)
+
+
+
+
+
+  * I'm not here right now [18:31:30, 2011-09-26](http://twitter.com/gfrog/statuses/118271468722327552)
+
+
+
+
+
+  * RT [@jason5ng32](http://twitter.com/jason5ng32): 招PHP工程师（可实习）、网页设计师、前端工程师，工作地点是北京慈云寺，只要人靠谱，工资不是问题。主要参与新版极客公园的开发，目前可以看到新版的界面了：http://knb.im/8ha ，可以给我发简历：jason@kenengba.com 。 [19:05:43, 2011-09-26](http://twitter.com/gfrog/statuses/118280079179653120)
+
+
+
+
+
+  * 我目前不在 [23:04:01, 2011-09-26](http://twitter.com/gfrog/statuses/118340051091456001)
+
+
+
+

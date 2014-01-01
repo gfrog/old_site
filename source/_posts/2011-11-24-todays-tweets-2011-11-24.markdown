@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2011-11-24 01:00:00
+layout: post
+slug: todays-tweets-2011-11-24
+title: Today's tweets 2011-11-24
+wordpress_id: 1964
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@gttnnn](http://twitter.com/gttnnn) 按肚皮上看，哈哈。 [in reply to gttnnn](http://twitter.com/gttnnn/statuses/139515405759823872) [09:34:49, 2011-11-24](http://twitter.com/gfrog/statuses/139517293083373568)
+
+
+
+
+
+  * RT [@likuku](http://twitter.com/likuku): RT [@justin7974](http://twitter.com/justin7974): 233 RT [@bfishadow](http://twitter.com/bfishadow): 昨天晚上买鸡蛋的时候，发现三个筐子。第一个说普通鸡蛋4.XX元一斤，第二个说柴鸡蛋7.XX元一斤，第三个是鹌鹑蛋。当时就激动了，非常想把后两个改成文艺鸡蛋和2B鸡蛋，囧…… [10:12:46, 2011-11-24](http://twitter.com/gfrog/statuses/139526844805427200)
+
+
+
+
+
+  * 啊哦，装车包竟然被脚踏顶漏了，啧啧，质量太差劲了。 [15:39:56, 2011-11-24](http://twitter.com/gfrog/statuses/139609178951008256)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 考证没用，学东西要紧。从此条可以推导出软考基本就是屎了。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/139674516262625280) [20:01:15, 2011-11-24](http://twitter.com/gfrog/statuses/139674941665714176)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) 不知道，试试就知道了呗。软考啊，啥用没有，基本学不到东西。 虽然cisco的东西现在也泛滥，但是深入进去还是会学到很多的。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/139676309931573248) [20:36:56, 2011-11-24](http://twitter.com/gfrog/statuses/139683918591954945)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) NA啊，不太熟，不过cisco学院那四本书入门就很不错，网上有电子版。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/139684161064681472) [20:44:50, 2011-11-24](http://twitter.com/gfrog/statuses/139685909602893824)
+
+
+
+
+
+  * [@Rex5652](http://twitter.com/Rex5652) [http://t.co/llT6zk1T](http://t.co/llT6zk1T) 是这套， 4本，网络基础、路由基础、交换和中级路由、广域网，挑你能看得懂的部分看。 [in reply to Rex5652](http://twitter.com/Rex5652/statuses/139687193164779520) [21:07:08, 2011-11-24](http://twitter.com/gfrog/statuses/139691519589355522)
+
+
+
+
+
+  * 我了个去，被smartcard玩死了，有木有达人有配置这玩意的经验啊，为神马系统死活找不到卡？！ [21:42:51, 2011-11-24](http://twitter.com/gfrog/statuses/139700508402266112)
+
+
+
+

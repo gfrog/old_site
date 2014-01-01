@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2012-07-29 23:59:00
+layout: post
+slug: todays-tweets-2012-07-29
+title: Today's tweets 2012-07-29
+wordpress_id: 2617
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@k_kica](http://twitter.com/k_kica) 给人做榜样嘛，我还给要减肥的朋友推荐元宝妹的微博来着。 [in reply to k_kica](http://twitter.com/k_kica/statuses/229400662000164864) [10:36:15, 2012-07-29](http://twitter.com/gfrog/statuses/229404942597779458)
+
+
+
+
+
+  * 带源码的pdf真是难搞啊，试了一坨裁剪工具，都搞不定这种变态的格式。 [23:54:34, 2012-07-29](http://twitter.com/gfrog/statuses/229605848853405696)
+
+
+
+

@@ -1,0 +1,96 @@
+---
+comments: true
+date: 2012-08-14 23:59:00
+layout: post
+slug: todays-tweets-2012-08-14
+title: Today's tweets 2012-08-14
+wordpress_id: 2635
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@to_mantis](http://twitter.com/to_mantis): 网上经常见到的2种病：1种是只会写标题不会写内容，1种是只会写内容不会写标题。这2种病在BBS中和电子邮件中为多发病。此外，还有第3种病，就是既不会写标题也不会写内容，只发个附件，此为绝症。 [08:34:47, 2012-08-14](http://twitter.com/gfrog/statuses/235172580225601537)
+
+
+
+
+
+  * RT [@SnHine](http://twitter.com/SnHine): 据时代报，上海张女士在大娘水饺，苦等半小时水饺还没送来，就进厨房看。她发现，服务员把别人吃剩的水饺拼在一起，准备热一热端给食客。 [08:37:10, 2012-08-14](http://twitter.com/gfrog/statuses/235173183408467968)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:01:24, 2012-08-14](http://twitter.com/gfrog/statuses/235179281876152320)
+
+
+
+
+
+  * RT [@Nemolus](http://twitter.com/Nemolus): 中国游泳进步如此迅猛，难免引得老外有这样那样的质疑。其实只要拿最近暴雨后中国各城市积水的照片让他们瞧瞧就可以打消他们那些错误的念头了。下届奥运会皮划艇的冠军也将会是我们的。 [09:47:35, 2012-08-14](http://twitter.com/gfrog/statuses/235190904699371520)
+
+
+
+
+
+  * 那天趴在解字石山坡上吃枣，一片枣树上只有一棵的枣最大，我就在那瞎想，估计是这个长的大的枣最早被薅光，所以没有后代留下来，结果那些比较小的反倒子孙繁盛。 [10:18:41, 2012-08-14](http://twitter.com/gfrog/statuses/235198731216101377)
+
+
+
+
+
+  * 球头扳手跟非球头有啥不同么？ 或者说那个球头是干嘛用的？ [10:29:09, 2012-08-14](http://twitter.com/gfrog/statuses/235201364169478145)
+
+
+
+
+
+  * 强大的壳酱。 RT [@shellex](http://twitter.com/shellex): hmm，一是因为wp和其他php blog吃内存，二是我不喜欢把评论放在第三方，三是因为我有爱看评论员互裱互黑的恶习，所以我写了tattoo … cc [@gnudog](http://twitter.com/gnudog) [10:29:41, 2012-08-14](http://twitter.com/gfrog/statuses/235201498211045377)
+
+
+
+
+
+  * 坚决不用fcitx，这货在多屏幕显示的时候烂爆了。 [11:15:36, 2012-08-14](http://twitter.com/gfrog/statuses/235213052528705537)
+
+
+
+
+
+  * [@iTenzu](http://twitter.com/iTenzu) 作者应该更发奋才是。 [in reply to iTenzu](http://twitter.com/iTenzu/statuses/235216573462360064) [11:34:56, 2012-08-14](http://twitter.com/gfrog/statuses/235217916772114432)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 目前ibus-sunpinyin用的还不错，虽然也有小bug。 [in reply to likuku](http://twitter.com/likuku/statuses/235218473578549248) [13:03:46, 2012-08-14](http://twitter.com/gfrog/statuses/235240274912239616)
+
+
+
+
+
+  * [@ipyrrho](http://twitter.com/ipyrrho) [@iTenzu](http://twitter.com/iTenzu) 矮油，吐槽都不让了呢。乃是谁？警察嘛？乃有权力不允许我说话嘛？ [in reply to ipyrrho](http://twitter.com/ipyrrho/statuses/235224793358688256) [13:04:38, 2012-08-14](http://twitter.com/gfrog/statuses/235240491317358592)
+
+
+
+
+
+  * 蹲着吃饭压迫胃啊，不利于吃饭。 RT [@pityonline](http://twitter.com/pityonline): 蹲着吃饭有罪么？我从小都喜欢蹲着吃饭，今晚因为桌子矮椅子太高被强迫坐着吃，真让人不快…… [21:11:33, 2012-08-14](http://twitter.com/gfrog/statuses/235363028932124672)
+
+
+
+
+
+  * 我脚的苏宁京东这俩货就是串通好的。苏宁除了吊牌价，去实体店肯定会打折/赠品，所以价格要比易购里低不少。京东呢，基本没见他的大家电有啥价格优势，基本跟苏宁易购持平。于是大家商量好了，明天都按苏宁实体店的价格演一场戏，大家都有的赚，消费者也不算太吃亏。 [23:59:01, 2012-08-14](http://twitter.com/gfrog/statuses/235405173034450944)
+
+
+
+

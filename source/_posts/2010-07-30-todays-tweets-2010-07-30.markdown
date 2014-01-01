@@ -1,0 +1,114 @@
+---
+comments: true
+date: 2010-07-30 01:00:00
+layout: post
+slug: todays-tweets-2010-07-30
+title: Today's tweets 2010-07-30
+wordpress_id: 915
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Linux中使用screen管理远程会话 [http://j.mp/c8YWzh](http://j.mp/c8YWzh) [09:16:32, 2010-07-30](http://twitter.com/gfrog/statuses/19870631540)
+
+
+
+
+
+  * 似乎沈阳的天气完全可以从北京的天气推导出来。记得昨晚有人说北京的天热的诡异，于是沈阳今天也热的不行了。 [10:48:38, 2010-07-30](http://twitter.com/gfrog/statuses/19876768928)
+
+
+
+
+
+  * 确实很强。。。 RT [@mathena](http://twitter.com/mathena): Commandlinetips 今天介绍了一个很巧妙的ssh用法，用 cat a.mp3 | ssh b.com play 就可以用b机器上的程序播放a机器上的音乐。此用例可推广到一切流文件。 [10:50:50, 2010-07-30](http://twitter.com/gfrog/statuses/19876917310)
+
+
+
+
+
+  * 那个烂学校确实没啥好的，洗脑严重。RT [@gamtin](http://twitter.com/gamtin): 没问题，似乎是有钱就能上的。 RT: [@ouland](http://twitter.com/ouland): 有个山东小朋友考了433分想去东软信息学院有谱么？虽然我对那个学校没什么好感。 [11:12:44, 2010-07-30](http://twitter.com/gfrog/statuses/19878416769)
+
+
+
+
+
+  * RT [@xie107](http://twitter.com/xie107) 某女性健身俱乐部宣传口号：锻炼括约肌，夹断负心汉！ [13:35:13, 2010-07-30](http://twitter.com/gfrog/statuses/19886941642)
+
+
+
+
+
+  * RT [@Mini_Dragon_CN](http://twitter.com/Mini_Dragon_CN): 其实我暗恋你很久了: “其实我暗恋你很久了.” “哪个让你暗恋的?你哪个单位的?” 这是豆瓣的一次活动. 在QQ上随便找个人对TA说”其实我暗恋你很久了”,看看TA是什么反应.  [http://bit.ly/aYYxxp](http://bit.ly/aYYxxp) 快来围观吧! [13:40:22, 2010-07-30](http://twitter.com/gfrog/statuses/19887226050)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 公司各个成员的脑部结构示意图 [http://j.mp/bF9k7H](http://j.mp/bF9k7H) [13:43:45, 2010-07-30](http://twitter.com/gfrog/statuses/19887406025)
+
+
+
+
+
+  * RT [@somebodylikeTT](http://twitter.com/somebodylikeTT): 阳光美女，可是看起来好热啊。@ChineseDancer (re: [http://twitgoo.com/18gdmw)](http://twitgoo.com/18gdmw)) [13:55:07, 2010-07-30](http://twitter.com/gfrog/statuses/19887982385)
+
+
+
+
+
+  * 网络里遍地的udp包，一个搞网络安全的部门，自己的办公网络竟然这么脆弱。 [15:13:17, 2010-07-30](http://twitter.com/gfrog/statuses/19891744833)
+
+
+
+
+
+  * 我家小区门口的公交车站跟前有2棵树，结果前几天不知道为啥给砍掉了，丫的就是不想让人好好等车。 RT [@kyokyo8899](http://twitter.com/kyokyo8899) 吗的，闵行轴承厂门口的公交站遮阳的都给拆了，晒死人了 [15:26:25, 2010-07-30](http://twitter.com/gfrog/statuses/19892338864)
+
+
+
+
+
+  * 看来俺已经不适合用windows了，在windows里又折腾了一个pidgin上，现在在windows里面也基本上用linux软件的port版本了。 [16:00:15, 2010-07-30](http://twitter.com/gfrog/statuses/19893812519)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Android 简史 [http://j.mp/9W2oQN](http://j.mp/9W2oQN) [16:23:36, 2010-07-30](http://twitter.com/gfrog/statuses/19894806282)
+
+
+
+
+
+  * 直接说明华为里面不靠谱的人也很多。 RT [@fragroute](http://twitter.com/fragroute): 呃，收到华为招聘邮件一封，还是直接发到我的公司邮件。。。 [17:15:35, 2010-07-30](http://twitter.com/gfrog/statuses/19897019326)
+
+
+
+
+
+  * [@fxlt](http://twitter.com/fxlt) 您那里要求太高，我表示被撅的很惨。 [in reply to fxlt](http://twitter.com/fxlt/statuses/19897427988) [17:45:42, 2010-07-30](http://twitter.com/gfrog/statuses/19898304250)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 好吧，我又忘了这俩命令有啥区别了，但是似乎一般情况下返回结果是相同的？ [in reply to likuku](http://twitter.com/likuku/statuses/19898286235) [17:47:03, 2010-07-30](http://twitter.com/gfrog/statuses/19898360140)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 记得freebsd上面是可以看到man，忘记linux上是啥样了，哈哈。 [in reply to likuku](http://twitter.com/likuku/statuses/19898652858) [19:36:33, 2010-07-30](http://twitter.com/gfrog/statuses/19903259599)
+
+
+
+

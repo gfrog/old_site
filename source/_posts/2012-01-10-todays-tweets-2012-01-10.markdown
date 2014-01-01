@@ -1,0 +1,97 @@
+---
+comments: true
+date: 2012-01-10 01:00:00
+layout: post
+slug: todays-tweets-2012-01-10
+title: Today's tweets 2012-01-10
+wordpress_id: 2032
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 昨天胡乱买的一注彩票竟然中了5块钱，啧啧，难得难得 [00:26:28, 2012-01-10](http://twitter.com/gfrog/statuses/156411527656775680)
+
+
+
+
+
+  * Senior 的title才能申请remote回家办公？ 那我要不要多混几年混到等级了再走呢？ [01:06:14, 2012-01-10](http://twitter.com/gfrog/statuses/156421533567418368)
+
+
+
+
+
+  * 我了个去，早上被室友反锁在了家里，Call他回来开门之后出门，车轮辐条又断了一根，今天这是要闹哪般啊… [11:06:23, 2012-01-10](http://twitter.com/gfrog/statuses/156572565828157440)
+
+
+
+
+
+  * RT [@gttnnn](http://twitter.com/gttnnn): 决定了~从今天开始，一旦想大吃大喝的挥霍，就去浦发把钱存起来，拿一颗免费的糖果吃掉~算是打牙祭了。请群众们监督！ [11:13:14, 2012-01-10](http://twitter.com/gfrog/statuses/156574292228841472)
+
+
+
+
+
+  * RT [@ksky](http://twitter.com/ksky): Netfirms4.95$域名优惠码：PROMO495，带免费Domain Privacy。可注册com/net/org。http://t.co/YtVvUIv6 [11:13:31, 2012-01-10](http://twitter.com/gfrog/statuses/156574362399555585)
+
+
+
+
+
+  * 【转】尊敬的用户：
+为了进一步规范和促进互联网支付业务的发展，支付宝公司将从2012年2月8日起关闭信用卡向支付宝账户充值的通道。支付宝为信用卡网上消费提供了快捷支付、网上银行等多种支付方式，网上购物时，您可以通过上述方式直接向商户付款，日常消费更加方便快捷。… //擦！ [12:44:13, 2012-01-10](http://twitter.com/gfrog/statuses/156597187491545088)
+
+
+
+
+
+  * [@epizza](http://twitter.com/epizza) 一定要备份到evernote嘛？ 我知道SMS backup+可以把短信、通话记录备份到gmail里。然后刷机之后还能恢复回来。 [in reply to epizza](http://twitter.com/epizza/statuses/1.5658429236814E+17) [12:46:56, 2012-01-10](http://twitter.com/gfrog/statuses/156597871959998464)
+
+
+
+
+
+  * [@epizza](http://twitter.com/epizza) gmail做filter转发呢？能实现不… [in reply to epizza](http://twitter.com/epizza/statuses/1.5659863747921E+17) [12:50:30, 2012-01-10](http://twitter.com/gfrog/statuses/156598768257605634)
+
+
+
+
+
+  * 小睡一会儿去，lol [12:52:40, 2012-01-10](http://twitter.com/gfrog/statuses/156599311797456896)
+
+
+
+
+
+  * 哎呀呀，我是不是也该去查查有没有精神病呢… emmm，然后策划个神马犯罪之类的是不是就不用去坐牢了， XXXD [14:47:10, 2012-01-10](http://twitter.com/gfrog/statuses/156628127165067264)
+
+
+
+
+
+  * 尼玛！ 我讨厌各种诡异的换行符。 [15:15:11, 2012-01-10](http://twitter.com/gfrog/statuses/156635178981261313)
+
+
+
+
+
+  * 处理兼容性问题太浪费生命了，擦！ [16:01:25, 2012-01-10](http://twitter.com/gfrog/statuses/156646815326937088)
+
+
+
+
+
+  * 折腾了一天， backport结束，揪出bug一小撮。 [17:41:52, 2012-01-10](http://twitter.com/gfrog/statuses/156672093256294400)
+
+
+
+

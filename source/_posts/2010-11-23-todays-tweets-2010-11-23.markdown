@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2010-11-23 01:00:00
+layout: post
+slug: todays-tweets-2010-11-23
+title: Today's tweets 2010-11-23
+wordpress_id: 1047
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * Novell 也被卖了，老牌的IT公司所剩不多啊。 [10:00:00, 2010-11-23](http://twitter.com/gfrog/statuses/6889671200079872)
+
+
+
+
+
+  * RT [@wubuntust](http://twitter.com/wubuntust): RT [@wzx0727](http://twitter.com/wzx0727): 看到一简历。。个人奖励：在校期间多次获得康师傅“再来一瓶”奖励。 [10:02:20, 2010-11-23](http://twitter.com/gfrog/statuses/6890259723849730)
+
+
+
+
+
+  * 红帽当年壮士断腕，果断砍掉桌面市场，看来还是比较有远见的。不过当今ubuntu声势日益壮大，不知道红帽如何对应。 RT [@Houge_Langley](http://twitter.com/Houge_Langley): 现在好像只剩下红帽了 ♺ [@Cold_liang](http://twitter.com/Cold_liang): 老牌IT公司有点跟不上啊 [10:20:02, 2010-11-23](http://twitter.com/gfrog/statuses/6894715773390848)
+
+
+
+
+
+  * ubuntu仗着今天的声势，进入服务器市场是很可怕的，虽然服务器版本现在还没啥特点。其实现在ubuntu的服务器版使用率也能进入前三了吧？ RT [@Houge_Langley](http://twitter.com/Houge_Langley): 其实各大发行版都各有优势，ubuntu作为桌面级不错，服务器，就没准儿了 [10:30:01, 2010-11-23](http://twitter.com/gfrog/statuses/6897226173386754)
+
+
+
+
+
+  * RT [@lvkaiwen](http://twitter.com/lvkaiwen): 昨晚逛超市，伊利促销员在吹，什么添加了氨基酸等一系列元素，我嘴贱，上去问了，有三聚氰胺吗？促销员怒目而视，说：绝对没有？我回：哦，那不要了！ [12:36:38, 2010-11-23](http://twitter.com/gfrog/statuses/6929088904175616)
+
+
+
+
+
+  * RT [@elaoda](http://twitter.com/elaoda): 路透首尔11月23日电---韩国军方和媒体报导称,朝鲜周二向韩国一处岛屿发射多枚炮弹,造成建筑物着火,韩方因此开火回击. 韩国YTN电视台援引目击者的描述称,炮击後有60-70间房屋起火. 韩国军方证实其开火回击,不过没有提供更多细节.(完) [15:38:33, 2010-11-23](http://twitter.com/gfrog/statuses/6974870726381568)
+
+
+
+

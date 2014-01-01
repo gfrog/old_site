@@ -1,0 +1,338 @@
+---
+comments: true
+date: 2010-03-04 01:00:00
+layout: post
+slug: todays-tweets-2010-03-04
+title: Today's tweets 2010-03-04
+wordpress_id: 531
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 台湾又地震鸟？ 又是2012的预演？ [08:46:12, 2010-03-04](http://twitter.com/gfrog/statuses/9949332118)
+
+
+
+
+
+  * Windows Vista研发往事 [http://j.mp/aHY4v6](http://j.mp/aHY4v6) [08:51:56, 2010-03-04](http://twitter.com/gfrog/statuses/9949570046)
+
+
+
+
+
+  * RT [@ikarienator](http://twitter.com/ikarienator): 现公布 Top 1000 中文榜地址：http://twibase.com/sr
+同时上线的包括三项：foer榜、花名册、影响力榜。
+压缩传输防止流量分析。兼容wap环境。
+
+感谢大家的厚爱！ [#top1000](http://search.twitter.com/search?q=%23top1000) [08:52:09, 2010-03-04](http://twitter.com/gfrog/statuses/9949579102)
+
+
+
+
+
+  * 用谷歌邮箱都成反动分子了 RT [@pdd110](http://twitter.com/pdd110): 一位政府信息方面的人士公开透露他们凭邮箱辨身份的做法：「你留给我的名片上要是使用雅虎中国信箱，那么，我就认为你基本可靠，甚至是政府的人。相反，如果你给我的名片上印的是谷歌邮箱，即便我不把你当反动分子看待，至少也对你有所警惕。」 [09:02:22, 2010-03-04](http://twitter.com/gfrog/statuses/9950009669)
+
+
+
+
+
+  * 笔试笔试，推神祝福我能搞定它吧！ [09:08:13, 2010-03-04](http://twitter.com/gfrog/statuses/9950258541)
+
+
+
+
+
+  * 啊啊啊啊！交卷时间晚了5分钟，不会有啥影响吧。 [10:03:49, 2010-03-04](http://twitter.com/gfrog/statuses/9952613136)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 纠结。。。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/9952701443) [10:08:10, 2010-03-04](http://twitter.com/gfrog/statuses/9952802536)
+
+
+
+
+
+  * [@zhaileo](http://twitter.com/zhaileo) 就是几道C语言的题目，主要就是看对C语言的掌握和简单数据结构操作的掌握。标准的C试题。 [in reply to zhaileo](http://twitter.com/zhaileo/statuses/9952780507) [10:09:34, 2010-03-04](http://twitter.com/gfrog/statuses/9952863387)
+
+
+
+
+
+  * 纠结了，本来信心满满，结果变成提心吊胆。 等消息吧。。。 [10:38:33, 2010-03-04](http://twitter.com/gfrog/statuses/9954088648)
+
+
+
+
+
+  * [@hanmo93](http://twitter.com/hanmo93) 对，但是笔试题的英文超简单，完全没有问题。 [in reply to hanmo93](http://twitter.com/hanmo93/statuses/9954144037) [10:44:24, 2010-03-04](http://twitter.com/gfrog/statuses/9954332933)
+
+
+
+
+
+  * RT [@54xiao3](http://twitter.com/54xiao3):
+		 刚生完宝宝时，还在医院里，看着小床里的宝宝满心欢喜，说道：“来，姐姐抱！”那时一下子还没适应自己已经是个妈妈的事实！结果全病房的人笑倒一片！ [10:54:47, 2010-03-04](http://twitter.com/gfrog/statuses/9954764549)
+
+
+
+
+
+  * [@Fotuo](http://twitter.com/Fotuo) 那就别看他呀，那个老玩意，越活越像狗。 [in reply to Fotuo](http://twitter.com/Fotuo/statuses/9960879284) [13:41:47, 2010-03-04](http://twitter.com/gfrog/statuses/9960999771)
+
+
+
+
+
+  * RT [@xuzhe](http://twitter.com/xuzhe):
+		 RT [@zhangzhe](http://twitter.com/zhangzhe): 现在才知道当年房奴李白买的是一套烂尾楼，有诗为证：床前明月光-没有窗；疑是地上霜-门未装；举头望明月-屋顶敞；低头思故乡-很受伤。/cc [@hduanzi](http://twitter.com/hduanzi) [13:48:44, 2010-03-04](http://twitter.com/gfrog/statuses/9961209987)
+
+
+
+
+
+  * echo $(( 1+(`od -An -N2 -i /dev/urandom`)%(6-1+1) )) 投骰子的脚本，囧。 [13:51:34, 2010-03-04](http://twitter.com/gfrog/statuses/9961293059)
+
+
+
+
+
+  * CeBIT 2010：华硕正式发布第一款电子书阅读器 DR-900（加映亲手把玩） (7 回應) [http://j.mp/bb8e47](http://j.mp/bb8e47) [14:04:28, 2010-03-04](http://twitter.com/gfrog/statuses/9961679782)
+
+
+
+
+
+  * RT [@sdra0516](http://twitter.com/sdra0516): RT [@musicleaf](http://twitter.com/musicleaf): 今天是3月4日，可以挑3拣4、丢3落4、说3道4、颠3倒4、朝3暮4、不3不4、勾3搭4、一年就这一天，抓紧 ! [14:39:27, 2010-03-04](http://twitter.com/gfrog/statuses/9962635479)
+
+
+
+
+
+  * 同事又谈起了房子的问题，现在房价越升买的人越多。房子，已经把国人都绑架了。 [17:04:43, 2010-03-04](http://twitter.com/gfrog/statuses/9966070713)
+
+
+
+
+
+  * RT [@JissBon](http://twitter.com/JissBon):
+		 我突然很同情犀利哥，一个宁波的流浪汉，被一个摄影爱好者拍下，可笑的是，那个摄影者只是在试镜头而已，更可笑的是那个sony 70-400的镜头价值1.8万。 [17:15:26, 2010-03-04](http://twitter.com/gfrog/statuses/9966314352)
+
+
+
+
+
+  * 用黑莓的autotext搞定了没法打囧的问题，哈哈。 [17:17:19, 2010-03-04](http://twitter.com/gfrog/statuses/9966357546)
+
+
+
+
+
+  * RT [@appinn](http://twitter.com/appinn):
+		 Firefox 扩展 Coral IE Tab 最新版支持 Adblock plus，就算切换到 IE 也一样能过滤广告！震惊了。又一个不能换到 chrome 的理由。( via [@sfufoet](http://twitter.com/sfufoet) ) [18:49:35, 2010-03-04](http://twitter.com/gfrog/statuses/9968477299)
+
+
+
+
+
+  * RT [@sdra0516](http://twitter.com/sdra0516): 这里下载0.968的UT，必须是论坛会员才可以。http://is.gd/9FqsJ [19:08:45, 2010-03-04](http://twitter.com/gfrog/statuses/9968942788)
+
+
+
+
+
+  * 果然很杯具。PS和LR么问题吧？ RT [@wangpei](http://twitter.com/wangpei): 经多方实验，#DellMini10 v 黑苹果SL上无法使用Aperture，3.0硬件不兼容，2.1及以下软件不兼容。这是摄影迷的悲剧。 [20:01:21, 2010-03-04](http://twitter.com/gfrog/statuses/9970338274)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 我试过在T400上装MACOS，显卡驱不起来，很杯具啊很杯具。 [in reply to likuku](http://twitter.com/likuku/statuses/9970742667) [20:19:52, 2010-03-04](http://twitter.com/gfrog/statuses/9970889677)
+
+
+
+
+
+  * 想收一个SMC太苦玛的35/3.5或者35/2。我要35头！ [20:22:43, 2010-03-04](http://twitter.com/gfrog/statuses/9970978368)
+
+
+
+
+
+  * [@cooku](http://twitter.com/cooku) 35在aps上比50好多了，再说35本身就是比较适合纪实的焦段，我扫街比较多，用35刚好。 [in reply to cooku](http://twitter.com/cooku/statuses/9971039120) [20:50:55, 2010-03-04](http://twitter.com/gfrog/statuses/9971866926)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) T60p啥配置？ 显卡能驱起来？ [in reply to likuku](http://twitter.com/likuku/statuses/9971789446) [20:51:37, 2010-03-04](http://twitter.com/gfrog/statuses/9971889490)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 哦，我也试图收一个T60p装Mac来着，不过现在再用T60p似乎也有点慢了。 [in reply to likuku](http://twitter.com/likuku/statuses/9971937132) [20:57:39, 2010-03-04](http://twitter.com/gfrog/statuses/9972088991)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 开些大程序呢？ PS之类的 [in reply to likuku](http://twitter.com/likuku/statuses/9972369203) [21:28:35, 2010-03-04](http://twitter.com/gfrog/statuses/9973172481)
+
+
+
+
+
+  * [#cnc2c](http://search.twitter.com/search?q=%23cnc2c) [#cnphoto](http://search.twitter.com/search?q=%23cnphoto) 出佳能EF55-250IS，2009年8月购入。 [http://img.ly/AN7](http://img.ly/AN7) [21:37:02, 2010-03-04](http://twitter.com/gfrog/statuses/9973482158)
+
+
+
+
+
+  * [@likuku](http://twitter.com/likuku) 这么看起来也不错啊，哈哈。黑苹果的方案其实很多啊。 [in reply to likuku](http://twitter.com/likuku/statuses/9973243789) [21:38:06, 2010-03-04](http://twitter.com/gfrog/statuses/9973520224)
+
+
+
+
+
+  * 在中华相机网上发现一只35/2，准备收之，就是不知道1k1的价格是不是贵了点。 [#cnphoto](http://search.twitter.com/search?q=%23cnphoto) [22:23:14, 2010-03-04](http://twitter.com/gfrog/statuses/9975237697)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 额。。。 是摄影头。 [in reply to Hc95](http://twitter.com/Hc95/statuses/9973721148) [22:23:50, 2010-03-04](http://twitter.com/gfrog/statuses/9975260898)
+
+
+
+
+
+  * [@xddcc](http://twitter.com/xddcc) SMC太苦玛M42口。 [in reply to xddcc](http://twitter.com/xddcc/statuses/9975320034) [22:27:55, 2010-03-04](http://twitter.com/gfrog/statuses/9975420032)
+
+
+
+
+
+  * 康泰时的机器真骚，不过也是真贵啊，比数码单反还要贵。 [22:28:33, 2010-03-04](http://twitter.com/gfrog/statuses/9975444306)
+
+
+
+
+
+  * 上图上图。 RT [@wubuntust](http://twitter.com/wubuntust): 无图无真相RT: [@Imrunningsnail](http://twitter.com/Imrunningsnail): 浙一医院名医馆有位护士姐姐很漂亮的，今天我都被她痴迷了，很清纯的脸蛋。态度很好，声音也好甜。各位杭州推友有空可以去围观。 [#hangzhou](http://search.twitter.com/search?q=%23hangzhou) [22:32:41, 2010-03-04](http://twitter.com/gfrog/statuses/9975608987)
+
+
+
+
+
+  * oversell显然是普遍现象，要不主机商靠啥赚钱。 RT [@Rex5652](http://twitter.com/Rex5652): 很多美国著名的虚拟主机在我觉得速度并非很理想，应该是oversell吧…dreamhost除外… [22:33:14, 2010-03-04](http://twitter.com/gfrog/statuses/9975629725)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 注意观察，身边都是景色。正在盖的大楼，动迁拆掉的破楼，地铁的工地。这些似乎习以为常的东西，可能过几天就消失掉了。 [#cnphoto](http://search.twitter.com/search?q=%23cnphoto) [in reply to Hc95](http://twitter.com/Hc95/statuses/9975642187) [22:36:41, 2010-03-04](http://twitter.com/gfrog/statuses/9975768013)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) smc 太苦玛 m42。 额，刚刚看到那套应该是G2，很骚很骚。有钱人拿出去亮骚很合适。 [in reply to raptorz](http://twitter.com/raptorz/statuses/9975700984) [22:37:33, 2010-03-04](http://twitter.com/gfrog/statuses/9975801739)
+
+
+
+
+
+  * [@xddcc](http://twitter.com/xddcc) 有钱人的亮骚设备。。。 [in reply to xddcc](http://twitter.com/xddcc/statuses/9975701136) [22:37:52, 2010-03-04](http://twitter.com/gfrog/statuses/9975813741)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 额，有人喜欢那种粗粗长长的玩意。。。 [in reply to raptorz](http://twitter.com/raptorz/statuses/9976003865) [22:45:47, 2010-03-04](http://twitter.com/gfrog/statuses/9976121708)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 试试用你的9000记录一下你上学的路？ [in reply to Hc95](http://twitter.com/Hc95/statuses/9975987960) [22:46:35, 2010-03-04](http://twitter.com/gfrog/statuses/9976153687)
+
+
+
+
+
+  * 似乎太苦玛35/3.5要比35/2还要好些，不过俺还是决定入这只35/2. [22:48:01, 2010-03-04](http://twitter.com/gfrog/statuses/9976208793)
+
+
+
+
+
+  * [@Hc95](http://twitter.com/Hc95) 很杯具。。。 [in reply to Hc95](http://twitter.com/Hc95/statuses/9976253005) [22:50:43, 2010-03-04](http://twitter.com/gfrog/statuses/9976314296)
+
+
+
+
+
+  * [@ahaofz](http://twitter.com/ahaofz) 是滴。 [in reply to ahaofz](http://twitter.com/ahaofz/statuses/9976273420) [22:51:05, 2010-03-04](http://twitter.com/gfrog/statuses/9976328302)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 宾得的据说不太一样，小光圈的反倒更好。 [in reply to raptorz](http://twitter.com/raptorz/statuses/9976407502) [22:55:04, 2010-03-04](http://twitter.com/gfrog/statuses/9976482562)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 额，那就这个35/2了，下定决心收之。 佳能的35/2 2k多大米呢，沈阳还找不到货。 [in reply to raptorz](http://twitter.com/raptorz/statuses/9976742194) [23:05:40, 2010-03-04](http://twitter.com/gfrog/statuses/9976916013)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 佳能除了L头，其他镜头的品质我觉得还不如SMC。 [in reply to raptorz](http://twitter.com/raptorz/statuses/9977058065) [23:10:49, 2010-03-04](http://twitter.com/gfrog/statuses/9977118892)
+
+
+
+
+
+  * [@wolfmeimei](http://twitter.com/wolfmeimei) 35L是神器啊，嘿嘿。 [in reply to wolfmeimei](http://twitter.com/wolfmeimei/statuses/9977066755) [23:11:19, 2010-03-04](http://twitter.com/gfrog/statuses/9977138306)
+
+
+
+
+
+  * [@wolfmeimei](http://twitter.com/wolfmeimei) 借来用呗。35L是传说中Canoner必须拥有的几枚镜头之一。 [in reply to wolfmeimei](http://twitter.com/wolfmeimei/statuses/9977173280) [23:13:24, 2010-03-04](http://twitter.com/gfrog/statuses/9977219998)
+
+
+
+
+
+  * [@wolfmeimei](http://twitter.com/wolfmeimei) 自己玩的话，没必要考虑大三元，太贵啦！ [in reply to wolfmeimei](http://twitter.com/wolfmeimei/statuses/9977329219) [23:18:53, 2010-03-04](http://twitter.com/gfrog/statuses/9977437404)
+
+
+
+
+
+  * [@wolfmeimei](http://twitter.com/wolfmeimei) N家16-80也不错啊，是个选择。 [in reply to wolfmeimei](http://twitter.com/wolfmeimei/statuses/9977553575) [23:27:27, 2010-03-04](http://twitter.com/gfrog/statuses/9977775226)
+
+
+
+
+
+  * [@xddcc](http://twitter.com/xddcc) 见过Sony上的蔡司80/1.4，那品质，绝对没得说。 [in reply to xddcc](http://twitter.com/xddcc/statuses/9977595750) [23:28:00, 2010-03-04](http://twitter.com/gfrog/statuses/9977796086)
+
+
+
+

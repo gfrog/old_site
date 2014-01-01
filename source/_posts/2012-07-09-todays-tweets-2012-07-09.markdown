@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2012-07-09 23:59:00
+layout: post
+slug: todays-tweets-2012-07-09
+title: Today's tweets 2012-07-09
+wordpress_id: 2596
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [@fanzeyi](http://twitter.com/fanzeyi) wow, it's great! [in reply to fanzeyi](http://twitter.com/fanzeyi/statuses/222000755165507584) [00:18:28, 2012-07-09](http://twitter.com/gfrog/statuses/222001716063764480)
+
+
+
+
+
+  * 键盘控追求完美手感嘛。每个键大小角度不同，肯定没法直接换键位。 RT [@_Liridice](http://twitter.com/_Liridice): 这玩意还用定制么，自己重新排下按键，系统里改一下布局就好了 RT [@gfrog](http://twitter.com/gfrog): RT [@Mini_Dragon_CN](http://twitter.com/Mini_Dragon_CN): 花了150美元订做了一个键盘。dvorak布局。青轴 [01:17:35, 2012-07-09](http://twitter.com/gfrog/statuses/222016592169533440)
+
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:21, 2012-07-09](http://twitter.com/gfrog/statuses/222133053546430464)
+
+
+
+
+
+  * RT [@atomid](http://twitter.com/atomid): 1991 年，马云去义乌倒卖小礼品。媳妇儿张英对他说，你擅长的事情是做企业，让天下没有难做的生意，然后狠下心把马云的小商品全扔到了西湖里，并说「我不希望我的丈夫只是一个小货郎」，强烈刺激的马云，进而创建了阿里巴巴。后来马云回忆说：妈的，我只想有钱后 ... [12:42:56, 2012-07-09](http://twitter.com/gfrog/statuses/222189068212121600)
+
+
+
+
+
+  * readline的快捷键还真的很给力的说。不过这貌似就是Emacs的快捷键哈。。 [19:00:01, 2012-07-09](http://twitter.com/gfrog/statuses/222283964927320064)
+
+
+
+
+
+  * RT [@kevinou2007](http://twitter.com/kevinou2007): 可以告他拒载吗？RT [@lvkaiwen](http://twitter.com/lvkaiwen): 见过吗？！北京第一辆布拉迪威龙和兰博基尼出租车！其实他不拉活儿，每月交了份儿钱，只为了不限行 [http://t.co/vs0ez1ol](http://t.co/vs0ez1ol) [20:50:42, 2012-07-09](http://twitter.com/gfrog/statuses/222311817421135873)
+
+
+
+
+
+  * 家里网络不给力的下场就是这几天以编码为乐了，真奇葩的爱好啊。 [20:57:50, 2012-07-09](http://twitter.com/gfrog/statuses/222313612230918145)
+
+
+
+

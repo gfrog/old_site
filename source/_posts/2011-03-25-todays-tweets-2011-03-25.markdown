@@ -1,0 +1,60 @@
+---
+comments: true
+date: 2011-03-25 01:00:00
+layout: post
+slug: todays-tweets-2011-03-25
+title: Today's tweets 2011-03-25
+wordpress_id: 1698
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 这新闻竟然是真的。 RT [@RainySummer](http://twitter.com/RainySummer): Google宣布Android暂停开源 [http://tech.163.com/digi/11/0325/08/6VVRLSH300162OUT.html](http://tech.163.com/digi/11/0325/08/6VVRLSH300162OUT.html) [#android](http://search.twitter.com/search?q=%23android) [12:39:28, 2011-03-25](http://twitter.com/gfrog/statuses/51141121602101248)
+
+
+
+
+
+  * RT [@HZSQL](http://twitter.com/HZSQL): [Reader分享]谷歌Android 3.0暂停开源：或为定制做准备http://goo.gl/0AyPc [12:40:29, 2011-03-25](http://twitter.com/gfrog/statuses/51141380176756736)
+
+
+
+
+
+  * 不过Android是为tablet准备的，那chromeOS呢，针对上网本？但是现在上网本明显干不过平板，google至于同时维护2个系统么。 [12:41:54, 2011-03-25](http://twitter.com/gfrog/statuses/51141737015541760)
+
+
+
+
+
+  * I'm at Beijing Railway Station 北京站 (北京站街 • Beijing Station St, Beijingzhan St, Beijing 北京市) [http://4sq.com/fGZay6](http://4sq.com/fGZay6) [17:29:56, 2011-03-25](http://twitter.com/gfrog/statuses/51214219902844928)
+
+
+
+
+
+  * RT [@xyb](http://twitter.com/xyb): 豆瓣阿尔法城已经开放，入住不再需要邀请。 [http://t.co/jlyQ9QR](http://t.co/jlyQ9QR) [17:34:55, 2011-03-25](http://twitter.com/gfrog/statuses/51215474029117440)
+
+
+
+
+
+  * 这不是去年的新闻嘛。。。RT [@kof2002](http://twitter.com/kof2002): RT [@solidot](http://twitter.com/solidot) Red Hat收入接近10亿美元: Red Hat接近成为第一家年营收达到10亿美元的开源企业。 该公司本周发布的去年第四季度报告显示，净收入为3,350万... [http://bit.ly/eA7kX1](http://bit.ly/eA7kX1) [20:33:49, 2011-03-25](http://twitter.com/gfrog/statuses/51260498934640640)
+
+
+
+
+
+  * RT [@edijason](http://twitter.com/edijason): 【美团】华臣影城（沈阳三好街店）电影票1张仅售20元，可以看任意场次。团购还有4小时35分截止：http://is.gd/er84PO [20:34:30, 2011-03-25](http://twitter.com/gfrog/statuses/51260669110136833)
+
+
+
+

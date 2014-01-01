@@ -1,0 +1,62 @@
+---
+comments: true
+date: 2010-02-12 00:01:57
+layout: post
+slug: today-s-tweets-20100211
+title: Today's tweets 2010-02-11
+wordpress_id: 462
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+	
+  * _00:49_ RT @quakelee: 我得说这网站无敌了... [www.beautyleg.com/](http://www.beautyleg.com/) [#](http://twitter.com/gfrog/statuses/8908859420)
+
+	
+  * _00:51_ RT @sogook: RT @yegle: 喝酒的时候没有起子，同学拿着酒瓶对我说：借你菊花一用 [#](http://twitter.com/gfrog/statuses/8908954534)
+
+	
+  * _01:00_ 趴在床上，睡不着，这算是失眠么。。。 [#](http://twitter.com/gfrog/statuses/8909326625)
+
+	
+  * _07:52_ 赶火车，回家！ [#](http://twitter.com/gfrog/statuses/8925360663)
+
+	
+  * _10:41_ 在火车上推，距离大连还有1小时。 [#](http://twitter.com/gfrog/statuses/8942289411)
+
+	
+  * _10:50_ RT @guao: 谷奥更新: 利用 Google Buzz 往 Picasa Web Albums 批量上传照片 [guao.cc/GBV](http://guao.cc/GBV) [#](http://twitter.com/gfrog/statuses/8942665725)
+
+	
+  * _10:55_ 额，奇怪，为啥新蛋打不开捏。。。 [#](http://twitter.com/gfrog/statuses/8942898106)
+
+	
+  * _10:58_ 貌似我一直都能同步。 RT @imrwong RT @wangshuo: 在twitter发布的推还没能同步到google buzz。有谁成功了吗？ [#](http://twitter.com/gfrog/statuses/8943004060)
+
+	
+  * _12:30_ @[tomatouiui](http://twitter.com/tomatouiui) 手机，哈哈。 [#](http://twitter.com/gfrog/statuses/8946594815)
+
+	
+  * _12:39_ 沈阳到大连这段路的天翼覆盖不错，一路信号质量都很好。 [#](http://twitter.com/gfrog/statuses/8946943959)
+
+	
+  * _16:47_ RT @raptorz: 还有这种事情？ #alipay RT @Aether: 公告：从支付宝向川航支付的两张机票款因支付宝超时被取消，川航退款需要7天，问候你们两家，支付宝优先。 [#](http://twitter.com/gfrog/statuses/8953603127)
+
+	
+  * _16:48_ @[tomatouiui](http://twitter.com/tomatouiui) 哦，最简单的就是opera mini嘛，其他的客户端可以找能用的api。 [#](http://twitter.com/gfrog/statuses/8953640224)
+
+	
+  * _17:08_ RT @Rex5652: 黑客破解Droid手机：可支持USB外设 [idek.net/12cQ](http://idek.net/12cQ) [#](http://twitter.com/gfrog/statuses/8954069206)
+
+	
+  * _20:49_ RT @Klaith:
+HTC G2 在地上摔了一下，结果黑屏了，于是去不夜城花 200 大洋修理。修完之后，对方笑着说：“G2，我们常修，一摔就坏。” #FML [#](http://twitter.com/gfrog/statuses/8959314990)
+
+
+Automatically shipped by [LoudTwitter](http://www.loudtwitter.com)

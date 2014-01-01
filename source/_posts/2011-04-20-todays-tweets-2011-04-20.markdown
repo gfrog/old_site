@@ -1,0 +1,30 @@
+---
+comments: true
+date: 2011-04-20 01:00:00
+layout: post
+slug: todays-tweets-2011-04-20
+title: Today's tweets 2011-04-20
+wordpress_id: 1716
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 某内部工具不给力啊！ [11:13:37, 2011-04-20](http://twitter.com/gfrog/statuses/60541602183131136)
+
+
+
+
+
+  * [@luzhaohui](http://twitter.com/luzhaohui) 米有搞过，完全不了解。不过Amazon收费的instance很不便宜的呀。。。 [in reply to luzhaohui](http://twitter.com/luzhaohui/statuses/60310436209373184) [16:24:04, 2011-04-20](http://twitter.com/gfrog/statuses/60619729987047424)
+
+
+
+

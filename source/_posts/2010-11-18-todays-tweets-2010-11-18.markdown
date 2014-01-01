@@ -1,0 +1,48 @@
+---
+comments: true
+date: 2010-11-18 01:00:00
+layout: post
+slug: todays-tweets-2010-11-18
+title: Today's tweets 2010-11-18
+wordpress_id: 1043
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 使用Glype架设免翻墙oauth认证的dabr(二) [http://j.mp/ddqZxG](http://j.mp/ddqZxG) [00:26:40, 2010-11-18](http://twitter.com/gfrog/statuses/4933447143391232)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 从万网转出域名最快捷的方法：直接到ICANN去投诉，三天后，收到了万网通过Email发来的Auth-Info码，顺利输入Godaddy [http://j.mp/a68LFT](http://j.mp/a68LFT) [00:26:42, 2010-11-18](http://twitter.com/gfrog/statuses/4933455771074560)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 牛排基础知识汇总 [http://j.mp/br6W71](http://j.mp/br6W71) [00:43:53, 2010-11-18](http://twitter.com/gfrog/statuses/4937782166294528)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 铺路也可以这么爽！？【组图】 [http://j.mp/ckZloQ](http://j.mp/ckZloQ) [09:39:37, 2010-11-18](http://twitter.com/gfrog/statuses/5072603458830337)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) 网络通讯协议图 [http://j.mp/91ORyc](http://j.mp/91ORyc) //http://goo.gl/TNgM3 [23:20:46, 2010-11-18](http://twitter.com/gfrog/statuses/5279251435622400)
+
+
+
+

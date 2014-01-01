@@ -1,0 +1,36 @@
+---
+comments: true
+date: 2012-05-02 23:59:00
+layout: post
+slug: todays-tweets-2012-05-02
+title: Today's tweets 2012-05-02
+wordpress_id: 2525
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:37, 2012-05-02](http://twitter.com/gfrog/statuses/197490743110144000)
+
+
+
+
+
+  * 哎呀呀，竟然一天没上推。 [19:42:58, 2012-05-02](http://twitter.com/gfrog/statuses/197652399438053376)
+
+
+
+
+
+  * 测试下。 [19:48:44, 2012-05-02](http://twitter.com/gfrog/statuses/197653848763015168)
+
+
+
+

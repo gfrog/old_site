@@ -1,0 +1,54 @@
+---
+comments: true
+date: 2010-12-16 01:00:00
+layout: post
+slug: todays-tweets-2010-12-16
+title: Today's tweets 2010-12-16
+wordpress_id: 1079
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 有了VPS，我竟然又回去折腾GAE和AWS了，我真是闲的。。。 [00:38:13, 2010-12-16](http://twitter.com/gfrog/statuses/15083217275064320)
+
+
+
+
+
+  * EC2上竟然没有openvpn的包，丫的Amazon果然是怕影响自家VPN的销路，擦。 [00:52:09, 2010-12-16](http://twitter.com/gfrog/statuses/15086720840114176)
+
+
+
+
+
+  * sudo又报啥缺陷了？ RT [@felixonmars](http://twitter.com/felixonmars): 哈 效率挺高的, 刚发完那条推, 新版的sudo就出来了, 已修正该bug [10:01:23, 2010-12-16](http://twitter.com/gfrog/statuses/15224939879600128)
+
+
+
+
+
+  * [#GReader](http://search.twitter.com/search?q=%23GReader) Interesting photos - 14 Dec 2010 - Flickr [http://j.mp/i7f8wP](http://j.mp/i7f8wP) [20:53:25, 2010-12-16](http://twitter.com/gfrog/statuses/15389029587484672)
+
+
+
+
+
+  * 擦，某人用218拍出来一样灰蒙蒙的，我用18-55立马有信心了。 [21:42:01, 2010-12-16](http://twitter.com/gfrog/statuses/15401262891663360)
+
+
+
+
+
+  * 额，怎么在google docs上找不到publish到blog的选项了呢，难道这个功能被取消了？ [23:58:37, 2010-12-16](http://twitter.com/gfrog/statuses/15435638585171968)
+
+
+
+

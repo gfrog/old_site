@@ -1,0 +1,97 @@
+---
+comments: true
+date: 2010-04-15 01:00:00
+layout: post
+slug: todays-tweets-2010-04-15
+title: Today's tweets 2010-04-15
+wordpress_id: 575
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@raptorz](http://twitter.com/raptorz): RT [@luanmazi](http://twitter.com/luanmazi): 转：疫病流行时医院里总是不断死人，于是我最爱的桥段就来了——整个医院里反复回荡着播音员的清脆女声：“请病人不要随便死在走廊上！”敢情这个还有呼吁的。我觉得自己的人生理想就是做这个女播音员，把多严肃的事儿都变成扯淡。 [09:24:33, 2010-04-15](http://twitter.com/gfrog/statuses/12196019958)
+
+
+
+
+
+  * 公交女司机，竟然飚车，女人开车很可怕。 [09:27:07, 2010-04-15](http://twitter.com/gfrog/statuses/12196149765)
+
+
+
+
+
+  * 看不懂也正常，只要能找到自己的小圈子就好。　RT [@terryxxy](http://twitter.com/terryxxy): 有时候想想twitter对于新人来说有多么的难，混推特快两年了，大家讨论的话题我都至少有50%看不懂 [09:36:38, 2010-04-15](http://twitter.com/gfrog/statuses/12196644002)
+
+
+
+
+
+  * DELL 2209wa 显示器到手，颜色比T400的破屏幕好多了。不过顺路买的DELL键鼠很差劲，我印象里8115键盘手感很好的，结果这次买的完全不是那个感觉了。该死的dell，你就偷工减料吧。 [13:14:44, 2010-04-15](http://twitter.com/gfrog/statuses/12206565605)
+
+
+
+
+
+  * [@yuanyi_wang](http://twitter.com/yuanyi_wang) 还好吧，我没比较过其他显示器，感觉这个2209就挺好拉。 [in reply to yuanyi_wang](http://twitter.com/yuanyi_wang/statuses/12207255355) [13:59:23, 2010-04-15](http://twitter.com/gfrog/statuses/12207985975)
+
+
+
+
+
+  * 额，虚拟windows的话，KVM比virtualbox慢了很多，这是为什么捏。 [15:55:38, 2010-04-15](http://twitter.com/gfrog/statuses/12211200340)
+
+
+
+
+
+  * RT [@silsien](http://twitter.com/silsien):
+		 转自人人: 前几天去超市买避孕套，服务员问我为什么要买黑色的，说买彩色的不好么？我说大哥刚去世，为了安慰下大嫂，买黑色的，显得庄重和哀悼。 [16:17:03, 2010-04-15](http://twitter.com/gfrog/statuses/12211770480)
+
+
+
+
+
+  * 发现一只非常新的RB67套机，不过好贵啊好贵，只能瞻仰一下。 [19:38:58, 2010-04-15](http://twitter.com/gfrog/statuses/12217764306)
+
+
+
+
+
+  * 今天发现kvm竟然可以正常跑起来MAC的安装镜像，明天试着装一下黑苹果去，哈哈。 [21:59:46, 2010-04-15](http://twitter.com/gfrog/statuses/12224278811)
+
+
+
+
+
+  * [@fragroute](http://twitter.com/fragroute) chrome该升级了，另外在chrome里打开about:memory页面，有各浏览器的详细对比。 [in reply to fragroute](http://twitter.com/fragroute/statuses/12226551963) [22:53:57, 2010-04-15](http://twitter.com/gfrog/statuses/12227184965)
+
+
+
+
+
+  * 说起dell，上次去三好街的dell体验店问mini1011的价钱，比网站上贵了那么几块钱，我就问店员，为什么实体店贵了点呢。店员答“DELL网上的东西你敢买么？万一给你展示机怎么办？” 靠的，DELL引以为傲的直销模式，就这么赤裸裸的被一个店员日了。 [23:37:18, 2010-04-15](http://twitter.com/gfrog/statuses/12229443054)
+
+
+
+
+
+  * [@ImSyls](http://twitter.com/ImSyls) 所以说那个SB店员不懂事，自己打自己脸。有这种缺心眼的店员卖DELL的东西，DELL也好不了了。 [in reply to ImSyls](http://twitter.com/ImSyls/statuses/12229516865) [23:40:48, 2010-04-15](http://twitter.com/gfrog/statuses/12229622233)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) 我也知道这些，我主要是说那个店员。 [in reply to quakelee](http://twitter.com/quakelee/statuses/12229722750) [23:47:48, 2010-04-15](http://twitter.com/gfrog/statuses/12229977533)
+
+
+
+

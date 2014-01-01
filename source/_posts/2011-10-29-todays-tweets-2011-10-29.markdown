@@ -1,0 +1,114 @@
+---
+comments: true
+date: 2011-10-29 01:00:00
+layout: post
+slug: todays-tweets-2011-10-29
+title: Today's tweets 2011-10-29
+wordpress_id: 1938
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 竟然懒得出去骑车了，难道是这周过于疲劳了？ [06:53:30, 2011-10-29](http://twitter.com/gfrog/statuses/130054611854819329)
+
+
+
+
+
+  * [@iMurMur](http://twitter.com/iMurMur) 必然周周骑呀。 [in reply to iMurMur](http://twitter.com/iMurMur/statuses/130101562331774976) [14:09:27, 2011-10-29](http://twitter.com/gfrog/statuses/130164323598348289)
+
+
+
+
+
+  * [@jyman](http://twitter.com/jyman) 给自己找借口没出去，罪过罪过啊。 晚上压奥园弥补下。。 [in reply to jyman](http://twitter.com/jyman/statuses/130055582265786368) [14:10:06, 2011-10-29](http://twitter.com/gfrog/statuses/130164484928049152)
+
+
+
+
+
+  * RT [@Candyyan](http://twitter.com/Candyyan): 像我这种每天洗个脸就出门的人，大概唯一的优点就是和男朋友说：“随便亲，不会中毒。” [@jyman](http://twitter.com/jyman) [15:01:05, 2011-10-29](http://twitter.com/gfrog/statuses/130177315647926272)
+
+
+
+
+
+  * [#firefox](http://search.twitter.com/search?q=%23firefox) 的隐私浏览模式太二逼了，跟 [#chrome](http://search.twitter.com/search?q=%23chrome) 的差的没边。。 [20:40:42, 2011-10-29](http://twitter.com/gfrog/statuses/130262781894205440)
+
+
+
+
+
+  * RT [@Cynthia_fan](http://twitter.com/Cynthia_fan): “Monday=忙day；Tuesday=求死day；Wednesday=未死day；Thursday=受死day；Friday=福来day；Saturday=洒脱day；Sunday=伤day” [20:41:03, 2011-10-29](http://twitter.com/gfrog/statuses/130262873984339968)
+
+
+
+
+
+  * [@adam8157](http://twitter.com/adam8157) 送我吧，我不嫌丑 XD [in reply to adam8157](http://twitter.com/adam8157/statuses/130267250778312704) [21:04:06, 2011-10-29](http://twitter.com/gfrog/statuses/130268673075183616)
+
+
+
+
+
+  * sina 微博的SDK包做的太土鳖了，竟然连虽软件包发布的版权声明都没有，我都不确定这玩意是不是能随我自己的应用一起发布。 国人你能不能做点靠谱的玩意出来。。。 [21:09:31, 2011-10-29](http://twitter.com/gfrog/statuses/130270037855571968)
+
+
+
+
+
+  * [@adam8157](http://twitter.com/adam8157) 真送我啊。。。 这么痛快。。。 这玩具得丑成啥样。。。 囧 [in reply to adam8157](http://twitter.com/adam8157/statuses/130272647677362176) [21:23:59, 2011-10-29](http://twitter.com/gfrog/statuses/130273676934393858)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 真没辙了，我还是自己发明轮子去吧，指望这帮土鳖是彻头彻尾的不靠谱行为。 [in reply to raptorz](http://twitter.com/raptorz/statuses/130274315357786112) [21:29:10, 2011-10-29](http://twitter.com/gfrog/statuses/130274979420966914)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 改api这个就没招了，就算用SDK也会碰上这问题。唉唉，这让我更加鄙视新浪了。 [in reply to raptorz](http://twitter.com/raptorz/statuses/130276812830937088) [21:40:35, 2011-10-29](http://twitter.com/gfrog/statuses/130277852737306626)
+
+
+
+
+
+  * 突然想到了 [#fanfou](http://search.twitter.com/search?q=%23fanfou) ，要不是被折腾到残，国内微博市场能有sina神马事情！？ fanfou绝对是一姐。 [21:48:52, 2011-10-29](http://twitter.com/gfrog/statuses/130279940200480770)
+
+
+
+
+
+  * 我不能同意的更多。不过这也说明apple在web服务领域其实是个菜鸟，google能把丫甩出几条街去。 RT [@petefang](http://twitter.com/petefang): iTunes真是苹果做的最SB的软件产品了。 [22:07:12, 2011-10-29](http://twitter.com/gfrog/statuses/130284553096007683)
+
+
+
+
+
+  * 做好安全措施。。。 RT [@Vo_oK](http://twitter.com/Vo_oK): 每个中午老板都要你陪他吃饭（AA制，在小面馆吃面）。你怎么办？他私下给你一个人安排工作，你怎么办？ [22:07:56, 2011-10-29](http://twitter.com/gfrog/statuses/130284735854419968)
+
+
+
+
+
+  * 你已经被深度监控了，XD RT [@xiaoyu1992](http://twitter.com/xiaoyu1992): 为什么觉得进入帝都地盘之后特别难刷推啊喵、错觉是不是喂！、 [22:34:11, 2011-10-29](http://twitter.com/gfrog/statuses/130291342390734850)
+
+
+
+
+
+  * RT [@Hitomi_Ayanami](http://twitter.com/Hitomi_Ayanami):  ...利比亚在1969 年9月1日前是中华民国的势力范围，有很多民国的军官在帮助利比亚建通讯设施。卡扎菲政变的人数其实没有国王多，但卡扎菲把枪架在两个民国的军官头上，切断了国王的通讯设施，外面军队不知道国王的禁卫军发生了什么事，弃械投降 [23:32:15, 2011-10-29](http://twitter.com/gfrog/statuses/130305955681415169)
+
+
+
+

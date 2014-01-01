@@ -1,0 +1,78 @@
+---
+comments: true
+date: 2011-12-05 01:00:00
+layout: post
+slug: todays-tweets-2011-12-05
+title: Today's tweets 2011-12-05
+wordpress_id: 1973
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * RT [@fswordlee](http://twitter.com/fswordlee): 最近nodejs出0.6.4版本导致被GFW了，看来python不是个案。强烈呼吁大家分头提醒给自己关注的语言/框架作者，这种版本号还是跳过的好，顺便向全世界科普一下GFW的先进经验，求转发 [06:46:40, 2011-12-05](http://twitter.com/gfrog/statuses/143461245125804032)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 哦？大概是我没找对地方，没发现今年帝都有啥活动啊。 [in reply to raptorz](http://twitter.com/raptorz/statuses/143341635898589184) [09:04:31, 2011-12-05](http://twitter.com/gfrog/statuses/143495936348397571)
+
+
+
+
+
+  * 联通在沈阳竟然有EDGE了，我擦，原来丫知道某些位置3G不给力了。 [09:08:23, 2011-12-05](http://twitter.com/gfrog/statuses/143496908520955905)
+
+
+
+
+
+  * [@cryous](http://twitter.com/cryous) 有，某些苦逼偏远地区就用EDGE代替3G了。 所以在火车上经常HSDPA、WCDMA、EDGE、GPRS来回跳，擦，手机自己玩的很high，我就被郁闷死。 [in reply to cryous](http://twitter.com/cryous/statuses/143505738986299392) [10:15:16, 2011-12-05](http://twitter.com/gfrog/statuses/143513741315674113)
+
+
+
+
+
+  * 看袁腾飞那本历史是个什么玩意，元朝之前写的还不错，明清民国个人色彩太浓烈了，以至于让我怀疑这货是袁崇焕的后代。不过他对太平天国的见解倒是让我耳目一新，原来所谓的神马初步社会主义思想是那么回事。 [12:16:47, 2011-12-05](http://twitter.com/gfrog/statuses/143544321155665920)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz) 看来我要常去python-cn蹲点才对。 [in reply to raptorz](http://twitter.com/raptorz/statuses/143502047084412928) [13:55:07, 2011-12-05](http://twitter.com/gfrog/statuses/143569065171091456)
+
+
+
+
+
+  * 在3M 8822和9322中间纠结，似乎这俩差不多，具体有啥差别呢。。。 [14:31:26, 2011-12-05](http://twitter.com/gfrog/statuses/143578206715392000)
+
+
+
+
+
+  * 哎呀，帝都的wcdma跟沈阳的完全不是一回事儿啊，沈阳的联通网络慢的一逼。 [20:05:58, 2011-12-05](http://twitter.com/gfrog/statuses/143662395766747137)
+
+
+
+
+
+  * RT [@ImSyls](http://twitter.com/ImSyls): 同求RT [@starvii](http://twitter.com/starvii): 求店名RT [@VirtualPing](http://twitter.com/VirtualPing): 哇…RT [@dqbao](http://twitter.com/dqbao): 在国贸附近某大型快餐连锁店吃晚饭，打了两素一汤，米饭随便吃，结账时服务员说总共3块钱。感觉我当时的表情有点像麦当劳15元超值午餐广告男主角 [20:15:10, 2011-12-05](http://twitter.com/gfrog/statuses/143664708329803777)
+
+
+
+
+
+  * 公交回家，话说其实挤公交相当耗费HP [20:16:34, 2011-12-05](http://twitter.com/gfrog/statuses/143665060785557504)
+
+
+
+

@@ -1,0 +1,48 @@
+---
+comments: true
+date: 2012-06-04 23:59:00
+layout: post
+slug: todays-tweets-2012-06-04
+title: Today's tweets 2012-06-04
+wordpress_id: 2564
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 求靠谱人肉 #翻墙 机会。 [09:00:39, 2012-06-04](http://twitter.com/gfrog/statuses/209449554272194562)
+
+
+
+
+
+  * 发patch连commit summary都写不明白的是不是都该打回小学去重学看图说话？ [11:28:01, 2012-06-04](http://twitter.com/gfrog/statuses/209486641172185088)
+
+
+
+
+
+  * 最受不了的就是某些国产项目，commit log里写上‘commit’， ‘fix bug’，真是太二爆了。 [11:28:51, 2012-06-04](http://twitter.com/gfrog/statuses/209486848735707138)
+
+
+
+
+
+  * 我了个去，今天上证跌幅还真是那几个数字，碉堡了。 [19:42:40, 2012-06-04](http://twitter.com/gfrog/statuses/209611121655689216)
+
+
+
+
+
+  * picplz要关闭了？肿么回事？难道是在安卓市场上被instagram打败了？ [22:58:46, 2012-06-04](http://twitter.com/gfrog/statuses/209660473266810880)
+
+
+
+

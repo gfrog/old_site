@@ -1,0 +1,97 @@
+---
+comments: true
+date: 2010-04-16 01:00:00
+layout: post
+slug: todays-tweets-2010-04-16
+title: Today's tweets 2010-04-16
+wordpress_id: 576
+categories:
+- twitter-backup[Twitter备份]
+post_format:
+- Aside
+tags:
+- backup
+- twitter
+---
+
+
+
+
+  * 沈阳出租车要涨价了，估计低速行驶计时收费是肯定要收费了，燃油附加费有没有还不确定。 [08:18:13, 2010-04-16](http://twitter.com/gfrog/statuses/12252879086)
+
+
+
+
+
+  * 别的地方出租车收费高，但是公共交通很发达，市民出行有更多的选择。沈阳公交不方便，车隔长，晚上收车早，出租车调价以后公共交通能改造么？ [08:24:19, 2010-04-16](http://twitter.com/gfrog/statuses/12253185512)
+
+
+
+
+
+  * 话说Quagga这个东东到底是如何实现HA功能的呢，我很好奇。 [09:50:03, 2010-04-16](http://twitter.com/gfrog/statuses/12257412210)
+
+
+
+
+
+  * Ubuntu 10.04临近发布，结果更新beta版遇到的bug越来越多。ubuntu的无缝升级做的真糟糕。或者说它干脆就不支持无缝升级？ [10:24:32, 2010-04-16](http://twitter.com/gfrog/statuses/12259100489)
+
+
+
+
+
+  * [@freesisx](http://twitter.com/freesisx) 我从uubntu 7.x版本开始，每次版本更新就没消停过，不停的出小bug。这点照Debian差远了。这次gnome又哐哐的出错了，搞的我现在也接近崩溃了。 [in reply to freesisx](http://twitter.com/freesisx/statuses/12259171708) [10:47:36, 2010-04-16](http://twitter.com/gfrog/statuses/12260181256)
+
+
+
+
+
+  * 刚刚删掉了$HOME里面所有的gnome设置，重新登录了一下，ibus出错的问题没有改善，但是似乎chrome里面的字体变漂亮了。更加可喜的是登录音乐终于回来了，我已经记不清是哪次更新以后它就无故消失了。 [14:04:50, 2010-04-16](http://twitter.com/gfrog/statuses/12267926098)
+
+
+
+
+
+  * 哦，web界面变漂亮的原因是粗体可以正确显示了。实际上我已经很久没有调整字体了，为什么粗体会在某个时候自己消失呢。 [14:08:21, 2010-04-16](http://twitter.com/gfrog/statuses/12268036999)
+
+
+
+
+
+  * DELL 2209wa，真是个不错的东东，今天去俺的照片库里翻了一圈，感觉图片显示的效果比以前好多了，色彩还原还是比较准的。 [15:53:06, 2010-04-16](http://twitter.com/gfrog/statuses/12271056144)
+
+
+
+
+
+  * [@quakelee](http://twitter.com/quakelee) [@raptorz](http://twitter.com/raptorz) 对于俺这样的穷人，买个2209专门处理照片已经非常奢侈了。 [in reply to quakelee](http://twitter.com/quakelee/statuses/12271148483) [16:07:50, 2010-04-16](http://twitter.com/gfrog/statuses/12271465542)
+
+
+
+
+
+  * [@raptorz](http://twitter.com/raptorz)  [@quakelee](http://twitter.com/quakelee) 我觉得2209唯一不爽的地方，就是没有HDMI，不过这点对于处理图片影响不大，至少还有个DVI顶着。另外屏幕实际上稍稍有点小，毒性不强。 [in reply to raptorz](http://twitter.com/raptorz/statuses/12271641042) [16:19:47, 2010-04-16](http://twitter.com/gfrog/statuses/12271791563)
+
+
+
+
+
+  * RT [@yvonnecrab](http://twitter.com/yvonnecrab): RT [@keyiyi](http://twitter.com/keyiyi): Don't worry I will catch you if you fall.  [http://img.ly/TaP](http://img.ly/TaP) [16:32:58, 2010-04-16](http://twitter.com/gfrog/statuses/12272148151)
+
+
+
+
+
+  * RT [@bigwiiing](http://twitter.com/bigwiiing):
+		 因为再分就会变成敏感词，导致系统重置。 RT [@_J_Smith](http://twitter.com/_J_Smith) 一个IDE/SATA硬盘最多只能分63个分区? [16:50:18, 2010-04-16](http://twitter.com/gfrog/statuses/12272616294)
+
+
+
+
+
+  * 额，这么多人讨论杜拉拉，考虑要不要明天去看下。。。 [16:50:48, 2010-04-16](http://twitter.com/gfrog/statuses/12272629970)
+
+
+
+
