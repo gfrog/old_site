@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-01-01T01:02:39+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[My Life, My Love!]]></title>
+  <link href="http://gfrog.net/atom.xml" rel="self"/>
+  <link href="http://gfrog.net/"/>
+  <updated>2014-01-01T10:46:12+08:00</updated>
+  <id>http://gfrog.net/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[gfrog]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[2013年终总结及2014年新年目标]]></title>
-    <link href="http://yoursite.com/blog/2014/01/01/2013-summary-and-2014-outlook/"/>
+    <link href="http://gfrog.net/2014/01/2013-summary-and-2014-outlook/"/>
     <updated>2014-01-01T05:14:10+08:00</updated>
-    <id>http://yoursite.com/blog/2014/01/01/2013-summary-and-2014-outlook</id>
+    <id>http://gfrog.net/2014/01/2013-summary-and-2014-outlook</id>
     <content type="html"><![CDATA[<p>辞旧迎新，又是一年年终总结和新年展望的时候。</p>
 
 <p><strong>首先，工作。</strong></p>
@@ -184,9 +184,9 @@
   
   <entry>
     <title type="html"><![CDATA[青岛两日游（中）]]></title>
-    <link href="http://yoursite.com/blog/2013/09/09/tour-of-qingdao-b/"/>
+    <link href="http://gfrog.net/2013/09/tour-of-qingdao-b/"/>
     <updated>2013-09-09T16:05:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/09/09/tour-of-qingdao-b</id>
+    <id>http://gfrog.net/2013/09/tour-of-qingdao-b</id>
     <content type="html"><![CDATA[<p>其实从八大关回市区的路上还发生了杯具，
 青蛙本以为原路返回就行了，结果来的时候这条路是单行线，既没公交，也没办法打车。
 在地图上查了下路不远，于是决定腿着回去。</p>
@@ -262,9 +262,9 @@
   
   <entry>
     <title type="html"><![CDATA[青岛两日游（上）]]></title>
-    <link href="http://yoursite.com/blog/2013/09/09/tour-of-qingdao-a/"/>
+    <link href="http://gfrog.net/2013/09/tour-of-qingdao-a/"/>
     <updated>2013-09-09T15:05:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/09/09/tour-of-qingdao-a</id>
+    <id>http://gfrog.net/2013/09/tour-of-qingdao-a</id>
     <content type="html"><![CDATA[<p>去青岛的计划，青蛙已经酝酿很久了，可惜迟迟没法行动。
 眼看秋天就来了，再不动弹天气就凉了，于是心一横，无论如何今年也要去一次青岛。</p>
 
@@ -406,9 +406,9 @@
   
   <entry>
     <title type="html"><![CDATA[探访鸡鸣驿]]></title>
-    <link href="http://yoursite.com/blog/2013/07/06/outing-jiming-dak-in-hebei/"/>
+    <link href="http://gfrog.net/2013/07/outing-jiming-dak-in-hebei/"/>
     <updated>2013-07-06T23:41:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/07/06/outing-jiming-dak-in-hebei</id>
+    <id>http://gfrog.net/2013/07/outing-jiming-dak-in-hebei</id>
     <content type="html"><![CDATA[<p>青蛙这周有点感冒的迹象，所以没法出去得瑟骑车，只好搞点简单的户外活动了。
 昨天跟<a href="http://www.weibo.com/mnoz">MnOz</a>商量着走丰沙线，顺路逛一下传说中的鸡鸣驿。</p>
 
@@ -641,9 +641,9 @@
   
   <entry>
     <title type="html"><![CDATA[一张流：大连造船厂]]></title>
-    <link href="http://yoursite.com/blog/2013/06/13/pic-of-dsic/"/>
+    <link href="http://gfrog.net/2013/06/pic-of-dsic/"/>
     <updated>2013-06-13T15:12:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/06/13/pic-of-dsic</id>
+    <id>http://gfrog.net/2013/06/pic-of-dsic</id>
     <content type="html"><![CDATA[<p>原来停潜艇的地方停了两艘在建的货船。</p>
 
 <p><img src="https://lh5.googleusercontent.com/-Ce0dwZ0c-44/UbrBhUw5a9I/AAAAAAAAMTA/1Keyv9bITfo/s640/6813F5F4-89B3-49A7-AF37-95C30F99B7A0.JPG" alt="https://lh5.googleusercontent.com/-Ce0dwZ0c-44/UbrBhUw5a9I/AAAAAAAAMTA/1Keyv9bITfo/s640/6813F5F4-89B3-49A7-AF37-95C30F99B7A0.JPG" /></p>
@@ -652,9 +652,9 @@
   
   <entry>
     <title type="html"><![CDATA[体验哈大高铁]]></title>
-    <link href="http://yoursite.com/blog/2013/06/10/travel-to-dalian-by-crh/"/>
+    <link href="http://gfrog.net/2013/06/travel-to-dalian-by-crh/"/>
     <updated>2013-06-10T23:11:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/06/10/travel-to-dalian-by-crh</id>
+    <id>http://gfrog.net/2013/06/travel-to-dalian-by-crh</id>
     <content type="html"><![CDATA[<p>端午假期，青蛙因为算错了放假的日子，结果没有买到从北京直接去大连的车票。
 于是只好动车回沈阳，然后从沈阳坐高铁去大连。不过歪打正着，正好体验下提
 速之后的哈大高铁。</p>
@@ -694,9 +694,9 @@
   
   <entry>
     <title type="html"><![CDATA[一张流：北京站]]></title>
-    <link href="http://yoursite.com/blog/2013/06/09/pic-of-beijing-railway-station/"/>
+    <link href="http://gfrog.net/2013/06/pic-of-beijing-railway-station/"/>
     <updated>2013-06-09T23:29:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/06/09/pic-of-beijing-railway-station</id>
+    <id>http://gfrog.net/2013/06/pic-of-beijing-railway-station</id>
     <content type="html"><![CDATA[<p>两列高铁同站台停车。</p>
 
 <p><img src="https://lh4.googleusercontent.com/-CgbGkgBvBBE/UbrEavW_V8I/AAAAAAAAMTY/hAiHDPHX7S0/s640/BBE22D99-EFD7-4100-A043-8BE877AFFA91.JPG" alt="https://lh4.googleusercontent.com/-CgbGkgBvBBE/UbrEavW_V8I/AAAAAAAAMTY/hAiHDPHX7S0/s640/BBE22D99-EFD7-4100-A043-8BE877AFFA91.JPG" /></p>
@@ -705,9 +705,9 @@
   
   <entry>
     <title type="html"><![CDATA[马牌微型尾包]]></title>
-    <link href="http://yoursite.com/blog/2013/06/08/continental-saddle-bag/"/>
+    <link href="http://gfrog.net/2013/06/continental-saddle-bag/"/>
     <updated>2013-06-08T23:05:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/06/08/continental-saddle-bag</id>
+    <id>http://gfrog.net/2013/06/continental-saddle-bag</id>
     <content type="html"><![CDATA[<p>青蛙早想着收一个尾包装工具和备胎，可惜淘宝搜到的包儿都很大，不太适合公路党用。
 虽然公路党理论上不应该绑个包在车上，但是青蛙这种没有后援的屌丝只能用这方法带
 工具了。</p>
@@ -726,18 +726,18 @@
   
   <entry>
     <title type="html"><![CDATA[一张流：蔷薇]]></title>
-    <link href="http://yoursite.com/blog/2013/05/25/pic-of-rosebush/"/>
+    <link href="http://gfrog.net/2013/05/pic-of-rosebush/"/>
     <updated>2013-05-25T16:02:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/05/25/pic-of-rosebush</id>
+    <id>http://gfrog.net/2013/05/pic-of-rosebush</id>
     <content type="html"><![CDATA[<p><img src="https://lh4.googleusercontent.com/-sU5yoVFtkz4/Uayy5Ir3jwI/AAAAAAAAMWA/Q0Lzl6XR5bw/s640/215CB45D-E38E-4856-BA39-63190D693D0D.JPG" alt="https://lh4.googleusercontent.com/-sU5yoVFtkz4/Uayy5Ir3jwI/AAAAAAAAMWA/Q0Lzl6XR5bw/s640/215CB45D-E38E-4856-BA39-63190D693D0D.JPG" /></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[酱油党之奥园笔记20130515]]></title>
-    <link href="http://yoursite.com/blog/2013/05/15/riding-olympic-park-0515/"/>
+    <link href="http://gfrog.net/2013/05/riding-olympic-park-0515/"/>
     <updated>2013-05-15T22:20:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/05/15/riding-olympic-park-0515</id>
+    <id>http://gfrog.net/2013/05/riding-olympic-park-0515</id>
     <content type="html"><![CDATA[<p>今天晚上继续奥园。天气明显没有昨天给力，稍微有点冷，而且东南风严重。
 骑到五环辅路和奥体东路上明显感觉到迎面吹来的大风，然后就各种流泪，
 各种看不清路。近视党骑车就是这么杯催，弄得我再一次有换隐形眼镜的想法了。</p>
@@ -759,9 +759,9 @@
   
   <entry>
     <title type="html"><![CDATA[酱油党之奥园骑行笔记20130514]]></title>
-    <link href="http://yoursite.com/blog/2013/05/14/riding-olympic-park-0514/"/>
+    <link href="http://gfrog.net/2013/05/riding-olympic-park-0514/"/>
     <updated>2013-05-14T22:36:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/05/14/riding-olympic-park-0514</id>
+    <id>http://gfrog.net/2013/05/riding-olympic-park-0514</id>
     <content type="html"><![CDATA[<p>今天是今年第一次刷奥园。算起来比去年懒了很多，
 去年3月初的时候就已经刷了好几次了，虽然北风呼啸，但是也很锻炼人。</p>
 
@@ -780,10 +780,10 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Python Exception class 中的args属性]]></title>
-    <link href="http://yoursite.com/blog/2013/05/13/args-in-python-exception/"/>
+    <title type="html"><![CDATA[Python Exception Class 中的args属性]]></title>
+    <link href="http://gfrog.net/2013/05/args-in-python-exception/"/>
     <updated>2013-05-13T13:09:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/05/13/args-in-python-exception</id>
+    <id>http://gfrog.net/2013/05/args-in-python-exception</id>
     <content type="html"><![CDATA[<p>话说今天青蛙遇到了一个bug，在某个Exception里抛出了TypeError Exception，
 青蛙仔细查了半天，才想到Exception有一个内置属性args，刚好跟这个Exception
 定义中的args重名。</p>
@@ -945,9 +945,9 @@
   
   <entry>
     <title type="html"><![CDATA[一张流：绿叶]]></title>
-    <link href="http://yoursite.com/blog/2013/04/18/pic-of-green-leaves/"/>
+    <link href="http://gfrog.net/2013/04/pic-of-green-leaves/"/>
     <updated>2013-04-18T15:21:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/04/18/pic-of-green-leaves</id>
+    <id>http://gfrog.net/2013/04/pic-of-green-leaves</id>
     <content type="html"><![CDATA[<p>真喜欢这种风格，绿色，阳光，生命，还有最关键的：希望。</p>
 
 <p><img src="https://lh5.googleusercontent.com/-e9Cvxy2ampQ/UXTkS_FNS_I/AAAAAAAAKlc/TjpS8izTddw/s640/940302F2-B06E-44CA-BCCC-C32995614735.JPG" alt="https://lh5.googleusercontent.com/-e9Cvxy2ampQ/UXTkS_FNS_I/AAAAAAAAKlc/TjpS8izTddw/s640/940302F2-B06E-44CA-BCCC-C32995614735.JPG" /></p>
@@ -956,9 +956,9 @@
   
   <entry>
     <title type="html"><![CDATA[Python 中关于变量作用域的一些demo]]></title>
-    <link href="http://yoursite.com/blog/2013/04/15/some-demo-for-python-varients-scope/"/>
+    <link href="http://gfrog.net/2013/04/some-demo-for-python-varients-scope/"/>
     <updated>2013-04-15T22:41:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/04/15/some-demo-for-python-varients-scope</id>
+    <id>http://gfrog.net/2013/04/some-demo-for-python-varients-scope</id>
     <content type="html"><![CDATA[<p>其实青蛙不是很想在blog里面说编程方面的东西，毕竟青蛙自己只
 是个半调子，怕言多有失。不过这次遇到了一个很常见又很有趣的
 问题，记下一笔，权当取乐。</p>
@@ -1264,9 +1264,9 @@ a similar effect to global, but for an intermediate scope.
   
   <entry>
     <title type="html"><![CDATA[图片：杏花开]]></title>
-    <link href="http://yoursite.com/blog/2013/03/27/2-pics-of-apricot-flower/"/>
+    <link href="http://gfrog.net/2013/03/2-pics-of-apricot-flower/"/>
     <updated>2013-03-27T22:23:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/03/27/2-pics-of-apricot-flower</id>
+    <id>http://gfrog.net/2013/03/2-pics-of-apricot-flower</id>
     <content type="html"><![CDATA[<p>帝都上个星期还在下雪，结果这星期花就突然开了。
 春天来的太突然，真让人措手不及。</p>
 
@@ -1278,9 +1278,9 @@ a similar effect to global, but for an intermediate scope.
   
   <entry>
     <title type="html"><![CDATA[东方红朝圣-20130323]]></title>
-    <link href="http://yoursite.com/blog/2013/03/23/riding-dongfanghong-20130323/"/>
+    <link href="http://gfrog.net/2013/03/riding-dongfanghong-20130323/"/>
     <updated>2013-03-23T22:50:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/03/23/riding-dongfanghong-20130323</id>
+    <id>http://gfrog.net/2013/03/riding-dongfanghong-20130323</id>
     <content type="html"><![CDATA[<p>新年东方红朝圣游，虽然换了新车，但是依旧萎靡，东方红仍然不及格。</p>
 
 <p>今年东方红山顶上竟然还有雪，比去年爬东方红气温低了很多。</p>
@@ -1293,9 +1293,9 @@ a similar effect to global, but for an intermediate scope.
   
   <entry>
     <title type="html"><![CDATA[Wordpress转换到Octopress]]></title>
-    <link href="http://yoursite.com/blog/2013/03/08/convert-wordpress-to-octopress/"/>
+    <link href="http://gfrog.net/2013/03/convert-wordpress-to-octopress/"/>
     <updated>2013-03-08T21:11:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/03/08/convert-wordpress-to-octopress</id>
+    <id>http://gfrog.net/2013/03/convert-wordpress-to-octopress</id>
     <content type="html"><![CDATA[<p>今天青蛙下定决心干掉Wordpress了，不为别的，就因为
 在大天朝访问Openshift不靠谱的连接状态。</p>
 
@@ -1386,9 +1386,9 @@ patch在：
   
   <entry>
     <title type="html"><![CDATA[办公室的花]]></title>
-    <link href="http://yoursite.com/blog/2013/03/04/pics-of-flowers-in-office/"/>
+    <link href="http://gfrog.net/2013/03/pics-of-flowers-in-office/"/>
     <updated>2013-03-04T22:07:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/03/04/pics-of-flowers-in-office</id>
+    <id>http://gfrog.net/2013/03/pics-of-flowers-in-office</id>
     <content type="html"><![CDATA[<p>这几天办公室的前台摆了一盆蝴蝶兰，真是美爆了。</p>
 
 <p><img src="https://lh5.googleusercontent.com/-85C8gqfVqDo/UVscQnqX3gI/AAAAAAAAKbk/eHeFOYDz6UA/s640/60BEFAE4-3B56-479A-86ED-60E749BB7612.JPG" alt="" /></p>
@@ -1409,9 +1409,9 @@ patch在：
   
   <entry>
     <title type="html"><![CDATA[我们来打洞：转发DNS包]]></title>
-    <link href="http://yoursite.com/blog/2013/01/07/foward-dns-packet-with-tunnel/"/>
+    <link href="http://gfrog.net/2013/01/foward-dns-packet-with-tunnel/"/>
     <updated>2013-01-07T06:22:44+08:00</updated>
-    <id>http://yoursite.com/blog/2013/01/07/foward-dns-packet-with-tunnel</id>
+    <id>http://gfrog.net/2013/01/foward-dns-packet-with-tunnel</id>
     <content type="html"><![CDATA[<p>基于某些众所周知的原因，在天朝上网非常需要勇气和技术。
 今天在跟某人聊天时了解到Chrome竟然没办法使用proxy进行DNS查询<1>， 导致DNS查询结果持续被污染。
 虽然用proxychains能把一切流量塞进代理里面，
@@ -1487,9 +1487,9 @@ local# sudo nc -l -u -p 53 &lt; /tmp/fifo | nc localhost 5353 &gt; /tmp/fifo
   
   <entry>
     <title type="html"><![CDATA[新年第一天，折腾一下各种装备]]></title>
-    <link href="http://yoursite.com/blog/2013/01/02/fix-some-device-in-first-day-of-2013/"/>
+    <link href="http://gfrog.net/2013/01/fix-some-device-in-first-day-of-2013/"/>
     <updated>2013-01-02T00:36:49+08:00</updated>
-    <id>http://yoursite.com/blog/2013/01/02/fix-some-device-in-first-day-of-2013</id>
+    <id>http://gfrog.net/2013/01/fix-some-device-in-first-day-of-2013</id>
     <content type="html"><![CDATA[<p>放假在家，闲来无事，青蛙把之前一直想拆开看看的几个东西动手拆了。</p>
 
 <p>第一个是前不久买的WD 3.5寸移动硬盘。拆开之后，果然是绿盘。

@@ -1,0 +1,334 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>历经坎坷，安装VMWARE6 - My Life, My Love!</title>
+  <meta name="author" content="gfrog">
+
+  
+  <meta name="description" content="青蛙被vmware郁闷了整整一晚上，遇到问题无数，google了一大把关键字，看了一大叠邮件列表，终于把它在2.6.24内核上给装上了。赶紧写下来，免得以后遇到类似的问题再抓瞎。 （请注意青蛙给出命令的提示符，$表示不要求root权限，#表示必须用root权限执行） 到http://www. &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://gfrog.net/2008/03/vmware6-installation-in-2-6-24-kernel">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Life, My Love!" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Life, My Love!</a></h1>
+  
+    <h2>指点江山 激昂文字 修身隆德 自然自我</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:gfrog.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">首页</a></li>
+  <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+  <li><a href="/categories/linux">Linux</a></li>
+  <li><a href="/categories/picture">美丽图片</a></li>
+  <li><a href="/categories/twitter-backup">Tweets</a></li>
+  <li><a href="/blog/archives">全部日志</a></li>
+  <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">历经坎坷，安装VMWARE6</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-03-04T08:43:44+08:00" pubdate data-updated="true">2008-03-04 08:43</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>青蛙被vmware郁闷了整整一晚上，遇到问题无数，google了一大把关键字，看了一大叠邮件列表，终于把它在2.6.24内核上给装上了。赶紧写下来，免得以后遇到类似的问题再抓瞎。</p>
+
+<p>（请注意青蛙给出命令的提示符，$表示不要求root权限，#表示必须用root权限执行）</p>
+
+<blockquote><ol>
+<li><p>到<a href="http://www.vmware.com/download/ws/">http://www.vmware.com/download/ws/</a>这里vmware6的安装包下载回来，总共有200多M。</p></li>
+<li><p>下载安装包的同时，还需要准备一些包：<code>#aptitude install linux-source gcc-4.1 g++-4.1 libncurses5-dev</code>这些是linux源码包，还有gcc跟g++，待会编译模块会用到。</p></li>
+<li><p>解压vmware6的安装文件$tar zxvf VMware-workstation-6.0.2-59824.i386.tar.gz。</p></li>
+<li><p>$cd  vmware-distrib，然后执行#./vmware-install.pl。一路回车，到提示是否执行/usr/bin/vmware-config.pl这步时选择no。</p></li>
+<li><p>$cd /usr/src，然后#tar jxvf linux-source-2.6.24.tar.bz2，再#ln -s linux-source-2.6.24 linux。</p></li>
+<li><h1>cd linux，#make menuconfig，在General setup &ndash;>  Local version &ndash; append to kernel release选项中填入正在运行内核的子版本号（例如，青蛙的内核版本为2.6.24-1-686,那么就在这里填入-1-686，在这里青蛙困扰了好久，这回终于知道怎么写这个版本号了 :mrgreen: ）,然后保存退出，执行#make prepare。</h1></li>
+<li><p>在<a href="http://vmkernelnewbies.googlegroups.com/web/vmware-any-any-update-116.tgz">这里</a>（<a href="http://blog.creonfx.com/temp/vmware-any-any-update-116.tgz">这里</a>和<a href="http://linuxtoy.org/files/vmware-any-any-update-116.tgz">这里</a>也分别有下载）下载vmware-any-any-update-116.tgz这个补丁。并解压：$tar zxvf vmware-any-any-update-116.tgz，然后$cd vmware-any-any-update116，执行#./runme.pl，当询问是否运行vmware-config.pl的时候，选择yes。（如果以上步骤执行正确，到这里应该能正确的编译vmware需要的各种模块了，如果出错，请google错误信息，一般都有结果的。）</p></li>
+</ol>
+
+
+<blockquote><p><strong>update:2008-03-18. </strong>今天青蛙再次在2.6.24内核上面安装vmware，编译模块时又出现了下面的错误信息：</p>
+
+<blockquote><p> /bin/sh: scripts/genksyms/genksyms: 没有那个文件或目录
+make[2]: <strong><em> [/tmp/vmware-config2/vmmon-only/linux/driver.o] 错误 1
+make[1]: </em></strong> [<em>module</em>/tmp/vmware-config2/vmmon-only] 错误 2
+make[1]: Leaving directory <code>/usr/src/linux-source-2.6.24'
+make: *** [vmmon.ko] 错误 2
+make: Leaving directory</code>/tmp/vmware-config2/vmmon-only&#8217;
+Unable to build the vmmon module.</p></blockquote>
+
+<p> 青蛙在源码目录执行了一下#make all，把genksyms这个模块编译一下就好了，真是一个很诡异的问题。</p></blockquote>
+
+<ol>
+<li>接下来就是配置虚拟网卡，按照自己的爱好配置就可以了。</li>
+</ol>
+</blockquote>
+
+<ol>
+<li><p>这一切都完成以后，会有一长串的许可协议冒出来，到最后输入yes就行了。</p></li>
+<li><p>到这里，vmware就算完全安装完毕了，在gnome的菜单里找到vmware workstation运行之，然后输入序列号，就可以安装虚拟系统了。</p></li>
+</ol>
+
+
+<p>至于序列号，google上是，一抓一大把，青蛙就不提供了。 祝大家玩的愉快。 :smile:</p>
+
+<p>文中提到的vmware-any-any-update-116.tgz补丁的下载：</p>
+
+<p><a href="http://www.divshare.com/download/3938296-131">vmware-any-any-update-116.tgz (vmware-any-any-update-116.tgz)</a></p>
+
+<p>参考文档：</p>
+
+<p><a href="http://blog.creonfx.com/linux/how-to-install-vmware-player-workstation-on-2624-kernel">http://blog.creonfx.com/linux/how-to-install-vmware-player-workstation-on-2624-kernel</a></p>
+
+<p><a href="http://linuxtoy.org/archives/vmware-and-kernel-2624.html">http://linuxtoy.org/archives/vmware-and-kernel-2624.html</a></p>
+
+<p><a href="http://linux.bloghome.cn/posts/159172.html">http://linux.bloghome.cn/posts/159172.html </a></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">gfrog</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-03-04T08:43:44+08:00" pubdate data-updated="true">2008-03-04 08:43</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/linux/'>Linux</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://gfrog.net/2008/03/vmware6-installation-in-2-6-24-kernel/" data-via="gfrog" data-counturl="http://gfrog.net/2008/03/vmware6-installation-in-2-6-24-kernel/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2008/03/solution-of-system-time-changes-cause-sudo-error/" title="Previous Post: 修改系统时间引起sudo罢工的解决办法">&laquo; 修改系统时间引起sudo罢工的解决办法</a>
+      
+      
+        <a class="basic-alignment right" href="/2008/03/network-protocol-learning-notes-1-basic-knowledge-of-dns/" title="Next Post: 网络协议学习笔记（1） -- DNS基础知识">网络协议学习笔记（1） -- DNS基础知识 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/07/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/06/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/zhouqt">@zhouqt</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhouqt',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108736461751011849061?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - gfrog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'gfrog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://gfrog.net/2008/03/vmware6-installation-in-2-6-24-kernel/';
+        var disqus_url = 'http://gfrog.net/2008/03/vmware6-installation-in-2-6-24-kernel/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

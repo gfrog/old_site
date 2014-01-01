@@ -1,0 +1,539 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>My Life, My Love!</title>
+  <meta name="author" content="gfrog">
+
+  
+  <meta name="description" content="#GReader Interesting photos &ndash; 6 Jan 2011 &ndash; Flickr http://j.mp/eaHu4h 00:09:36, 2011-01-09
+#GReader Interesting photos &ndash; 7 Jan 2011 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://gfrog.net/page/82">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Life, My Love!" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Life, My Love!</a></h1>
+  
+    <h2>指点江山 激昂文字 修身隆德 自然自我</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:gfrog.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">首页</a></li>
+  <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+  <li><a href="/categories/linux">Linux</a></li>
+  <li><a href="/categories/picture">美丽图片</a></li>
+  <li><a href="/categories/twitter-backup">Tweets</a></li>
+  <li><a href="/blog/archives">全部日志</a></li>
+  <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2011/01/todays-tweets-2011-01-09/">Today&#8217;s Tweets 2011-01-09</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-01-09T09:00:00+08:00" pubdate data-updated="true">2011-01-09 09:00</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p><a href="http://search.twitter.com/search?q=%23GReader">#GReader</a> Interesting photos &ndash;  6 Jan 2011 &ndash; Flickr <a href="http://j.mp/eaHu4h">http://j.mp/eaHu4h</a> <a href="http://twitter.com/gfrog/statuses/23773323548696578">00:09:36, 2011-01-09</a></p></li>
+<li><p><a href="http://search.twitter.com/search?q=%23GReader">#GReader</a> Interesting photos &ndash;  7 Jan 2011 &ndash; Flickr <a href="http://j.mp/eGcffi">http://j.mp/eGcffi</a> <a href="http://twitter.com/gfrog/statuses/24014554451148800">16:08:10, 2011-01-09</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2011/01/in-reply-to-id-bug-of-twitter-digest-plugin/">修复twitter Digest插件的无法正确显示in-reply-to-id的bug</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-01-08T09:41:07+08:00" pubdate data-updated="true">2011-01-08 09:41</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>青蛙一直在用twitter digest插件来把tweets同步到wordpress上。今天检查同步过来的tweets的时候，青蛙发现所有回复其他人的推中，in reply to的链接都失效了，tweet id变成了科学计数法的形式。
+这个问题是由于twitter digest没有正确处理这么大的tweet id造成的，青蛙在网上搜了一下处理php大整数的方法[1]，发现只需要把这个整数sprintf成一个string就好了。
+具体的修改方法：</p>
+
+<pre><code>--- twitter-digest-old.php  2011-01-07 17:35:01.000000000 +0000
++++ twitter-digest.php     2011-01-07 17:16:34.000000000 +0000
+@@ -281,7 +281,7 @@
+    $output .= ws_make_clickable(wp_specialchars($tweet-&gt;text));
+    if (!empty($tweet-&gt;in_reply_to_screen_name)
+        &amp;&amp; (!empty($tweet-&gt;in_reply_to_status_id))) {
+-    $output .=         ' &lt;a href="'.ws_status_url($tweet-&gt;in_reply_to_screen_name, $tweet-&gt;in_reply_to_status_id).'"&gt;'.sprintf(__('in reply to %s', 'twitter-digest'), $tweet-&gt;in_reply_to_screen_name).'&lt;/a&gt;';
++    $output .=         ' &lt;a href="'.ws_status_url($tweet-&gt;in_reply_to_screen_name, sprintf('%1.0f', $tweet-&gt;in_reply_to_status_id)).'"&gt;'.sprintf(__('in reply to %s', 'twitter-digest'), $tweet-&gt;in_reply_to_screen_name).'&lt;/a&gt;';
+    }
+    // Show the date/time if the options are selected
+</code></pre>
+
+<p>参考资料：
+[1] PHP 大数自动转换为科学计数法的无耻问题 <a href="http://mifunny.info/big-number-convert-to-scientific-notation-of-php-341.html">http://mifunny.info/big-number-convert-to-scientific-notation-of-php-341.html</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2011/01/todays-tweets-2011-01-08/">Today&#8217;s Tweets 2011-01-08</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-01-08T09:00:00+08:00" pubdate data-updated="true">2011-01-08 09:00</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li>我了个去，wordpress里的twitter digest插件竟然把reply的推的ID用科学计数法表示了。这是神马诡异的bug！ <a href="http://twitter.com/gfrog/statuses/23430305834602496">01:26:34, 2011-01-08</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2011/01/todays-tweets-2011-01-07/">Today&#8217;s Tweets 2011-01-07</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-01-07T09:00:00+08:00" pubdate data-updated="true">2011-01-07 09:00</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p>RT <a href="http://twitter.com/bjxiaoc">@bjxiaoc</a>:[ROM更新]Vodafone Essar发布黑莓9700 OS6.0.0.380东亚语言正式版 本地下载稍后给出: 这可是惊天动地的好消息啊，黑莓9700的OS6.0正式版终于发布了，<a href="http://bit.ly/i3Wq8L">http://bit.ly/i3Wq8L</a> <a href="http://twitter.com/gfrog/statuses/23046394612817920">00:01:03, 2011-01-07</a></p></li>
+<li><p>爬床，睡。 <a href="http://twitter.com/gfrog/statuses/23054585941725184">00:33:36, 2011-01-07</a></p></li>
+<li><p>RT <a href="http://twitter.com/woojay33">@woojay33</a>: RT <a href="http://twitter.com/CorndogCN">@CorndogCN</a> 泪流满面，Picasa相册于今天开始支持Https，可以墙内直接访问了。<a href="https://picasaweb.google.com/home">https://picasaweb.google.com/home</a> <a href="http://twitter.com/gfrog/statuses/23182587702808576">09:02:14, 2011-01-07</a></p></li>
+<li><p>RT <a href="http://twitter.com/kDolphin">@kDolphin</a>: RT <a href="http://twitter.com/tinyfool">@tinyfool</a>: 当人们提供给你了一个不需要磁盘整理的操作系统Mac/Linux，你却总是去论坛跪求一个Mac或者Linux下的磁盘整理软件（还想要注册码）。我早说了，虽然是新生活，奈何你不断的走老路啊。（讽刺，举个牌子给看不懂的） <a href="http://twitter.com/gfrog/statuses/23185704511086592">09:14:37, 2011-01-07</a></p></li>
+<li><p>我擦，原来在公司里连mplayer都不能用，因为有版权问题。 呼唤赶快出一套Free的解码器包吧。 <a href="http://twitter.com/gfrog/statuses/23209858517958656">10:50:36, 2011-01-07</a></p></li>
+<li><p><a href="http://twitter.com/icyleaf">@icyleaf</a> 我的在Atlanta，难道带宽跟机房有关，要是这样，似乎该考虑迁移一下了。 in reply to icyleaf <a href="http://twitter.com/gfrog/statuses/23236098016677888">12:34:52, 2011-01-07</a></p></li>
+<li><p><a href="http://twitter.com/edijason">@edijason</a> 似乎解码器似乎有版权和专利问题，上午没搞清楚这个问题，在网上搜了一圈也未果。 in reply to edijason <a href="http://twitter.com/gfrog/statuses/23237426264678400">12:40:08, 2011-01-07</a></p></li>
+<li><p>RT <a href="http://twitter.com/quakelee">@quakelee</a>: RT <a href="http://twitter.com/lingyumeng">@lingyumeng</a>: 发改委成立至今只做过两件事：1.涨价，2.替涨价辩护！ <a href="http://twitter.com/gfrog/statuses/23240969595912192">12:54:13, 2011-01-07</a></p></li>
+<li><p>记下了，多谢。晚上回家就发ticket迁移去。 RT <a href="http://twitter.com/icyleaf">@icyleaf</a>: <a href="http://twitter.com/gfrog">@gfrog</a> 嗯，得看机房哪些里国内几个光缆出口近： San Jose 》 Fremont  》 Los Angles  》 Las Vegas  》 Dallas  》 Pennsylvania <a href="http://twitter.com/gfrog/statuses/23241144901046272">12:54:55, 2011-01-07</a></p></li>
+<li><p>可以超到这么高。。 电池呢，还能用多久？RT <a href="http://twitter.com/felixonmars">@felixonmars</a>: 超频我的g2到1.5g，目前感觉。。。。甚爽 <a href="http://twitter.com/gfrog/statuses/23287422049583104">15:58:48, 2011-01-07</a></p></li>
+<li><p>RT <a href="http://twitter.com/likuku">@likuku</a>: RT <a href="http://twitter.com/supermonkeyboy">@supermonkeyboy</a>: 好屌！！镜头放大镜点火评测！！！<a href="http://t.co/gDC6xQ4">http://t.co/gDC6xQ4</a> <a href="http://twitter.com/gfrog/statuses/23288755708239872">16:04:06, 2011-01-07</a></p></li>
+<li><p><a href="http://twitter.com/edijason">@edijason</a> 看之前debian-gb-list里的讨论，有人说mplayer里面很多代码是复制过来的，但是来源不明，不过这点没有讨论结果。。。 in reply to edijason <a href="http://twitter.com/gfrog/statuses/23291670065848320">16:15:41, 2011-01-07</a></p></li>
+<li><p>RT <a href="http://twitter.com/xie107">@xie107</a>: 过马路,朋友没注意红灯直往前走,我急道：灯！等灯等灯！他扭头：就你有intel i7！ <a href="http://twitter.com/gfrog/statuses/23300445715832832">16:50:33, 2011-01-07</a></p></li>
+<li><p>RT <a href="http://twitter.com/biantaishabi">@biantaishabi</a>: 英国的烟盒子上面印了很多恶心的照片，比如说死在腹中的胎儿，或者是得了癌症的肺。有一次一个同学在排队买烟，售货员给他一包烟，他很礼貌的把烟退回给了售货员，说：对不起啊，我不要这一包。他用手指着柜台上的另一包烟说：我要那个肺癌。。。 <a href="http://twitter.com/gfrog/statuses/23300498551476224">16:50:46, 2011-01-07</a></p></li>
+<li><p><a href="http://twitter.com/Greendamn">@Greendamn</a> intel广告的音乐。 in reply to Greendamn <a href="http://twitter.com/gfrog/statuses/23301814996705280">16:56:00, 2011-01-07</a></p></li>
+<li><p><a href="http://search.twitter.com/search?q=%23GReader">#GReader</a> Interesting photos &ndash;  5 Jan 2011 &ndash; Flickr <a href="http://j.mp/edsxWI">http://j.mp/edsxWI</a> <a href="http://twitter.com/gfrog/statuses/23388484551049216">22:40:23, 2011-01-07</a></p></li>
+<li><p>RT <a href="http://twitter.com/chnp101">@chnp101</a>: RT <a href="http://twitter.com/theodore666hu">@theodore666hu</a>: 辛苦的摄影师 <a href="http://img.ly/2Lw9">http://img.ly/2Lw9</a> <a href="http://twitter.com/gfrog/statuses/23390596190183424">22:48:47, 2011-01-07</a></p></li>
+<li><p><a href="http://search.twitter.com/search?q=%23GReader">#GReader</a> 玩家用物理学原理解析《愤怒的小鸟》得惊人结论 <a href="http://j.mp/dM1Wcc">http://j.mp/dM1Wcc</a> <a href="http://twitter.com/gfrog/statuses/23407592495648768">23:56:19, 2011-01-07</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2011/01/todays-tweets-2011-01-06/">Today&#8217;s Tweets 2011-01-06</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-01-06T09:00:00+08:00" pubdate data-updated="true">2011-01-06 09:00</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li>Reshared post from  江演媚</li>
+</ul>
+
+
+<p>介绍几个Android(安卓)VPN软件 &ndash; GFW BLOG <a href="http://twitter.com/gfrog/statuses/22688261247864832">00:34:35, 2011-01-06</a></p>
+
+<ul>
+<li><p>半夜三点，还在公司里受折磨。。。 <a href="http://twitter.com/gfrog/statuses/22733097585876993">03:16:07, 2011-01-06</a></p></li>
+<li><p>我擦啊，赶快跑完测试吧，我要睡觉。。。 <a href="http://twitter.com/gfrog/statuses/22733358672904193">03:17:09, 2011-01-06</a></p></li>
+<li><p><a href="http://search.twitter.com/search?q=%23GReader">#GReader</a> Interesting photos &ndash;  3 Jan 2011 &ndash; Flickr <a href="http://j.mp/gQD48R">http://j.mp/gQD48R</a> <a href="http://twitter.com/gfrog/statuses/22737607645470720">03:34:02, 2011-01-06</a></p></li>
+<li><p><a href="http://search.twitter.com/search?q=%23GReader">#GReader</a> 2011, 完全用 GNU/Linux 工作 <a href="http://j.mp/eyYwAW">http://j.mp/eyYwAW</a> <a href="http://twitter.com/gfrog/statuses/22750982299451392">04:49:23, 2011-01-06</a></p></li>
+<li><p>好神奇的景象。 键盘缝那么一点点。。。 RT <a href="http://twitter.com/htgyj">@htgyj</a>: 是我的手指头瘦了，还是键盘坏了，第二次了，在敲键盘的时候，手指头被键盘夹住了。0.0！~~ <a href="http://twitter.com/gfrog/statuses/22882311913607168">13:09:02, 2011-01-06</a></p></li>
+<li><p>桌子下面是垃圾桶啊，你想被保洁大妈拿走？ XD RT <a href="http://twitter.com/movingtea1982">@movingtea1982</a>: 保洁大妈来拿我脚下的垃圾桶，香水味差点把我熏到桌子下面去 <a href="http://twitter.com/gfrog/statuses/22917469022720000">15:28:45, 2011-01-06</a></p></li>
+<li><p>RT <a href="http://twitter.com/ifanr">@ifanr</a>: 愤怒的小鸟登陆桌面 Windows 平台！已经 Intel AppUp 应用商店上架了，针对 Windows Xp 以及 7，现售价 4.99 美元，准备好在大屏幕上殴打猪头吧！<a href="http://live.ifanr.com/1434">http://live.ifanr.com/1434</a> <a href="http://search.twitter.com/search?q=%23ifanrlive">#ifanrlive</a> <a href="http://twitter.com/gfrog/statuses/22938064967962624">16:50:35, 2011-01-06</a></p></li>
+<li><p><a href="http://search.twitter.com/search?q=%23GReader">#GReader</a> Interesting photos &ndash;  4 Jan 2011 &ndash; Flickr <a href="http://j.mp/fSoKiK">http://j.mp/fSoKiK</a> <a href="http://twitter.com/gfrog/statuses/22988220807516160">20:09:53, 2011-01-06</a></p></li>
+<li><p><a href="http://twitter.com/icyleaf">@icyleaf</a> 说明你的vps真不错，我在linode测试出站只有1M/s的带宽，很郁闷。 in reply to icyleaf <a href="http://twitter.com/gfrog/statuses/23042717583933441">23:46:26, 2011-01-06</a></p></li>
+<li><p>还是有点纠结24-105，这个头确实不值得纠结，但是俺的预算范围内，就这个头比较靠谱了，难道还要选17-40或者15-85么。。。 <a href="http://twitter.com/gfrog/statuses/23043467768758272">23:49:25, 2011-01-06</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2011/01/todays-tweets-2011-01-05/">Today&#8217;s Tweets 2011-01-05</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-01-05T09:00:00+08:00" pubdate data-updated="true">2011-01-05 09:00</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p>又趴在北京东站了。 (@ Beijing East Railway Station 北京东站) <a href="http://4sq.com/ijh80o">http://4sq.com/ijh80o</a> <a href="http://twitter.com/gfrog/statuses/22430003236966400">07:11:44, 2011-01-05</a></p></li>
+<li><p>RT <a href="http://twitter.com/yongsun">@yongsun</a>: RT <a href="http://twitter.com/harrygg">@harrygg</a>: 【武汉惊现代堵公司 专代人堵车驾车】急着赴约，却被堵在路上动弹不得。代堵公司派两人来到车旁，一个替车主继续开车挨堵，另一人骑摩托车护送车主迅速前往目的<a href="http://sinaurl.cn/hGtRuf">http://sinaurl.cn/hGtRuf</a> 楚天都市报 <a href="http://twitter.com/gfrog/statuses/22472258958139392">11:26:03, 2011-01-05</a></p></li>
+<li><p>oops，刚刚那段显示git branch的脚本证明未经严格测试的代码拿出来发布是一件多么愚蠢的事情。 <a href="http://twitter.com/gfrog/statuses/22536074240724992">14:13:13, 2011-01-05</a></p></li>
+<li><p>买个安卓手机绑手腕上。 RT <a href="http://twitter.com/_J_Smith">@_J_Smith</a>: ipad nano功能太少了,否则拿来做智能手表还是相当不错的,PS:球基于LINUX的智能手表 <a href="http://twitter.com/gfrog/statuses/22546176561647616">14:53:22, 2011-01-05</a></p></li>
+<li><p>RT <a href="http://twitter.com/luzhe315">@luzhe315</a>: 给自己个英文名，叫压力山大 <a href="http://twitter.com/gfrog/statuses/22553326356795392">15:36:54, 2011-01-05</a></p></li>
+<li><p>代码又有冲突了，我讨厌合并冲突！ <a href="http://twitter.com/gfrog/statuses/22571962282811392">16:35:49, 2011-01-05</a></p></li>
+<li><p>搞个kdiff3，我是工具党。 <a href="http://twitter.com/gfrog/statuses/22573659990261760">16:42:34, 2011-01-05</a></p></li>
+<li><p>额，如果去干专业对口的工作，恐怕我早就饿死了。 RT <a href="http://twitter.com/OMGrz">@OMGrz</a>: 唔～各位已经工作的推油，你们干的是本专业的工作吗？ <a href="http://twitter.com/gfrog/statuses/22585976693989376">17:31:31, 2011-01-05</a></p></li>
+<li><p>今天赶车很杯具，爬上13号线站台，刚好走了一辆。由此可见，10号线在知春路赶东直门方向13号线的要诀：站对门，跑的快，走左侧楼梯。 <a href="http://twitter.com/gfrog/statuses/22620057917984768">20:04:21, 2011-01-05</a></p></li>
+<li><p><a href="http://twitter.com/middlefeng">@middlefeng</a> 哦? 回去体验一下。 in reply to middlefeng <a href="http://twitter.com/gfrog/statuses/22650871737225216">21:49:23, 2011-01-05</a></p></li>
+<li><p>哇，猫会解屏幕锁嘛? RT <a href="http://twitter.com/movingtea1982">@movingtea1982</a>: 回家一看，早晨出门挂上的电驴里大部分任务都变成了&#8221;暂停&#8221;的状态，这两只猫又调皮了 <a href="http://twitter.com/gfrog/statuses/22651915355557888">21:53:32, 2011-01-05</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2011/01/todays-tweets-2011-01-04/">Today&#8217;s Tweets 2011-01-04</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-01-04T09:00:00+08:00" pubdate data-updated="true">2011-01-04 09:00</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ul>
+<li><p>今晚悲剧性的把一卷空白卷给洗了，折腾了一小时，结果只得到了一条塑料纸，我郁闷！ <a href="http://twitter.com/gfrog/statuses/21973279497519104">00:56:52, 2011-01-04</a></p></li>
+<li><p>RT <a href="http://twitter.com/JH_Gao">@JH_Gao</a> RT <a href="http://twitter.com/54chen">@54chen</a>: 元旦归来，RT 据说在每一个互联网公司里，都有一个扫地的老太太。很偶然地，当她经过一个程序员的身边，扫一眼屏幕上的代码，会低声提醒对方说：小心，栈溢出了。 <a href="http://twitter.com/gfrog/statuses/22098804572430336">09:15:40, 2011-01-04</a></p></li>
+<li><p><a href="http://search.twitter.com/search?q=%23GReader">#GReader</a> Interesting photos &ndash;  2 Jan 2011 &ndash; Flickr <a href="http://j.mp/fzoOIZ">http://j.mp/fzoOIZ</a> <a href="http://twitter.com/gfrog/statuses/22232333931249664">18:06:16, 2011-01-04</a></p></li>
+<li><p>RT <a href="http://twitter.com/wubuntust">@wubuntust</a>: RT <a href="http://twitter.com/_ym">@_ym</a>: 【火狐娘你赢了喵】火狐首次超越IE成为欧洲市场份额最大浏览器
+<a href="http://twitpic.com/3myrhf">http://twitpic.com/3myrhf</a>
+<a href="http://www.cnbeta.com/articles/131420.htm">http://www.cnbeta.com/articles/131420.htm</a> <a href="http://twitter.com/gfrog/statuses/22294234472124416">22:12:14, 2011-01-04</a></p></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="/page/83/">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="/page/81/">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/07/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/06/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/zhouqt">@zhouqt</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhouqt',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108736461751011849061?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - gfrog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'gfrog';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

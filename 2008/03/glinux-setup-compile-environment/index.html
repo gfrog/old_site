@@ -1,0 +1,321 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Glinux开发摘要(1)--编译环境制作 - My Life, My Love!</title>
+  <meta name="author" content="gfrog">
+
+  
+  <meta name="description" content="在uty同学的积极鼓励下，青蛙开始了glinux下一个版本的制作（关于glinux的历史，欢迎回顾青蛙从前的日志）。
+一开始，青蛙准备利用debian现成的编译环境，但是后来突然想自己构建一个工具链比较好。工具稳定下来，做出来的东西才比较有保障。于是，青蛙从新拾起lfs，开始第二轮lfs征程， &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://gfrog.net/2008/03/glinux-setup-compile-environment">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Life, My Love!" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Life, My Love!</a></h1>
+  
+    <h2>指点江山 激昂文字 修身隆德 自然自我</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:gfrog.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">首页</a></li>
+  <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+  <li><a href="/categories/linux">Linux</a></li>
+  <li><a href="/categories/picture">美丽图片</a></li>
+  <li><a href="/categories/twitter-backup">Tweets</a></li>
+  <li><a href="/blog/archives">全部日志</a></li>
+  <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Glinux开发摘要(1)--编译环境制作</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-03-17T03:16:47+08:00" pubdate data-updated="true">2008-03-17 03:16</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>在uty同学的积极鼓励下，青蛙开始了glinux下一个版本的制作（关于glinux的历史，欢迎回顾青蛙从前的日志）。
+一开始，青蛙准备利用debian现成的编译环境，但是后来突然想自己构建一个工具链比较好。工具稳定下来，做出来的东西才比较有保障。于是，青蛙从新拾起lfs，开始第二轮lfs征程，不过这次lfs只做三分之一，青蛙的目标就是：lfs6.3的Toolschain。
+具体操作过程没啥好说的，简单的step by step就好，但是在制作过程中，遇到了几个bug（可能也算不上bug，可能是青蛙系统的原因）。</p>
+
+<p>这第一个，就是在glibc-2.5.1这步，会遇到下面这个错误：</p>
+
+<blockquote><p>mawk: scripts/gen-sorted.awk: line 19: regular expression compile failed (bad class &mdash; [], [^] or [)
+/[^
+mawk: scripts/gen-sorted.awk: line 19: syntax error at or near ]
+mawk: scripts/gen-sorted.awk: line 19: runaway regular expression /, &ldquo;&rdquo;, subd &hellip;</p></blockquote>
+
+<p>再往上翻还有这么一句：</p>
+
+<blockquote><p>mawk: scripts/gen-sorted.awk: line 19: syntax error at or near ]</p></blockquote>
+
+<p>拿google一划拉，发现这个错误是因为青蛙系统上用了mawk的问题，据说换用gawk可以解决。
+在babble.com上面<a href="http://www.nabble.com/small-fix-for-crosstool-with-glibc-2.7-td13448350.html">有人给出了一个patch</a>，很简单，给三个地方加个“”就ok了。但是这个patch是给glibc2.7用的，在lfs6.3里带的glibc2.5.1里面没法直接用。青蛙按图索骥，改了这个gen-sorted.awk，就没有上头那些错误了。
+虽说一个补丁可以解决这个问题，但是<a href="http://www.linuxquestions.org/questions/showthread.php?p=2969014#post2969014">有前辈告诉我们</a>，lfs里面的用的都是awk的脚本，如果用mawk很有可能不会有正确的结果，所以建议大家还是安装gawk的好。
+gawk源码<a href="http://ftp.gnu.org/pub/gnu/gawk/">在这里下载</a>，debian系的系统只需要aptitude install gawk就好了。其他发行版要注意检查/etc/alternatives/awk是不是正确指向了gawk。</p>
+
+<p>（顺路说一句，cpu在卖力的cc的时候正好可以过来写blog，真是很不错，可以随时把过程记录下来 :p）</p>
+
+<p>第二个错误是在glibc2.5.1的make check过程中：</p>
+
+<blockquote><p>/tools/bin/ld: cannot find -lstdc++
+collect2: ld returned 1 exit status
+make[2]: <strong><em> [/mnt/lfs/sources/glibc-build/nptl/tst-cancel24] Error 1
+make[2]: Target <code>tests' not remade because of errors.
+make[1]: *** [nptl/tests] Error 2
+make[1]: Target</code>check&#8217; not remade because of errors.
+make: </em></strong> [check] Error 2</p></blockquote>
+
+<p>青蛙没有找到这个错误的原因，大概就像lfs文档里说的，第一次编译lfs跟宿主系统依赖关系太大的原因造成的。</p>
+
+<p>第三个错误发生在bash3.2的make过程中，它会提示没有找到yacc这个程序，解决方法很简单，通过apt装上就好了。</p>
+
+<p>到这里，工具链的制作就完成了，下一步就可以制作系统的目录结构并编译内核了。</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">gfrog</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-03-17T03:16:47+08:00" pubdate data-updated="true">2008-03-17 03:16</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/linux/'>Linux</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://gfrog.net/2008/03/glinux-setup-compile-environment/" data-via="gfrog" data-counturl="http://gfrog.net/2008/03/glinux-setup-compile-environment/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2008/03/network-protocol-learning-notes-1-basic-knowledge-of-dns/" title="Previous Post: 网络协议学习笔记（1） -- DNS基础知识">&laquo; 网络协议学习笔记（1） -- DNS基础知识</a>
+      
+      
+        <a class="basic-alignment right" href="/2008/03/glinux-setup-build-directory/" title="Next Post: glinux开发摘要(2)-构建目录结构">glinux开发摘要(2)-构建目录结构 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/07/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/06/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/zhouqt">@zhouqt</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhouqt',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108736461751011849061?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - gfrog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'gfrog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://gfrog.net/2008/03/glinux-setup-compile-environment/';
+        var disqus_url = 'http://gfrog.net/2008/03/glinux-setup-compile-environment/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

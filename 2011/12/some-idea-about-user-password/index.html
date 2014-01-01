@@ -1,0 +1,339 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>吐槽：关于用户口令 - My Life, My Love!</title>
+  <meta name="author" content="gfrog">
+
+  
+  <meta name="description" content="CSDN的密码泄漏事件被爆出之后，在Twitter和Weibo上引起了广泛的反响，很多人质疑国内网站的安全管理工作，竟然敢直接用明文保存密码。有一点常识的Web应用开发人员都应该知道直接在数据库里明文形式的密码是相当不安全的。但是为什么还有那么多人仍然这样做呢？他们出于什么目的呢？引人深思呀。 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://gfrog.net/2011/12/some-idea-about-user-password">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Life, My Love!" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Life, My Love!</a></h1>
+  
+    <h2>指点江山 激昂文字 修身隆德 自然自我</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:gfrog.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">首页</a></li>
+  <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+  <li><a href="/categories/linux">Linux</a></li>
+  <li><a href="/categories/picture">美丽图片</a></li>
+  <li><a href="/categories/twitter-backup">Tweets</a></li>
+  <li><a href="/blog/archives">全部日志</a></li>
+  <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">吐槽：关于用户口令</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-12-22T07:40:00+08:00" pubdate data-updated="true">2011-12-22 07:40</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>CSDN的密码泄漏事件被爆出之后，在Twitter和Weibo上引起了广泛的反响，很多人质疑国内网站的安全管理工作，竟然敢直接用明文保存密码。有一点常识的Web应用开发人员都应该知道直接在数据库里明文形式的密码是相当不安全的。但是为什么还有那么多人仍然这样做呢？他们出于什么目的呢？引人深思呀。</p>
+
+<p>一个网站到底应该怎么保存用户的密码才安全呢？又怎么应该设计登录流程呢？ 酷壳上有两篇文章介绍的不错：<a href="http://coolshell.cn/articles/5353.html">你会做Web上的用户登录功能吗？</a> 和 <a href="http://coolshell.cn/articles/6043.html">Web开发中需要了解的东西</a>。</p>
+
+<p>青蛙除了大学的时候搞的那个神马选课系统，基本就没有做过Web应用，就从一个Web用户的角度唠叨几句算了。</p>
+
+<p>首先，是我们到底需要多少个密码？ 只有一个显然不行，如果使用这个密码的网站有一个不靠谱，把用户密码给泄漏了（被黑了也好，被无良网站卖了也好，当然在天朝还有另外一种可能：被政府收缴），所有的网站都必须重设密码。那每个网站都设置一个密码呢，现在是个网站都要登录，谁能记得住那么多密码呀。</p>
+
+<p>为了防止密码忘掉，大体上有两种思路：</p>
+
+<ul>
+<li><p>密码管理器
+这种方法比较简单，实际就是保存一个密码。本因为浏览器就内置了记住密码的功能，把用户从繁重的记忆密码的任务中解脱出来。但是浏览器的密码记忆方式功能单一，而且跟浏览器绑定，换一个浏览器就完蛋了。还有系统自带的密码管理工具，例如KDE的KWallet之类的都会有这种问题，跟某个环境绑定，移动性不高。青蛙目前也没有好的实践经验，可以想到的方法就是加密KWallet之后放在Dropbox上，这样多台电脑之间的密码同步可以解决，但是仍然没有解决跨平台的问题。可能这个问题需要借助移动设备来完成，例如Android上的密码管理应用。</p></li>
+<li><p>基础密码+网站特征的组合规则
+密码管理器的实际上是有安全隐患的，因为密码都保存在电脑上，攻击者可以获取这些密码文件然后尝试暴力破解（密码管理器仍然需要主密码的）。所以另外一种被广泛推崇的方法就是一个基础密码加上针对特定网站的特征字串组合。这样可以方便大脑直接记忆。酷壳也有一篇文章介绍这种方法： <a href="http://coolshell.cn/articles/2428.html">如何管理并设计你的口令</a>，但是青蛙有一些其他的想法。这篇文章里提供的针对每个网站做变化的方法看似简单实用，实际上有大问题：很容易被人看出基础密码和变化规则，因为攻击者拿到密码的时候一般都会知道这是个什么网站，网址是神马，然后跟密码一对照，原来只是加上了前后缀，照此规则，其他网站的密码就完全可以推测出来了。所以这个变化规则应该有三个要求：容易计算（考虑下人类大脑的计算速度）、不太明显（不容易被看穿把戏）、但是还要足够复杂（增加被猜出来的难度）。有了这三项要求，寻找一个规则就不太简单了。青蛙在这举个例子：</p></li>
+<li><p>首先根据顶级域名分类，获得数字A，例如com是1，net是2，cn是3，其他的就是4，分类随你</p></li>
+<li><p>数出站点字母个数，获得数字B，例如gfrog.net，域名主题有5个字母</p></li>
+<li><p>取站点的首位字母，获得第三位、第四位密码，例如gfrog.net，首尾字母是g和g</p></li>
+<li><p>这步可选，为了不让获得密码明文的攻击者一眼看出破绽，把第三步取到的字母做个变换，这个变换可以固定的，例如直接前移后移几个字母，或者直接转换成ASCII码，</p></li>
+<li><p>然后把上一步取到的两位密码插入到基础密码里的第A个位置和第B个位置上，获得的密码就是这个网站的密码了。</p></li>
+</ul>
+
+
+<p>这个方法只是青蛙随便想到的一个例子，不要拿去直接用哦，这种依赖算法的加密规则说出算法就不好玩了。找一种容易使用，算出结果又不太明显的算法来组合你的密码吧。</p>
+
+<p>另外在酷壳的<a href="http://coolshell.cn/articles/2428.html">如何管理并设计你的口令</a>这篇文章里也提到了密码分级的问题，看来大家都意识到一套基础密码仍旧不安全，XD</p>
+
+<p>密码分级，青蛙觉得至少要分成5套，重要性依次递减：</p>
+
+<ul>
+<li><p>与钱有关：涉及真金白银啊，一定要强密码</p></li>
+<li><p>重要个人信息网站：gmail、SNS网站，MSN等等，这些网站往往都保存着重要的个人信息资料，所以保障帐号安全很重要。</p></li>
+<li><p>国产邮件服务提供商、SNS等等，虽然个人信息同样重要，但是国内网站往往都会屈服于某种无形的压力，你懂得，所以单独列出。当然，在国内网站上提供个人信息同样要注意，完全没有安全性可言。</p></li>
+<li><p>一般网站，一个普通密码足矣</p></li>
+<li><p>怀疑没有完善密码保存流程的网站，对于这种网站最好的处理方法就是不用丫的，如果没法避免，最低安全级的密码处理就好，因为密码难免会暴露在别人眼前。</p></li>
+</ul>
+
+
+<p>哦，说了半天基础密码，生成基础密码的方式也有很多的，青蛙推荐一下apg这个包，各大发行版都提供，它可以生成指定长度的一组密码，例如：</p>
+
+<blockquote><p>$ apg
+Please enter some random data (only first 8 are significant)
+(eg. your old password):>
+IflicCydrum3 (I-flic-Cy-drum-THREE)
+ChagNeg4 (Chag-Neg-FOUR)
+geHebreil2 (ge-Hebr-eil-TWO)
+luj2TanRysp (luj-TWO-Tan-Rysp)
+Ash3Twoij (Ash-THREE-Twoij)
+JaHyxlyetag4 (Ja-Hyx-lyet-ag-FOUR)</p></blockquote>
+
+<p>最后，如果你下载了csdn那一大坨密码文件，这个脚本可以帮你分析各种弱密码的使用频率，结果很欢乐的哦。
+（此脚本引用自 <a href="https://twitter.com/#!/hmsea">waterye@Twitter</a>）：</p>
+
+<p>$ awk -F# &lsquo;{a[$2]++}END{for(i in a){print a[i] &ldquo;:&rdquo; i }}&rsquo; www.csdn.net.sql | sort -rn > a.log</p>
+
+<p>好了，吐槽完成，青蛙也该去整理下密码去了。</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">gfrog</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-12-22T07:40:00+08:00" pubdate data-updated="true">2011-12-22 07:40</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/gfrog-say/'>青蛙的杂烩</a>, <a class='category' href='/categories/it-express/'>IT特快</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://gfrog.net/2011/12/some-idea-about-user-password/" data-via="gfrog" data-counturl="http://gfrog.net/2011/12/some-idea-about-user-password/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2011/12/todays-tweets-2011-12-21/" title="Previous Post: Today's tweets 2011-12-21">&laquo; Today's tweets 2011-12-21</a>
+      
+      
+        <a class="basic-alignment right" href="/2011/12/todays-tweets-2011-12-22/" title="Next Post: Today's tweets 2011-12-22">Today's tweets 2011-12-22 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/07/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/06/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/zhouqt">@zhouqt</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhouqt',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108736461751011849061?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - gfrog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'gfrog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://gfrog.net/2011/12/some-idea-about-user-password/';
+        var disqus_url = 'http://gfrog.net/2011/12/some-idea-about-user-password/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

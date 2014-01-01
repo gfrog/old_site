@@ -1,0 +1,371 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Wordpress转换到Octopress - My Life, My Love!</title>
+  <meta name="author" content="gfrog">
+
+  
+  <meta name="description" content="今天青蛙下定决心干掉Wordpress了，不为别的，就因为
+在大天朝访问Openshift不靠谱的连接状态。 把Wordpress转换到Octopress这件事，对于天天泡在github
+上的青蛙来说，实在是简单到爆了。github账户有了，ruby
+运行环境有了，只要简单几步就够了： 按照 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://gfrog.net/2013/03/convert-wordpress-to-octopress">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Life, My Love!" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Life, My Love!</a></h1>
+  
+    <h2>指点江山 激昂文字 修身隆德 自然自我</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:gfrog.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">首页</a></li>
+  <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+  <li><a href="/categories/linux">Linux</a></li>
+  <li><a href="/categories/picture">美丽图片</a></li>
+  <li><a href="/categories/twitter-backup">Tweets</a></li>
+  <li><a href="/blog/archives">全部日志</a></li>
+  <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Wordpress转换到Octopress</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-08T21:11:00+08:00" pubdate data-updated="true">2013-03-08 21:11</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>今天青蛙下定决心干掉Wordpress了，不为别的，就因为
+在大天朝访问Openshift不靠谱的连接状态。</p>
+
+<p>把Wordpress转换到Octopress这件事，对于天天泡在github
+上的青蛙来说，实在是简单到爆了。github账户有了，ruby
+运行环境有了，只要简单几步就够了：</p>
+
+<ol>
+<li>按照 <a href="http://octopress.org/docs/setup/">http://octopress.org/docs/setup/</a>
+git clone回octopress代码，安装bundler，安装默认主题。</li>
+<li>按照 <a href="http://octopress.org/docs/deploying/github/">http://octopress.org/docs/deploying/github/</a>
+在github上新建一个repo，名字取为&#8221;your_github_id.github.com&#8221;，在Octopress的目录中执行
+<code>rake setup_github_pages</code>， 在提示符中填入这个新建的repo的git地址。</li>
+<li><p>然后
+    rake generate
+    rake deploy</p></li>
+<li><p>用浏览器访问&#8221;<a href="http://your_github_id.github.com">http://your_github_id.github.com</a>&#8220;，应该就能看到Octopress的页面了。</p></li>
+<li><p>记得要把源码（包括blog的markdown文件）提交到git repo里： 包括blog的markdown文件
+    git add .
+    git commit -m &lsquo;your message&rsquo;
+    git push origin source</p>
+
+<p>之后每次写完新post都需要做这个操作，以便保留原始文档方便日后编辑。</p></li>
+<li><p>编辑_config.yml文件，修改blog的title、author、email等等信息。
+<a href="http://octopress.org/docs/configuring/">http://octopress.org/docs/configuring/</a></p></li>
+<li>Octopress 配置好之后就是把Wordpress迁移过来了，青蛙找到了一个exitwp的工具：
+<a href="https://github.com/thomasf/exitwp">https://github.com/thomasf/exitwp</a>
+按照exitwp的README安装好之后，从wordpress导出xml格式的文章备份，首先用xmllint检查
+一下这个xml文档是不是有语法错误，特别是特殊字符之类。因为exitwp用了python的xml module，
+这个模块对某些错误极度敏感，所以要修正xmllint报出的所有错误才行。</li>
+<li>把这个xml扔进exitwp里面的wordpress-xml目录，执行exitwp，所有的wp post就会被转换成
+一个个markdown文件了。
+把这些markdown复制到octopress目录里的source/_posts下面，然后运行
+<code>rake generate &amp;&amp; rake deploy</code> 就可以把Wordpress的post内容都迁移到Octopress上了。</li>
+<li>最后记得把这些markdown都扔进source branch里。</li>
+</ol>
+
+
+<p>目前青蛙还没解决的几个问题：</p>
+
+<ol>
+<li>Category的英文名字似乎没法编辑，青蛙还没找到相关的文档。</li>
+<li>Draft和private状态的文档还不清楚怎么转换。</li>
+<li>当post很多时（>1000），<code>rake generate</code>需要运行相当长的时间，青蛙每次执行这个命令都需要2分钟+。</li>
+</ol>
+
+
+<p><strong>Update 2013-03-16:</strong></p>
+
+<p>Category的问题据说在Octopress2.1里面被解决了。</p>
+
+<p>青蛙从2.1的branch上backport了一个patch到master，终于解决了中文category名字的问题。
+patch在：
+<a href="https://github.com/gfrog/gfrog.github.com/commit/60212ee17766e8ba84f81cfdc3f36ef992ae6fb1">https://github.com/gfrog/gfrog.github.com/commit/60212ee17766e8ba84f81cfdc3f36ef992ae6fb1</a>
+没有经过完整测试，不过目前使用状况良好。</p>
+
+<p>目前Category的写法为 <code>- Category link[Category Name]</code>，从而完美搞定中文分类名的问题。</p>
+
+<p><strong>Update 2013-04-03:</strong></p>
+
+<p>补充一些Octopress用法的问题：</p>
+
+<ol>
+<li>新建post： <code>rake new_post["Post标题"]</code>，
+不过permalink似乎比较难修改，在markdown里写slug似乎无效，只能修改markdown文件名。</li>
+<li>codeblock 的用法： <a href="http://octopress.org/docs/plugins/codeblock/">http://octopress.org/docs/plugins/codeblock/</a></li>
+<li>修改header menu： 编辑 source/_includes/custom/navigation.html</li>
+<li>添加Header image： 编辑 sass/custom/_styles.scss，加入：</li>
+</ol>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'>    <span class="nt">header</span><span class="o">[</span><span class="nt">role</span><span class="o">=</span><span class="s2">&quot;banner&quot;</span><span class="o">]</span> <span class="p">{</span>
+</span><span class='line'>         <span class="k">background-image</span><span class="o">:</span> <span class="sx">url(/images/header_bg.png)</span><span class="p">;</span>
+</span><span class='line'>         <span class="k">background-repeat</span><span class="o">:</span> <span class="k">no-repeat</span><span class="p">;</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">gfrog</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-03-08T21:11:00+08:00" pubdate data-updated="true">2013-03-08 21:11</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/gfrog-say/'>青蛙的杂烩</a>, <a class='category' href='/categories/site-maint/'>建站相关</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://gfrog.net/2013/03/convert-wordpress-to-octopress/" data-via="gfrog" data-counturl="http://gfrog.net/2013/03/convert-wordpress-to-octopress/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2013/03/pics-of-flowers-in-office/" title="Previous Post: 办公室的花">&laquo; 办公室的花</a>
+      
+      
+        <a class="basic-alignment right" href="/2013/03/riding-dongfanghong-20130323/" title="Next Post: 东方红朝圣-20130323">东方红朝圣-20130323 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/07/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/06/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/zhouqt">@zhouqt</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhouqt',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108736461751011849061?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - gfrog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'gfrog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://gfrog.net/2013/03/convert-wordpress-to-octopress/';
+        var disqus_url = 'http://gfrog.net/2013/03/convert-wordpress-to-octopress/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

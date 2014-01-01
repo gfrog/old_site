@@ -1,0 +1,356 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>我们来打洞：转发DNS包 - My Life, My Love!</title>
+  <meta name="author" content="gfrog">
+
+  
+  <meta name="description" content="基于某些众所周知的原因，在天朝上网非常需要勇气和技术。
+今天在跟某人聊天时了解到Chrome竟然没办法使用proxy进行DNS查询， 导致DNS查询结果持续被污染。
+虽然用proxychains能把一切流量塞进代理里面，
+不过用proxychains启动浏览器的话，各种自动代理插件就失效了， &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://gfrog.net/2013/01/foward-dns-packet-with-tunnel">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Life, My Love!" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Life, My Love!</a></h1>
+  
+    <h2>指点江山 激昂文字 修身隆德 自然自我</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:gfrog.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">首页</a></li>
+  <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+  <li><a href="/categories/linux">Linux</a></li>
+  <li><a href="/categories/picture">美丽图片</a></li>
+  <li><a href="/categories/twitter-backup">Tweets</a></li>
+  <li><a href="/blog/archives">全部日志</a></li>
+  <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">我们来打洞：转发DNS包</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-01-07T06:22:44+08:00" pubdate data-updated="true">2013-01-07 06:22</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>基于某些众所周知的原因，在天朝上网非常需要勇气和技术。
+今天在跟某人聊天时了解到Chrome竟然没办法使用proxy进行DNS查询<1>， 导致DNS查询结果持续被污染。
+虽然用proxychains能把一切流量塞进代理里面，
+不过用proxychains启动浏览器的话，各种自动代理插件就失效了，所以这是个得不偿失的方法。
+青蛙晚上的时候突然想到iptables是不是可以把DNS查询流量转发进ssh tunnel呢？
+上网google一番之后，发现这是可行的，而且其实用不到iptables，只要nc就够了。</p>
+
+<p>要用SSH Tunnel转发DNS流量，最大的问题是要把DNS协议使用的UDP协议转换为TCP协议，然后在proxy端还要转换回来。
+所以目前青蛙想到的方案有一个很大的缺陷，就是如果ssh服务器上不提供nc命令的话，下面的操作是没法完成的。</p>
+
+<p>首先，用SSH连接ssh服务器，这里青蛙打了一套组合拳，ssh -L + -D组合，分别负责DNS流量和普通数据流量：</p>
+
+<pre><code>ssh -D1080 -L5353:127.0.0.1:5353 user@ssh-server
+</code></pre>
+
+<p>-L 参数的目的是在本地机器上打开一个5353端口，发送到这个端口的数据都会被转发到ssh服务器上的5353端口上。</p>
+
+<p>然后，在ssh服务器上执行：</p>
+
+<pre><code>server$ mkfifo /tmp/fifo
+server$ nc -l -p 5353 &lt; /tmp/fifo | nc -u 8.8.8.8 53 &gt; /tmp/fifo
+</code></pre>
+
+<p>这两条命令用普通用户就可以执行，在大部分ssh服务器上应该都可以用。
+另外<2>中还提供了一个socat版本，这个东东可以省去创建fifo管道的步骤，
+看起来比较简洁，但是做的事情跟nc是一样的：
+把ssh服务器上TCP5353端口收到的包转发到8.8.8.8的UDP53端口上去。</p>
+
+<pre><code>socat tcp4-listen:5353,reuseaddr,fork UDP:8.8.8.8:53
+</code></pre>
+
+<p>接下来在本地机器上执行：</p>
+
+<pre><code>local# mkfifo /tmp/fifo
+local# sudo nc -l -u -p 53 &lt; /tmp/fifo | nc localhost 5353 &gt; /tmp/fifo
+</code></pre>
+
+<p>在本地UDP53端口上监听，一旦有数据包，就转发到本地的TCP5353端口上去。</p>
+
+<p>socat版本：</p>
+
+<pre><code>socat udp4-listen:53,reuseaddr,fork tcp:localhost:5353
+</code></pre>
+
+<p>好了，到此打洞的部分完成，最后的包转发流程应该是：</p>
+
+<pre><code>localhost:UDP53 -&gt; localhost:TCP5353 -&gt; ssh-server:TCP5353 -&gt; 8.8.8.8:UDP53
+</code></pre>
+
+<p>主要就是使用nc/socat把UDP和TCP流量进行转换，以便可以把他们扔进SSH Tunnel里。</p>
+
+<p>然后，修改/etc/resolv.conf：</p>
+
+<pre><code>nameserver 127.0.0.1
+</code></pre>
+
+<p>这样再用Chrome浏览器就应该没有该死的DNS污染问题了。</p>
+
+<p>这个解法不算太好，因为需要在Server端执行命令，如果是一些不给pty的host，就没办法用这个方法了。
+可能比较好的方案还是透明代理之类的。</p>
+
+<p>参考资料：</p>
+
+<p><1>. Issue 29914: DNS queries not forwarded through SOCKS v5 proxies</p>
+
+<p> <a href="https://code.google.com/p/chromium/issues/detail?id=29914">https://code.google.com/p/chromium/issues/detail?id=29914</a></p>
+
+<p><2>. UDP traffic through SSH tunnel</p>
+
+<p> <a href="http://superuser.com/questions/53103/udp-traffic-through-ssh-tunnel">http://superuser.com/questions/53103/udp-traffic-through-ssh-tunnel</a></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">gfrog</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-01-07T06:22:44+08:00" pubdate data-updated="true">2013-01-07 06:22</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/linux/'>Linux</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://gfrog.net/2013/01/foward-dns-packet-with-tunnel/" data-via="gfrog" data-counturl="http://gfrog.net/2013/01/foward-dns-packet-with-tunnel/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2013/01/fix-some-device-in-first-day-of-2013/" title="Previous Post: 新年第一天，折腾一下各种装备">&laquo; 新年第一天，折腾一下各种装备</a>
+      
+      
+        <a class="basic-alignment right" href="/2013/03/pics-of-flowers-in-office/" title="Next Post: 办公室的花">办公室的花 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/07/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/06/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/zhouqt">@zhouqt</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhouqt',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108736461751011849061?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - gfrog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'gfrog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://gfrog.net/2013/01/foward-dns-packet-with-tunnel/';
+        var disqus_url = 'http://gfrog.net/2013/01/foward-dns-packet-with-tunnel/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

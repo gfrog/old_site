@@ -1,0 +1,355 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>How Do I Configure Scalable Multicasting on Helix Server - My Life, My Love!</title>
+  <meta name="author" content="gfrog">
+
+  
+  <meta name="description" content="原文地址在
+这里
+我把它翻译成了中文,方便查看。 Helix Server可以通过web方式的管理工具配置为使用可扩展多播，这篇文档只关注可扩展多播功能的配置。
+关于Helix Server功能的完整细节可以在管理向导中找到。
+Helix Server 管理向导：（第8章 多播）
+http:// &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://gfrog.net/2008/01/how-to-configure-scalable-multicasting-on-helix-server">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Life, My Love!" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Life, My Love!</a></h1>
+  
+    <h2>指点江山 激昂文字 修身隆德 自然自我</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:gfrog.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">首页</a></li>
+  <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+  <li><a href="/categories/linux">Linux</a></li>
+  <li><a href="/categories/picture">美丽图片</a></li>
+  <li><a href="/categories/twitter-backup">Tweets</a></li>
+  <li><a href="/blog/archives">全部日志</a></li>
+  <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">How Do I Configure Scalable Multicasting on Helix Server</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-01-11T05:57:39+08:00" pubdate data-updated="true">2008-01-11 05:57</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><em>原文地址在
+<a href="http://na3.salesforce.com/_ui/selfservice/pkb/PublicKnowledgeSolution/d?orgId=00D500000007Hzn&amp;id=501500000007taI&amp;retURL=%2Fsol%2Fpublic%2Fsolutionbrowser.jsp%3Fsearch%3Dmulticast%26cid%3D02n500000008z1P%26orgId%3D00D500000007Hzn%26t%3D4&amp;ps=1">这里</a>
+我把它翻译成了中文,方便查看。</em></p>
+
+<hr />
+
+<p>Helix Server可以通过web方式的管理工具配置为使用可扩展多播，这篇文档只关注可扩展多播功能的配置。
+关于Helix Server功能的完整细节可以在管理向导中找到。
+Helix Server 管理向导：（第8章 多播）
+<a href="http://www.realnetworks.com/support/docs.html">http://www.realnetworks.com/support/docs.html</a></p>
+
+<p>1.打开Helix Server的web管理界面。</p>
+
+<ol>
+<li><p>点击广播分发，可扩展多播。</p></li>
+<li><p>默认的加载点是/scalable/。RealNetworks建议你使用这个默认值，但是你可以随意更改它。</p></li>
+<li><p>要建立一个新的频道，点击“+”图标，然后在“编辑频道描述”文本框中为这个多播连接输入一个名称。</p></li>
+<li><p>在“启用频道”下拉框中选择“是”来启用可扩展多播。</p></li>
+</ol>
+
+
+<p>6.在“启用SAP”下拉框中选择&#8221;是&#8221;来发布这个多播连接。</p>
+
+<ol>
+<li><p>在“路径”文本框，添加要被广播发布的流名称。如果要使用所有的广播流，那么就保留默认的星号（*）。</p></li>
+<li><p>下一步，定义可扩展多播使用的端口号和地址。</p></li>
+<li><p>在“端口范围”文本框，输入要使用的端口号。
+（青蛙注：这个端口号有一个变态的要求，就是要以偶数端口开始，并且范围中要包含偶数个端口，例如5000-5003。）</p></li>
+<li><p>在“IP地址范围”中，输入要使用的地址。
+Helix Server使用这个地址范围中第一个可用的地址。
+如果使用一个单独的地址而不是一个地址范围，在这两个文本框中输入一样的地址。</p></li>
+<li><p>在“生存时间”文本框中，指出多播包可以在你的网络中传送多远。
+（注：原文就这么写的，TTL每过一个路由器减1，减到0这个包就被丢弃。）</p></li>
+<li><p>输入一个超时时间，这个时间表示一个客户端停止等待多播包或者使用交替URL之前所经过的时间（秒）。</p></li>
+<li><p>在“重新使用地址”中，如果你想给在一个视频中的每个流都使用一个单独的地址，那么就选“否”。
+如果你想在两个流中都使用一个地址，那选择“是”。</p></li>
+<li><p>下一个选项是选择是否将收不到多播包的播放器转换为单播。这个功能只在使用RealNetworks的播放器时才有效。</p></li>
+<li><p>在“转换为单播”列表框中，如果你不想让客户端转换成单播，那么就选择“否”。
+当播放一个高码率的节目时应该选择“否”，因为大量的单播流会消耗太多的带宽。如果你选择了“否”，可以忽略下一个文本框。</p></li>
+<li><p>要在同一个Helix Server中使备份的单播有效，保持“交替的单播地址”文本框是空的。
+如果你想将单播转换到另外一个Helix Server上，需要填上那个服务器的地址和路径。下面就是一个例子：</p></li>
+</ol>
+
+
+<p>rtsp://helixserver.example2.com/broadcast/vivaldi.rm</p>
+
+<p>如果你不想把播放器转向到一个交替流，也可以把他们指向一个web页面来输出信息，
+像“这个节目只对支持单播的RealPlayer有效。
+”在“交替的单播地址”文本框中，输入你的web页的URL，像下面这种：</p>
+
+<p><a href="http://www.example.com/no_multicast.html">http://www.example.com/no_multicast.html</a></p>
+
+<ol>
+<li><p>（可选）下一个选项是控制是否要把客户端的统计信息记录到Helix Server、Web服务器或者不记录。</p></li>
+<li><p>点击应用。</p></li>
+</ol>
+
+
+<p>Helix Server就被配置为使用可扩展多播了。</p>
+
+<p>可扩展多播的连接有如下形式：</p>
+
+<p><a href="http://address:port/mount_point/path/file.rm.sdp">http://address:port/mount_point/path/file.rm.sdp</a></p>
+
+<p> &mdash;&mdash;&mdash;传说中的分割线&mdash;&mdash;&mdash;</p>
+
+<p>这两天yupoo不知道在倒腾啥,没法传图片.青蛙只好把没图的文章发出来了.等yupoo好了再传图吧。</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">gfrog</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-01-11T05:57:39+08:00" pubdate data-updated="true">2008-01-11 05:57</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/linux/'>Linux</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://gfrog.net/2008/01/how-to-configure-scalable-multicasting-on-helix-server/" data-via="gfrog" data-counturl="http://gfrog.net/2008/01/how-to-configure-scalable-multicasting-on-helix-server/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2008/01/feedsky-verify-code/" title="Previous Post: feedsky验证码">&laquo; feedsky验证码</a>
+      
+      
+        <a class="basic-alignment right" href="/2008/01/new-method-of-calculating-daily-wage-and-hourly-wage/" title="Next Post: 新的日工资和小时工资的计算方法">新的日工资和小时工资的计算方法 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/07/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/06/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/zhouqt">@zhouqt</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhouqt',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108736461751011849061?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - gfrog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'gfrog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://gfrog.net/2008/01/how-to-configure-scalable-multicasting-on-helix-server/';
+        var disqus_url = 'http://gfrog.net/2008/01/how-to-configure-scalable-multicasting-on-helix-server/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

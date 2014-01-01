@@ -1,0 +1,345 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>关于FreeBSD系统安装和升级的几个技巧 - My Life, My Love!</title>
+  <meta name="author" content="gfrog">
+
+  
+  <meta name="description" content="青蛙今天又开始在VMWare上继续倒腾FreeBSD，话说上次给FreeBSD划分的虚拟硬盘太小了，csup了一下系统和ports就把分区吃光光了。所以今天青蛙从头又装了一遍FreeBSD，在安装和升级的过程中遇到了不少问题，在这里统一做一个记录。 首先，是青蛙又把root密码搞丢了。 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://gfrog.net/2008/12/tips-about-freebsd-installation-and-upgrade">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Life, My Love!" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Life, My Love!</a></h1>
+  
+    <h2>指点江山 激昂文字 修身隆德 自然自我</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:gfrog.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">首页</a></li>
+  <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+  <li><a href="/categories/linux">Linux</a></li>
+  <li><a href="/categories/picture">美丽图片</a></li>
+  <li><a href="/categories/twitter-backup">Tweets</a></li>
+  <li><a href="/blog/archives">全部日志</a></li>
+  <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">关于FreeBSD系统安装和升级的几个技巧</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-12-28T06:45:53+08:00" pubdate data-updated="true">2008-12-28 06:45</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><img src="http://www.freebsd.org/logo/logo-full.png" alt="" /></p>
+
+<p>青蛙今天又开始在VMWare上继续倒腾FreeBSD，话说上次给FreeBSD划分的虚拟硬盘太小了，csup了一下系统和ports就把分区吃光光了。所以今天青蛙从头又装了一遍FreeBSD，在安装和升级的过程中遇到了不少问题，在这里统一做一个记录。</p>
+
+<p>首先，是青蛙又把root密码搞丢了。这已经是第N次刚刚装上系统就要恢复密码了。不过今天的原因是这样的，青蛙在安装的时候不小心修改了系统的keymap设置，结果按照正常键盘顺序输入的字符，变成了不知道是什么符号。当青蛙发现这个问题并改过来keymap之后，root密码就一直错误了。没办法，上网google一下。流程如下[1]：</p>
+
+<blockquote><p>第一步，启动到freebsd的single user模式，也就是出现freebsd的启动菜单的时候按4；等着系统启动，最后会提示指定shell的位置或者按回车继续，这里直接按回车就ok。
+<img src="http://gfrog.net/wp-content/uploads/2008/12/windowslivewriterfreebsdtipsaboutfreebsdinstallationandup-b1ffreebsd-boot-3.jpg" alt="freebsd-boot" />
+第二步，在shell里执行如下命令：</p>
+
+<h1>fsck -p</h1>
+
+<h1>mount -u /</h1>
+
+<h1>mount -t ufs -a</h1>
+
+<p>第三步，用passwd修改root密码。</p></blockquote>
+
+<p>青蛙在这啰嗦一句：现在想想当时的错误操作就是在设置终端那步，青蛙打开keymap的设置对话框看了一眼，估计那个时候就直接选择了第一个键盘类型，然后就那么错了。对比各种Linux的安装过程，keymap的设置有一个默认不做任何改变的选项，青蛙在FreeBSD里面就没有找到，看来FreeBSD在这种细节上还需要继续努力。</p>
+
+<p>由于FreeBSD的默认shell是csh，所以青蛙用起来十分的不顺手，上网google到几个贴心小设置，让csh用起来更加方便[2]：</p>
+
+<blockquote><p>alias ls    ls -w      #让csh可以正常显示汉字 
+alias ls    ls -G       #按照文件类型高亮显示</p></blockquote>
+
+<p>set autolist      #按tab键时自动补全，如果有多个符合就显示列表。
+set nobeep      #关闭终端响铃
+set prompt=&ldquo;<code>/bin/hostname -s</code>:%~# &#8220;      #在命令提示符中显示当前目录。</p>
+
+<p>青蛙上次搞FreeBSD已经是很久以前的事了，记得那时候好像FreeBSD 5-CURRENT刚刚出来，再后来青蛙就一头扎进Debian的世界去了。所以FreeBSD的新东西青蛙几乎都没有见过，例如，更新ports。记得当年的做法应该是先从sysinstall里面装一个ports，然后在这个ports中装一个cvsup-without-gui（似乎是叫这个名字吧），接着编辑port-supfile文件，再然后才是用cvsup重新更新ports。现在看起来，这套程序简直麻烦到家，对于新人来说十分的不友好。不过，这些东东都是历史了，从FreeBSD的handbook看，更新ports已经简单了很多了。</p>
+
+<p>说一个青蛙认为最简单的吧，portsnap方式[3]。说这种方式简单，到底有多简单？ 总共分三步：</p>
+
+<blockquote><p>先下载一个ports包：</p>
+
+<h1>portsnap fetch</h1>
+
+<p>然后解压到/usr/ports里面：</p>
+
+<h1>portsnap extract</h1>
+
+<p>以后需要更新的时候，直接执行：</p>
+
+<h1>portsnap update</h1></blockquote>
+
+<p>就这么简单，比cvsup还有稍后引入的csup方式简单的多。 ：） 当然portsnap自身也还有几个参数，青蛙觉得最常用的应该就是-s参数了，这个参数用来指定更新时使用的更新服务器，默认是portsnap.FreeBSD.org。国内有一系列portsnap的镜像可用，速度还是很快的，例如hssh.org的镜像：</p>
+
+<blockquote><p>portsnap.hshh.org
+portsnap2.hshh.org
+portsnap3.hshh.org (网通)
+portsnap4.hshh.org</p></blockquote>
+
+<p>今天先写到这里，未完待续&hellip;</p>
+
+<p>参考资料：</p>
+
+<p>[1]：FreeBSD恢复root密码
+      <a href="http://www.zhaocs.info/linux-technic-26.html">http://www.zhaocs.info/linux-technic-26.html</a>
+[2]：csh一些简单舒服的设置
+      <a href="http://www.linuxsir.org/bbs/showthread.php?s=&amp;threadid=112343">http://www.linuxsir.org/bbs/showthread.php?s=&amp;threadid=112343</a>
+[3]：4.5.1 获得Ports Collect
+      <a href="http://www.freebsd.org/doc/zh_CN.GB2312/books/handbook/ports-using.html">http://www.freebsd.org/doc/zh_CN.GB2312/books/handbook/ports-using.html</a></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">gfrog</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2008-12-28T06:45:53+08:00" pubdate data-updated="true">2008-12-28 06:45</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/freebsd/'>FreeBSD</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://gfrog.net/2008/12/tips-about-freebsd-installation-and-upgrade/" data-via="gfrog" data-counturl="http://gfrog.net/2008/12/tips-about-freebsd-installation-and-upgrade/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2008/12/announce-this-blog-has-paid-for-next-year/" title="Previous Post: 公告：此空间续费完毕">&laquo; 公告：此空间续费完毕</a>
+      
+      
+        <a class="basic-alignment right" href="/2009/01/happy-new-year-2009/" title="Next Post: 2009新年快乐">2009新年快乐 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/07/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/06/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/zhouqt">@zhouqt</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhouqt',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108736461751011849061?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - gfrog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'gfrog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://gfrog.net/2008/12/tips-about-freebsd-installation-and-upgrade/';
+        var disqus_url = 'http://gfrog.net/2008/12/tips-about-freebsd-installation-and-upgrade/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

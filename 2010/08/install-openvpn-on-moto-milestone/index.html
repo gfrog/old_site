@@ -1,0 +1,325 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>在Milestone上安装openvpn - My Life, My Love!</title>
+  <meta name="author" content="gfrog">
+
+  
+  <meta name="description" content="青蛙注：恨死ScribeFire，青蛙这篇日志写了一上午，结果马上要写完了，浏览器崩溃。杯具就是这么产生的。 重写的话，就不啰嗦了，直接写主要的。 青蛙目前使用的是机锋fancies大大制作的PLUS9 FINAL系统，可能其他的系统会有所区别，安装的时候需要注意。 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://gfrog.net/2010/08/install-openvpn-on-moto-milestone">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="My Life, My Love!" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">My Life, My Love!</a></h1>
+  
+    <h2>指点江山 激昂文字 修身隆德 自然自我</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:gfrog.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">首页</a></li>
+  <li><a href="/categories/gfrog-ride">骑行笔记</a></li>
+  <li><a href="/categories/linux">Linux</a></li>
+  <li><a href="/categories/picture">美丽图片</a></li>
+  <li><a href="/categories/twitter-backup">Tweets</a></li>
+  <li><a href="/blog/archives">全部日志</a></li>
+  <li><a href="http://about.me/gfrog">关于我</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">在Milestone上安装openvpn</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-08-18T19:20:04+08:00" pubdate data-updated="true">2010-08-18 19:20</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>青蛙注：恨死ScribeFire，青蛙这篇日志写了一上午，结果马上要写完了，浏览器崩溃。杯具就是这么产生的。</p>
+
+<p>重写的话，就不啰嗦了，直接写主要的。</p>
+
+<p>青蛙目前使用的是机锋<a href="http://bbs.gfan.com/space-uid-41092.html">fancies</a>大大制作的PLUS9 FINAL系统，可能其他的系统会有所区别，安装的时候需要注意。假设milestone已经获得了root，已经安装好了busybox，并且系统里已经带有tun.ko。</p>
+
+<p>首先，要<a href="http://github.com/downloads/fries/android-external-openvpn/openvpn-static-2.1.1.bz2">下载一个openvpn</a>，解压并上传到手机上，青蛙偏好使用adb push，这样不需要来回切换存储卡，插上usb就可以用。
+<code>sudo adb push openvpn-static-2.1.1 /sdcard/openvpn</code>
+使用<code>sudo adb shell</code>命令连到手机的shell，注意以下命令都需要root权限。
+因为/system 是只读的，需要先挂载成可写的模式：
+<code># mount -o remount,rw -t yaffs2 /dev/block/mtdblock6 /system</code>
+把openvpn复制到/system/bin里面：
+<code># cp -f /sdcard/openvpn /system/bin</code>
+然后把/system重新挂载为只读模式：
+<code># mount -o remount,ro -t yaffs2 /dev/block/mtdblock6 /system</code></p>
+
+<p>打开Market，搜索openvpn，安装openvpn settings，然后打开openvpn settings，按菜单键选择Advanced：
+选中Load tun kernel module，Path to configuations设置为/sdcard/openvpn，Path to openvpn binary设置为/system/bin/openvpn。
+<a href="http://gfrog.net/pic/android/openvpn-settings-1.jpg"><img src="http://gfrog.net/pic/android/image/openvpn-settings-1.jpg" alt="openvpn-settings-1" /></a>
+然后点击TUN module settings，
+Load module using选择insmod，path to tun module填入/system/lib/modules/tun.ko
+<a href="http://gfrog.net/pic/android/openvpn-settings-2.jpg"><img src="http://gfrog.net/pic/android/image/openvpn-settings-2.jpg" alt="openvpn-settings-2" /></a>
+为了防止DNS欺骗，还需要Fix DNS，点击Fix DNS，会把dns服务器设置为8.8.8.8。
+<a href="http://gfrog.net/pic/android/openvpn-settings-3.jpg"><img src="http://gfrog.net/pic/android/image/openvpn-settings-3.jpg" alt="openvpn-settings-3" /></a></p>
+
+<p>完成以上设置之后，把openvpn的配置文件、证书等复制到/sdcard/openvpn目录下，再打开Openvpn Settings，就可以连接vpn了。</p>
+
+<p><strong>PS1.</strong> 青蛙开始的时候是用Market里面的Openvpn Installer安装openvpn的，但是装完之后可以建立vpn连接，但是无法设置tun设备，log里会出现这样的错误日志：
+<code>Options Error: Unrecognized option or mising parameter(s) in [PUSH-OPTIONS]:1: route (2.1.1)
+Options Error: Unrecognized option or mising parameter(s) in [PUSH-OPTIONS]:1: ifconfig (2.1.1)</code>
+解决方法也很简单，按照上面描述的方法，下载一个openvpn程序装上就行了[1]。</p>
+
+<p><strong>PS2.</strong> 网上有些教程[2]使用的是TunnelDroid，青蛙感觉这个东东跟Openvpn Settings基本功能都一样，只不过TunnelDroid可以更方便的查看Log，
+这两个程序按照自己的喜好安装就是了。</p>
+
+<p>参考文档：</p>
+
+<ol>
+<li><p> Issue 26: Unrecognized Command or missing parameter <a href="http://code.google.com/p/android-openvpn-settings/issues/detail?id=26">http://code.google.com/p/android-openvpn-settings/issues/detail?id=26</a></p></li>
+<li><p> android手机moto Milestone 配置OpenVPN方法 <a href="http://www.yisiyisi.net/archives/137.html">http://www.yisiyisi.net/archives/137.html</a></p></li>
+</ol>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">gfrog</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2010-08-18T19:20:04+08:00" pubdate data-updated="true">2010-08-18 19:20</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/android/'>Android</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://gfrog.net/2010/08/install-openvpn-on-moto-milestone/" data-via="gfrog" data-counturl="http://gfrog.net/2010/08/install-openvpn-on-moto-milestone/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2010/08/todays-tweets-2010-08-18/" title="Previous Post: Today's tweets 2010-08-18">&laquo; Today's tweets 2010-08-18</a>
+      
+      
+        <a class="basic-alignment right" href="/2010/08/todays-tweets-2010-08-19/" title="Next Post: Today's tweets 2010-08-19">Today's tweets 2010-08-19 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/01/2013-summary-and-2014-outlook/">2013年终总结及2014年新年目标</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-b/">青岛两日游（中）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/09/tour-of-qingdao-a/">青岛两日游（上）</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/07/outing-jiming-dak-in-hebei/">探访鸡鸣驿</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2013/06/pic-of-dsic/">一张流：大连造船厂</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/zhouqt">@zhouqt</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'zhouqt',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108736461751011849061?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - gfrog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'gfrog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://gfrog.net/2010/08/install-openvpn-on-moto-milestone/';
+        var disqus_url = 'http://gfrog.net/2010/08/install-openvpn-on-moto-milestone/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
